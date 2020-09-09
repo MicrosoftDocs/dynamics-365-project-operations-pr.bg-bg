@@ -1,0 +1,1 @@
+<span data-ttu-id="57742-101">Прилага се за приложение Project Service с версия 3.x</span><span class="sxs-lookup"><span data-stu-id="57742-101">Applies to Project Service app version 3.x</span></span>

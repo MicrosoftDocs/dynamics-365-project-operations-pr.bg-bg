@@ -1,0 +1,1 @@
+<span data-ttu-id="82d8c-101">Добавка Dynamics 365 Project Service Automation за Microsoft Project</span><span class="sxs-lookup"><span data-stu-id="82d8c-101">Dynamics 365 Project Service Automation Add-in for Microsoft Project</span></span>

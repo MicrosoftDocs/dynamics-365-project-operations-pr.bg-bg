@@ -1,0 +1,1 @@
+<span data-ttu-id="7e7b8-101">OneDrive за бизнеса</span><span class="sxs-lookup"><span data-stu-id="7e7b8-101">OneDrive for Business</span></span>
