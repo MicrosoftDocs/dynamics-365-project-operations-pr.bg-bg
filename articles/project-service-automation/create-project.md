@@ -1,0 +1,47 @@
+---
+title: Създаване на проект
+description: Как се създава проект в Project Service
+author: ruhercul
+manager: kfend
+ms.service: dynamics-365-customerservice
+ms.custom:
+- dyn365-projectservice
+ms.date: 8/03/2018
+ms.topic: article
+ms.prod: ''
+ms.technology: ''
+ms.assetid: 92794256-554d-4de7-8315-5250dfa11136
+ms.author: ruhercul
+audience: Admin
+search.audienceType:
+- admin
+- customizer
+- enduser
+search.app:
+- D365CE
+- D365PS
+ms.openlocfilehash: e21f388e4f83b4349a9276fbc8f034913839c0a8
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3749346"
+---
+# <a name="create-a-project-project-service"></a><span data-ttu-id="e5233-103">Създаване на проект (Project Service)</span><span class="sxs-lookup"><span data-stu-id="e5233-103">Create a project (Project Service)</span></span>
+
+[!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
+
+<span data-ttu-id="e5233-104">Създайте проект с помощта на използвайки възможностите на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]в [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)], когато искате да създадете възможност, оферта или договор за базирани на проект услуги.</span><span class="sxs-lookup"><span data-stu-id="e5233-104">Create a project using the [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] when you want to create an opportunity, quote, or contract for project-based services.</span></span> <span data-ttu-id="e5233-105">Възможностите на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] ви помагат да управлявате своя проект от възможност до неговото приключване.</span><span class="sxs-lookup"><span data-stu-id="e5233-105">The [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities help you manage your project from opportunity through completion.</span></span> <span data-ttu-id="e5233-106">Когато създавате проект, вие също създавате съставна структура на работата, която оказва влияние върху вашите оферти, оценки на разходите и управление на ресурсите.</span><span class="sxs-lookup"><span data-stu-id="e5233-106">When you create a project, you’ll also create a work breakdown structure, which affects your quotes, cost estimates, and resource management.</span></span>  
+  
+1.  <span data-ttu-id="e5233-107">Отидете на **Project Service > Проекти**.</span><span class="sxs-lookup"><span data-stu-id="e5233-107">Go to **Project Service > Projects**.</span></span>  
+  
+2.  <span data-ttu-id="e5233-108">Щракнете върху **Нов проект**.</span><span class="sxs-lookup"><span data-stu-id="e5233-108">Click **New Project**.</span></span>  
+  
+3.  <span data-ttu-id="e5233-109">В областта **Резюме** въведете име за своя проект и след това попълнете колкото можете повече детайли.</span><span class="sxs-lookup"><span data-stu-id="e5233-109">In the **Summary** area, enter a name for your project, and then fill in as many of the details as you can.</span></span> <span data-ttu-id="e5233-110">Елементите, отбелязани с червена звездичка (\*) са задължителни.</span><span class="sxs-lookup"><span data-stu-id="e5233-110">Items marked with a red asterisk (\*) are required.</span></span>  
+  
+4.  <span data-ttu-id="e5233-111">Щракнете върху **Запиши**, за да създадете своя проект, така че да можете да продължите да го редактирате.</span><span class="sxs-lookup"><span data-stu-id="e5233-111">Click **Save** to create your project so you can continue editing it.</span></span>  
+  
+<span data-ttu-id="e5233-112">След това ще създадете съставна структура на работата за своя проект, за да определите задачите, времето и ролите на ресурсите, необходими за проекта.</span><span class="sxs-lookup"><span data-stu-id="e5233-112">Next, you’ll create a work breakdown structure for your project to define the tasks, timing, and resource roles needed for the project.</span></span>  
+  
+### <a name="see-also"></a><span data-ttu-id="e5233-113">Вижте също</span><span class="sxs-lookup"><span data-stu-id="e5233-113">See Also</span></span>  
+ [<span data-ttu-id="e5233-114">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="e5233-114">Project Manager Guide</span></span>](../project-service/project-manager-guide.md)
