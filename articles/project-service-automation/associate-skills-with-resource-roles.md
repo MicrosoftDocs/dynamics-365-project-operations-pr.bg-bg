@@ -1,0 +1,49 @@
+---
+title: Свързване на умения с роли на ресурси
+description: Как се свързват умения с роли на ресурси в Project Service
+author: JohnPBurrows
+manager: kfend
+ms.service: dynamics-365-customerservice
+ms.custom:
+- dyn365-projectservice
+ms.date: 8/03/2018
+ms.topic: article
+ms.prod: ''
+ms.technology: ''
+ms.assetid: 294cc6b5-daa0-4eb9-a9fa-d24a88fd7f18
+ms.author: jburrows
+audience: Admin
+search.audienceType:
+- admin
+- customizer
+- enduser
+search.app:
+- D365CE
+- D365PS
+ms.openlocfilehash: a33b34bdccd3263219eebbc5f4651dc4fa9e0932
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3749231"
+---
+# <a name="associate-skills-with-resource-roles-project-service"></a>Свързване на умения с роли на ресурси (Project Service)
+
+[!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
+
+Докато сте добавяли роли на ресурси, вероятно вече сте свързали някои умения към тях. От време на време може да се наложи да добавите допълнителни умения към роля на ресурс.  
+  
+1.  Отидете на **Project Service > Роли на ресурси**.  
+  
+2.  Щракнете върху ролята на ресурса, към която искате да добавите умения.  
+  
+3.  В областта **Умения** щракнете върху **+**, за да добавите умение.  
+  
+4.  В екрана „Изискване за професионална подготовка за ролята“ щракнете в полето **Умение**, щракнете върху бутона **Търсене** и след това изберете умение.  
+  
+5.  Изберете професионална подготовка за това умение и след това щракнете върху **Запиши**.  
+  
+6.  Продължете да добавяте умения, докато е необходимо. Когато сте готови, щракнете върху **Запиши** в долния десен ъгъл на екрана.  
+  
+### <a name="see-also"></a>Вижте също  
+ [Задаване на ресурси](../project-service/set-up-resources.md)
