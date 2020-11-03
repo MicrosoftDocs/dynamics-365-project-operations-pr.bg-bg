@@ -8,14 +8,16 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ffb89a954b8af9d726c64cceeafca638c3393130
-ms.sourcegitcommit: fd8ea1779db2bb39a428f459ae3293c4fd785572
+ms.openlocfilehash: ea7f0a8207fc78914783f5b9c919b3243a0bb5a4
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "3965725"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071696"
 ---
 # <a name="manage-multiple-customers-on-project-based-quote-lines"></a>Управление на множество клиенти в базирани на проект редове на оферта
+
+_**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
 Базираните на проекти котировъчни редове поддържат сценарии, при които всяка реплика на оферти има списък с клиенти, които плащат за нея. Този списък с клиенти на проектната линия за оферти може да бъде същият като списъка с клиенти в офертата. Можете също така да промените списъка с клиенти, за да бъде различен. За да се създаде евентуален договор за проект при спечелване на оферта за проект, списъкът с клиенти в линия за оферти, базирана на проект, се копира в съответния ред за договор, базиран на проект. Клиентите на офертата, базирана на проекта, се копират в договора за проект.
 

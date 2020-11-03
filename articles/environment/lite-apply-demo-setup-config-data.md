@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 42e02f393e89d20b2a462645f519a3792bee8f2f
-ms.sourcegitcommit: b9d8bf00239815f31686e9b28998ac684fd2fca4
+ms.openlocfilehash: 33b85115963f3561718b8951e5b518fd34de7723
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3948747"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071685"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Приложете демонстрационни данни за настройка и конфигурация за внедряване на Project Operations lite - сключете сделка за проформа фактуриране
 
@@ -25,7 +25,7 @@ _**Леко внедряване – фактуриране на сделка к
 
 ![Мигриране на конфигурация](./media/1ConfigurationMigration.png)
 
-4. На страница 2 от съветника за CMT изберете **Office 365** като **Тип на внедряване**.
+4. На страница 2 от съветника за CMT изберете **Microsoft 365** като **Тип на внедряване**.
 5. Изберете квадратчета за отметка **Показване на списък с наличните организации** и **Показване на напреднали**.
 6. Изберете региона на вашия наемател, въведете вашите идентификационни данни и след това изберете **Вход**.
 

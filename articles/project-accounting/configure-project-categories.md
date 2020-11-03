@@ -9,11 +9,11 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
 ms.openlocfilehash: 84033182ce047d230724409eef9bc6afcaefd2b4
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3895953"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071716"
 ---
 # <a name="configure-project-categories"></a>Конфигуриране на категории на проект
 
@@ -32,7 +32,7 @@ Project Operations предлага надеждни възможности за
 Категориите на транзакциите представляват основното групиране за транзакции по проект и не са специфични за компанията или типа транзакция. Например Contoso Robotics използва категории за проектиране, пътуване, инсталиране и обслужване на транзакции, за да групира транзакции по проект.
 
 Категориите на транзакциите са дефинирани в модула Project Operations. 
-1. Отидете на **Настройки** \> **Категории на трансакция**, за да отворите формуляра. 
+1. Отидете на **Настройки** \> **Категории на трансакция** , за да отворите формуляра. 
 2. Създайте нова категория транзакции, като изберете **Създаване** или като изберете **Импортиране от Excel**.
 
 ## <a name="shared-categories"></a>Споделени категории

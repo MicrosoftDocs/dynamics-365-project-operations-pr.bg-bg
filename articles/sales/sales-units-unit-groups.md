@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ea5399368214a293ca7c10fabf21d82407b5c76f
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 345a4f38ad0bc5acddb90cfd8cb3e92154e46513
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898743"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071943"
 ---
 # <a name="units-and-unit-groups"></a>Единици и опаковъчни единици
 
@@ -46,4 +45,4 @@ _**Отнася се за:** Проектни операции за сценар
 2. Изберете **Добавяне на нова единица** и на страницата **Бързо създаване: единица** в полето **Име** въведете nanem на единицата.
 3. В полето **Количество** въведете количеството, което ще съдържа единицата. Ако например едно поле съдържа два броя, въведете „2“. 
 4. В полето **Базова единица** изберете базова единица, за да установите най-ниската мерна единица за единицата. Например, можете да изберете „Парче“.
-5. Изберете **Записване**:
+5. Изберете **Записване** :
