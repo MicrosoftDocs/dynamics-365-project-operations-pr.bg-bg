@@ -8,71 +8,74 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ffcfa8a9c8e31c5665acd3c3919fa90d36a3f3ca
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: e875d1765b5038e60830d626abb5bcd61749ece1
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3896718"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071705"
 ---
-# <a name="security-model"></a>Модел на защита
+# <a name="security-model"></a><span data-ttu-id="871bb-103">Модел на защита</span><span class="sxs-lookup"><span data-stu-id="871bb-103">Security Model</span></span>
 
-_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
+<span data-ttu-id="871bb-104">_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_</span><span class="sxs-lookup"><span data-stu-id="871bb-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Microsoft Dynamics 365 Project Operations съдържа уникален модел на защита, който позволява базиран на роля модел на бизнес сигурност, с който си сътрудничи с Групи на Microsoft Office. 
+<span data-ttu-id="871bb-105">Microsoft Dynamics 365 Project Operations съдържа уникален модел на защита, който позволява базиран на роля модел на бизнес сигурност, с който си сътрудничи с Групи на Microsoft Office.</span><span class="sxs-lookup"><span data-stu-id="871bb-105">Microsoft Dynamics 365 Project Operations contains a unique security model that allows for a role-based business security model that collaborates with Microsoft Office Groups.</span></span> 
 
 
-## <a name="security-roles"></a>Права за достъп
-Възможностите за предни операции на Project Operations включват следните роли:
+## <a name="security-roles"></a><span data-ttu-id="871bb-106">Права за достъп</span><span class="sxs-lookup"><span data-stu-id="871bb-106">Security roles</span></span>
+<span data-ttu-id="871bb-107">Възможностите за предни операции на Project Operations включват следните роли:</span><span class="sxs-lookup"><span data-stu-id="871bb-107">Project Operations front-end capabilities include the following roles:</span></span>
 
-| Роля                          | Описание                                                                                                                                                                 | Scope |
+| <span data-ttu-id="871bb-108">Роля</span><span class="sxs-lookup"><span data-stu-id="871bb-108">Role</span></span>                          | <span data-ttu-id="871bb-109">Описание</span><span class="sxs-lookup"><span data-stu-id="871bb-109">Description</span></span>                                                                                                                                                                 | <span data-ttu-id="871bb-110">Scope</span><span class="sxs-lookup"><span data-stu-id="871bb-110">Scope</span></span> |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| Оперативен мениджър              | Поддържа междупроектно отчитане.                                                                                                            | Бизнес единица              |
-| Одобряващ на проект              | Одобрява време и разходи срещу проект.                                                                                                                              | Бизнес единица |
-| Администратор на фактуриране по проект | Създава предложението за фактура.                                                                                                                                                 | Бизнес единица |
-| Мениджър на проект               | Създава плана на проекта и изисква ресурси.                                                                                                                              | Бизнес единица |
-| Ресурс на проект              | Членове на екипа, които могат да бъдат резервирани и да докладват времето.                                                                                                          | Бизнес единица|
-| Мениджър на ресурси              | Всички функции за управление на ресурси, като например изпълнение на заявки за ресурси и резервации, отделени, за да поддържат хибриден мениджър на проекти + конфигурация на мениджър на ресурси и една-единствена и централизирана роля на мениджър на ресурси. | Бизнес единица |
+| <span data-ttu-id="871bb-111">Оперативен мениджър</span><span class="sxs-lookup"><span data-stu-id="871bb-111">Practice manager</span></span>              | <span data-ttu-id="871bb-112">Поддържа междупроектно отчитане.</span><span class="sxs-lookup"><span data-stu-id="871bb-112">Supports cross-project reporting.</span></span>                                                                                                            | <span data-ttu-id="871bb-113">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-113">Business unit</span></span>              |
+| <span data-ttu-id="871bb-114">Одобряващ на проект</span><span class="sxs-lookup"><span data-stu-id="871bb-114">Project approver</span></span>              | <span data-ttu-id="871bb-115">Одобрява време и разходи срещу проект.</span><span class="sxs-lookup"><span data-stu-id="871bb-115">Approves time and expenses against a project.</span></span>                                                                                                                              | <span data-ttu-id="871bb-116">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-116">Business unit</span></span> |
+| <span data-ttu-id="871bb-117">Администратор на фактуриране по проект</span><span class="sxs-lookup"><span data-stu-id="871bb-117">Project billing administrator</span></span> | <span data-ttu-id="871bb-118">Създава предложението за фактура.</span><span class="sxs-lookup"><span data-stu-id="871bb-118">Creates the invoice proposal.</span></span>                                                                                                                                                 | <span data-ttu-id="871bb-119">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-119">Business unit</span></span> |
+| <span data-ttu-id="871bb-120">Мениджър на проект</span><span class="sxs-lookup"><span data-stu-id="871bb-120">Project manager</span></span>               | <span data-ttu-id="871bb-121">Създава плана на проекта и изисква ресурси.</span><span class="sxs-lookup"><span data-stu-id="871bb-121">Creates the project plan and requests resources.</span></span>                                                                                                                              | <span data-ttu-id="871bb-122">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-122">Business unit</span></span> |
+| <span data-ttu-id="871bb-123">Ресурс на проект</span><span class="sxs-lookup"><span data-stu-id="871bb-123">Project resource</span></span>              | <span data-ttu-id="871bb-124">Членове на екипа, които могат да бъдат резервирани и да докладват времето.</span><span class="sxs-lookup"><span data-stu-id="871bb-124">Team members who can be booked and report time.</span></span>                                                                                                          | <span data-ttu-id="871bb-125">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-125">Business unit</span></span>|
+| <span data-ttu-id="871bb-126">Мениджър на ресурси</span><span class="sxs-lookup"><span data-stu-id="871bb-126">Resource manager</span></span>              | <span data-ttu-id="871bb-127">Всички функции за управление на ресурси, като например изпълнение на заявки за ресурси и резервации, отделени, за да поддържат хибриден мениджър на проекти + конфигурация на мениджър на ресурси и една-единствена и централизирана роля на мениджър на ресурси.</span><span class="sxs-lookup"><span data-stu-id="871bb-127">All resource management functions, such as fulfill resource requests and bookings, separated to support a hybrid Project manager + Resource manager configuration and a single and centralized Resource manager role.</span></span> | <span data-ttu-id="871bb-128">Бизнес единица</span><span class="sxs-lookup"><span data-stu-id="871bb-128">Business unit</span></span> |
 
 
-Microsoft Project за мрежата включва следните роли:
-| Роля                          | Описание                                                                                                          | Scope |                                                       
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Потребител на проекта | Съвместен потребител на Project, който може да създава свои собствени проекти и да преглежда всички споделени с тях проекти.| Поотребител|
-| Система за проекти | Роля, използвана за контекста на приложението. Клиентите не трябва да използват тази системна роля. | Глобално|
+<span data-ttu-id="871bb-129">Microsoft Project за мрежата включва следните роли:</span><span class="sxs-lookup"><span data-stu-id="871bb-129">Microsoft Project for the Web includes the following roles:</span></span>
 
-## <a name="security-enforcement"></a>Принудително изпълнение
-Действия, които се изпълняват на ниво проект, се извършват в контекста на влезлия потребител. Това означава, че за да създаде, отвори или изтрие проект, потребителят трябва да има достъп в CDS. Достъпът в CDS може да бъде предоставен чрез всеки от възможните механизми, включени в платформата. Например потребител с по-голям обхват може да осъществи достъп до проекта или ако е извършено изрично действие за споделяне на проект, което предоставя на потребителя достъп.
+| <span data-ttu-id="871bb-130">Роля</span><span class="sxs-lookup"><span data-stu-id="871bb-130">Role</span></span>           | <span data-ttu-id="871bb-131">Описание</span><span class="sxs-lookup"><span data-stu-id="871bb-131">Description</span></span>                                                                                                        | <span data-ttu-id="871bb-132">Scope</span><span class="sxs-lookup"><span data-stu-id="871bb-132">Scope</span></span>  |
+|----------------|--------------------------------------------------------------------------------------------------------------------|--------|
+| <span data-ttu-id="871bb-133">Потребител на проекта</span><span class="sxs-lookup"><span data-stu-id="871bb-133">Project user</span></span>   | <span data-ttu-id="871bb-134">Съвместен потребител на Project, който може да създава свои собствени проекти и да преглежда всички споделени с тях проекти.</span><span class="sxs-lookup"><span data-stu-id="871bb-134">Collaborative user of Project   who is able to create their own projects and view any projects shared with   them.</span></span> | <span data-ttu-id="871bb-135">Поотребител</span><span class="sxs-lookup"><span data-stu-id="871bb-135">User</span></span>   |
+| <span data-ttu-id="871bb-136">Система за проекти</span><span class="sxs-lookup"><span data-stu-id="871bb-136">Project system</span></span> | <span data-ttu-id="871bb-137">Роля, използвана за контекста на приложението.</span><span class="sxs-lookup"><span data-stu-id="871bb-137">Role used for application   context.</span></span> <span data-ttu-id="871bb-138">Клиентите не трябва да използват тази системна роля.</span><span class="sxs-lookup"><span data-stu-id="871bb-138">Customers should not use this system role.</span></span>                                    | <span data-ttu-id="871bb-139">Глобално</span><span class="sxs-lookup"><span data-stu-id="871bb-139">Global</span></span> |
 
-Важно е да се вземе предвид това при създаването на проекти в Project Operations.
+## <a name="security-enforcement"></a><span data-ttu-id="871bb-140">Принудително изпълнение</span><span class="sxs-lookup"><span data-stu-id="871bb-140">Security enforcement</span></span>
+<span data-ttu-id="871bb-141">Действия, които се изпълняват на ниво проект, се извършват в контекста на влезлия потребител.</span><span class="sxs-lookup"><span data-stu-id="871bb-141">Actions that are performed at the project level are performed in the context of the logged in user.</span></span> <span data-ttu-id="871bb-142">Това означава, че за да създаде, отвори или изтрие проект, потребителят трябва да има достъп в CDS.</span><span class="sxs-lookup"><span data-stu-id="871bb-142">This means that in order to create, open, or delete a project, the user is required to have access available in CDS.</span></span> <span data-ttu-id="871bb-143">Достъпът в CDS може да бъде предоставен чрез всеки от възможните механизми, включени в платформата.</span><span class="sxs-lookup"><span data-stu-id="871bb-143">Access in CDS may be granted through any of the possible mechanisms included in the platform.</span></span> <span data-ttu-id="871bb-144">Например потребител с по-голям обхват може да осъществи достъп до проекта или ако е извършено изрично действие за споделяне на проект, което предоставя на потребителя достъп.</span><span class="sxs-lookup"><span data-stu-id="871bb-144">For example, a user with a larger scope may access the project or if an explicit project share action has been performed which grants the user access.</span></span>
 
-## <a name="modern-group-collaboration-with-project-operations"></a>Модерно групово сътрудничество с Project Operations
-Project for the Web и Project Operations поддържат съвременни групи за сътрудничество. Потребителите, добавени към проекта чрез група, могат да редактират плана на проекта.
+<span data-ttu-id="871bb-145">Важно е да се вземе предвид това при създаването на проекти в Project Operations.</span><span class="sxs-lookup"><span data-stu-id="871bb-145">It's important to consider this when creating projects in Project Operations.</span></span>
 
-Project for the Web автоматично добавя потребители към групата при задаване.
+## <a name="modern-group-collaboration-with-project-operations"></a><span data-ttu-id="871bb-146">Модерно групово сътрудничество с Project Operations</span><span class="sxs-lookup"><span data-stu-id="871bb-146">Modern group collaboration with Project Operations</span></span>
+<span data-ttu-id="871bb-147">Project for the Web и Project Operations поддържат съвременни групи за сътрудничество.</span><span class="sxs-lookup"><span data-stu-id="871bb-147">Project for the Web and Project Operations support modern groups for collaboration.</span></span> <span data-ttu-id="871bb-148">Потребителите, добавени към проекта чрез група, могат да редактират плана на проекта.</span><span class="sxs-lookup"><span data-stu-id="871bb-148">Users added to the project through a group are able to edit the project plan.</span></span>
 
-Групите позволяват съвместно да се работи над разрешенията на проекта и подкрепящите артефакти за сътрудничество. Следващата диаграма изобразява събитията и промените в състоянието, които се случват по време на процеса на групово задаване.
+<span data-ttu-id="871bb-149">Project for the Web автоматично добавя потребители към групата при задаване.</span><span class="sxs-lookup"><span data-stu-id="871bb-149">Project for the Web adds users to the group automatically upon assignment.</span></span>
 
-Project Operations не създава група чрез имплицитно действие и го прави само чрез изричното действие на натискащи групи.
+<span data-ttu-id="871bb-150">Групите позволяват съвместно да се работи над разрешенията на проекта и подкрепящите артефакти за сътрудничество.</span><span class="sxs-lookup"><span data-stu-id="871bb-150">Groups allow the permissions of the project and supporting collaboration artifacts to be worked on collaboratively.</span></span> <span data-ttu-id="871bb-151">Следващата диаграма изобразява събитията и промените в състоянието, които се случват по време на процеса на групово задаване.</span><span class="sxs-lookup"><span data-stu-id="871bb-151">The following diagram depicts the events and state changes that happen during the group assignment process.</span></span>
 
-Търсене на член на група в диалог **Групово управление**, се ограничава до тези, които са зададени като част от групата за сигурност на средата. За допълнителна информация вижте [Управление на потребителския достъп до среди: групи за защита и лицензи](https://docs.microsoft.com/power-platform/admin/control-user-access).
+<span data-ttu-id="871bb-152">Project Operations не създава група чрез имплицитно действие и го прави само чрез изричното действие на натискащи групи.</span><span class="sxs-lookup"><span data-stu-id="871bb-152">Project Operations does not create a group through implicit action and only does so through the explicit action of pressing groups.</span></span>
 
-1. Проектът е създаден и притежаван от създаващия потребител.
-2. Собственикът на проекта е актуализиран за екипа.
-3. Екипът на собственика се съпоставя с посочената или създадена група на Office.
-4. Първоначалният собственик на проекта се добавя към Office Group.
+<span data-ttu-id="871bb-153">Търсене на член на група в диалог **Групово управление** , се ограничава до тези, които са зададени като част от групата за сигурност на средата.</span><span class="sxs-lookup"><span data-stu-id="871bb-153">Group member search in the **Group management** dialog, is limited to those who are set as part of the environment's security group.</span></span> <span data-ttu-id="871bb-154">За допълнителна информация вижте [Управление на потребителския достъп до среди: групи за защита и лицензи](https://docs.microsoft.com/power-platform/admin/control-user-access).</span><span class="sxs-lookup"><span data-stu-id="871bb-154">For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).</span></span>
 
-## <a name="deployment-recommendation"></a>Препоръка за внедряване
-С развитието на модела за съвместна работа на Office ще се добавя функционалност, за да се осигури по-подробен контрол във времето. Клиентите, които внедряват Project Operations днес, се насърчават да се съсредоточат върху традиционния модел за защита на Microsoft Dynamics 365.
+![Групов режим](./media/groupsmode.png)
 
-За повече информация вижте [Защита в Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).
+1. <span data-ttu-id="871bb-156">Проектът е създаден и притежаван от създаващия потребител.</span><span class="sxs-lookup"><span data-stu-id="871bb-156">The Project is created and owned by the creating User.</span></span>
+2. <span data-ttu-id="871bb-157">Собственикът на проекта е актуализиран за екипа.</span><span class="sxs-lookup"><span data-stu-id="871bb-157">The Project owner is updated to the team.</span></span>
+3. <span data-ttu-id="871bb-158">Екипът на собственика се съпоставя с посочената или създадена група на Office.</span><span class="sxs-lookup"><span data-stu-id="871bb-158">The Owner team is mapped to the specified or created Office Group.</span></span>
+4. <span data-ttu-id="871bb-159">Първоначалният собственик на проекта се добавя към Office Group.</span><span class="sxs-lookup"><span data-stu-id="871bb-159">The original owner of the Project is added to the Office Group.</span></span>
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations и защита на Microsoft Dynamics 365 Finance
-Project Operations включва следните роли:
+## <a name="deployment-recommendation"></a><span data-ttu-id="871bb-160">Препоръка за внедряване</span><span class="sxs-lookup"><span data-stu-id="871bb-160">Deployment recommendation</span></span>
+<span data-ttu-id="871bb-161">С развитието на модела за съвместна работа на Office ще се добавя функционалност, за да се осигури по-подробен контрол във времето.</span><span class="sxs-lookup"><span data-stu-id="871bb-161">As the Office group collaboration model evolves, functionality will be added to provide more detailed control over time.</span></span> <span data-ttu-id="871bb-162">Клиентите, които внедряват Project Operations днес, се насърчават да се съсредоточат върху традиционния модел за защита на Microsoft Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="871bb-162">Customers that deploy Project Operations today are encouraged to focus on a traditional Microsoft Dynamics 365 security model.</span></span>
 
-- Мениджър на проект
-- Счетоводител на проект
+<span data-ttu-id="871bb-163">За повече информация вижте [Защита в Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).</span><span class="sxs-lookup"><span data-stu-id="871bb-163">For more information, see [Security in Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).</span></span>
 
-За повече информация относно защитата във Finance вижте [базирана на роля защита](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a><span data-ttu-id="871bb-164">Project Operations и защита на Microsoft Dynamics 365 Finance</span><span class="sxs-lookup"><span data-stu-id="871bb-164">Project Operations and Microsoft Dynamics 365 Finance security</span></span>
+<span data-ttu-id="871bb-165">Project Operations включва следните роли:</span><span class="sxs-lookup"><span data-stu-id="871bb-165">Project Operations includes the following roles:</span></span>
+
+- <span data-ttu-id="871bb-166">Мениджър на проект</span><span class="sxs-lookup"><span data-stu-id="871bb-166">Project manager</span></span>
+- <span data-ttu-id="871bb-167">Счетоводител на проект</span><span class="sxs-lookup"><span data-stu-id="871bb-167">Project accountant</span></span>
+
+<span data-ttu-id="871bb-168">За повече информация относно защитата във Finance вижте [базирана на роля защита](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span><span class="sxs-lookup"><span data-stu-id="871bb-168">For more information about security in Finance, see [Role-based security](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span></span>
 
 

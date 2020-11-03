@@ -9,21 +9,21 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
 ms.openlocfilehash: e2ac26910c55eefd059e3136b7e8821aad411539
-ms.sourcegitcommit: 2cf93d8bf0be5b61a739195a41334c34d910e9ba
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "3961108"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071735"
 ---
-# <a name="time-overview"></a>Общ преглед на време
+# <a name="time-overview"></a><span data-ttu-id="52dd4-103">Общ преглед на време</span><span class="sxs-lookup"><span data-stu-id="52dd4-103">Time overview</span></span>
 
-_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
+<span data-ttu-id="52dd4-104">_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_</span><span class="sxs-lookup"><span data-stu-id="52dd4-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Времеви запис е процес на запис на действителното време, което ресурсът консумира. Времевите записи в Dynamics 365 Project Operations позволяват да се изчисляват разходите и продажните цени в хода на изпълнението на задачите. Тези записи помагат на ръководителя на проекта да следи проектите и задачите. Въвеждането на времето също така уведомява Мениджърите на ресурси за всяка потенциална ваканция или отсъствия, които се появяват на таблото на графика като **Вън**. Тези известия позволяват на мениджърите на ресурси да планират около тези събития.
+<span data-ttu-id="52dd4-105">Времеви запис е процес на запис на действителното време, което ресурсът консумира.</span><span class="sxs-lookup"><span data-stu-id="52dd4-105">Time Entry is the process of recording the actual time that a resource consumes.</span></span> <span data-ttu-id="52dd4-106">Времевите записи в Dynamics 365 Project Operations позволяват да се изчисляват разходите и продажните цени в хода на изпълнението на задачите.</span><span class="sxs-lookup"><span data-stu-id="52dd4-106">Time entries in Dynamics 365 Project Operations allow cost and sales prices to be calculated as tasks progress.</span></span> <span data-ttu-id="52dd4-107">Тези записи помагат на ръководителя на проекта да следи проектите и задачите.</span><span class="sxs-lookup"><span data-stu-id="52dd4-107">These entries help the Project manager keep on top of projects and tasks.</span></span> <span data-ttu-id="52dd4-108">Въвеждането на времето също така уведомява Мениджърите на ресурси за всяка потенциална ваканция или отсъствия, които се появяват на таблото на графика като **Вън**. Тези известия позволяват на мениджърите на ресурси да планират около тези събития.</span><span class="sxs-lookup"><span data-stu-id="52dd4-108">Time entries also notify Resource managers of any potential vacation or absences that appear on the schedule board as **Out**. These notifications allow the Resource managers to plan around those events.</span></span>
 
-Когато записват времето в Project Operations, потребителите могат да проследяват всяко ниво в проекта. Това включва ниво на задача, резюме или проект.
+<span data-ttu-id="52dd4-109">Когато записват времето в Project Operations, потребителите могат да проследяват всяко ниво в проекта.</span><span class="sxs-lookup"><span data-stu-id="52dd4-109">When recording time in Project Operations, users can track against any level in the project.</span></span> <span data-ttu-id="52dd4-110">Това включва ниво на задача, резюме или проект.</span><span class="sxs-lookup"><span data-stu-id="52dd4-110">This includes the task, summary, or project level.</span></span>
 
-Членовете на проектния екип създават и изпращат записи за време за одобрение, а одобряващите проекта одобряват записите. Членът на проектния екип може да си припомни запис на време за корекции.
+<span data-ttu-id="52dd4-111">Членовете на проектния екип създават и изпращат записи за време за одобрение, а одобряващите проекта одобряват записите.</span><span class="sxs-lookup"><span data-stu-id="52dd4-111">Project team members create and submit time entries for approval and the Project Approvers approve the entries.</span></span> <span data-ttu-id="52dd4-112">Членът на проектния екип може да си припомни запис на време за корекции.</span><span class="sxs-lookup"><span data-stu-id="52dd4-112">The project team member might recall a time entry for corrections.</span></span>
 
-За информация как да създадете, изпратите или извикате запис и други инструменти, които да Ви помогнат да завършите отчитането, вижте [Поведение на потребителя за въвеждане на време](ui-behavior-time.md).
+<span data-ttu-id="52dd4-113">За информация как да създадете, изпратите или извикате запис и други инструменти, които да Ви помогнат да завършите отчитането, вижте [Поведение на потребителя за въвеждане на време](ui-behavior-time.md).</span><span class="sxs-lookup"><span data-stu-id="52dd4-113">For information about how to create, submit, or recall an entry, and other tools to help complete your reporting, see [Time entry user behavior](ui-behavior-time.md).</span></span>
 

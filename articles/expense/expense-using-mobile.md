@@ -7,7 +7,6 @@ ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,224 +15,224 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 3185c80c792dfe537f4974fa276eafbd16813131
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 0c1955198e98a3d8499f51c669478cd422b957e6
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897033"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071822"
 ---
-# <a name="expense-using-mobile"></a>Разход с помощта на мобилно устройство
+# <a name="expense-using-mobile"></a><span data-ttu-id="b3ced-103">Разход с помощта на мобилно устройство</span><span class="sxs-lookup"><span data-stu-id="b3ced-103">Expense using mobile</span></span>
 
-_**Отнася се за:** Проектни операции за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
+<span data-ttu-id="b3ced-104">_**Отнася се за:** Проектни операции за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_</span><span class="sxs-lookup"><span data-stu-id="b3ced-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Тази тема предоставя информация за мобилно работно пространство за **Управление на разходи**. Това работно пространство позволява на потребителите да заснемат и качат разписка, за да могат по-късно да я прикачат към отчет за разходите. Потребителите могат също така бързо да създадат разходна линия, като използват приложена разписка, и да създават и управляват своите отчети за разходите. Освен това одобряващите могат да използват мобилно работно пространство **Управление на разходите**, за да видят отчетите за разходите, които са им възложени, или да ги одобрят или отхвърлят.
+<span data-ttu-id="b3ced-105">Тази тема предоставя информация за мобилно работно пространство за **Управление на разходи**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-105">This topic provides information about the **Expense management** mobile workspace.</span></span> <span data-ttu-id="b3ced-106">Това работно пространство позволява на потребителите да заснемат и качат разписка, за да могат по-късно да я прикачат към отчет за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-106">This workspace lets users capture and upload a receipt, so that they can attach it to an expense report later.</span></span> <span data-ttu-id="b3ced-107">Потребителите могат също така бързо да създадат разходна линия, като използват приложена разписка, и да създават и управляват своите отчети за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-107">Users can also quickly create an expense line by using an attached receipt, and create and manage their expense reports.</span></span> <span data-ttu-id="b3ced-108">Освен това одобряващите могат да използват мобилно работно пространство **Управление на разходите** , за да видят отчетите за разходите, които са им възложени, или да ги одобрят или отхвърлят.</span><span class="sxs-lookup"><span data-stu-id="b3ced-108">Additionally, approvers can use the **Expense management** mobile workspace to view expense reports that are assigned to them, and either approve or reject those expense reports.</span></span>
 
-Това мобилно работно пространство е предназначено да се използва с мобилното приложение Dynamics 365 Unified Ops.
+<span data-ttu-id="b3ced-109">Това мобилно работно пространство е предназначено да се използва с мобилното приложение Dynamics 365 Unified Ops.</span><span class="sxs-lookup"><span data-stu-id="b3ced-109">This mobile workspace is intended to be used with the Dynamics 365 Unified Ops mobile app.</span></span>
 
-Много организации изискват копие от касова бележка да бъде прикрепено към отчет за разходите, свързани с пътуване или бизнес, който служителят представя за възстановяване. Мобилното работно пространство **Управление на разходите** позволява на потребителите бързо да създават нови разходни линии на избраното от тях мобилно устройство, като използват приложена снимка на касова бележка. Освен това потребителите могат да заснемат снимка на разписка и след това да я прикачат към отчет за разходите по-късно. Служителите могат също така да създават и управляват своите отчети за разходите, а след това да ги представят за одобрение и възстановяване на разходите, като използват мобилното си устройство.
+<span data-ttu-id="b3ced-110">Много организации изискват копие от касова бележка да бъде прикрепено към отчет за разходите, свързани с пътуване или бизнес, който служителят представя за възстановяване.</span><span class="sxs-lookup"><span data-stu-id="b3ced-110">Many organizations require that a copy of a receipt be attached to a travel-related or business-related expense report that an employee submits for reimbursement.</span></span> <span data-ttu-id="b3ced-111">Мобилното работно пространство **Управление на разходите** позволява на потребителите бързо да създават нови разходни линии на избраното от тях мобилно устройство, като използват приложена снимка на касова бележка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-111">The **Expense management** mobile workspace lets users quickly create new expense lines on the mobile device of their choice by using an attached photo of a receipt.</span></span> <span data-ttu-id="b3ced-112">Освен това потребителите могат да заснемат снимка на разписка и след това да я прикачат към отчет за разходите по-късно.</span><span class="sxs-lookup"><span data-stu-id="b3ced-112">Alternatively, users can capture a photo of a receipt and then attach it to an expense report later.</span></span> <span data-ttu-id="b3ced-113">Служителите могат също така да създават и управляват своите отчети за разходите, а след това да ги представят за одобрение и възстановяване на разходите, като използват мобилното си устройство.</span><span class="sxs-lookup"><span data-stu-id="b3ced-113">Employees can also create and manage their expense reports, and then submit them for approval and reimbursement by using their mobile device.</span></span>
 
-По-конкретно, мобилното работно пространство **Управление на разходите** позволява на потребителите да изпълняват следните задачи:
+<span data-ttu-id="b3ced-114">По-конкретно, мобилното работно пространство **Управление на разходите** позволява на потребителите да изпълняват следните задачи:</span><span class="sxs-lookup"><span data-stu-id="b3ced-114">Specifically, the **Expense management** mobile workspace lets users perform these tasks:</span></span>
 
-- Направете снимка на разписка. Качете снимката на разписка и я прикачете към отчет за разходи по-късно.
-- Качете файл като уловена разписка. След това можете да прикачите този файл към отчет за разходите по-късно.
-- Създайте нов ред за разходи, като използвате приложена разписка. След това можете да добавите договорената позиция към отчет за разходите по-късно и да я изпратите за одобрение и възстановяване.
+- <span data-ttu-id="b3ced-115">Направете снимка на разписка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-115">Take a photo of a receipt.</span></span> <span data-ttu-id="b3ced-116">Качете снимката на разписка и я прикачете към отчет за разходи по-късно.</span><span class="sxs-lookup"><span data-stu-id="b3ced-116">Upload the receipt photo and attach it to an expense report later.</span></span>
+- <span data-ttu-id="b3ced-117">Качете файл като уловена разписка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-117">Upload a file as a captured receipt.</span></span> <span data-ttu-id="b3ced-118">След това можете да прикачите този файл към отчет за разходите по-късно.</span><span class="sxs-lookup"><span data-stu-id="b3ced-118">You can then attach that file to an expense report later.</span></span>
+- <span data-ttu-id="b3ced-119">Създайте нов ред за разходи, като използвате приложена разписка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-119">Create a new expense line by using an attached receipt.</span></span> <span data-ttu-id="b3ced-120">След това можете да добавите договорената позиция към отчет за разходите по-късно и да я изпратите за одобрение и възстановяване.</span><span class="sxs-lookup"><span data-stu-id="b3ced-120">You can then add the line item to an expense report later, and submit it for approval and reimbursement.</span></span>
 
-Можете също да използвате тези функции:
+<span data-ttu-id="b3ced-121">Можете също да използвате тези функции:</span><span class="sxs-lookup"><span data-stu-id="b3ced-121">You can also use these features:</span></span>
 
-- Създаване на нов отчет с разходи.
-- Прикачете транзакции с кредитни карти и други предварително създадени разходи към отчет за разходите.
-- Създайте нови разходи за отчет за разходите.
-- Прикачете разписка към всички разходи за отчет за разходите, или като направите снимка на разписката, или като качите файл като уловена разписка.
-- В зависимост от разходната политика на компанията, добавете списъка с гости към разход.
-- Разделете разходите в зависимост от политиката на разходите на компанията.
-- Изпратете отчет за разходите за одобрение и възстановяване.
-- Одобрете или отхвърлете отчетите за разходите, за които сте назначен одобряващ.
+- <span data-ttu-id="b3ced-122">Създаване на нов отчет с разходи.</span><span class="sxs-lookup"><span data-stu-id="b3ced-122">Create a new expense report.</span></span>
+- <span data-ttu-id="b3ced-123">Прикачете транзакции с кредитни карти и други предварително създадени разходи към отчет за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-123">Attach credit card transactions and other previously created expenses to an expense report.</span></span>
+- <span data-ttu-id="b3ced-124">Създайте нови разходи за отчет за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-124">Create new expenses for an expense report.</span></span>
+- <span data-ttu-id="b3ced-125">Прикачете разписка към всички разходи за отчет за разходите, или като направите снимка на разписката, или като качите файл като уловена разписка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-125">Attach a receipt to any expense for an expense report, either by taking a photo of the receipt or by uploading a file as a captured receipt.</span></span>
+- <span data-ttu-id="b3ced-126">В зависимост от разходната политика на компанията, добавете списъка с гости към разход.</span><span class="sxs-lookup"><span data-stu-id="b3ced-126">Depending on the company's expense policy, add the list of guests to an expense.</span></span>
+- <span data-ttu-id="b3ced-127">Разделете разходите в зависимост от политиката на разходите на компанията.</span><span class="sxs-lookup"><span data-stu-id="b3ced-127">Depending on the company's expense policy, itemize expenses.</span></span>
+- <span data-ttu-id="b3ced-128">Изпратете отчет за разходите за одобрение и възстановяване.</span><span class="sxs-lookup"><span data-stu-id="b3ced-128">Submit an expense report for approval and reimbursement.</span></span>
+- <span data-ttu-id="b3ced-129">Одобрете или отхвърлете отчетите за разходите, за които сте назначен одобряващ.</span><span class="sxs-lookup"><span data-stu-id="b3ced-129">Approve or reject expense reports that you're an assigned approver for.</span></span>
 
-## <a name="prerequisites"></a>Предварителни изисквания
-Предпоставките се различават в зависимост от версията, внедрена за вашата организация.
+## <a name="prerequisites"></a><span data-ttu-id="b3ced-130">Предварителни изисквания</span><span class="sxs-lookup"><span data-stu-id="b3ced-130">Prerequisites</span></span>
+<span data-ttu-id="b3ced-131">Предпоставките се различават в зависимост от версията, внедрена за вашата организация.</span><span class="sxs-lookup"><span data-stu-id="b3ced-131">The prerequisites vary, based on the version that has been deployed for your organization.</span></span>
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Предпоставки, ако използвате Dynamics 365 Finance 
-Ако Finance е внедрен за вашата организация, системният администратор трябва да публикува мобилно работно пространство **Управление на разходите**. 
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a><span data-ttu-id="b3ced-132">Предпоставки, ако използвате Dynamics 365 Finance</span><span class="sxs-lookup"><span data-stu-id="b3ced-132">Prerequisites if you use Dynamics 365 Finance</span></span> 
+<span data-ttu-id="b3ced-133">Ако Finance е внедрен за вашата организация, системният администратор трябва да публикува мобилно работно пространство **Управление на разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-133">If Finance has been deployed for your organization, the system administrator must publish the **Expense management** mobile workspace.</span></span> 
 
-### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Предпоставки, ако използвате версия 1611 с актуализация на платформа 3 или по-нова
-Ако за вашата организация е внедрена версия 1611 с актуализация на платформа 3 или по-нова, системният администратор трябва да изпълни следните предпоставки. 
+### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a><span data-ttu-id="b3ced-134">Предпоставки, ако използвате версия 1611 с актуализация на платформа 3 или по-нова</span><span class="sxs-lookup"><span data-stu-id="b3ced-134">Prerequisites if you use version 1611 with platform update 3 or later</span></span>
+<span data-ttu-id="b3ced-135">Ако за вашата организация е внедрена версия 1611 с актуализация на платформа 3 или по-нова, системният администратор трябва да изпълни следните предпоставки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-135">If version 1611 with platform update 3 or later has been deployed for your organization, the system administrator must complete the following prerequisites.</span></span> 
 
 <table>
 <thead>
 <tr class="header">
-<th>Предварително изискване</th>
-<th>Роля</th>
-<th>Описание</th>
+<th><span data-ttu-id="b3ced-136">Предварително изискване</span><span class="sxs-lookup"><span data-stu-id="b3ced-136">Prerequisite</span></span></th>
+<th><span data-ttu-id="b3ced-137">Роля</span><span class="sxs-lookup"><span data-stu-id="b3ced-137">Role</span></span></th>
+<th><span data-ttu-id="b3ced-138">Описание</span><span class="sxs-lookup"><span data-stu-id="b3ced-138">Description</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Внедрете KB 4019015.</td>
-<td>Системен администратор</td>
-<td>KB 4019015 е актуална корекция на X ++ за актуализация или метаданни, която съдържа мобилно работно пространство <strong>Управление на разходите</strong>. За да приложите KB 4019015, вашият системен администратор трябва да изпълни тези стъпки.
+<td><span data-ttu-id="b3ced-139">Внедрете KB 4019015.</span><span class="sxs-lookup"><span data-stu-id="b3ced-139">Implement KB 4019015.</span></span></td>
+<td><span data-ttu-id="b3ced-140">Системен администратор</span><span class="sxs-lookup"><span data-stu-id="b3ced-140">System administrator</span></span></td>
+<td><span data-ttu-id="b3ced-141">KB 4019015 е актуална корекция на X ++ за актуализация или метаданни, която съдържа мобилно работно пространство <strong>Управление на разходите</strong>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-141">KB 4019015 is an X++ update or metadata hotfix that contains the <strong>Expense management</strong> mobile workspace.</span></span> <span data-ttu-id="b3ced-142">За да приложите KB 4019015, вашият системен администратор трябва да изпълни тези стъпки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-142">To implement KB 4019015, your system administrator must follow these steps.</span></span>
 <ol>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Изтеглете актуализации от Lifecycle Services</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирайте актуалната корекция на метаданни</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Създайте разгръщаем пакет,</a> който съдържа <strong>ApplicationSuite</strong> и <strong>ExpenseMobile</strong> модели и след това качете пакета за разполагане в LCS.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Приложете разгръщащия се пакет</a>.</li>
+<li><span data-ttu-id="b3ced-143"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Изтеглете актуализации от Lifecycle Services</a>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-143"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Download updates from Lifecycle Services</a>.</span></span></li>
+<li><span data-ttu-id="b3ced-144"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирайте актуалната корекция на метаданни</a>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-144"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Install the metadata hotfix</a>.</span></span></li>
+<li><span data-ttu-id="b3ced-145"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Създайте разгръщаем пакет,</a> който съдържа <strong>ApplicationSuite</strong> и <strong>ExpenseMobile</strong> модели и след това качете пакета за разполагане в LCS.</span><span class="sxs-lookup"><span data-stu-id="b3ced-145"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Create a deployable package</a> that contains the <strong>ApplicationSuite</strong> and <strong>ExpenseMobile</strong> models, and then upload the deployable package to LCS.</span></span></li>
+<li><span data-ttu-id="b3ced-146"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Приложете разгръщащия се пакет</a>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-146"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Apply the deployable package</a>.</span></span></li>
 </ol></td>
 </tr>
 <tr class="even">
-<td>Публикувайте мобилно работно пространство <strong>Управление на разходите</strong>.</td>
-<td>Системен администратор</td>
-<td>Вижте <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Публикувайте мобилно работно пространство</a>.</td>
+<td><span data-ttu-id="b3ced-147">Публикувайте мобилно работно пространство <strong>Управление на разходите</strong>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-147">Publish the <strong>Expense management</strong> mobile workspace.</span></span></td>
+<td><span data-ttu-id="b3ced-148">Системен администратор</span><span class="sxs-lookup"><span data-stu-id="b3ced-148">System administrator</span></span></td>
+<td><span data-ttu-id="b3ced-149">Вижте <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Публикувайте мобилно работно пространство</a>.</span><span class="sxs-lookup"><span data-stu-id="b3ced-149">See <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Publish a mobile workspace</a>.</span></span></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="download-and-install-the-dynamics-365-unified-ops-mobile-app"></a>Изтеглете и инсталирайте мобилното приложение Dynamics 365 Unified Ops
-Изтеглете и инсталирайте мобилното приложение Dynamics 365 Unified Ops:
+## <a name="download-and-install-the-dynamics-365-unified-ops-mobile-app"></a><span data-ttu-id="b3ced-150">Изтеглете и инсталирайте мобилното приложение Dynamics 365 Unified Ops</span><span class="sxs-lookup"><span data-stu-id="b3ced-150">Download and install the Dynamics 365 Unified Ops mobile app</span></span>
+<span data-ttu-id="b3ced-151">Изтеглете и инсталирайте мобилното приложение Dynamics 365 Unified Ops:</span><span class="sxs-lookup"><span data-stu-id="b3ced-151">Download and install the Dynamics 365 Unified Ops mobile app:</span></span>
 
-- [За телефони с Android](https://go.microsoft.com/fwlink/?linkid=850662)
-- [За iPhone](https://go.microsoft.com/fwlink/?linkid=850663)
+- [<span data-ttu-id="b3ced-152">За телефони с Android</span><span class="sxs-lookup"><span data-stu-id="b3ced-152">For Android phones</span></span>](https://go.microsoft.com/fwlink/?linkid=850662)
+- [<span data-ttu-id="b3ced-153">За iPhone</span><span class="sxs-lookup"><span data-stu-id="b3ced-153">For iPhones</span></span>](https://go.microsoft.com/fwlink/?linkid=850663)
 
-## <a name="sign-in-to-the-mobile-app"></a>Вход в мобилното приложение
-1. Стартирайте приложението на мобилното си устройство.
-2. Въведете своя URL адрес на Dynamics 365.
-4. Първият път, когато влезете, ще бъдете подканени да въведете вашето потребителско име и парола. Въведете идентификационните си данни.
-5. След като влезете, се показват наличните работни пространства за вашата компания. Ако системният ви администратор публикува ново работно пространство по-късно, ще трябва да опресните списъка с мобилни работни пространства.
+## <a name="sign-in-to-the-mobile-app"></a><span data-ttu-id="b3ced-154">Вход в мобилното приложение</span><span class="sxs-lookup"><span data-stu-id="b3ced-154">Sign in to the mobile app</span></span>
+1. <span data-ttu-id="b3ced-155">Стартирайте приложението на мобилното си устройство.</span><span class="sxs-lookup"><span data-stu-id="b3ced-155">Start the app on your mobile device.</span></span>
+2. <span data-ttu-id="b3ced-156">Въведете своя URL адрес на Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="b3ced-156">Enter your Dynamics 365 URL.</span></span>
+4. <span data-ttu-id="b3ced-157">Първият път, когато влезете, ще бъдете подканени да въведете вашето потребителско име и парола.</span><span class="sxs-lookup"><span data-stu-id="b3ced-157">The first time that you sign in, you're prompted for your user name and password.</span></span> <span data-ttu-id="b3ced-158">Въведете идентификационните си данни.</span><span class="sxs-lookup"><span data-stu-id="b3ced-158">Enter your credentials.</span></span>
+5. <span data-ttu-id="b3ced-159">След като влезете, се показват наличните работни пространства за вашата компания.</span><span class="sxs-lookup"><span data-stu-id="b3ced-159">After you sign in, the available workspaces for your company are shown.</span></span> <span data-ttu-id="b3ced-160">Ако системният ви администратор публикува ново работно пространство по-късно, ще трябва да опресните списъка с мобилни работни пространства.</span><span class="sxs-lookup"><span data-stu-id="b3ced-160">If your system administrator publishes a new workspace later, you will have to refresh the list of mobile workspaces.</span></span>
 
-## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a>Заснемете разписка, като използвате мобилното работно пространство на Управление на разходите
+## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a><span data-ttu-id="b3ced-161">Заснемете разписка, като използвате мобилното работно пространство на Управление на разходите</span><span class="sxs-lookup"><span data-stu-id="b3ced-161">Capture a receipt by using the Expense management mobile workspace</span></span>
 
-1. На мобилното си устройство отворете работно пространство **Управление на разходите**.
-2. Изберете **Заснемане на разписка**.
-3. Изберете **Заснемане на снимка** или **Изберете изображение**.
-4. Следвайте една от тези стъпки:
+1. <span data-ttu-id="b3ced-162">На мобилното си устройство отворете работно пространство **Управление на разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-162">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="b3ced-163">Изберете **Заснемане на разписка**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-163">Select **Capture receipt**.</span></span>
+3. <span data-ttu-id="b3ced-164">Изберете **Заснемане на снимка** или **Изберете изображение**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-164">Select **Take photo** or **Choose image**.</span></span>
+4. <span data-ttu-id="b3ced-165">Следвайте една от тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-165">Follow one of these steps:</span></span>
 
-   - Ако сте избрали **Заснемане на снимка**, следвайте тези стъпки:
+   - <span data-ttu-id="b3ced-166">Ако сте избрали **Заснемане на снимка** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-166">If you selected **Take photo** , follow these steps:</span></span>
 
-      1. Ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка. 
-      2. Когато приключите с правенето на снимка, изберете **ОК**, за да приемете снимката.
-      3. По избор: Въведете име за снимката и въведете бележки.
+      1. <span data-ttu-id="b3ced-167">Ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-167">You're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> 
+      2. <span data-ttu-id="b3ced-168">Когато приключите с правенето на снимка, изберете **ОК** , за да приемете снимката.</span><span class="sxs-lookup"><span data-stu-id="b3ced-168">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+      3. <span data-ttu-id="b3ced-169">По избор: Въведете име за снимката и въведете бележки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-169">Optional: Enter a name for the photo, and enter any notes.</span></span>
 
-    - Ако сте избрали **Избор на изображение**, следвайте тези стъпки:
+    - <span data-ttu-id="b3ced-170">Ако сте избрали **Избор на изображение** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-170">If you selected **Choose image** , follow these steps:</span></span>
 
-        1. Изберете изображение в списъка.
-        2. По избор: Въведете име за изображението и въведете бележки.
+        1. <span data-ttu-id="b3ced-171">Изберете изображение в списъка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-171">Select an image in the list.</span></span>
+        2. <span data-ttu-id="b3ced-172">По избор: Въведете име за изображението и въведете бележки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-172">Optional: Enter a name for the image, and enter any notes.</span></span>
 
-5. Изберете **Готово**.
+5. <span data-ttu-id="b3ced-173">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-173">Select **Done**.</span></span>
 
-## <a name="quickly-enter-expenses-by-using-the-expense-management-mobile-workspace"></a>Въвеждайте бързо разходи, като използвате мобилното работно пространство на Управление на разходите
+## <a name="quickly-enter-expenses-by-using-the-expense-management-mobile-workspace"></a><span data-ttu-id="b3ced-174">Въвеждайте бързо разходи, като използвате мобилното работно пространство на Управление на разходите</span><span class="sxs-lookup"><span data-stu-id="b3ced-174">Quickly enter expenses by using the Expense management mobile workspace</span></span>
 
-1. На мобилното си устройство отворете работно пространство **Управление на разходите**.
-2. Изберете **Бързо въвеждане на разходи**.
-3. Изберете категорията на разходите. Ще видите списък с категориите разходи, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашата категория не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по категория на разход или превключете към търсене по тип на разход.
-4. Въведете датата на транзакция на разходите.
-5. По избор: Въведете търговеца за разходите.
-6. Въведете сумата на разхода.
-7. Изберете валутата на разхода. Ще видите списък с кодовете на валута, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 400 валути, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашата валута не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по валута или превключете към търсене по име.
-8. Изберете **Заснемане на снимка** или **Изберете изображение**.
-9. Следвайте една от тези стъпки:
+1. <span data-ttu-id="b3ced-175">На мобилното си устройство отворете работно пространство **Управление на разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-175">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="b3ced-176">Изберете **Бързо въвеждане на разходи**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-176">Select **Quick expense entry**.</span></span>
+3. <span data-ttu-id="b3ced-177">Изберете категорията на разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-177">Select the expense category.</span></span> <span data-ttu-id="b3ced-178">Ще видите списък с категориите разходи, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-178">You see a list of expense categories that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-179">По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-179">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-180">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-180">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-181">Ако вашата категория не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-181">If your category isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-182">Търсете по категория на разход или превключете към търсене по тип на разход.</span><span class="sxs-lookup"><span data-stu-id="b3ced-182">Search by expense category, or switch to search by expense type.</span></span>
+4. <span data-ttu-id="b3ced-183">Въведете датата на транзакция на разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-183">Enter the transaction date of the expense.</span></span>
+5. <span data-ttu-id="b3ced-184">По избор: Въведете търговеца за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-184">Optional: Enter the merchant for the expense.</span></span>
+6. <span data-ttu-id="b3ced-185">Въведете сумата на разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-185">Enter the amount of the expense.</span></span>
+7. <span data-ttu-id="b3ced-186">Изберете валутата на разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-186">Select the currency of the expense.</span></span> <span data-ttu-id="b3ced-187">Ще видите списък с кодовете на валута, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-187">You see a list of the currency codes that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-188">По подразбиране се зареждат 400 валути, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-188">By default, 400 currencies are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-189">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-189">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-190">Ако вашата валута не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-190">If your currency isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-191">Търсете по валута или превключете към търсене по име.</span><span class="sxs-lookup"><span data-stu-id="b3ced-191">Search by currency, or switch to search by name.</span></span>
+8. <span data-ttu-id="b3ced-192">Изберете **Заснемане на снимка** или **Изберете изображение**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-192">Select **Take photo** or **Choose image**.</span></span>
+9. <span data-ttu-id="b3ced-193">Следвайте една от тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-193">Follow one of these steps:</span></span>
 
-    - Ако сте избрали **Заснемане на снимка**, ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка. Когато приключите с правенето на снимка, изберете **ОК**, за да приемете снимката.
-    - Ако сте избрали **Изберете изображение**, изберете изображение в списъка.
+    - <span data-ttu-id="b3ced-194">Ако сте избрали **Заснемане на снимка** , ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-194">If you selected **Take photo** , you're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> <span data-ttu-id="b3ced-195">Когато приключите с правенето на снимка, изберете **ОК** , за да приемете снимката.</span><span class="sxs-lookup"><span data-stu-id="b3ced-195">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+    - <span data-ttu-id="b3ced-196">Ако сте избрали **Изберете изображение** , изберете изображение в списъка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-196">If you selected **Choose image** , select an image in the list.</span></span>
 
-10. Изберете **Готово**.
+10. <span data-ttu-id="b3ced-197">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-197">Select **Done**.</span></span>
 
-## <a name="approve-an-expense-report-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a>Одобрете отчет за разходите, като използвате мобилното работно пространство на Управление на разходите (ако използвате актуализацията от юли 2017 г.)
+## <a name="approve-an-expense-report-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a><span data-ttu-id="b3ced-198">Одобрете отчет за разходите, като използвате мобилното работно пространство на Управление на разходите (ако използвате актуализацията от юли 2017 г.)</span><span class="sxs-lookup"><span data-stu-id="b3ced-198">Approve an expense report by using the Expense management mobile workspace (if you use the July 2017 update)</span></span>
 
-1. На мобилното си устройство отворете работно пространство **Управление на разходите**.
-2. **Одобрения на разходи** показва броя на отчетите за разходите, които са ви възложени за одобрение. Номерът се актуализира приблизително на всеки 30 минути. Изберете **Одобрения за разходи**.
+1. <span data-ttu-id="b3ced-199">На мобилното си устройство отворете работно пространство **Управление на разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-199">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="b3ced-200">**Одобрения на разходи** показва броя на отчетите за разходите, които са ви възложени за одобрение.</span><span class="sxs-lookup"><span data-stu-id="b3ced-200">**Expense approvals** shows the number of expense reports that are assigned to you for approval.</span></span> <span data-ttu-id="b3ced-201">Номерът се актуализира приблизително на всеки 30 минути.</span><span class="sxs-lookup"><span data-stu-id="b3ced-201">The number is updated approximately every 30 minutes.</span></span> <span data-ttu-id="b3ced-202">Изберете **Одобрения за разходи**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-202">Select **Expense approvals**.</span></span>
 
-    Показва се с списък с одобрения на разходи, които са ви възложени за одобрение.
+    <span data-ttu-id="b3ced-203">Показва се с списък с одобрения на разходи, които са ви възложени за одобрение.</span><span class="sxs-lookup"><span data-stu-id="b3ced-203">The list of expense reports that are assigned to you for approval is shown.</span></span>
     
-3. Изберете отчет за разходите, за да видите подробности за разходите за него.
-4. Изберете отчет, за да видите подробности за него. Информацията, която се показва за разход, включва всички подробности за касови бележки, гости и подробности.
-5. Обратно на страницата **Отчет за разходите** изберете да одобрите или отхвърлите отчета за разходите.
-6. Въведете коментари за действието за одобрение.
-7. Изберете **Готово**.
+3. <span data-ttu-id="b3ced-204">Изберете отчет за разходите, за да видите подробности за разходите за него.</span><span class="sxs-lookup"><span data-stu-id="b3ced-204">Select an expense report to view the expense details for it.</span></span>
+4. <span data-ttu-id="b3ced-205">Изберете отчет, за да видите подробности за него.</span><span class="sxs-lookup"><span data-stu-id="b3ced-205">Select an expense to view the details for it.</span></span> <span data-ttu-id="b3ced-206">Информацията, която се показва за разход, включва всички подробности за касови бележки, гости и подробности.</span><span class="sxs-lookup"><span data-stu-id="b3ced-206">The information that is shown for an expense includes any receipt, guest, and itemization details.</span></span>
+5. <span data-ttu-id="b3ced-207">Обратно на страницата **Отчет за разходите** изберете да одобрите или отхвърлите отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-207">Back on the **Expense report** page, select to approve or reject the expense report.</span></span>
+6. <span data-ttu-id="b3ced-208">Въведете коментари за действието за одобрение.</span><span class="sxs-lookup"><span data-stu-id="b3ced-208">Enter any comments for the approval action.</span></span>
+7. <span data-ttu-id="b3ced-209">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-209">Select **Done**.</span></span>
 
-## <a name="create-a-new-expense-report-and-submit-it-for-approval-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a>Създайте нов отчет за разходите и го подайте за одобрение, като използвате мобилното работно пространство на Управление на разходите (ако използвате актуализацията от юли 2017 г.)
+## <a name="create-a-new-expense-report-and-submit-it-for-approval-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a><span data-ttu-id="b3ced-210">Създайте нов отчет за разходите и го подайте за одобрение, като използвате мобилното работно пространство на Управление на разходите (ако използвате актуализацията от юли 2017 г.)</span><span class="sxs-lookup"><span data-stu-id="b3ced-210">Create a new expense report and submit it for approval by using the Expense management mobile workspace (if you use the July 2017 update)</span></span>
 
-1. На мобилното си устройство отворете работно пространство **Управление на разходите**.
-2. Изберете **Въвеждане на разходи**.
-3. Изберете **Нов отчет** или изберете съществуващ отчет за разходите в списъка.
-4. За нови отчети за разходите въведете целта и всякаква допълнителна информация, която е на разположение. Тази информация варира в зависимост от начина, по който управлението на разходите е конфигурирано за вашата компания.
-5. Изберете **Готово**.
-6. За да добавите съществуващи разходи, като транзакции с кредитни карти, към отчета за разходите, изберете **Прикрепете**.
-7. Изберете един или повече разходи в списъка.
-8. Изберете **Готово**.
-9. За да добавите нов разход към отчета за разходите, изберете **Нов разход**.
-10. Изберете категорията за разхода. Ще видите списък с категориите разходи, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашата категория не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по категория на разход или превключете към търсене по тип на разход.
-11. По избор: Въведете търговеца за разходите.
-12. Въведете датата на транзакция на разходите.
-13. Въведете сумата на разхода.
-14. Изберете валутата на разхода. Ще видите списък с кодовете на валута, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 400 валути, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашата валута не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по валута или превключете към търсене по име.
-15. Изберете **Готово**.
-16. За да добавите повече подробности към разхода, изберете **Добавете повече подробности**. Наличните полета зависят от конфигурацията на управление на разходите за вашата фирма.
-17. Ако фирмената политика изисква разписка за разходите, изберете **Разписки** и след това изпълнете следните стъпки:
+1. <span data-ttu-id="b3ced-211">На мобилното си устройство отворете работно пространство **Управление на разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-211">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="b3ced-212">Изберете **Въвеждане на разходи**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-212">Select **Expense entry**.</span></span>
+3. <span data-ttu-id="b3ced-213">Изберете **Нов отчет** или изберете съществуващ отчет за разходите в списъка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-213">Select **New report** , or select an existing expense report in the list.</span></span>
+4. <span data-ttu-id="b3ced-214">За нови отчети за разходите въведете целта и всякаква допълнителна информация, която е на разположение.</span><span class="sxs-lookup"><span data-stu-id="b3ced-214">For new expense reports, enter the purpose and any additional information that is available.</span></span> <span data-ttu-id="b3ced-215">Тази информация варира в зависимост от начина, по който управлението на разходите е конфигурирано за вашата компания.</span><span class="sxs-lookup"><span data-stu-id="b3ced-215">This information varies, depending on that way that expense management is configured for your company.</span></span>
+5. <span data-ttu-id="b3ced-216">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-216">Select **Done**.</span></span>
+6. <span data-ttu-id="b3ced-217">За да добавите съществуващи разходи, като транзакции с кредитни карти, към отчета за разходите, изберете **Прикрепете**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-217">To add existing expenses, such as credit card transactions, to the expense report, select **Attach**.</span></span>
+7. <span data-ttu-id="b3ced-218">Изберете един или повече разходи в списъка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-218">Select one or more expenses in the list.</span></span>
+8. <span data-ttu-id="b3ced-219">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-219">Select **Done**.</span></span>
+9. <span data-ttu-id="b3ced-220">За да добавите нов разход към отчета за разходите, изберете **Нов разход**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-220">To add a new expense to the expense report, select **New expense**.</span></span>
+10. <span data-ttu-id="b3ced-221">Изберете категорията за разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-221">Select the category for the expense.</span></span> <span data-ttu-id="b3ced-222">Ще видите списък с категориите разходи, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-222">You see a list of expense categories that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-223">По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-223">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-224">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-224">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-225">Ако вашата категория не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-225">If your category isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-226">Търсете по категория на разход или превключете към търсене по тип на разход.</span><span class="sxs-lookup"><span data-stu-id="b3ced-226">Search by expense category, or switch to search by expense type.</span></span>
+11. <span data-ttu-id="b3ced-227">По избор: Въведете търговеца за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-227">Optional: Enter the merchant for the expense.</span></span>
+12. <span data-ttu-id="b3ced-228">Въведете датата на транзакция на разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-228">Enter the transaction date of the expense.</span></span>
+13. <span data-ttu-id="b3ced-229">Въведете сумата на разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-229">Enter the amount of the expense.</span></span>
+14. <span data-ttu-id="b3ced-230">Изберете валутата на разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-230">Select the currency of the expense.</span></span> <span data-ttu-id="b3ced-231">Ще видите списък с кодовете на валута, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-231">You see a list of the currency codes that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-232">По подразбиране се зареждат 400 валути, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-232">By default, 400 currencies are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-233">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-233">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-234">Ако вашата валута не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-234">If your currency isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-235">Търсете по валута или превключете към търсене по име.</span><span class="sxs-lookup"><span data-stu-id="b3ced-235">Search by currency, or switch to search by name.</span></span>
+15. <span data-ttu-id="b3ced-236">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-236">Select **Done**.</span></span>
+16. <span data-ttu-id="b3ced-237">За да добавите повече подробности към разхода, изберете **Добавете повече подробности**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-237">To add more details to the expense, select **Add more details**.</span></span> <span data-ttu-id="b3ced-238">Наличните полета зависят от конфигурацията на управление на разходите за вашата фирма.</span><span class="sxs-lookup"><span data-stu-id="b3ced-238">The fields that are available depend on the configuration of expense management for your company.</span></span>
+17. <span data-ttu-id="b3ced-239">Ако фирмената политика изисква разписка за разходите, изберете **Разписки** и след това изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-239">If company policy requires a receipt for the expense, select **Receipts** , and then follow these steps:</span></span>
 
-    1. Изберете **Заснемане на разписка** или **Прикачете разписка**.
-    2. Следвайте една от тези стъпки:
+    1. <span data-ttu-id="b3ced-240">Изберете **Заснемане на разписка** или **Прикачете разписка**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-240">Select **Capture receipt** or **Attach receipt**.</span></span>
+    2. <span data-ttu-id="b3ced-241">Следвайте една от тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-241">Follow one of these steps:</span></span>
 
-        - Ако сте избрали **Заснемане на разписка**, следвайте тези стъпки:
+        - <span data-ttu-id="b3ced-242">Ако сте избрали **Заснемане на разписка** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-242">If you selected **Capture receipt** , follow these steps:</span></span>
 
-            1. Изберете **Заснемане на снимка** или **Изберете изображение**.
-            2. Следвайте една от тези стъпки:
+            1. <span data-ttu-id="b3ced-243">Изберете **Заснемане на снимка** или **Изберете изображение**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-243">Select **Take photo** or **Choose image**.</span></span>
+            2. <span data-ttu-id="b3ced-244">Следвайте една от тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-244">Follow one of these steps:</span></span>
 
-                - Ако сте избрали **Заснемане на снимка**, следвайте тези стъпки:
+                - <span data-ttu-id="b3ced-245">Ако сте избрали **Заснемане на снимка** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-245">If you selected **Take photo** , follow these steps:</span></span>
 
-                    1. Ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка. Когато приключите с правенето на снимка, изберете **ОК**, за да приемете снимката.
-                    2. По избор: Въведете име за снимката и въведете бележки.
+                    1. <span data-ttu-id="b3ced-246">Ще бъдете отведени до камерата на мобилното си устройство, за да можете да направите снимка на касовата бележка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-246">You're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> <span data-ttu-id="b3ced-247">Когато приключите с правенето на снимка, изберете **ОК** , за да приемете снимката.</span><span class="sxs-lookup"><span data-stu-id="b3ced-247">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+                    2. <span data-ttu-id="b3ced-248">По избор: Въведете име за снимката и въведете бележки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-248">Optional: Enter a name for the photo, and enter any notes.</span></span>
 
-                - Ако сте избрали **Избор на изображение**, следвайте тези стъпки:
+                - <span data-ttu-id="b3ced-249">Ако сте избрали **Избор на изображение** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-249">If you selected **Choose image** , follow these steps:</span></span>
 
-                    1. Изберете изображение в списъка.
-                    2. По избор: Въведете име за изображението и въведете бележки.
+                    1. <span data-ttu-id="b3ced-250">Изберете изображение в списъка.</span><span class="sxs-lookup"><span data-stu-id="b3ced-250">Select an image in the list.</span></span>
+                    2. <span data-ttu-id="b3ced-251">По избор: Въведете име за изображението и въведете бележки.</span><span class="sxs-lookup"><span data-stu-id="b3ced-251">Optional: Enter a name for the image, and enter any notes.</span></span>
 
-            3.  Изберете **Готово**.
+            3.  <span data-ttu-id="b3ced-252">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-252">Select **Done**.</span></span>
 
-        - Ако сте избрали **Прикачване на разписка**, следвайте тези стъпки:
+        - <span data-ttu-id="b3ced-253">Ако сте избрали **Прикачване на разписка** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-253">If you selected **Attach receipt** , follow these steps:</span></span>
 
-            1.  В списъка изберете едно или повече изображения.
-            2.  Изберете **Готово**.
+            1.  <span data-ttu-id="b3ced-254">В списъка изберете едно или повече изображения.</span><span class="sxs-lookup"><span data-stu-id="b3ced-254">Select one or more images in the list.</span></span>
+            2.  <span data-ttu-id="b3ced-255">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-255">Select **Done**.</span></span>
 
-    3. Изберете бутона **Назад**, за да се върнете към подробностите за разходите.
+    3. <span data-ttu-id="b3ced-256">Изберете бутона **Назад** , за да се върнете към подробностите за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-256">Select the **Back** button to return to the expense details.</span></span>
 
-18. Ако фирмената политика изисква гости за разходите, изберете **Гости** и след това изпълнете следните стъпки:
+18. <span data-ttu-id="b3ced-257">Ако фирмената политика изисква гости за разходите, изберете **Гости** и след това изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-257">If company policy requires guests for the expense, select **Guests** , and then follow these steps:</span></span>
 
-    1. Изберете **Гост**, **Предишни гости** или **Колеги**.
-    2. Следвайте една от тези стъпки:
+    1. <span data-ttu-id="b3ced-258">Изберете **Гост** , **Предишни гости** или **Колеги**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-258">Select **Guest** , **Previous guests** , or **Coworkers**.</span></span>
+    2. <span data-ttu-id="b3ced-259">Следвайте една от тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-259">Follow one of these steps:</span></span>
 
-        - Ако сте избрали **Гост**, следвайте тези стъпки:
+        - <span data-ttu-id="b3ced-260">Ако сте избрали **Гост** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-260">If you selected **Guest** , follow these steps:</span></span>
 
-            1. Въведете името на госта.
-            2. По избор: Въведете организацията и/или държавата на госта.
-            3. Опционално: Въведете длъжността на госта.
-            4. Изберете **Готово**.
+            1. <span data-ttu-id="b3ced-261">Въведете името на госта.</span><span class="sxs-lookup"><span data-stu-id="b3ced-261">Enter the name of the guest.</span></span>
+            2. <span data-ttu-id="b3ced-262">По избор: Въведете организацията и/или държавата на госта.</span><span class="sxs-lookup"><span data-stu-id="b3ced-262">Optional: Enter the organization and/or country of the guest.</span></span>
+            3. <span data-ttu-id="b3ced-263">Опционално: Въведете длъжността на госта.</span><span class="sxs-lookup"><span data-stu-id="b3ced-263">Optional: Enter the title of the guest.</span></span>
+            4. <span data-ttu-id="b3ced-264">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-264">Select **Done**.</span></span>
 
-        - Ако сте избрали **Предишни гости**, следвайте тези стъпки:
+        - <span data-ttu-id="b3ced-265">Ако сте избрали **Предишни гости** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-265">If you selected **Previous guests** , follow these steps:</span></span>
 
-            1. В списъка изберете един или повече гости. Виждате списък с предишни гости, които сте добавили към предишни отчети за разходите, които са заредени в приложението ви за използване офлайн. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако предишният ви гост не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по име или превключете към търсене по организация, държава или длъжност.
-            2. Изберете **Готово**.
+            1. <span data-ttu-id="b3ced-266">В списъка изберете един или повече гости.</span><span class="sxs-lookup"><span data-stu-id="b3ced-266">Select one or more previous guests in the list.</span></span> <span data-ttu-id="b3ced-267">Виждате списък с предишни гости, които сте добавили към предишни отчети за разходите, които са заредени в приложението ви за използване офлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-267">You see a list of previous guests that you've added to previous expense reports that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-268">По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-268">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-269">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-269">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-270">Ако предишният ви гост не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-270">If your previous guest isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-271">Търсете по име или превключете към търсене по организация, държава или длъжност.</span><span class="sxs-lookup"><span data-stu-id="b3ced-271">Search by name, or switch to search by organization, country, or title.</span></span>
+            2. <span data-ttu-id="b3ced-272">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-272">Select **Done**.</span></span>
 
-        - Ако сте избрали **Колеги**, следвайте тези стъпки:
+        - <span data-ttu-id="b3ced-273">Ако сте избрали **Колеги** , следвайте тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-273">If you selected **Coworkers** , follow these steps:</span></span>
 
-            1. В списъка изберете един или повече колеги. Ще видите списък с колеги, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашият колега не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсете по име или превключете към търсене по фирма или длъжност.
-            2. Изберете **Готово**.
+            1. <span data-ttu-id="b3ced-274">В списъка изберете един или повече колеги.</span><span class="sxs-lookup"><span data-stu-id="b3ced-274">Select one or more coworkers in the list.</span></span> <span data-ttu-id="b3ced-275">Ще видите списък с колеги, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-275">You see a list of coworkers that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-276">По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-276">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-277">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-277">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-278">Ако вашият колега не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-278">If your coworker isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-279">Търсете по име или превключете към търсене по фирма или длъжност.</span><span class="sxs-lookup"><span data-stu-id="b3ced-279">Search by name, or switch to search by company or title.</span></span>
+            2. <span data-ttu-id="b3ced-280">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-280">Select **Done**.</span></span>
 
-    3. Изберете бутона **Назад**, за да се върнете към подробностите за разходите.
+    3. <span data-ttu-id="b3ced-281">Изберете бутона **Назад** , за да се върнете към подробностите за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-281">Select the **Back** button to return to the expense details.</span></span>
 
-19. Ако фирмената политика изисква разходът да бъде свързан с артикул, изберете **Свързване с артикул** и след това изпълнете следните стъпки:
+19. <span data-ttu-id="b3ced-282">Ако фирмената политика изисква разходът да бъде свързан с артикул, изберете **Свързване с артикул** и след това изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="b3ced-282">If company policy requires that the expense be itemized, select **Itemize** , and then follow these steps:</span></span>
 
-    1. Изберете първата дата за свързване с артикул.
-    2. Изберете **Добавете на свързване с артикул**.
-    3. Изберете подкатегорията за свързване с артикул на разхода. Ще видите списък с подкатегориите разходи, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started). Ако вашата подкатегория не е в списъка, изберете **Търсене**, за да направите търсене онлайн. Търсене по име на подкатегория на разходите.
-    4. Въведете сумата на транзакцията за разделянето.
-    5. Редактирайте датата на транзакцията, ако е необходима.
-    6. Изберете **Готово**.
-    7. Повторете предходните стъпки, докато приключите с добавянето на всички раздели за избраната дата.
-    8. За допълнителни дни можете да изберете **Копиране за следващия ден**, за да копирате раздели на следващия ден. Като алтернатива можете да изберете датата за разделяне и след това да добавите раздели, както направихте за първата дата.
-    9. След като приключите с разделянето на разходите, изберете бутона **Назад**, за да се върнете към подробностите за разходите.
+    1. <span data-ttu-id="b3ced-283">Изберете първата дата за свързване с артикул.</span><span class="sxs-lookup"><span data-stu-id="b3ced-283">Select the first date to itemize.</span></span>
+    2. <span data-ttu-id="b3ced-284">Изберете **Добавете на свързване с артикул**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-284">Select **Add itemization**.</span></span>
+    3. <span data-ttu-id="b3ced-285">Изберете подкатегорията за свързване с артикул на разхода.</span><span class="sxs-lookup"><span data-stu-id="b3ced-285">Select the subcategory for the expense itemization.</span></span> <span data-ttu-id="b3ced-286">Ще видите списък с подкатегориите разходи, които са заредени във вашето приложение за офлайн употреба.</span><span class="sxs-lookup"><span data-stu-id="b3ced-286">You see a list of expense subcategories that are loaded into your app for offline use.</span></span> <span data-ttu-id="b3ced-287">По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер.</span><span class="sxs-lookup"><span data-stu-id="b3ced-287">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="b3ced-288">За повече информация разработчиците трябва да прегледат [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span><span class="sxs-lookup"><span data-stu-id="b3ced-288">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="b3ced-289">Ако вашата подкатегория не е в списъка, изберете **Търсене** , за да направите търсене онлайн.</span><span class="sxs-lookup"><span data-stu-id="b3ced-289">If your subcategory isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="b3ced-290">Търсене по име на подкатегория на разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-290">Search by expense subcategory name.</span></span>
+    4. <span data-ttu-id="b3ced-291">Въведете сумата на транзакцията за разделянето.</span><span class="sxs-lookup"><span data-stu-id="b3ced-291">Enter the transaction amount for the itemization.</span></span>
+    5. <span data-ttu-id="b3ced-292">Редактирайте датата на транзакцията, ако е необходима.</span><span class="sxs-lookup"><span data-stu-id="b3ced-292">Edit the transaction date if it's required.</span></span>
+    6. <span data-ttu-id="b3ced-293">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-293">Select **Done**.</span></span>
+    7. <span data-ttu-id="b3ced-294">Повторете предходните стъпки, докато приключите с добавянето на всички раздели за избраната дата.</span><span class="sxs-lookup"><span data-stu-id="b3ced-294">Repeat the preceding steps until you've finished adding all itemizations for the selected date.</span></span>
+    8. <span data-ttu-id="b3ced-295">За допълнителни дни можете да изберете **Копиране за следващия ден** , за да копирате раздели на следващия ден.</span><span class="sxs-lookup"><span data-stu-id="b3ced-295">For additional days, you can select **Copy to next day** to copy the itemizations to the next day.</span></span> <span data-ttu-id="b3ced-296">Като алтернатива можете да изберете датата за разделяне и след това да добавите раздели, както направихте за първата дата.</span><span class="sxs-lookup"><span data-stu-id="b3ced-296">Alternatively, you can select the date to itemize and then add itemizations as you did for the first date.</span></span>
+    9. <span data-ttu-id="b3ced-297">След като приключите с разделянето на разходите, изберете бутона **Назад** , за да се върнете към подробностите за разходите.</span><span class="sxs-lookup"><span data-stu-id="b3ced-297">After you've finished itemizing the expense, select the **Back** button to return to the expense details.</span></span>
 
-20. Изберете бутона **Назад**, за да се върнете към страницата **Отчет за разходите**.
-21. Повторете предходните стъпки, докато приключите с добавянето на всички разходи.
-22. Изберете **Подаване**.
-23. Въведете коментари за одобряващия.
-24. Изберете **Готово**.
+20. <span data-ttu-id="b3ced-298">Изберете бутона **Назад** , за да се върнете към страницата **Отчет за разходите**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-298">Select the **Back** button to return to the **Expense report** page.</span></span>
+21. <span data-ttu-id="b3ced-299">Повторете предходните стъпки, докато приключите с добавянето на всички разходи.</span><span class="sxs-lookup"><span data-stu-id="b3ced-299">Repeat the preceding steps until you've finished adding all expenses.</span></span>
+22. <span data-ttu-id="b3ced-300">Изберете **Подаване**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-300">Select **Submit**.</span></span>
+23. <span data-ttu-id="b3ced-301">Въведете коментари за одобряващия.</span><span class="sxs-lookup"><span data-stu-id="b3ced-301">Enter any comments for the approver.</span></span>
+24. <span data-ttu-id="b3ced-302">Изберете **Готово**.</span><span class="sxs-lookup"><span data-stu-id="b3ced-302">Select **Done**.</span></span>
