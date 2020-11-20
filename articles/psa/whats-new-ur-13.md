@@ -3,7 +3,7 @@ title: Какво е новото или промененото в Project Servi
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 13, V3.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 435b70255dd0053a496362c9ced9e742cfcca843
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: bcb05b640966e760a7a74a306a3f0a39594baed8
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071780"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121610"
 ---
 # <a name="project-service-automation-update-release-13-v3"></a>Project Service Automation, издание на актуализация 13, V3
 С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
@@ -53,6 +53,6 @@ ms.locfileid: "4071780"
 - Sales
 
      - Поправено: Дублиращите се записи на типове трансакции връщат грешка при създаване на записи на цени на роли.
-     - Поправено: Допълнителните бутони за **Нова възможност** , **Оферта** , **Ред за поръчка** и **Добавяне на продукт** се виждат в командите за възможности, оферти, продукти по поръчка и подмрежата на редове, базирани на проект.
+     - Коригирано: Допълнителните бутони за **Нова възможност**, **Оферта**, **Ред на поръчка** и **Добавяне на продукт** са видими в команди за възможности, оферти, поръчка на продукти и подмрежа с редове, базирани на проект.
 
 

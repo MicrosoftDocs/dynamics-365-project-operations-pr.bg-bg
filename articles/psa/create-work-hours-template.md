@@ -3,7 +3,7 @@ title: Създаване на шаблон за работно време
 description: Как се създава шаблон за работно време в Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c34634817fc8e4c993261024a8b19d45052bf5e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: a0fce327587940e557e0214c8c0897116ac91901
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071830"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4133040"
 ---
 # <a name="create-a-work-hours-template-project-service"></a>Създаване на шаблон за работно време (Project Service)
 
@@ -45,7 +45,7 @@ ms.locfileid: "4071830"
   
 2.  Изберете ресурса, върху който искате да базирате работното време.  
   
-3.  Щракнете върху **Записване на календар като** , въведете име за шаблона за работно време и след това щракнете върху **Запиши**.  
+3.  Щракнете върху **Записване на календар като**, въведете име за шаблона за работно време и след това щракнете върху **Запиши**.  
   
 4.  Когато сте готови с промяната на опциите, щракнете върху **Запиши и затвори**.  
   

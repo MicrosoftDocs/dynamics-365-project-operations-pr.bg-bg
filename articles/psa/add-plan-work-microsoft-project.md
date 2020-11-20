@@ -3,7 +3,7 @@ title: Използване на добавката за Project Service за п
 description: Тази тема предоставя информация за това как да добавите, конфигурирате и използвате добавката Microsoft Project за Microsoft Project Service.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 04/06/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d988419ae5a9d57532902d2553cd7de147e27c1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071950"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129665"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Използвайте добавката Project Service Automation за планиране на работата в Microsoft Project
 
@@ -99,7 +99,7 @@ ms.locfileid: "4071950"
 
 2. На диалоговия прозорец **Публикуване в нов проект в Project Service** въведете **Име на проект** и изберете **Клиент**.  
 
-3. По желание проверете **Свързване на плана на проекта с Project Service Automation** , за да се свърже файлът на плана на проекта с Project Service Automation.  
+3. По желание проверете **Свързване на плана на проекта с Project Service Automation**, за да се свърже файлът на плана на проекта с Project Service Automation.  
 
 4. Щракнете върху **Публикуване**.  
 
@@ -141,9 +141,9 @@ ms.locfileid: "4071950"
 
 3. В диалоговия прозорец **Разрешаване на отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** изберете **Да** или **Не**.  
 
-   - Ако щракнете върху **Да** , ще можете да изберете бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** в Project Service Automation, да стартирате [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да заредите файла на проекта от библиотеката с документи на SharePoint.  
+   - Ако щракнете върху **Да**, ще можете да изберете бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** в Project Service Automation, да стартирате [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да заредите файла на проекта от библиотеката с документи на SharePoint.  
 
-   - Ако щракнете върху **Не** , връзката за бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** няма да работи.  
+   - Ако щракнете върху **Не**, връзката за бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** няма да работи.  
 
 4. Файлът на [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] може да се намери в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] под **Документи** за конкретния проект на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
 
@@ -155,9 +155,9 @@ ms.locfileid: "4071950"
 
 3. В диалоговия прозорец **Разрешаване на отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** изберете **Да** или **Не**.  
 
-   - Ако щракнете върху **Да** , ще можете да изберете бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** в Project Service Automation, да стартирате [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да заредите файла на проекта от библиотеката с документи на SharePoint.  
+   - Ако щракнете върху **Да**, ще можете да изберете бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** в Project Service Automation, да стартирате [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да заредите файла на проекта от библиотеката с документи на SharePoint.  
 
-   - Ако щракнете върху **Не** , връзката за бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** няма да работи.  
+   - Ако щракнете върху **Не**, връзката за бутона **Отваряне в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** няма да работи.  
 
 4. Файлът на [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] може да се намери в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] под **Документи** за конкретния проект на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
 
@@ -168,7 +168,7 @@ ms.locfileid: "4071950"
 
 2. На диалоговия прозорец **Публикуване в нов проект в шаблон на Project Service** въведете **Име на шаблона на проект**.  
 
-3. По желание проверете **Свързване на плана на проекта с Project Service Automation** , за да се свърже файлът на проекта с [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
+3. По желание проверете **Свързване на плана на проекта с Project Service Automation**, за да се свърже файлът на проекта с [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
 
 4. Щракнете върху **Публикуване**.  
 

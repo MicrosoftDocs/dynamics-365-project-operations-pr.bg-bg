@@ -3,7 +3,7 @@ title: Добавяне на роли на ресурси
 description: Как се присвоява роля на ресурсите на Project Service
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 47bb6bc5e52553db77d6fe0eda2181069ddcbc2b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 378c43e206f9295d445b1323b1c67f9d573df713
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072016"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129575"
 ---
 # <a name="add-resource-roles-project-service"></a>Добавяне на роли на ресурси (Project Service)
 
@@ -31,7 +31,7 @@ ms.locfileid: "4072016"
 
 Задайте целеви проценти на използване за всяка роля. Тези настройки определят наличността и използването на ресурсите, когато определяте персонала за проекти и анализирате действителните данни.  
   
-1.  Отидете в ролята на ресурса, за която искате да конфигурирате използването ( **Project Service > Роля на ресурс** ).  
+1.  Отидете в ролята на ресурса, за която искате да конфигурирате използването (**Project Service > Роля на ресурс**).  
   
 2.  Щракнете върху стрелката надолу до ролята на ресурса в горната част на екрана.  
   

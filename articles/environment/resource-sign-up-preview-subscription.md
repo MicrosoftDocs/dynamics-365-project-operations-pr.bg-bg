@@ -5,15 +5,15 @@ author: sigitac
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7a03f021b1ae0a87dfc947976b8a16c8246e1684
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: dc3b353f19b915f645aed91dc2a8127117027034
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071706"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121115"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>Регистрирайте се за абонаменти за предварителен преглед на Project Operations за сценарии за ресурси/неналичност
 
@@ -75,7 +75,7 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 
 ![Присвояване на лицензи](./media/15AssignLicenses.png)
 
-3. Проверете дали лицензите **Преглед на Dynamics 365 Project Operations (CRM** ) и **Office 365 Project Operations - Преглед** са били избрани и изберете **Записване на промените**.
+3. Проверете дали лицензите **Преглед на Dynamics 365 Project Operations (CRM**) и **Office 365 Project Operations - Преглед** са били избрани и изберете **Записване на промените**.
 
 > [!NOTE]
 > Пробната оферта за Finance не трябва да се възлага на потребител.

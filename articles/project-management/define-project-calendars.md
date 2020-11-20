@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 774399f2c02d8434c9c042c3a9f995792893bfce
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 442a901af8754fa0335bbf43f4ac8c73b11f9499
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071994"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131645"
 ---
 # <a name="define-project-calendars"></a>Определяне на календари на проекти
 
@@ -45,7 +45,7 @@ _**Отнася се за:** Проектни операции за сценар
 4. Изберете **Нов седмичен график** и след това задайте опциите за този график на ресурс. Можете да зададете повтарящ се седмичен график, дневни часови параметри, неработни дни и др.
 5. Задайте диапазон от дати, изберете **Запиши** и след това изберете **Затваряне**. 
 6. Върнете се на страницата със списъка **Ресурси** и изберете ресурса, за който задавате работните часове. 
-7. Изберете **Задаване на календара като** , за да зададете работния шаблон. 
+7. Изберете **Задаване на календара като**, за да зададете работния шаблон. 
 8. В диалоговия прозорец **Работен шаблон** въведете името за работния шаблон и след това изберете **Прилагане**. 
 
 Сега можете да свържете работния шаблон с шаблон на календар на проект.

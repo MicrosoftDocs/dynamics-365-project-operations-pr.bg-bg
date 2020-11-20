@@ -3,7 +3,7 @@ title: Какво е новото или промененото в Project Servi
 description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 24, V3.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 10/02/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6c8348e65307f63a251f97bf1ea17578e7026da8
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 3a37e71be2cce259d8aed0621d13393b6bbe4199
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071772"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4126560"
 ---
 # <a name="project-service-automation-update-release-24-v3"></a>Project Service Automation, издание на актуализация 24, V3
 
@@ -67,7 +67,7 @@ ms.locfileid: "4071772"
 
 Следните проблеми са коригирани:
 
-- В **График на проекта** , при смяна от **Ръчно** на **Автоматично** автоматичното записване не завършва.
+- В **График на проекта**, при смяна от **Ръчно** на **Автоматично** автоматичното записване не завършва.
 - Разходите за разходи не трябва да се изчисляват към отклонение от **Решетка за проследяване на проекти**.
 - Непоследователно поведение за колоните **Етикет за оценка** по време на зареждане спрямо промяна на типа **Време-фаза**.
 - Действителните разходи за даден проект може да не отразяват сумите от **Действителни данни**.

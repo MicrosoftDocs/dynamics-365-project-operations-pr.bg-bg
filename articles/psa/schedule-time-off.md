@@ -3,7 +3,7 @@ title: Планиране на неработно време
 description: Как се планира неработно време в Project Service
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 12ec70eca468fc17a1a85cfedc67adfecd80b007
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: eed6103734773e90701853391584c55c1d1704e8
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072045"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132185"
 ---
 # <a name="schedule-time-off-project-service"></a>Планиране на неработно време (Project Service)
 
@@ -35,9 +35,9 @@ ms.locfileid: "4072045"
   
 1.  Отидете на **Project Service > Записи за време**. Това извежда вашия календар.  
   
-2.  За да видите календара си за предишната или следващата седмица, щракнете върху **Назад** или **Напред**. Щракнете върху **Днес** , за да се върнете към текущата седмица.  
+2.  За да видите календара си за предишната или следващата седмица, щракнете върху **Назад** или **Напред**. Щракнете върху **Днес**, за да се върнете към текущата седмица.  
   
-3.  За да въведете своето време или щракнете върху **Нов** , или щракнете двукратно в календара под деня, за който искате да въведете време.  
+3.  За да въведете своето време или щракнете върху **Нов**, или щракнете двукратно в календара под деня, за който искате да въведете време.  
   
 4.  Попълнете полетата във формуляра **Въвеждане на време**.  
   

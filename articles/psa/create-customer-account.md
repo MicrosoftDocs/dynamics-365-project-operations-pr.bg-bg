@@ -3,7 +3,7 @@ title: Създаване на клиентски акаунт
 description: Как се създава акаунт на клиент в Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0dc328d1e0a2deba256dacb1697aee65e89055e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 1f80d7612563b49765c5d0dc36e0033c9f7c42f9
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071826"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129080"
 ---
 # <a name="create-a-customer-account-project-service"></a>Създаване на акаунт на клиент (Project Service)
 
@@ -37,7 +37,7 @@ ms.locfileid: "4071826"
   
 3.  В областта **Резюме** въведете име за новия си акаунт в полето **Име** и след това попълнете другите необходими полета.  
   
-4.  Щракнете върху **Запиши** , за да създадете записа, така че да можете да продължите да го редактирате.  
+4.  Щракнете върху **Запиши**, за да създадете записа, така че да можете да продължите да го редактирате.  
   
 5.  В областта **Ценови листи на проекти** щракнете върху +, за да добавите ценова листа. Можете да добавите повече от една ценова листа за този акаунт.  
   

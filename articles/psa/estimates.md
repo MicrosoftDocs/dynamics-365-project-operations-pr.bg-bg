@@ -3,7 +3,7 @@ title: Прогнозни оценки
 description: Тази тема предоставя информация за прогнозните оценки в Dynamics 365 Project Service Automation.
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 1/31/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e21511f78d92ff672e462f63f0dd0d098578516a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 95f739f0c724ff93c4d588776f9e49687bac2035
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072022"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132698"
 ---
 # <a name="estimates"></a>Прогнозни оценки
 
@@ -90,7 +90,7 @@ PSA не поддържа промяна на поръчки по договор
 
     ![Избиране на стъпка в добавката](media/basic-guide-20.png)
 
-5. В диалоговия прозорец **Актуализиране на съществуваща стъпка** в полето **Атрибути за филтриране** изберете бутона с многоточие ( **...** ):
+5. В диалоговия прозорец **Актуализиране на съществуваща стъпка** в полето **Атрибути за филтриране** изберете бутона с многоточие (**...**):
  
     ![Диалогов прозорец „Актуализиране на съществуваща стъпка“](media/basic-guide-21.png)
 
@@ -98,7 +98,7 @@ PSA не поддържа промяна на поръчки по договор
 
     ![Диалогов прозорец „Избор на атрибути“](media/basic-guide-22.png)
 
-7. Изберете **OK** , за да затворите диалоговия прозорец, след което изберете **Актуализиране на стъпката**.
+7. Изберете **OK**, за да затворите диалоговия прозорец, след което изберете **Актуализиране на стъпката**.
  
     ![Бутон „Актуализиране на стъпката“](media/basic-guide-23.png)
 

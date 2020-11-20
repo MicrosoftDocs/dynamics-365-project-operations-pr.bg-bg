@@ -3,7 +3,7 @@ title: Планиране на ресурси за проект
 description: Как се планират ресурси за проект в Project Service
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: db69348aac96cbfaaa865228c9230cbda4b1e784
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 1479bf920be897a6ee3498aada7a6c36692a01fc
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072026"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132110"
 ---
 # <a name="schedule-resources-for-a-project-project-service"></a>Планиране на ресурси за проект (Project Service)
 
@@ -31,7 +31,7 @@ ms.locfileid: "4072026"
 
 Можете да проверите наличността на ресурси, за да получите общ преглед на това доколко са ангажирани ресурсите ви, или можете да филтрирате прегледа по умения, екип, местоположение и други опции.  
   
-Таблото на графика показва списък с ресурси и тяхната наличност. Изберете режим на преглеждане, за да се покаже наличността по **Часове** , **Ден** , **Седмица** или **Месец**.  
+Таблото на графика показва списък с ресурси и тяхната наличност. Изберете режим на преглеждане, за да се покаже наличността по **Часове**, **Ден**, **Седмица** или **Месец**.  
   
 Преди да използвате таблото на графика е важно да го настроите. За повече информация вижте [Конфигуриране на таблото на графика (Field Service или Project Service Automation)](https://docs.microsoft.com/dynamics365/field-service/configure-schedule-board).
   

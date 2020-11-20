@@ -3,7 +3,7 @@ title: Начална страница за планиране на проект
 description: Тази тема предоставя информация за планирането на проекта.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a1c3e0e1e0314d915bce4fb840b444b79edd4ac0
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 645f9f1009bb52f6584bbce7f8ef07a033e450e9
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071788"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123275"
 ---
 # <a name="project-planning-home-page"></a>Начална страница за планиране на проекта
 

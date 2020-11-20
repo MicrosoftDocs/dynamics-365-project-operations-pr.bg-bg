@@ -3,7 +3,7 @@ title: Какво е новото или промененото в Project Servi
 description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 22, V3.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 07/28/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: badd87a276d68d9959e9cca4220daf61ed570638
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 456ed68bc1d74c2c8e5d2420a3f5d1fb8e0465d6
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071768"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4126605"
 ---
 # <a name="project-service-automation-update-release-22-v3"></a>Project Service Automation, издание на актуализация 22, V3
 
@@ -69,4 +69,4 @@ ms.locfileid: "4071768"
 - Съобщението за грешка при валидиране не се показва, когато „Ценова листа за себестойност” е избрано в справката на ценовата листа във формуляр/обект „Нова ценова листа на проект за оферта”.
 - Затварянето на офертата като спечелена не се придвижва към създадения договор, ако BPF, прикачен към офертата, е в последния етап.
 - Обръщането на **Нефактурирани продажби** се свързва с първоначалната цена, когато се анулира запис за време.
-- След като изберете бутона **Потвърждение** , състоянието на фактурата не се променя на **Потвърдено** , докато фактурата не бъде обновена.
+- След като изберете бутона **Потвърждение**, състоянието на фактурата не се променя на **Потвърдено**, докато фактурата не бъде обновена.

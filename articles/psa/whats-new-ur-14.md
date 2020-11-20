@@ -3,7 +3,7 @@ title: Какво е новото или промененото в Project Servi
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 14, V3.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 00ce5c68b1141c88671f0534f7500bf0d7eebd8e
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b811bf7ccfb626e6944801dffa943d2afab0c5e8
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071778"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124805"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation, издание на актуализация 14, V3
 С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
@@ -38,7 +38,7 @@ ms.locfileid: "4071778"
 
 - Sales
 
-     - Стойностите на персонализирани полета от **Подробности за ред на оферта** се копират в **Подробности за аспекти на договор по проект** , когато офертата се актуализира до **Затворена като спечелена**.
+     - Стойностите на персонализирани полета от **Подробности за ред на оферта** се копират в **Подробности за аспекти на договор по проект**, когато офертата се актуализира до **Затворена като спечелена**.
      - Потвърдени проекти могат да бъдат **Затворени като загубени**.
 
 - Управление на ресурс

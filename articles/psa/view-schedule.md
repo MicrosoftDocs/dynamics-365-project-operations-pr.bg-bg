@@ -3,7 +3,7 @@ title: Преглед на графика ви
 description: Как се преглежда графика ви в Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8c3f85a8502439322af68a90d8a46bfd0fbe4b65
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 35054a46251cbc4a91c7c37405e22287de4a9389
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071891"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125795"
 ---
 # <a name="view-your-schedule-project-service"></a>Преглед на графика ви (Project Service)
 
@@ -35,7 +35,7 @@ ms.locfileid: "4071891"
   
 1.  Отидете на **Project Service > Резервации и задачи**. Това извежда календарен изглед на вашия график.  
   
-2.  Щракнете върху **Назад** или **Напред** , за да видите своя график за предишната или следващата седмица. Щракнете върху **Днес** , за да се върнете към текущата седмица. Можете да щракнете върху дадена задача, за да я актуализирате, ако е необходимо.  
+2.  Щракнете върху **Назад** или **Напред**, за да видите своя график за предишната или следващата седмица. Щракнете върху **Днес**, за да се върнете към текущата седмица. Можете да щракнете върху дадена задача, за да я актуализирате, ако е необходимо.  
   
 3.  Ако предпочитате да видите списък с нещата, върху които работите, щракнете върху **Мрежа**. Можете да редактирате вградени задачи, ако е необходимо.  
   

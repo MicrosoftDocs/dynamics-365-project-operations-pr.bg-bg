@@ -3,7 +3,7 @@ title: Преглед и изпращане на фактури
 description: Как се преглеждат и изпращат фактури в Project Service
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8eaef971d1fd419b7a21f0934d6a7f5f92aa35e2
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 27994c4a14b25d769a0919514906a7be1804dae2
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071892"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125750"
 ---
 # <a name="view-and-send-invoices-project-service"></a>Преглед и изпращане на фактури (Project Service)
 
@@ -48,7 +48,7 @@ ms.locfileid: "4071892"
   
 2.  Щракнете върху проекта, върху който искате да фактурирате.  
   
-3.  Щракнете върху **Продажби** , след което щракнете върху **Фактура**.  
+3.  Щракнете върху **Продажби**, след което щракнете върху **Фактура**.  
   
 4.  Изберете параметрите за транзакциите, които искате да фактурирате, включително дата на отрязване, тип на елемент за фактуриране, единица и основно събитие. Когато сте готови с избора на параметрите, щракнете върху **Напред**.  
   

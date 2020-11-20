@@ -3,7 +3,7 @@ title: Какво е новото или промененото в Project Servi
 description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 19, V3.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 05/05/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ecc923cccfad21985025ab9d8006aaff16afc25f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: e116bcbb8e9d184b7b894709c893aaf1dadefc2f
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071773"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4126816"
 ---
 # <a name="project-service-automation-update-release-19-v3"></a>Project Service Automation, издание на актуализация 19, V3
 
@@ -60,7 +60,7 @@ ms.locfileid: "4071773"
 - Добавянето на елементи в категория на неплатими транзакции към платим аспект на договора няма да вземе предвид типа фактуриране **Неплатим** на категорията транзакции.
 - Клиентите не могат да използват новодобавените роли и категории в преди това създадени договори.
 - Клиентите се сблъскват с намалена производителност Ненужно извличане в PreValidateProjectTeamMemberUpdate.cs
-- Роли, настроени като неплатими в списъка **Категории ресурси** , трябва да се добавят към раздела **Платими роли** като **Неплатими** в аспекта на договора за проект.
+- Роли, настроени като неплатими в списъка **Категории ресурси**, трябва да се добавят към раздела **Платими роли** като **Неплатими** в аспекта на договора за проект.
 - Клиентите може да се сблъскат с намалена производителност при създаване на проект, тъй като **GetBookableResourceIdFromUser** извлича всички колони налични ресурси вместо само основния идентификатор.
-- В обекта **TransactionType** липсва добавката за актуализиране преди валидиране, за да не позволява на потребителите да въвеждат **Units** и **UnitGroups** , които не са валидни за типовете транзакции.
+- В обекта **TransactionType** липсва добавката за актуализиране преди валидиране, за да не позволява на потребителите да въвеждат **Units** и **UnitGroups**, които не са валидни за типовете транзакции.
 - Стъпката **Премахване** не работи за импортиране на запис за време.

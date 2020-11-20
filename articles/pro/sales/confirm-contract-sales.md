@@ -5,21 +5,21 @@ author: rumant
 manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: babce9c64098a9c87072786d914d2340251a8986
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 24da0887c0266d51bddcbbf8efd6f2644b6d0f4f
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071940"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128270"
 ---
 # <a name="confirm-a-project-contract"></a>Потвърждение на договор по проект
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Договор за проект в Dynamics 365 Project Operations може да бъде активен с причина **Потвърдено** , или затворени с причина **Изгубени**. Когато потвърдите договор за проект, състоянието се актуализира от **Чернова** на **Активен** и описание на състоянието е **Потвърдено**. Активен или затворен договор не може да бъде редактиран или отворен. 
+Договор за проект в Dynamics 365 Project Operations може да бъде активен с причина **Потвърдено**, или затворени с причина **Изгубени**. Когато потвърдите договор за проект, състоянието се актуализира от **Чернова** на **Активен** и описание на състоянието е **Потвърдено**. Активен или затворен договор не може да бъде редактиран или отворен. 
 
 ### <a name="financial-impact-of-confirming-a-project-contract"></a>Финансово въздействие от потвърждаване на договор за проект
 

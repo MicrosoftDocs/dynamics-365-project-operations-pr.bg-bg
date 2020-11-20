@@ -3,7 +3,7 @@ title: Създаване на проект
 description: Как се създава проект в Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/13/2020
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a1a229641d0694311ecb7019e3915d0e8e6783c3
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: de26bb4c3fa0ee8abf6edf5494968d1d0403266a
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071832"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4133085"
 ---
 # <a name="create-a-project-project-service"></a>Създаване на проект (Project Service)
 
@@ -37,7 +37,7 @@ ms.locfileid: "4071832"
   
 3.  В областта **Резюме** въведете име за своя проект и след това попълнете колкото можете повече детайли. Елементите, отбелязани с червена звездичка (*) са задължителни.  
   
-4.  Щракнете върху **Запиши** , за да създадете своя проект, така че да можете да продължите да го редактирате.  
+4.  Щракнете върху **Запиши**, за да създадете своя проект, така че да можете да продължите да го редактирате.  
   
 След това ще създадете съставна структура на работата за своя проект, за да определите задачите, времето и ролите на ресурсите, необходими за проекта.  
 

@@ -3,7 +3,7 @@ title: Резервиране на наименувани ресурси от и
 description: Тази тема предоставя информация за резервиране на ресурси за изискване за общ ресурс.
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/11/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 20e3a904bc33360b194c0c53e58430c80d1ff55f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: d7ff58ec08661adc702867c6c26805a74a3637c9
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072025"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125885"
 ---
 # <a name="book-named-resources-from-resource-requirements"></a>Резервиране на наименувани ресурси от изисквания за ресурси
 
@@ -31,7 +31,7 @@ ms.locfileid: "4072025"
 
 Можете да резервирате наименуван ресурс, за да замените общ ресурс, който има изискване за ресурс.
 
-1. В Project Service Automation (PSA), на страницата **Проекти** , щракнете върху раздела **Екип**.
+1. В Project Service Automation (PSA), на страницата **Проекти**, щракнете върху раздела **Екип**.
 2. Изберете общия ресурс, който има изискване за ресурс, от списъка и след това щракнете върху **Резервиране**. Или отворете изискването за ресурс и след това щракнете върху **Резервиране**.
 
 
