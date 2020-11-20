@@ -3,7 +3,7 @@ title: Проследяване на напредъка и разходите н
 description: Как се проследяват напредъка и разходите на проекта в Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,23 +18,23 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8cc0b0ca69258455296dd99de8a5ecf675abe81c
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ede8902a29bed224d7934a79e30f8c7e7fb9023b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071908"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121880"
 ---
-# <a name="track-project-progress-and-cost-project-service"></a><span data-ttu-id="24c92-103">Проследяване на напредъка и разходите на проекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="24c92-103">Track project progress and cost (Project Service)</span></span>
+# <a name="track-project-progress-and-cost-project-service"></a><span data-ttu-id="06bf6-103">Проследяване на напредъка и разходите на проекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="06bf6-103">Track project progress and cost (Project Service)</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="24c92-104">Необходимостта от проследяване на напредъка срещу съставната структура на работата варира между отраслите.</span><span class="sxs-lookup"><span data-stu-id="24c92-104">The need for tracking progress against a work breakdown structure varies across industry verticals.</span></span> <span data-ttu-id="24c92-105">Някои отрасли го правят по-усърдно на много гранулирано ниво на съставната структура на работата, докато други могат да следят на по-високо ниво в съставната структура на работата.</span><span class="sxs-lookup"><span data-stu-id="24c92-105">Some industries do it more diligently at a very granular level of the work breakdown structure, while others might track at a higher level of the work breakdown structure.</span></span>  
+<span data-ttu-id="06bf6-104">Необходимостта от проследяване на напредъка срещу съставната структура на работата варира между отраслите.</span><span class="sxs-lookup"><span data-stu-id="06bf6-104">The need for tracking progress against a work breakdown structure varies across industry verticals.</span></span> <span data-ttu-id="06bf6-105">Някои отрасли го правят по-усърдно на много гранулирано ниво на съставната структура на работата, докато други могат да следят на по-високо ниво в съставната структура на работата.</span><span class="sxs-lookup"><span data-stu-id="06bf6-105">Some industries do it more diligently at a very granular level of the work breakdown structure, while others might track at a higher level of the work breakdown structure.</span></span>  
   
-## <a name="effort-tracking-view"></a><span data-ttu-id="24c92-106">Изглед за проследяване на усилие</span><span class="sxs-lookup"><span data-stu-id="24c92-106">Effort tracking view</span></span>  
-<span data-ttu-id="24c92-107">Изгледът за проследяване на усилието показва проследяването на напредъка на задачата в съставната структура на работата.</span><span class="sxs-lookup"><span data-stu-id="24c92-107">The effort tracking view shows the tracking of progress for tasks in the work breakdown structure.</span></span> <span data-ttu-id="24c92-108">Той сравнява вложение реални часовете на усилия срещу задача към планираните часове на усилия за дадена задача.</span><span class="sxs-lookup"><span data-stu-id="24c92-108">It compares the actual effort hours spent against a task till date to the planned effort hours on a task.</span></span>  
+## <a name="effort-tracking-view"></a><span data-ttu-id="06bf6-106">Изглед за проследяване на усилие</span><span class="sxs-lookup"><span data-stu-id="06bf6-106">Effort tracking view</span></span>  
+<span data-ttu-id="06bf6-107">Изгледът за проследяване на усилието показва проследяването на напредъка на задачата в съставната структура на работата.</span><span class="sxs-lookup"><span data-stu-id="06bf6-107">The effort tracking view shows the tracking of progress for tasks in the work breakdown structure.</span></span> <span data-ttu-id="06bf6-108">Той сравнява вложение реални часовете на усилия срещу задача към планираните часове на усилия за дадена задача.</span><span class="sxs-lookup"><span data-stu-id="06bf6-108">It compares the actual effort hours spent against a task till date to the planned effort hours on a task.</span></span>  
   
-<span data-ttu-id="24c92-109">Понякога трябва да преразгледате първоначалните прогнози за дадена задача.</span><span class="sxs-lookup"><span data-stu-id="24c92-109">Sometimes you might need to revise the original estimates on a task.</span></span> <span data-ttu-id="24c92-110">Задачата може да се движи по-бързо или бавно, отколкото първоначално предвиденото, поради промени в обхвата или по-малко опитни хора, отколкото първоначално планираните.</span><span class="sxs-lookup"><span data-stu-id="24c92-110">The task might be moving faster or slower than originally anticipated because of changes in scope or having less experienced people than originally planned for.</span></span> <span data-ttu-id="24c92-111">Ние не препоръчваме да променяте числата си на основна линия, защото основната линия на проекта е публикувания източник з графика на проекта и очакваните цени, с които всички заинтересовани лица по проекта са се споразумели.</span><span class="sxs-lookup"><span data-stu-id="24c92-111">We don't recommend changing your baseline numbers, because the project baseline is the published source for the project’s schedule and cost estimates that all stakeholders on the project have agreed to.</span></span>  
+<span data-ttu-id="06bf6-109">Понякога трябва да преразгледате първоначалните прогнози за дадена задача.</span><span class="sxs-lookup"><span data-stu-id="06bf6-109">Sometimes you might need to revise the original estimates on a task.</span></span> <span data-ttu-id="06bf6-110">Задачата може да се движи по-бързо или бавно, отколкото първоначално предвиденото, поради промени в обхвата или по-малко опитни хора, отколкото първоначално планираните.</span><span class="sxs-lookup"><span data-stu-id="06bf6-110">The task might be moving faster or slower than originally anticipated because of changes in scope or having less experienced people than originally planned for.</span></span> <span data-ttu-id="06bf6-111">Ние не препоръчваме да променяте числата си на основна линия, защото основната линия на проекта е публикувания източник з графика на проекта и очакваните цени, с които всички заинтересовани лица по проекта са се споразумели.</span><span class="sxs-lookup"><span data-stu-id="06bf6-111">We don't recommend changing your baseline numbers, because the project baseline is the published source for the project’s schedule and cost estimates that all stakeholders on the project have agreed to.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="24c92-112">Вижте също</span><span class="sxs-lookup"><span data-stu-id="24c92-112">See Also</span></span>  
- [<span data-ttu-id="24c92-113">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="24c92-113">Project Manager Guide</span></span>](../psa/project-manager-guide.md)
+### <a name="see-also"></a><span data-ttu-id="06bf6-112">Вижте също</span><span class="sxs-lookup"><span data-stu-id="06bf6-112">See Also</span></span>  
+ [<span data-ttu-id="06bf6-113">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="06bf6-113">Project Manager Guide</span></span>](../psa/project-manager-guide.md)

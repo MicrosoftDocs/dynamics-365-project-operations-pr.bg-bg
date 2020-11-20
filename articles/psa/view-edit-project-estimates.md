@@ -3,7 +3,7 @@ title: Преглед и редактиране на оценки на прое�
 description: Как се преглеждат и редактират оценки на проекта в Project Service
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,28 +18,28 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d6f8375b71ef17319924e3a57800b1218f7258ee
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 34f0c1d85311dc6ec00e892ee899bc4dad0eed32
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071896"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125840"
 ---
-# <a name="view-and-edit-project-estimates-project-service"></a><span data-ttu-id="25893-103">Преглед и редактиране на оценки на проекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="25893-103">View and edit project estimates (Project Service)</span></span>
+# <a name="view-and-edit-project-estimates-project-service"></a><span data-ttu-id="efc38-103">Преглед и редактиране на оценки на проекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="efc38-103">View and edit project estimates (Project Service)</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="25893-104">С възможностите на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]в [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] можете да преглеждате оценки за проект, включително прогнозни оценки по себестойност, продажби или усилия.</span><span class="sxs-lookup"><span data-stu-id="25893-104">With the [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)], you can view estimates for a project, including estimates by cost, sales, or effort.</span></span>  
+<span data-ttu-id="efc38-104">С възможностите на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]в [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] можете да преглеждате оценки за проект, включително прогнозни оценки по себестойност, продажби или усилия.</span><span class="sxs-lookup"><span data-stu-id="efc38-104">With the [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)], you can view estimates for a project, including estimates by cost, sales, or effort.</span></span>  
   
-1.  <span data-ttu-id="25893-105">Отидете на **Project Service > Проекти**.</span><span class="sxs-lookup"><span data-stu-id="25893-105">Go to **Project Service > Projects**.</span></span>  
+1.  <span data-ttu-id="efc38-105">Отидете на **Project Service > Проекти**.</span><span class="sxs-lookup"><span data-stu-id="efc38-105">Go to **Project Service > Projects**.</span></span>  
   
-2.  <span data-ttu-id="25893-106">Щракнете върху проекта, върху който искате да работите.</span><span class="sxs-lookup"><span data-stu-id="25893-106">Click the project you want to work on.</span></span>  
+2.  <span data-ttu-id="efc38-106">Щракнете върху проекта, върху който искате да работите.</span><span class="sxs-lookup"><span data-stu-id="efc38-106">Click the project you want to work on.</span></span>  
   
-3.  <span data-ttu-id="25893-107">В лентата в горната част на екрана изберете стрелката за падащо меню до името на проекта и след това щракнете върху **Оценки на проекти**.</span><span class="sxs-lookup"><span data-stu-id="25893-107">In the bar across the top of the screen, select the down arrow next to the project name, and then click **Project Estimates**.</span></span>  
+3.  <span data-ttu-id="efc38-107">В лентата в горната част на екрана изберете стрелката за падащо меню до името на проекта и след това щракнете върху **Оценки на проекти**.</span><span class="sxs-lookup"><span data-stu-id="efc38-107">In the bar across the top of the screen, select the down arrow next to the project name, and then click **Project Estimates**.</span></span>  
   
-4.  <span data-ttu-id="25893-108">Във **Времева фаза по** изберете **Усилие** , **Себестойност** или **Продажби** , за да промените кои оценки на проекта да се показват.</span><span class="sxs-lookup"><span data-stu-id="25893-108">In **Time-phase By** , select **Effort** , **Cost** , or **Sales** to change which project estimates to display.</span></span>  
+4.  <span data-ttu-id="efc38-108">Във **Времева фаза по** изберете **Усилие**, **Себестойност** или **Продажби**, за да промените кои оценки на проекта да се показват.</span><span class="sxs-lookup"><span data-stu-id="efc38-108">In **Time-phase By**, select **Effort**, **Cost**, or **Sales** to change which project estimates to display.</span></span>  
   
-5.  <span data-ttu-id="25893-109">За да добавите или изтриете разходи, щракнете върху **Показване на изглед на мрежа**.</span><span class="sxs-lookup"><span data-stu-id="25893-109">To add or delete expenses, click **Show Grid View**.</span></span> <span data-ttu-id="25893-110">За да създадете нов разход, щракнете върху **Нов разход**.</span><span class="sxs-lookup"><span data-stu-id="25893-110">To create a new expense, click **New Expense**.</span></span> <span data-ttu-id="25893-111">За да изтриете разход, изберете го от списъка и щракнете върху **Изтриване на разход**.</span><span class="sxs-lookup"><span data-stu-id="25893-111">To delete an expense, select it from the list, and then click **Delete Expense**.</span></span> <span data-ttu-id="25893-112">Когато сте готови с добавянето или изтриването на разходи, щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="25893-112">When you’re done adding or deleting expenses, click **Save**.</span></span>  
+5.  <span data-ttu-id="efc38-109">За да добавите или изтриете разходи, щракнете върху **Показване на изглед на мрежа**.</span><span class="sxs-lookup"><span data-stu-id="efc38-109">To add or delete expenses, click **Show Grid View**.</span></span> <span data-ttu-id="efc38-110">За да създадете нов разход, щракнете върху **Нов разход**.</span><span class="sxs-lookup"><span data-stu-id="efc38-110">To create a new expense, click **New Expense**.</span></span> <span data-ttu-id="efc38-111">За да изтриете разход, изберете го от списъка и щракнете върху **Изтриване на разход**.</span><span class="sxs-lookup"><span data-stu-id="efc38-111">To delete an expense, select it from the list, and then click **Delete Expense**.</span></span> <span data-ttu-id="efc38-112">Когато сте готови с добавянето или изтриването на разходи, щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="efc38-112">When you’re done adding or deleting expenses, click **Save**.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="25893-113">Вижте също</span><span class="sxs-lookup"><span data-stu-id="25893-113">See Also</span></span>  
- [<span data-ttu-id="25893-114">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="25893-114">Project Manager Guide</span></span>](../psa/project-manager-guide.md)
+### <a name="see-also"></a><span data-ttu-id="efc38-113">Вижте също</span><span class="sxs-lookup"><span data-stu-id="efc38-113">See Also</span></span>  
+ [<span data-ttu-id="efc38-114">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="efc38-114">Project Manager Guide</span></span>](../psa/project-manager-guide.md)
