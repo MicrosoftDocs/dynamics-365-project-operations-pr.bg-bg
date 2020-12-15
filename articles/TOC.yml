@@ -38,6 +38,8 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: Какво е новото
       items:
+        - name: 'Декември 2020 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-dec-2020-resource-based.md
         - name: 'Ноември 2020 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-nov-2020-resource-based.md
     - name: Процес на продажби по проект
@@ -87,7 +89,7 @@
                 - name: Управление на множество клиенти в базирани на проект редове на оферта
                   href: sales/manage-multiple-customers-quote-line.md
                 - name: Конфигуриране на платимите компоненти на ред на оферта по проект
-                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
+                  href: sales/configure-chargeable-quoteline.md
                 - name: Създаване на прогнози на ред на оферта
                   href: sales/create-estimate-quote-line.md
                 - name: Импортиране на прогнози от проект в базиран на проект ред на оферта
@@ -109,7 +111,7 @@
             - name: Управление на ценови листи на проект в договори по проекти
               href: sales/contracts-manage-project-price-lists.md
             - name: Управление на множество клиенти в договори по проект
-              href: sales/contracts-manage-project-price-lists.md
+              href: sales/manage-multiple-customers-contract.md
             - name: Базирани на проект аспекти на договор
               items:
                 - name: Общ преглед на базирани на проект аспекти на договор
@@ -128,6 +130,14 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Копиране на договор по проект
               href: pro/sales/copy-project-contracts-sales.md
+            - name: Суми за аванси и капаро
+              items:
+                - name: Базирани на авансови плащания и капаро договори – олекотени
+                  href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
+                - name: Настройване на график на сума за капаро – олекотено
+                  href: pro/sales/set-up-schedule-retainers-sales.md
+                - name: Създаване на специално авансово плащане по договор – олекотено
+                  href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Ценообразуване и разходи
       items:
         - name: Настройване на ценова листа
@@ -158,18 +168,28 @@
           items:
             - name: Преглед на измеренията на ценообразуване
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: Създаване на решение за персонализирани измерения на ценообразуване
+              href: sales/create-solution-custompd.md
             - name: Използване на съществуващи полета като измерения на ценообразуване
               items:
                 - name: Полета на Project Operations като измерения на ценообразуване
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: Използване на наличен ресурс като измерение на ценообразуване
+                  href: sales/use-br-as-pd.md
+                - name: Използване на категория трансакции като измерение на ценообразуване
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: Наличен ресурс с множество роли в проект
+                  href: sales/br-playing-multiple-roles.md
             - name: Персонализирани полета като измерения на ценообразуване
               items:
                 - name: Създайте персонализирани полета и обекти като измерения на ценообразуване
                   href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
                 - name: Добавяне на персонализирани полета към настройка на цени и обекти на трансакции
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
-                - name: Настройване на персонализирани полета като измерения на ценообразуване
+                - name: 'Настройване на персонализирани полета като измерения на ценообразуване '
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+                - name: Актуализиране на атрибути на добавка за включване на нови измерения на ценообразуване
+                  href: pricing-costing/update-plugin-attributes-pd.md
             - name: Изключване на измерение на ценообразуване
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: Управление на проекти
@@ -250,12 +270,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: Администриране на ресурси
           items:
+            - name: Създаване на ресурси
+              href: resource-management/create-resources.md
             - name: Определяне на умения и опитност
               href: resource-management/define-skills-proficiencies.md
+            - name: Определяне на роли
+              href: resource-management/define-roles.md
             - name: Определяне на календари на ресурси
               href: resource-management/define-resource-calendars.md
         - name: Методи за разпределение на резервации
           href: resource-management/booking-allocation-methods.md
+        - name: Състояния на резервиране
+          href: resource-management/booking-status.md
         - name: Модели на умения и опитност
           href: resource-management/skills-proficiency-models.md
         - name: Съгласуване на ресурс
@@ -354,6 +380,8 @@
           href: proforma-invoicing/create-manual-proforma-invoice.md
         - name: Управление на проформа фактура по проект
           href: proforma-invoicing/manage-proforma-invoice.md
+        - name: Фактуриране на капаро или авансово плащане
+          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
         - name: Потвърждение на проформа фактура по проект
           href: proforma-invoicing/confirm-proforma-invoice.md
         - name: Конфигуриране на автоматизация на фактура по проект
@@ -370,6 +398,32 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Журнал за интеграция в Project Operations
           href: project-accounting/project-operations-integration-journal.md
+        - name: Междуфирмено фактуриране
+          items:
+            - name: Преглед на междуфирменото фактуриране
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: Конфигуриране на междуфирмено фактуриране
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: Създаване на междуфирмени фактури за клиенти и доставчици
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
+            - name: Създаване на междуфирмени трансакции
+              href: project-accounting/create-intercompany-transactions.md
+    - name: Признаване на приходите
+      items:
+        - name: Общ преглед на признаването на приходите
+          href: revenue-recognition/revenue-recognition-overview.md
+        - name: Задаване на признаване на приходите
+          items:
+            - name: Задаване на типове периоди
+              href: project-accounting/period-types.md
+            - name: Задаване на шаблони за разходи
+              href: revenue-recognition/rev-rec-cost-templates.md
+        - name: Управление на прогнози за приходи
+          href: revenue-recognition/rev-rec-completed-contract-method.md
+        - name: Проекти за прогнози за приходи с фиксирана цена
+          href: revenue-recognition/rev-rec-percentage-completion-method.md
+        - name: Разходи за завършване на методи
+          href: revenue-recognition/cost-complete-methods.md
 - name: Леко внедряване – фактуриране на сделката към проформа
   items:
     - name: Начало
@@ -386,6 +440,8 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
+        - name: Какво е новото през декември 2020 г. – леко внедряване – фактуриране на сделка към проформа
+          href: pro/whats-new/whats-new-dec-2020-lite.md
         - name: Какво е новото през ноември 2020 г. – леко внедряване – фактуриране на сделка към проформа
           href: pro/whats-new/whats-new-nov-2020-lite.md
     - name: Процес на продажби по проект
@@ -538,18 +594,28 @@
           items:
             - name: Преглед на измеренията на ценообразуване
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: Създаване на решение за персонализирани измерения на ценообразуване
+              href: sales/create-solution-custompd.md
             - name: Използване на съществуващи полета като измерения на ценообразуване
               items:
-                - name: Използване на съществуващо поле като измерение на ценообразуване
+                - name: Полета на Project Operations като измерения на ценообразуване
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: Използване на наличен ресурс като измерение на ценообразуване
+                  href: sales/use-br-as-pd.md
+                - name: Използване на категория трансакции като измерение на ценообразуване
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: Наличен ресурс с множество роли в проект
+                  href: sales/br-playing-multiple-roles.md
             - name: Персонализирани полета като измерения на ценообразуване
               items:
                 - name: Създайте персонализирани полета и обекти като измерения на ценообразуване
                   href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
                 - name: Добавяне на персонализирани полета към настройка на цени и обекти на трансакции
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
-                - name: Настройване на персонализирани полета като измерения на ценообразуване
+                - name: 'Настройване на персонализирани полета като измерения на ценообразуване '
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+                - name: Актуализиране на атрибути на добавка за включване на нови измерения на ценообразуване
+                  href: pricing-costing/update-plugin-attributes-pd.md
             - name: Изключване на измерение на ценообразуване
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: Управление на проекти
@@ -626,12 +692,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: Администриране на ресурси
           items:
+            - name: Създаване на ресурси
+              href: resource-management/create-resources.md
             - name: Определяне на умения и опитност
               href: resource-management/define-skills-proficiencies.md
+            - name: Определяне на роли
+              href: resource-management/define-roles.md
             - name: Определяне на календари на ресурси
               href: resource-management/define-resource-calendars.md
         - name: Методи за разпределение на резервиране
           href: resource-management/booking-allocation-methods.md
+        - name: Състояния на резервиране
+          href: resource-management/booking-status.md
         - name: Модели на умения и опитност
           href: resource-management/skills-proficiency-models.md
         - name: Съгласуване на ресурс
@@ -834,6 +906,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 26, V3'
+          href: psa/whats-new-ur-26.md
         - name: 'Какво е новото или промененото в изданието на актуализация 25, V3'
           href: psa/whats-new-ur-25.md
         - name: 'Какво е новото или промененото в изданието на актуализация 24, V3'
