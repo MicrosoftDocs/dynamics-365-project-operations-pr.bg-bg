@@ -1,5 +1,5 @@
 ---
-title: Създаване на специално авансово плащане по договор – олекотено
+title: Създаване на специално авансово плащане по договор
 description: Тази тема предоставя информация за създаване на авансово плащане по договор, ако е необходимо.
 author: rumant
 manager: Annbe
@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: a6bf02c2e2ab2f3c696b1eab1b92a20272187bf5
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 790a0281f72eff5f241d11da025b5b4af643a567
+ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181349"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "4595927"
 ---
-# <a name="creating-an-ad-hoc-advance-on-a-contract---lite"></a>Създаване на специално авансово плащане по договор – олекотено
+# <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Създаване на специално авансово плащане по договор
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Microsoft Dynamics 365 Project Operations поддържа сценарии за фактуриране, които включват предварителни плащания и аванси. Процесът за използване на **аванси** в **Project Operations** е подобен на договорите с **капаро**. 
 

@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 86b676a0cf74e0257fd76cf32271497eebc06e75
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129665"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642755"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Използвайте добавката Project Service Automation за планиране на работата в Microsoft Project
 
@@ -92,7 +92,7 @@ ms.locfileid: "4129665"
 |------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 |  [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Диаграма на Гант**   | Импортиране в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Съставна структура на работата**. |
 | [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Списък с ресурси** |   Импортиране в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Членове на екипа на проект**.   |
-|   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Използване на употреба**    |    Импортиране в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Оценки на проект**.     |
+|   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Използване на употреба**    |    Импортира в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Оценки на проект**.     |
 
 **За да импортирате и публикувате проекта**  
 1. От раздела **Project Service** щракнете върху **Публикуване** > **Нов проект на Project Service Automation**.  
@@ -173,6 +173,59 @@ ms.locfileid: "4129665"
 4. Щракнете върху **Публикуване**.  
 
 Свързването на файла на проекта с [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] прави файла на проекта главен и задава съставната структура на работата в шаблона на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] само за четене.  За да направите промени в плана на проекта, трябва да ги направите в [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да ги публикувате като актуализации в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].
+
+## <a name="read-a-resource-loaded-schedule"></a>Четене на график, зареден с ресурс
+
+Когато четете проект от Project Service Automation, календарът на ресурса не се синхронизира с настолния клиент. Ако има разлики в продължителността, усилията или края на задачата, вероятно причината е, че ресурсите и настолният клиент нямат един и същи календар с шаблон за работно време, приложен към проекта.
+
+
+## <a name="data-synchronization"></a>Синхронизиране на данни
+
+Следващата таблица описва как данните се синхронизират между Project Service Automation и добавката за настолни компютри на Microsoft Project.
+
+| **Обект** | **Поле** | **Microsoft Project към Project Service Automation** | **Project Service Automation към Microsoft Project** |
+| --- | --- | --- | --- |
+| Задача по проект | Краен срок | ● | - |
+| Задача по проект | Очаквано усилие | ● | - |
+| Задача по проект | ИД на клиент на MS Project | ● | - |
+| Задача по проект | Родителска задача | ● | - |
+| Задача по проект | Project | ● | - |
+| Задача по проект | Задача от проект | ● | - |
+| Задача по проект | Име на задача от проект | ● | - |
+| Задача по проект | Ресурсна единица (отхвърлено във версия 3.0) | ● | - |
+| Задача по проект | Планирано времетраене | ● | - |
+| Задача по проект | Начална дата | ● | - |
+| Задача по проект | ИД на ССР | ● | - |
+
+| **Обект** | **Поле** | **Microsoft Project към Project Service Automation** | **Project Service Automation към Microsoft Project** |
+| --- | --- | --- | --- |
+| Член на екипа | ИД на клиент на MS Project | ● | - |
+| Член на екипа | Име на позиция | ● | - |
+| Член на екипа | проект | ● | ● |
+| Член на екипа | Екип на проект | ● | ● |
+| Член на екипа | Ресурсна единица | - | ● |
+| Член на екипа | Роля | - | ● |
+| Член на екипа | Работни часове | Несинхронизирани | Несинхронизирани |
+
+| **Обект** | **Поле** | **Microsoft Project към Project Service Automation** | **Project Service Automation към Microsoft Project** |
+| --- | --- | --- | --- |
+| Назначаване на ресурс | От дата | ● | - |
+| Назначаване на ресурс | Часа | ● | - |
+| Назначаване на ресурс | ИД на клиент на MS Project | ● | - |
+| Назначаване на ресурс | Планирана работа | ● | - |
+| Назначаване на ресурс | Project | ● | - |
+| Назначаване на ресурс | Екип на проект | ● | - |
+| Назначаване на ресурс | Назначаване на ресурс | ● | - |
+| Назначаване на ресурс | Задача | ● | - |
+| Назначаване на ресурс | До дата | ● | - |
+
+| **Обект** | **Поле** | **Microsoft Project към Project Service Automation** | **Project Service Automation към Microsoft Project** |
+| --- | --- | --- | --- |
+| Зависимости на задачите от проекта | Зависимост на задачи от проект | ● | - |
+| Зависимости на задачите от проекта | Тип на връзката | ● | - |
+| Зависимости на задачите от проекта | Предшестваща задача | ● | - |
+| Зависимости на задачите от проекта | Project | ● | - |
+| Зависимости на задачите от проекта | Задача приемник | ● | - |
 
 ### <a name="see-also"></a>Вижте също  
  [Ръководство за мениджъри на проекти](../psa/project-manager-guide.md)

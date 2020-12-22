@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: aa6771ba5346fd4133b82c3e670badfa7655299f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 03b9a9028c1610b191db9c1bfb0163adc88bdf3e
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131870"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642350"
 ---
 # <a name="financial-dimension-defaults"></a>Стойности по подразбиране за финансово измерение
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Dynamics 365 Project Operations използва рамката [Финансови измерения](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) в Dynamics 365 Finance за предоставяне на допълнителни аналитични данни за транзакции в подкнигата и общата счетоводна книга.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Dynamics 365 Project Operations използва рамката [Финансови измерения](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) в Dynamics 365 Finance за предоставяне на допълнителни аналитични данни за трансакции в подкнигата и главната книга.
 
 Финансовите измерения по подразбиране могат да се зададат за клиент, източник на финансиране на проекта, контролна точка, аспекти на договор по проект или проект.
 

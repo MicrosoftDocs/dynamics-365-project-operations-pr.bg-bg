@@ -17,16 +17,18 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8d4e1d73dc183ed572fb5099d055d2fbe0c08746
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 093eaa78b5f88aee364a753374a56c33e20a5ce3
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121205"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642260"
 ---
 # <a name="currency"></a>Валута
 
 _**Отнася се за:** Проектни операции за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Валутите определят цените за продуктите в продуктовия каталог и разходите за транзакциите, като например поръчките за продажба. Ако вашите клиенти са разпределени в различни географски райони, добавете техните валути, за да управлявате транзакциите си. Добавете валутите, които са най-подходящи за вашите настоящи и бъдещи бизнес нужди.  
 
