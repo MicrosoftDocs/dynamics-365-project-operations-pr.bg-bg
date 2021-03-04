@@ -18,23 +18,25 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5f3a667823ac2b789bb106a1831cb7b6a56baf4c
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 5573bdaf05cb430131d92be771fb91900fb5453a
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120395"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147775"
 ---
-# <a name="dashboards"></a><span data-ttu-id="47958-103">Табла</span><span class="sxs-lookup"><span data-stu-id="47958-103">Dashboards</span></span>
+# <a name="dashboards"></a><span data-ttu-id="c74eb-103">Табла</span><span class="sxs-lookup"><span data-stu-id="c74eb-103">Dashboards</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="47958-104">Dynamics 365 Project Service Automation включва две системни табла: **Оперативен мениджър** и **Мениджър на ресурси**.</span><span class="sxs-lookup"><span data-stu-id="47958-104">Dynamics 365 Project Service Automation includes two system dashboards: **Practice Manager** and **Resource Manager**.</span></span>
+<span data-ttu-id="c74eb-104">Dynamics 365 Project Service Automation включва две системни табла: **Оперативен мениджър** и **Мениджър на ресурси**.</span><span class="sxs-lookup"><span data-stu-id="c74eb-104">Dynamics 365 Project Service Automation includes two system dashboards: **Practice Manager** and **Resource Manager**.</span></span>
 
-## <a name="practice-manager"></a><span data-ttu-id="47958-105">Оперативен мениджър</span><span class="sxs-lookup"><span data-stu-id="47958-105">Practice Manager</span></span> 
+## <a name="practice-manager"></a><span data-ttu-id="c74eb-105">Оперативен мениджър</span><span class="sxs-lookup"><span data-stu-id="c74eb-105">Practice Manager</span></span> 
 
-<span data-ttu-id="47958-106">Таблото **Оперативен мениджър** предоставя на оперативните мениджъри възможност за работа с графично табло за проследяване на разходите, продажбите, брутния марж и използването.</span><span class="sxs-lookup"><span data-stu-id="47958-106">The **Practice Manager** dashboard gives practice managers a graphical dashboard experience for tracking costs, sales, and gross margin and utilization.</span></span> <span data-ttu-id="47958-107">То също така позволява на оперативните мениджъри да разделят информацията по различни измерения, като например клиент, проект или роля на ресурс.</span><span class="sxs-lookup"><span data-stu-id="47958-107">It also lets practice managers slice the information by various dimensions, such as customer, project, or resource role.</span></span> <span data-ttu-id="47958-108">За повече информация относно начина на създаване и персонализиране на табла вижте [Създаване или редактиране на табла](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).</span><span class="sxs-lookup"><span data-stu-id="47958-108">For more information about how to create and customize dashboards, see [Create or edit dashboards](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).</span></span>
+<span data-ttu-id="c74eb-106">Таблото **Оперативен мениджър** предоставя на оперативните мениджъри възможност за работа с графично табло за проследяване на разходите, продажбите, брутния марж и използването.</span><span class="sxs-lookup"><span data-stu-id="c74eb-106">The **Practice Manager** dashboard gives practice managers a graphical dashboard experience for tracking costs, sales, and gross margin and utilization.</span></span> <span data-ttu-id="c74eb-107">То също така позволява на оперативните мениджъри да разделят информацията по различни измерения, като например клиент, проект или роля на ресурс.</span><span class="sxs-lookup"><span data-stu-id="c74eb-107">It also lets practice managers slice the information by various dimensions, such as customer, project, or resource role.</span></span> <span data-ttu-id="c74eb-108">За повече информация относно начина на създаване и персонализиране на табла вижте [Създаване или редактиране на табла](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).</span><span class="sxs-lookup"><span data-stu-id="c74eb-108">For more information about how to create and customize dashboards, see [Create or edit dashboards](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).</span></span>
 
-## <a name="resource-manager"></a><span data-ttu-id="47958-109">Мениджър на ресурси</span><span class="sxs-lookup"><span data-stu-id="47958-109">Resource Manager</span></span> 
+## <a name="resource-manager"></a><span data-ttu-id="c74eb-109">Мениджър на ресурси</span><span class="sxs-lookup"><span data-stu-id="c74eb-109">Resource Manager</span></span> 
 
-<span data-ttu-id="47958-110">Таблото **Мениджър на ресурси** предоставя на мениджърите на ресурси възможност за работа с графично табло за следене на заявките за ресурси и търсенето и използването на ресурсите.</span><span class="sxs-lookup"><span data-stu-id="47958-110">The **Resource Manager** dashboard gives resource managers a graphical dashboard experience for monitoring resource requests, and resource demand and utilization.</span></span> <span data-ttu-id="47958-111">Освен това позволява на мениджърите на ресурси да разделят проследяваната информация по различни измерения.</span><span class="sxs-lookup"><span data-stu-id="47958-111">It also lets resource managers slice the monitored information by various dimensions.</span></span>
+<span data-ttu-id="c74eb-110">Таблото **Мениджър на ресурси** предоставя на мениджърите на ресурси възможност за работа с графично табло за следене на заявките за ресурси и търсенето и използването на ресурсите.</span><span class="sxs-lookup"><span data-stu-id="c74eb-110">The **Resource Manager** dashboard gives resource managers a graphical dashboard experience for monitoring resource requests, and resource demand and utilization.</span></span> <span data-ttu-id="c74eb-111">Освен това позволява на мениджърите на ресурси да разделят проследяваната информация по различни измерения.</span><span class="sxs-lookup"><span data-stu-id="c74eb-111">It also lets resource managers slice the monitored information by various dimensions.</span></span>
