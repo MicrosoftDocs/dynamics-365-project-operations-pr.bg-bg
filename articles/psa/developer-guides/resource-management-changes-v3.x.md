@@ -16,20 +16,22 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5176d2c6b7b00d47d4aeb12f54bdb84d4b87304c
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 94f9adc67163254486387a1ce59d5d3e8e93c335
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072011"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148630"
 ---
 # <a name="resource-management-changes-project-service-automation-3x"></a>Промени в управлението на ресурси (Project Service Automation 3.x)
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 Разделите в тази тема предоставят информация за промените, които са направени в областта за управление „Ресурси“ на Dynamics 365 Project Service Automation версия 3.x.
 
 ## <a name="project-estimates"></a>Прогнозни оценки на проекта
 
-Вместо да се базират на обекта **msdyn\_projecttask** ( **Задача по проект** ), прогнозните оценки на проекта се базират на обекта **msdyn\_resourceassignment** ( **Присвояване на ресурс** ). Присвояването на ресурси стана „източник на достоверни данни“ за планиране на задачи и ценообразуване.
+Вместо да се базират на обекта **msdyn\_projecttask** (**Задача по проект**), прогнозните оценки на проекта се базират на обекта **msdyn\_resourceassignment** (**Присвояване на ресурс**). Присвояването на ресурси стана „източник на достоверни данни“ за планиране на задачи и ценообразуване.
 
 ## <a name="line-tasks"></a>Линейни задачи
 
@@ -65,7 +67,7 @@ ms.locfileid: "4072011"
 
 ## <a name="scheduling-fields-on-the-project-task-entity"></a>Полета за планиране в обекта „Задача по проект“
 
-Полетата в обекта **msdyn\_projecttask** са отхвърлени или преместени в обекта **msdyn\_resourceassignment** , или вече получават препратки от обекта **msdyn\_projectteam** ( **Член на екипа по проект** ).
+Полетата в обекта **msdyn\_projecttask** са отхвърлени или преместени в обекта **msdyn\_resourceassignment**, или вече получават препратки от обекта **msdyn\_projectteam** (**Член на екипа по проект**).
 
 | Отхвърлено поле в msdyn\_projecttask (задача по проект) | Ново поле msdyn\_resourceassignment (присвояване на ресурси) | Коментар |
 |---|---|---|
@@ -77,7 +79,7 @@ ms.locfileid: "4072011"
 
 ## <a name="schedule-contour"></a>Контур на график
 
-Контурът на графика се съхранява в полето **Planned Work** ( **msdyn\_plannedwork** ) на всеки обект **Присвояване на ресурс** ( **msdyn\_resourceassignment** ).
+Контурът на графика се съхранява в полето **Planned Work** (**msdyn\_plannedwork**) на всеки обект **Присвояване на ресурс** (**msdyn\_resourceassignment**).
 
 ### <a name="structure"></a>Структура
 
@@ -139,7 +141,7 @@ ms.locfileid: "4072011"
 
 ## <a name="pricing-dimensions"></a>Ценови измерения
 
-В PSA 3. x специфични за ресурсите полета за ценови измерения (като **Роля** и **Организационна единица** ) са премахнати от обекта **msdyn\_projecttask**. Тези полета сега могат да бъдат извлечени от съответния член на екипа на ( **msdyn\_projectteam** ) на присвояването на ресурс ( **msdyn\_resourceassignment** ) при генериране на прогнозни оценки за проекта. Ново поле **msdyn\_organizationalunit** е добавено към обекта **msdyn\_projectteam**.
+В PSA 3. x специфични за ресурсите полета за ценови измерения (като **Роля** и **Организационна единица**) са премахнати от обекта **msdyn\_projecttask**. Тези полета сега могат да бъдат извлечени от съответния член на екипа на (**msdyn\_projectteam**) на присвояването на ресурс (**msdyn\_resourceassignment**) при генериране на прогнозни оценки за проекта. Ново поле **msdyn\_organizationalunit** е добавено към обекта **msdyn\_projectteam**.
 
 | Отхвърлено поле в msdyn\_projecttask (задача по проект) | Поле от msdyn\_projectteam (член на екипа по проект), което се използва вместо |
 |---|---|
@@ -155,12 +157,12 @@ ms.locfileid: "4072011"
 | msdyn\_costestimatecontour | msdyn\_plannedcostcontour |
 | msdyn\_salesestimatecontour | msdyn\_plannedsalescontour |
 
-Следващите полета са добавени в обекта **msdyn\_resourceassignment** :
+Следващите полета са добавени в обекта **msdyn\_resourceassignment**:
 
 * msdyn\_plannedcost
 * msdyn\_plannedsales
 
-Следващите полета за планирани, действителни и останали разходи и продажби са непроменени в обекта **msdyn\_projecttask** :
+Следващите полета за планирани, действителни и останали разходи и продажби са непроменени в обекта **msdyn\_projecttask**:
 
 * msdyn\_plannedcost
 * msdyn\_plannedsales
