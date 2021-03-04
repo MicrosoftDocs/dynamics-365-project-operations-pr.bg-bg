@@ -16,16 +16,14 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 0af23ed2cf172e4c90de72f5db389c349303c039
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 8f3235d12499c68a52f9d1c7e118e7bc91dc3a0a
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071974"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960504"
 ---
 # <a name="set-up-expense-management-workflows"></a>Настройване на работни потоци за управление на разходите
-
-[!include [banner](../includes/banner.md)]
 
 Можете да настроите процес на работен поток, който се използва за преглед и одобряване на документи за пътуване и разходи. Документите, за които работните потоци могат да бъдат определени, включват отчети за разходите, заявки за пътуване и искания за авансови плащания.
 

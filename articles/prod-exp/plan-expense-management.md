@@ -18,16 +18,14 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: e2291515cc154fb5b34ca5802135791958bea1e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: db3529597c662a326730cf6a0b855ae865f0dce5
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071968"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960324"
 ---
 # <a name="configure-expense-management"></a>Конфигуриране на управление на разходите
-
-[!include [banner](../includes/banner.md)]
 
 Тази тема описва съображенията и решенията, които трябва да вземете по време на процеса на планиране, преди да конфигурирате управлението на разходите. В управлението на разходите можете да съхранявате информация за начините на плащане, заявките за пътуване, отчетите за разходите, политиките и т.н.
 

@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f80922877f3d3d0e1149c2aa690f881bcf927b11
-ms.sourcegitcommit: 5791f6347e800fc4f6c76e7460947cb6824edebe
+ms.openlocfilehash: 3889402ab991e307bc3fe5463098dfab383a53b4
+ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "4700667"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "4727867"
 ---
 # <a name="whats-new-december-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото през декември 2020 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
@@ -24,6 +24,8 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 
 - Project Operations в среда на Dataverse, версия 4.5.0.134
 - Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.15
+
+За информация как да актуализирате до тази версия вижте [Актуализирайте Project Operations във вашата среда на Finance](ur5-nonstocked-installation.md).
 
 ## <a name="features-included-in-this-release"></a>Функции, включени в тази версия
 Следните функции са включени в това издание:
