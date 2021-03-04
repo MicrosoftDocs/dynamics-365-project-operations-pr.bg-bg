@@ -74,3 +74,6 @@ ms.locfileid: "5143545"
 - Когато избирате базиран на проект ред в оферта или договор, бутонът **Предложение** трябва да се вижда само при избор на базиран на продукт ред, свързан със съществуващ продукт.
 - Разделете привилегията **Create_Product** от привилегията **Create_ProjectContract**.
 - Изтриването на ред за фактура води до грешка поради нулева препратка в **MarkReadyToInvoiceForProductContractLineAfterDeletingInvoice**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

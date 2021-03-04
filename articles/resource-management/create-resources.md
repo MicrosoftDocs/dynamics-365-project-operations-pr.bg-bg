@@ -20,3 +20,6 @@ ms.locfileid: "4514488"
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Можете да използвате Dynamics 365 Field Service, за да създавате налични ресурси, които да използвате в средата на Dynamics 365 Project Operations. За да създадете тези ресурси, вижте [Задаване на налични ресурси](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

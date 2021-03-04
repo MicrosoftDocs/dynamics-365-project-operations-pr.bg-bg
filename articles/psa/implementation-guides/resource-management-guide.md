@@ -44,3 +44,6 @@ ms.locfileid: "5149035"
 
 > [!NOTE]
 > Тази тема ще бъде премахната в бъдеща актуализация на документацията. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

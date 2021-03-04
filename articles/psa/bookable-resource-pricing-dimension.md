@@ -76,3 +76,6 @@ ms.locfileid: "5144985"
 5. Добавете **msdyn_projectteam** към полето **Логическо име на обект** и **msdyn_bookableresourceid** в полето **Име на поле**. Записване на записа.
 
  ![Формуляр „Ново име на поле на ценово измерение“](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

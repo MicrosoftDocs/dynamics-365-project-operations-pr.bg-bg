@@ -153,3 +153,6 @@ ms.locfileid: "4764806"
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Съпоставяне на етапа на проектната линия на проекти в проекти и договори (PSA 3.x към Dynamics) - шаблон v2:
 
 [![Съпоставяне на шаблон на контролна точка с шаблон на втора версия](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

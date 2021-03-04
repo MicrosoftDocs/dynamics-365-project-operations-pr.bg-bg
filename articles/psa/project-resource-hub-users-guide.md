@@ -105,3 +105,6 @@ ms.locfileid: "5148180"
  [Преглед на Project Service](../psa/overview.md)   
  [Ръководство за време, разходи и сътрудничество](../psa/time-expense-collaboration-guide.md)   
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

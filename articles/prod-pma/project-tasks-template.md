@@ -83,3 +83,6 @@ ms.locfileid: "4071802"
 Следващата илюстрация показва пример за съпоставяния на задача на шаблон при интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
 [![Съпоставяне на шаблони](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

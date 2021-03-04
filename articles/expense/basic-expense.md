@@ -55,3 +55,6 @@ _**Прилага се за:** Леко внедряване – фактури�
 ## <a name="see-also"></a>Вижте също
 
 - [Общ преглед на одобренията](../approvals/approvals-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

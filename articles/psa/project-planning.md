@@ -52,3 +52,6 @@ Dynamics 365 Project Service Automation предлага цялостна под
 - [Шаблони на проекти](project-templates.md)
 - [Етапи на проекти](project-stages.md)
 - [Настройки на проекти](project-settings.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

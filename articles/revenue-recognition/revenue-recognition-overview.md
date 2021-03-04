@@ -60,3 +60,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 [Управление на прогнози за приходи](rev-rec-completed-contract-method.md)
 
 [Методи за разходи за завършване](cost-complete-methods.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

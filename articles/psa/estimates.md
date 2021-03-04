@@ -106,3 +106,6 @@ PSA не поддържа промяна на поръчки по договор
 
 8. Повторете стъпки от 1 до 7 за втората добавка.
 9. Затворете PluginRegistrationTool.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -49,3 +49,6 @@ ms.locfileid: "4071798"
     | Крайна дата    | Въведете крайна дата за процеса на синхронизиране за събирания на капацитета на ресурсите. |
 
 [![Процес на синхронизация](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

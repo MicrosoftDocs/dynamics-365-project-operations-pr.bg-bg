@@ -125,3 +125,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
  
  ![Синхронизиране на карта на книга](media/DW6.png)
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

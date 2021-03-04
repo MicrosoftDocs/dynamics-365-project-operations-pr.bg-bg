@@ -75,3 +75,6 @@ ms.locfileid: "4642440"
 ## <a name="install-the-project-service-automation-to-finance-integration-solution-in-your-project-service-automation-instance"></a>Инсталирайте решението за интеграция на Project Service Automation във Finance във вашия екземпляр на Project Service Automation
 
 Изтеглете решението за интеграция на Project Service Automation във Finance от [Център за изтегляне на Microsoft](https://www.microsoft.com/download/details.aspx?id=57016) и следвайте инструкциите, приложени към решението.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

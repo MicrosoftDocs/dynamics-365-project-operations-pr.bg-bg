@@ -78,3 +78,6 @@ ms.locfileid: "4122780"
 - Работен поток на ниво линия
 - Временна подкрепа на одобряващия
 - Разширено разделяне
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

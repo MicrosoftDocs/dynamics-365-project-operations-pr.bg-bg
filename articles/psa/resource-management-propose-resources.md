@@ -113,3 +113,6 @@ ms.locfileid: "5147505"
 За да видите повече подробности за отделния ресурс, щракнете с десния бутон върху него, за да отворите картата на ресурса.
 
 ![Карта на ресурс](media/Resource-Management-image71.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

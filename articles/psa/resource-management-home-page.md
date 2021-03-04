@@ -41,3 +41,6 @@ ms.locfileid: "5147550"
 - [Изисквания за непотвърдени резервации](resource-management-softbook-requirements.md)
 - [Умения и модели на опитност](resource-management-skills-proficiency.md)
 - [ЧЗВ за управление на ресурси](resource-management-faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

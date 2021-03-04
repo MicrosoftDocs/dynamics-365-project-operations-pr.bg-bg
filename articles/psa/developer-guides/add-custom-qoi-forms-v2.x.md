@@ -96,3 +96,6 @@ Dynamics 365 Project Service Automation разчита на полето **Ти�
     ```
 
 6. Запишете и след това публикувайте персонализациите.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

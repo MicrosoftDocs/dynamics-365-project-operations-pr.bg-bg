@@ -42,3 +42,6 @@ Project Operations е мощен сам по себе си, но може да �
 - [Общ преглед на Project Operations](https://dynamics.microsoft.com/en-us/project-operations/overview/)
 - [Общ преглед на вълната на издание на Dynamics 365 Project Operations за 2020, вълна 1](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/dynamics365-project-operations/)
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

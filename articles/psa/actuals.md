@@ -330,3 +330,6 @@ PSA записва финансовите транзакции, които въ�
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

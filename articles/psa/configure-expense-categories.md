@@ -55,3 +55,6 @@ ms.locfileid: "5151510"
   
 ### <a name="see-also"></a>Вижте също  
  [Конфигуриране на Project Service Automation](../psa/configure.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

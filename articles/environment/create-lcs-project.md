@@ -36,3 +36,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 
 Използвайте този LCS проект, за да разгърнете средата си за Project Operations.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

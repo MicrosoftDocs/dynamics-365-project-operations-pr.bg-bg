@@ -73,3 +73,6 @@ ms.locfileid: "5144850"
 > ![Примерни данни за обект „Стандартна длъжност“ ](media/ST-data.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

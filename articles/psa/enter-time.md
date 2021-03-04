@@ -61,3 +61,6 @@ ms.locfileid: "5149305"
   
 ### <a name="see-also"></a>Вижте също  
  [Ръководство за време, разходи и сътрудничество](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

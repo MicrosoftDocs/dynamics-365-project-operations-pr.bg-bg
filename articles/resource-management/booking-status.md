@@ -20,3 +20,6 @@ ms.locfileid: "4514489"
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Можете да използвате функционалността, предоставена в Universal Resource Scheduling за Dynamics 365 Field Service, за да настроите състояния на резервация за организацията. За информация как да изпълните тази настройка вижте [Задаване на състояния на резервация](https://docs.microsoft.com/dynamics365/field-service/set-up-booking-statuses).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

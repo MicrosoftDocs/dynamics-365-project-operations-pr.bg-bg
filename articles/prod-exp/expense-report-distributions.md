@@ -37,3 +37,6 @@ ms.locfileid: "4960729"
 |Хотел         |EUR 725              |EUR 557                        |EUR 168                          |
 |Хранене         |EUR 346              |EUR 284                        |EUR 62                           |
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

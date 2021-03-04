@@ -42,3 +42,6 @@ ms.locfileid: "5146605"
 
 - Планирайте влошаване на ефективността при търсене на помощ
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -297,3 +297,6 @@ ms.locfileid: "5144490"
 
 > [!div class="mx-imgBorder"]
 > ![Екранна снимка на активните налични ресурси](media/sample-data-6.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -68,3 +68,6 @@ ms.locfileid: "5147055"
 
 9. Затворете инструмента за регистрация на добавки.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

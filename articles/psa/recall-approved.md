@@ -107,3 +107,6 @@ ms.locfileid: "5147820"
 Следната илюстрация показва промените, които възникват за одобрените записи за разходи, когато се отменят.
 
 ![Преходи в състояние на записи за разходи](media/ExpenseEntryStateTransitions.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -273,3 +273,6 @@ _**Прилага се за:** Леко внедряване – фактури�
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

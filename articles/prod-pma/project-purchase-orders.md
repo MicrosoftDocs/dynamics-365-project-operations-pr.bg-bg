@@ -76,3 +76,6 @@ ms.locfileid: "4071808"
 
 За повече информация вижте [Получавайте артикули по поръчка за покупка от изискването за артикул](tasks/receive-items-purchase-order-item-requirement.md).
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

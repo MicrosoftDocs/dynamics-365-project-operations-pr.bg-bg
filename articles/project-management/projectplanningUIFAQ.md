@@ -106,3 +106,6 @@ Project Operations разчита на външна услуга за плани
   - Система на Project Operations
   - Система на проекта
   - Система за двойно записване на Project Operations (Тази роля се изисква, ако внедрявате базиран на ресурси / нескладиран сценарий на Project Operations.)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

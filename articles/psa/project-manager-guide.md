@@ -95,3 +95,6 @@ ms.locfileid: "5148270"
  [Ръководство за мениджъри на ресурси](../psa/resource-manager-guide.md)   
  [Ръководство за време, разходи и сътрудничество](../psa/time-expense-collaboration-guide.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

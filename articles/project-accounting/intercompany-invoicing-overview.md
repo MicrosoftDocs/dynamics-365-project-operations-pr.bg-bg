@@ -43,3 +43,6 @@ Dynamics 365 Project Operations използва следния поток за 
 - [Конфигуриране на междуфирмено фактуриране](configure-intercompany-invoicing.md)
 - [Запис на междуфирмени трансакции](create-intercompany-transactions.md)
 - [Създаване на междуфирмени фактури за клиенти и доставчици](create-intercompany-customer-vendor-invoices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

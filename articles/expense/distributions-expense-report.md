@@ -30,3 +30,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 | Тарифа за влака   | DKK 578              | DKK 405                         | DKK 173                         |
 | Хотел        | EUR 725              | EUR 557                         | EUR 168                         |
 | Хранене        | EUR 346              | EUR 284                         | EUR 62                          |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

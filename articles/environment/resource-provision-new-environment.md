@@ -209,3 +209,6 @@ Project Operations изисква среда на Finance с версия на �
 
 
 Средата на Project Operations вече е подготвена и конфигурирана. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

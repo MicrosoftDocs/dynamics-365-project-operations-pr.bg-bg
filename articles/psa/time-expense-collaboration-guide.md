@@ -73,3 +73,6 @@ ms.locfileid: "5150115"
  [Ръководство за мениджъри на акаунти](../psa/account-manager-guide.md)   
  [Ръководство за мениджъри на проекти](../psa/project-manager-guide.md)   
  [Ръководство за мениджъри на ресурси](../psa/resource-manager-guide.md)   
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

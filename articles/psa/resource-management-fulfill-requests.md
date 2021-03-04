@@ -46,3 +46,6 @@ ms.locfileid: "5147595"
 > ![Избран ресурс](media/Resource-Management-image61.png)
 
 Общият член на екипа се заменя с потвърдено резервиран наименуван ресурс в екипа на проекта и присвоявания на задачи в графика на проекта.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

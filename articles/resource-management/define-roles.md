@@ -20,3 +20,6 @@ ms.locfileid: "4514490"
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Можете да използвате функционалността, предоставена в Dynamics 365 Field Service, за да определяте ролите в средата на Dynamics 365 Project Operations. За да завършите тази настройка, вижте [Задаване на категории налични ресурси](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resource-categories).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

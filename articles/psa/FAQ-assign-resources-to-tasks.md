@@ -82,3 +82,6 @@ ms.locfileid: "5149980"
 
 3. Изберете ресурса, който искате да присвоите на задачата.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

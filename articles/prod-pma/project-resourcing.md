@@ -55,3 +55,6 @@ ms.locfileid: "4071806"
 - [Производителност на планиране на ресурс за проект](project-scheduling-performance.md)
 - [Настройване на роли в шаблони за съставна структура на работата](set-up-roles-wbs-template.md)
 - [Изпълнение на ресурсите за планираните ресурси](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

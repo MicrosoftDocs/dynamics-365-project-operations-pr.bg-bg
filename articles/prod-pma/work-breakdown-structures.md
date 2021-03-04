@@ -316,3 +316,6 @@ Finance използват правилото за печалба 0:100, ког�
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -44,3 +44,6 @@ ms.locfileid: "5147839"
 - [Групи единици и единици](advanced-units.md)
 - [Многокомпонентна валута](advanced-currency.md)
 - [Записване на действителни данни](advanced-actuals.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -94,3 +94,6 @@ _**Отнася се за:** Проектни операции за сценар
 Finance ще се свърже с Cognitive Services, за да извлече данните на място. Cognitive Services ще запазят копие от вашата разписка до 24 часа, докато настъпи обработката. След приключване на обработката Cognitive Services ще премахне разписката. Разписките все още се съхраняват във Finance.
 
 За повече информация вижте [Активирайте разбирането на касовите бележки с новата възможност на Разпознавател на формуляри](https://azure.microsoft.com/blog/enable-receipt-understanding-with-form-recognizer-s-new-capability/).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

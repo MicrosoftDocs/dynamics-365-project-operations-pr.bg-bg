@@ -145,3 +145,6 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
 За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

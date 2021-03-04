@@ -170,3 +170,6 @@ ms.locfileid: "4071948"
 [![Шаблонно картографиране на транзакции за оценка на разходите](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
 [![Шаблонно картографиране на оценка на разходите](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

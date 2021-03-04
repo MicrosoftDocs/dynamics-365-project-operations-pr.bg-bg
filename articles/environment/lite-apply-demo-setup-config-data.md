@@ -74,3 +74,6 @@ _**Леко внедряване – фактуриране на сделка к
     -   Характеристика на наличен ресурс
 
     ![Пълно импортиране](./media/6CompleteImport.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

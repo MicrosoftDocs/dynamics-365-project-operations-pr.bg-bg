@@ -68,3 +68,6 @@ ms.locfileid: "5144625"
 > ![Не включвай всички свързани компоненти](media/Do-not-include-required.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

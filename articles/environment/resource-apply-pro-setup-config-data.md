@@ -134,3 +134,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 13. Изберете **Записване**. 
 
 ![Актуализирани параметри на проекта](./media/17UpdatedProjectParameters.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

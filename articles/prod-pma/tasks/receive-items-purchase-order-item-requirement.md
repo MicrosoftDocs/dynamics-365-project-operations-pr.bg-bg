@@ -56,3 +56,6 @@ ms.locfileid: "4071987"
 21. В полето **Разписка на продукта** въведете стойност.
 22. Изберете **OK**.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

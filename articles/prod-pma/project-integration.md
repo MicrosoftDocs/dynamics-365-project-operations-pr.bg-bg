@@ -127,3 +127,6 @@ ms.locfileid: "4071881"
 8.  Изберете **Календар** , който да се използва за ресурси.
 
 11. Щракнете върху **OK**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

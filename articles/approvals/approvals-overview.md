@@ -59,3 +59,6 @@ _**Отнася се за:** Project Operations за сценарии, бази�
 3. Изберете **Записване**.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

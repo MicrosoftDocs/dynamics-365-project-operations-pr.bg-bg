@@ -55,3 +55,6 @@ ms.locfileid: "4180674"
     | За разработчици | Fabrikam US | Fabrikam US - Robotics | $150 |
 
 3. Прикачете ценовата листа на продажбите, **Стойности на сметка на Fabrikam US** към ценовата листа на проекта по договор за проект или към определен акаунт.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

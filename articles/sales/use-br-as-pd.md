@@ -78,3 +78,6 @@ ms.locfileid: "4643070"
 5. Добавете **msdyn_bookableresourceid** към **Име на поле**.
 
  ![Формуляр „Ново име на поле на ценово измерение“](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

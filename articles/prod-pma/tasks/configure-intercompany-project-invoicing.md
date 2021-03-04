@@ -64,3 +64,6 @@ ms.locfileid: "4071879"
 32. В полето **Ценообразуване** , въведете число.
 33. Изберете **Записване**.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

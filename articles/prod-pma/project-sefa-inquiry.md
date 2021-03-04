@@ -104,3 +104,6 @@ ms.locfileid: "4071804"
 - Каталог на Федералната домашна помощ
 - Разписки
 - Разходи
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

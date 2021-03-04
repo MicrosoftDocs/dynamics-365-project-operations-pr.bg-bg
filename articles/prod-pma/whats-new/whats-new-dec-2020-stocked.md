@@ -142,3 +142,6 @@ _Приложимо за: Project Operations за сценарии, базира
 ## <a name="regulatory-updates"></a>Нормативни актуализации
 
 За информация относно нормативните актуализации за Dynamics 365 Finance вижте [Нормативни актуализации](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Друг начин да научите за регулаторните актуализации е да влезете в Lifecycle Services (LCS) и да видите планираните регулаторни актуализации с помощта на инструмента за търсене на проблеми. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

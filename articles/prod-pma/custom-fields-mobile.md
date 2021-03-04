@@ -429,3 +429,6 @@ final class TSTimesheetDetails_Extension
 1. Приложението се опитва да постави категорията по подразбиране от ресурса на проекта. Тази категория по подразбиране е зададена в методите **getCurrentUserResource** и **getDelegatedResourcesForCurrentUser** в класа **TSTimesheetSettingsService**.
 2. Ако категорията по подразбиране не е предоставена на ниво ресурс на проекта, приложението се опитва да я изтегли от активността на проекта. Тази категория по подразбиране е зададена в метода **getActivitiesForProject** в класа **TSTimesheetProjectServic**.
 3. Ако категорията по подразбиране не е предоставена на ниво дейност по проекта, категорията по подразбиране се взема от параметрите на проекта. Тази категория по подразбиране е зададена в метода **getProjectDetailsbyRule** в класа **TSTimesheetProjectServic**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

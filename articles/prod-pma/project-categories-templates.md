@@ -124,3 +124,6 @@ ms.locfileid: "4071959"
 > Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
 [![Съпоставяне на Project Service Automation с шаблон на Finance](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

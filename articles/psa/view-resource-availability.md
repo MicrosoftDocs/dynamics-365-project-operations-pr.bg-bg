@@ -48,3 +48,6 @@ ms.locfileid: "5143860"
 
 ### <a name="see-also"></a>Вижте също  
  [Ръководство за мениджъри на ресурси](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

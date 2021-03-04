@@ -43,3 +43,6 @@ ms.locfileid: "5149485"
   
 ### <a name="see-also"></a>Вижте също  
  [Конфигуриране на Project Service](../psa/configure.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
