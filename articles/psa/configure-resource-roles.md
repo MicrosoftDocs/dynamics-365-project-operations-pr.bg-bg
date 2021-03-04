@@ -18,42 +18,44 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0b573bec395217e105cc8d9c669343e37ff6662e
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: deaff0977ebb50382a28494fba2a1c34ed5cc9b4
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129125"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144895"
 ---
-# <a name="configure-resource-roles-project-service"></a><span data-ttu-id="de279-103">Конфигуриране на роли на ресурси (Project Service)</span><span class="sxs-lookup"><span data-stu-id="de279-103">Configure resource roles (Project Service)</span></span>
+# <a name="configure-resource-roles-project-service"></a><span data-ttu-id="80d24-103">Конфигуриране на роли на ресурси (Project Service)</span><span class="sxs-lookup"><span data-stu-id="80d24-103">Configure resource roles (Project Service)</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="de279-104">Ролите играят важна роля при планирането на проекти, при определянето на изискванията за ресурси или разходите по проекта.</span><span class="sxs-lookup"><span data-stu-id="de279-104">Roles play an important part in project planning, when determining resource requirements or costs of a project.</span></span> <span data-ttu-id="de279-105">За всяка роля, която изискват проектите ви, трябва да създадете роля за ресурс и да свържете умения и нива на професионална подготовка за тази роля.</span><span class="sxs-lookup"><span data-stu-id="de279-105">For each role your projects require, you need to create a resource role and associate skills and proficiencies to that role.</span></span> <span data-ttu-id="de279-106">Например можете да създадете роли за разработчик, ръководител на проекта или тестер на игри.</span><span class="sxs-lookup"><span data-stu-id="de279-106">For example, you might want to create roles for developer, project manager, or game tester.</span></span> <span data-ttu-id="de279-107">Също задавате уменията и нива на професионална подготовка, необходими за ролята.</span><span class="sxs-lookup"><span data-stu-id="de279-107">You’ll also set the skills and proficiency levels required for the role.</span></span>  
+<span data-ttu-id="80d24-104">Ролите играят важна роля при планирането на проекти, при определянето на изискванията за ресурси или разходите по проекта.</span><span class="sxs-lookup"><span data-stu-id="80d24-104">Roles play an important part in project planning, when determining resource requirements or costs of a project.</span></span> <span data-ttu-id="80d24-105">За всяка роля, която изискват проектите ви, трябва да създадете роля за ресурс и да свържете умения и нива на професионална подготовка за тази роля.</span><span class="sxs-lookup"><span data-stu-id="80d24-105">For each role your projects require, you need to create a resource role and associate skills and proficiencies to that role.</span></span> <span data-ttu-id="80d24-106">Например можете да създадете роли за разработчик, ръководител на проекта или тестер на игри.</span><span class="sxs-lookup"><span data-stu-id="80d24-106">For example, you might want to create roles for developer, project manager, or game tester.</span></span> <span data-ttu-id="80d24-107">Също задавате уменията и нива на професионална подготовка, необходими за ролята.</span><span class="sxs-lookup"><span data-stu-id="80d24-107">You’ll also set the skills and proficiency levels required for the role.</span></span>  
   
- <span data-ttu-id="de279-108">Конфигурирайте роли на ресурси, за да гарантирате ефективна оценка на проектите за организацията ви.</span><span class="sxs-lookup"><span data-stu-id="de279-108">Configure resource roles to ensure effective project estimation for your organization.</span></span>  <span data-ttu-id="de279-109">Също така не забравяйте да зададете точно типа фактуриране.</span><span class="sxs-lookup"><span data-stu-id="de279-109">Also make sure you accurately set the billing type.</span></span> <span data-ttu-id="de279-110">Набор елемент с неплатим тип фактуриране не се показва на редовете за договор или оферта.</span><span class="sxs-lookup"><span data-stu-id="de279-110">An item set with a non-chargeable billing type doesn’t show up on contract or quote lines.</span></span>  
+ <span data-ttu-id="80d24-108">Конфигурирайте роли на ресурси, за да гарантирате ефективна оценка на проектите за организацията ви.</span><span class="sxs-lookup"><span data-stu-id="80d24-108">Configure resource roles to ensure effective project estimation for your organization.</span></span>  <span data-ttu-id="80d24-109">Също така не забравяйте да зададете точно типа фактуриране.</span><span class="sxs-lookup"><span data-stu-id="80d24-109">Also make sure you accurately set the billing type.</span></span> <span data-ttu-id="80d24-110">Набор елемент с неплатим тип фактуриране не се показва на редовете за договор или оферта.</span><span class="sxs-lookup"><span data-stu-id="80d24-110">An item set with a non-chargeable billing type doesn’t show up on contract or quote lines.</span></span>  
   
- <span data-ttu-id="de279-111">След като сте настроили роли на ресурси, можете да зададете разходите и продажните цени с ценова листа.</span><span class="sxs-lookup"><span data-stu-id="de279-111">Once you’ve set up resource roles, you can set up cost and sales prices with a price list.</span></span>  
+ <span data-ttu-id="80d24-111">След като сте настроили роли на ресурси, можете да зададете разходите и продажните цени с ценова листа.</span><span class="sxs-lookup"><span data-stu-id="80d24-111">Once you’ve set up resource roles, you can set up cost and sales prices with a price list.</span></span>  
   
- <span data-ttu-id="de279-112">За всяка роля, която искате да добавите, направете следното:</span><span class="sxs-lookup"><span data-stu-id="de279-112">For each role you want to add, do the following:</span></span>  
+ <span data-ttu-id="80d24-112">За всяка роля, която искате да добавите, направете следното:</span><span class="sxs-lookup"><span data-stu-id="80d24-112">For each role you want to add, do the following:</span></span>  
   
-1.  <span data-ttu-id="de279-113">Отидете на **Project Service > Роли на ресурси**.</span><span class="sxs-lookup"><span data-stu-id="de279-113">Go to **Project Service > Resource Roles**.</span></span>  
+1.  <span data-ttu-id="80d24-113">Отидете на **Project Service > Роли на ресурси**.</span><span class="sxs-lookup"><span data-stu-id="80d24-113">Go to **Project Service > Resource Roles**.</span></span>  
   
-2.  <span data-ttu-id="de279-114">Щракнете върху **Нов**.</span><span class="sxs-lookup"><span data-stu-id="de279-114">Click **New**.</span></span>  
+2.  <span data-ttu-id="80d24-114">Щракнете върху **Нов**.</span><span class="sxs-lookup"><span data-stu-id="80d24-114">Click **New**.</span></span>  
   
-3.  <span data-ttu-id="de279-115">В областта **Обща информация** въведете име за ролята в полето **Име** и след това попълнете другите необходими полета.</span><span class="sxs-lookup"><span data-stu-id="de279-115">In the **General** area, enter a name for the role in **Name**, and then fill in the other fields as necessary.</span></span>  
+3.  <span data-ttu-id="80d24-115">В областта **Обща информация** въведете име за ролята в полето **Име** и след това попълнете другите необходими полета.</span><span class="sxs-lookup"><span data-stu-id="80d24-115">In the **General** area, enter a name for the role in **Name**, and then fill in the other fields as necessary.</span></span>  
   
-4.  <span data-ttu-id="de279-116">Щракнете върху **Запиши**, за да създадете записа, така че да можете да продължите да го редактирате.</span><span class="sxs-lookup"><span data-stu-id="de279-116">Click **Save** to create the record so you can continue editing it.</span></span>  
+4.  <span data-ttu-id="80d24-116">Щракнете върху **Запиши**, за да създадете записа, така че да можете да продължите да го редактирате.</span><span class="sxs-lookup"><span data-stu-id="80d24-116">Click **Save** to create the record so you can continue editing it.</span></span>  
   
-5.  <span data-ttu-id="de279-117">В областта **Умения** щракнете върху **+**, за да добавите умение.</span><span class="sxs-lookup"><span data-stu-id="de279-117">In the **Skills** area, click **+** to add a skill.</span></span>  
+5.  <span data-ttu-id="80d24-117">В областта **Умения** щракнете върху **+**, за да добавите умение.</span><span class="sxs-lookup"><span data-stu-id="80d24-117">In the **Skills** area, click **+** to add a skill.</span></span>  
   
-6.  <span data-ttu-id="de279-118">В екрана **Изискване за професионална подготовка за ролята** щракнете в полето **Умение**, щракнете върху бутона **Търсене** и след това изберете умение.</span><span class="sxs-lookup"><span data-stu-id="de279-118">In the **Role competency requirement** pane, click in the **Skill** field, click the **Search** button, and then select a skill.</span></span>  
+6.  <span data-ttu-id="80d24-118">В екрана **Изискване за професионална подготовка за ролята** щракнете в полето **Умение**, щракнете върху бутона **Търсене** и след това изберете умение.</span><span class="sxs-lookup"><span data-stu-id="80d24-118">In the **Role competency requirement** pane, click in the **Skill** field, click the **Search** button, and then select a skill.</span></span>  
   
-7.  <span data-ttu-id="de279-119">Изберете професионална подготовка за това умение и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="de279-119">Select a proficiency for that skill, and then click **Save**.</span></span>  
+7.  <span data-ttu-id="80d24-119">Изберете професионална подготовка за това умение и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="80d24-119">Select a proficiency for that skill, and then click **Save**.</span></span>  
   
-8.  <span data-ttu-id="de279-120">Продължете да добавяте умения, докато е необходимо.</span><span class="sxs-lookup"><span data-stu-id="de279-120">Continue adding skills as necessary.</span></span> <span data-ttu-id="de279-121">Когато сте готови, щракнете върху **Запиши** в долния десен ъгъл на екрана.</span><span class="sxs-lookup"><span data-stu-id="de279-121">When you’re done, click **Save** at the bottom right corner of the screen.</span></span>  
+8.  <span data-ttu-id="80d24-120">Продължете да добавяте умения, докато е необходимо.</span><span class="sxs-lookup"><span data-stu-id="80d24-120">Continue adding skills as necessary.</span></span> <span data-ttu-id="80d24-121">Когато сте готови, щракнете върху **Запиши** в долния десен ъгъл на екрана.</span><span class="sxs-lookup"><span data-stu-id="80d24-121">When you’re done, click **Save** at the bottom right corner of the screen.</span></span>  
   
-9. <span data-ttu-id="de279-122">За да направите тази роля на ресурс достъпна за използване в проекти, щракнете върху **Активиране**.</span><span class="sxs-lookup"><span data-stu-id="de279-122">To make this resource role available for projects to use, click **Activate**.</span></span>  
+9. <span data-ttu-id="80d24-122">За да направите тази роля на ресурс достъпна за използване в проекти, щракнете върху **Активиране**.</span><span class="sxs-lookup"><span data-stu-id="80d24-122">To make this resource role available for projects to use, click **Activate**.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="de279-123">Вижте също</span><span class="sxs-lookup"><span data-stu-id="de279-123">See Also</span></span>  
- [<span data-ttu-id="de279-124">Задаване на ресурси</span><span class="sxs-lookup"><span data-stu-id="de279-124">Set up resources</span></span>](../psa/set-up-resources.md)
+### <a name="see-also"></a><span data-ttu-id="80d24-123">Вижте също</span><span class="sxs-lookup"><span data-stu-id="80d24-123">See Also</span></span>  
+ [<span data-ttu-id="80d24-124">Задаване на ресурси</span><span class="sxs-lookup"><span data-stu-id="80d24-124">Set up resources</span></span>](../psa/set-up-resources.md)
