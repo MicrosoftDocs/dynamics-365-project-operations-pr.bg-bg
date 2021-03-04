@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3dc87a66a4b881a06f2b888c26d9dfaefb419f16
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: e1ceb7ea5484a1d099c4709eda48d34ecd9bac2e
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131331"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151600"
 ---
 # <a name="booking-allocation-methods-in-project-service-automation"></a>Методи за разпределение на резервации в Project Service Automation
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 Независимо дали добавяте член на екипа директно към проект в раздела **Екипи**, или резервирате ресурс за проект или изискване от таблото на графика, има няколко различни метода за разпределение на резервации, които можете да използвате. Тази тема обяснява как работи всеки метод, и кои методи могат да доведат до резервиране на ресурси над капацитета.
 
