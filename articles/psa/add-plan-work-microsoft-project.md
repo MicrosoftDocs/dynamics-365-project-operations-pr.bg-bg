@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 86b676a0cf74e0257fd76cf32271497eebc06e75
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 9556feac5481e20bde1c9624c0eccc05385eaa94
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642755"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5145975"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Използвайте добавката Project Service Automation за планиране на работата в Microsoft Project
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
