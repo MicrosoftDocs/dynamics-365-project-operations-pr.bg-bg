@@ -18,52 +18,55 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 73264845808e12950a48eea2b79e54c393d9c024
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: bac484e29f1a0578042f350b1657a42e80b48cb4
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5151555"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290751"
 ---
-# <a name="configure-additional-parameter-settings-project-service"></a><span data-ttu-id="e1ed3-103">Конфигуриране на допълнителни настройки на параметри (Project Service)</span><span class="sxs-lookup"><span data-stu-id="e1ed3-103">Configure additional parameter settings (Project Service)</span></span>
+# <a name="configure-additional-parameter-settings-project-service"></a><span data-ttu-id="dcb89-103">Конфигуриране на допълнителни настройки на параметри (Project Service)</span><span class="sxs-lookup"><span data-stu-id="dcb89-103">Configure additional parameter settings (Project Service)</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="e1ed3-104">След като сте конфигурирали елементите в предишните теми, трябва да зададете допълнителни параметри на проекта за използване в проектите ви.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-104">Once you’ve configured the items in previous topics, you need to set additional project parameters to use for your projects.</span></span> <span data-ttu-id="e1ed3-105">При първата инсталация на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] сте създали настройка за параметър първо да се създадат всички записи, нужни за работата на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].</span><span class="sxs-lookup"><span data-stu-id="e1ed3-105">When you first installed [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], you created a parameters setting to first create all the records required for [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] to work.</span></span> <span data-ttu-id="e1ed3-106">Сега е време да се върнете и да конфигурирате допълнителни полета за тези настройки.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-106">Now it’s time to go back and configure additional fields for these settings.</span></span>  
+<span data-ttu-id="dcb89-104">След като сте конфигурирали елементите в предишните теми, трябва да зададете допълнителни параметри на проекта за използване в проектите ви.</span><span class="sxs-lookup"><span data-stu-id="dcb89-104">Once you’ve configured the items in previous topics, you need to set additional project parameters to use for your projects.</span></span> <span data-ttu-id="dcb89-105">При първата инсталация на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] сте създали настройка за параметър първо да се създадат всички записи, нужни за работата на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].</span><span class="sxs-lookup"><span data-stu-id="dcb89-105">When you first installed [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], you created a parameters setting to first create all the records required for [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] to work.</span></span> <span data-ttu-id="dcb89-106">Сега е време да се върнете и да конфигурирате допълнителни полета за тези настройки.</span><span class="sxs-lookup"><span data-stu-id="dcb89-106">Now it’s time to go back and configure additional fields for these settings.</span></span>  
   
- <span data-ttu-id="e1ed3-107">Трябва да конфигурирате следните настройки:</span><span class="sxs-lookup"><span data-stu-id="e1ed3-107">You’ll need to have configured the following settings:</span></span>  
+ <span data-ttu-id="dcb89-107">Трябва да конфигурирате следните настройки:</span><span class="sxs-lookup"><span data-stu-id="dcb89-107">You’ll need to have configured the following settings:</span></span>  
   
--   <span data-ttu-id="e1ed3-108">Организационна единица</span><span class="sxs-lookup"><span data-stu-id="e1ed3-108">Organizational unit</span></span>  
+-   <span data-ttu-id="dcb89-108">Организационна единица</span><span class="sxs-lookup"><span data-stu-id="dcb89-108">Organizational unit</span></span>  
   
--   <span data-ttu-id="e1ed3-109">Честота на фактура</span><span class="sxs-lookup"><span data-stu-id="e1ed3-109">Invoice frequency</span></span>  
+-   <span data-ttu-id="dcb89-109">Честота на фактура</span><span class="sxs-lookup"><span data-stu-id="dcb89-109">Invoice frequency</span></span>  
   
--   <span data-ttu-id="e1ed3-110">Шаблони за работно време</span><span class="sxs-lookup"><span data-stu-id="e1ed3-110">Work hours template</span></span>  
+-   <span data-ttu-id="dcb89-110">Шаблони за работно време</span><span class="sxs-lookup"><span data-stu-id="dcb89-110">Work hours template</span></span>  
   
--   <span data-ttu-id="e1ed3-111">Ценова листа</span><span class="sxs-lookup"><span data-stu-id="e1ed3-111">Price list</span></span>  
+-   <span data-ttu-id="dcb89-111">Ценова листа</span><span class="sxs-lookup"><span data-stu-id="dcb89-111">Price list</span></span>  
  
-<span data-ttu-id="e1ed3-112">В тази стъпка ще укажете и какъв тип разпределение на ресурсите искате:</span><span class="sxs-lookup"><span data-stu-id="e1ed3-112">In this step, you’ll also indicate what type of resource allocation you want:</span></span>  
+<span data-ttu-id="dcb89-112">В тази стъпка ще укажете и какъв тип разпределение на ресурсите искате:</span><span class="sxs-lookup"><span data-stu-id="dcb89-112">In this step, you’ll also indicate what type of resource allocation you want:</span></span>  
   
-- <span data-ttu-id="e1ed3-113">**Централен**.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-113">**Central**.</span></span> <span data-ttu-id="e1ed3-114">Само управителите на ресурси могат да разпределят ресурси на проекти.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-114">Only resource managers can allocate resources to projects.</span></span>  
+- <span data-ttu-id="dcb89-113">**Централен**.</span><span class="sxs-lookup"><span data-stu-id="dcb89-113">**Central**.</span></span> <span data-ttu-id="dcb89-114">Само управителите на ресурси могат да разпределят ресурси на проекти.</span><span class="sxs-lookup"><span data-stu-id="dcb89-114">Only resource managers can allocate resources to projects.</span></span>  
   
-- <span data-ttu-id="e1ed3-115">**Хибриден**.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-115">**Hybrid**.</span></span> <span data-ttu-id="e1ed3-116">Управители на ресурси, управители на проекти и главни счетоводители могат да разпределят ресурси на проекти.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-116">Resource managers, project managers, and account managers can allocate resources to projects.</span></span>  
+- <span data-ttu-id="dcb89-115">**Хибриден**.</span><span class="sxs-lookup"><span data-stu-id="dcb89-115">**Hybrid**.</span></span> <span data-ttu-id="dcb89-116">Управители на ресурси, управители на проекти и главни счетоводители могат да разпределят ресурси на проекти.</span><span class="sxs-lookup"><span data-stu-id="dcb89-116">Resource managers, project managers, and account managers can allocate resources to projects.</span></span>  
   
  
-<span data-ttu-id="e1ed3-117">За да зададете параметри на проект:</span><span class="sxs-lookup"><span data-stu-id="e1ed3-117">To set project parameters:</span></span>  
+<span data-ttu-id="dcb89-117">За да зададете параметри на проект:</span><span class="sxs-lookup"><span data-stu-id="dcb89-117">To set project parameters:</span></span>  
   
-1. <span data-ttu-id="e1ed3-118">Отидете на **Project Service > Параметри**.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-118">Go to **Project Service > Parameters**.</span></span>  
+1. <span data-ttu-id="dcb89-118">Отидете на **Project Service > Параметри**.</span><span class="sxs-lookup"><span data-stu-id="dcb89-118">Go to **Project Service > Parameters**.</span></span>  
   
-2. <span data-ttu-id="e1ed3-119">Щракнете върху настройката на параметри, която искате да конфигурирате (тази, която сте създали, когато сте инсталирали за първи път [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]), или щракнете върху **Нова**, за да създадете нова.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-119">Click the parameters setting you want to configure (the one you created when you first installed [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]), or click **New** to create a new one.</span></span>  
+2. <span data-ttu-id="dcb89-119">Щракнете върху настройката на параметри, която искате да конфигурирате (тази, която сте създали, когато сте инсталирали за първи път [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]), или щракнете върху **Нова**, за да създадете нова.</span><span class="sxs-lookup"><span data-stu-id="dcb89-119">Click the parameters setting you want to configure (the one you created when you first installed [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]), or click **New** to create a new one.</span></span>  
   
-3. <span data-ttu-id="e1ed3-120">В зоната **Общи** , задайте всички опции за параметрите на вашия проект.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-120">In the **General** area, set all the options for your project parameters.</span></span>  
+3. <span data-ttu-id="dcb89-120">В зоната **Общи** , задайте всички опции за параметрите на вашия проект.</span><span class="sxs-lookup"><span data-stu-id="dcb89-120">In the **General** area, set all the options for your project parameters.</span></span>  
   
-4. <span data-ttu-id="e1ed3-121">В зоната **Ценова листа** щракнете върху **+**, за да добавите ценова листа, изберете ценова листа в падащия списък **Ценова листа на параметър на проект** и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-121">In the **Price List** area, click **+** to add a price list, select a price list in the **Project Parameter Price List** drop-down list, and then click **Save**.</span></span>  
+4. <span data-ttu-id="dcb89-121">В зоната **Ценова листа** щракнете върху **+**, за да добавите ценова листа, изберете ценова листа в падащия списък **Ценова листа на параметър на проект** и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="dcb89-121">In the **Price List** area, click **+** to add a price list, select a price list in the **Project Parameter Price List** drop-down list, and then click **Save**.</span></span>  
   
-5. <span data-ttu-id="e1ed3-122">Щракнете върху бутона **Записване** в долния десен ъгъл на екрана.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-122">Click the **Save** button in the bottom right corner of the screen.</span></span>  
+5. <span data-ttu-id="dcb89-122">Щракнете върху бутона **Записване** в долния десен ъгъл на екрана.</span><span class="sxs-lookup"><span data-stu-id="dcb89-122">Click the **Save** button in the bottom right corner of the screen.</span></span>  
 
 > [!NOTE]
-> <span data-ttu-id="e1ed3-123">Записът на параметрите на проекта трябва да се поддържа, за да може Project Service да функционира правилно.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-123">The project parameter record must be maintained for Project Service to function correcly.</span></span> <span data-ttu-id="e1ed3-124">Този запис не трябва да се изтрива.</span><span class="sxs-lookup"><span data-stu-id="e1ed3-124">This record should not be deleted.</span></span>
+> <span data-ttu-id="dcb89-123">Записът на параметрите на проекта трябва да се поддържа, за да може Project Service да функционира правилно.</span><span class="sxs-lookup"><span data-stu-id="dcb89-123">The project parameter record must be maintained for Project Service to function correcly.</span></span> <span data-ttu-id="dcb89-124">Този запис не трябва да се изтрива.</span><span class="sxs-lookup"><span data-stu-id="dcb89-124">This record should not be deleted.</span></span>
 
-### <a name="see-also"></a><span data-ttu-id="e1ed3-125">Вижте също</span><span class="sxs-lookup"><span data-stu-id="e1ed3-125">See Also</span></span>  
- [<span data-ttu-id="e1ed3-126">Задаване на ресурси</span><span class="sxs-lookup"><span data-stu-id="e1ed3-126">Set up resources</span></span>](../psa/set-up-resources.md)
+### <a name="see-also"></a><span data-ttu-id="dcb89-125">Вижте също</span><span class="sxs-lookup"><span data-stu-id="dcb89-125">See Also</span></span>  
+ [<span data-ttu-id="dcb89-126">Задаване на ресурси</span><span class="sxs-lookup"><span data-stu-id="dcb89-126">Set up resources</span></span>](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
