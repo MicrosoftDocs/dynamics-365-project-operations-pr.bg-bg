@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 6dde924c24dcffe2a8fb690e6eb429e4c3d9fb28
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d51eb890a4744051ddd7268e1f1f11b15a23b609
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4126380"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5278360"
 ---
 # <a name="import-an-estimate-to-a-project-based-contract-line"></a>Импортиране на прогноза в базирани на проект аспекти на договор
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-В Dynamics 365 Project Operations можете да импортирате оценки от проект в договорна линия, базирана на проект.
+В Dynamics 365 Project Operations можете да импортирате прогнози от проект в базирани на проект аспекти на договор.
 
 1. Проверете дали полето **Проект** е попълнено полето на договорената линия по проект.
 2. В раздела **Подробности на аспекти на договор** в подмрежта изберете **Импортиране от прогноза на проект**. Отваря се диалогова страница с опции за обобщение. Наличните опции за обобщение са **Клас на транзакция**, **Категория**, **Роля** и **Задача по проекта**. Въз основа на избора ви на резюме, оценката от проекта за всички класове транзакции, включени в тези аспекти на договор, се копира. 
