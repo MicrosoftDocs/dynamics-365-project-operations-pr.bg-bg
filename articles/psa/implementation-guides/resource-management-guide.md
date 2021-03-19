@@ -18,29 +18,32 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a0a12840f7f53cab0e81a5d3764d5c1a9d4df6a3
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: da7371a050ae6962d7081ff7bd28e2c3ae6f623a
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149035"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275120"
 ---
-# <a name="resource-management-guide"></a><span data-ttu-id="cd36b-103">Ръководство за управление на ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-103">Resource management guide</span></span>
+# <a name="resource-management-guide"></a><span data-ttu-id="b31ea-103">Ръководство за управление на ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-103">Resource management guide</span></span>
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="cd36b-104">Връзката към PDF файла, която преди беше в тази тема, е премахната и съдържанието е преместено в следните теми:</span><span class="sxs-lookup"><span data-stu-id="cd36b-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
+<span data-ttu-id="b31ea-104">Връзката към PDF файла, която преди беше в тази тема, е премахната и съдържанието е преместено в следните теми:</span><span class="sxs-lookup"><span data-stu-id="b31ea-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
 
-- [<span data-ttu-id="cd36b-105">Начална страница на управлението на ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-105">Resource management home page</span></span>](../resource-management-home-page.md)
-- [<span data-ttu-id="cd36b-106">Основни концепции</span><span class="sxs-lookup"><span data-stu-id="cd36b-106">Key concepts</span></span>](../reports-key-concepts.md)
-- [<span data-ttu-id="cd36b-107">Изпълнение на заявки за ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
-- [<span data-ttu-id="cd36b-108">Предлагане на ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
-- [<span data-ttu-id="cd36b-109">Резервиране на ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
-- [<span data-ttu-id="cd36b-110">Изисквания за непотвърдени резервации</span><span class="sxs-lookup"><span data-stu-id="cd36b-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
-- [<span data-ttu-id="cd36b-111">Умения и модели на опитност</span><span class="sxs-lookup"><span data-stu-id="cd36b-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
-- [<span data-ttu-id="cd36b-112">ЧЗВ за управление на ресурси</span><span class="sxs-lookup"><span data-stu-id="cd36b-112">Resource management FAQ</span></span>](../resource-management-faq.md)
+- [<span data-ttu-id="b31ea-105">Начална страница на управлението на ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-105">Resource management home page</span></span>](../resource-management-home-page.md)
+- [<span data-ttu-id="b31ea-106">Основни концепции</span><span class="sxs-lookup"><span data-stu-id="b31ea-106">Key concepts</span></span>](../reports-key-concepts.md)
+- [<span data-ttu-id="b31ea-107">Изпълнение на заявки за ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
+- [<span data-ttu-id="b31ea-108">Предлагане на ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
+- [<span data-ttu-id="b31ea-109">Резервиране на ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
+- [<span data-ttu-id="b31ea-110">Изисквания за непотвърдени резервации</span><span class="sxs-lookup"><span data-stu-id="b31ea-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
+- [<span data-ttu-id="b31ea-111">Умения и модели на опитност</span><span class="sxs-lookup"><span data-stu-id="b31ea-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
+- [<span data-ttu-id="b31ea-112">ЧЗВ за управление на ресурси</span><span class="sxs-lookup"><span data-stu-id="b31ea-112">Resource management FAQ</span></span>](../resource-management-faq.md)
 
 > [!NOTE]
-> <span data-ttu-id="cd36b-113">Тази тема ще бъде премахната в бъдеща актуализация на документацията.</span><span class="sxs-lookup"><span data-stu-id="cd36b-113">This topic will be removed in a future documentation update.</span></span> 
+> <span data-ttu-id="b31ea-113">Тази тема ще бъде премахната в бъдеща актуализация на документацията.</span><span class="sxs-lookup"><span data-stu-id="b31ea-113">This topic will be removed in a future documentation update.</span></span> 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

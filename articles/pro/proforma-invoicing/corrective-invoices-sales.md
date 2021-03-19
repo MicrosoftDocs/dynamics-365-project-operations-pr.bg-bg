@@ -8,53 +8,53 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 55bec8ad1d9c2b55cabb453321f13df8b7cd1614
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: eb949ff3a53bcba19d44e1c3d6fe08a6b368108d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4176418"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274220"
 ---
-# <a name="corrected-invoices---lite"></a><span data-ttu-id="d1613-103">Коригирани фактури – олекотено</span><span class="sxs-lookup"><span data-stu-id="d1613-103">Corrected invoices - lite</span></span>
+# <a name="corrected-invoices---lite"></a><span data-ttu-id="26e3b-103">Коригирани фактури – олекотено</span><span class="sxs-lookup"><span data-stu-id="26e3b-103">Corrected invoices - lite</span></span>
 
-<span data-ttu-id="d1613-104">_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_</span><span class="sxs-lookup"><span data-stu-id="d1613-104">_**Applies To:** Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="26e3b-104">_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_</span><span class="sxs-lookup"><span data-stu-id="26e3b-104">_**Applies To:** Lite deployment - deal to proforma invoicing_</span></span>
 
-<span data-ttu-id="d1613-105">Потвърдена фактура за проект може да бъде коригирана, за да обработи промени или кредити, както е договорено с клиента и мениджъра на проекта.</span><span class="sxs-lookup"><span data-stu-id="d1613-105">A confirmed project invoice can be corrected to process changes or credits as negotiated with the customer and project manager.</span></span>
+<span data-ttu-id="26e3b-105">Потвърдена фактура за проект може да бъде коригирана, за да обработи промени или кредити, както е договорено с клиента и мениджъра на проекта.</span><span class="sxs-lookup"><span data-stu-id="26e3b-105">A confirmed project invoice can be corrected to process changes or credits as negotiated with the customer and project manager.</span></span>
 
-<span data-ttu-id="d1613-106">За да редактирате потвърдена фактура, отворете потвърдената фактура и изберете **Коригирайте тази фактура**.</span><span class="sxs-lookup"><span data-stu-id="d1613-106">To make edits to a confirmed invoice, open the confirmed invoice and select **Correct this Invoice**.</span></span> 
+<span data-ttu-id="26e3b-106">За да редактирате потвърдена фактура, отворете потвърдената фактура и изберете **Коригирайте тази фактура**.</span><span class="sxs-lookup"><span data-stu-id="26e3b-106">To make edits to a confirmed invoice, open the confirmed invoice and select **Correct this Invoice**.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="d1613-107">Този избор не е наличен, освен ако не бъде потвърдена фактура за проект.</span><span class="sxs-lookup"><span data-stu-id="d1613-107">This selection isn't available unless a project invoice is confirmed.</span></span>
+> <span data-ttu-id="26e3b-107">Този избор не е наличен, освен ако не бъде потвърдена фактура за проект.</span><span class="sxs-lookup"><span data-stu-id="26e3b-107">This selection isn't available unless a project invoice is confirmed.</span></span>
 
-<span data-ttu-id="d1613-108">От потвърдената фактура се създава нов проект на фактура.</span><span class="sxs-lookup"><span data-stu-id="d1613-108">A new draft invoice is created from the confirmed invoice.</span></span> <span data-ttu-id="d1613-109">Всички подробности за реда за фактура от предварително потвърдената фактура се копират в новия проект.</span><span class="sxs-lookup"><span data-stu-id="d1613-109">All invoice line details from the previously confirmed invoice are copied to the new draft.</span></span> <span data-ttu-id="d1613-110">По-долу са някои от ключовите моменти, които трябва да разберете относно подробностите за линията в новата коригирана фактура:</span><span class="sxs-lookup"><span data-stu-id="d1613-110">The following are some of the key points to understand about the line details on the new corrected invoice:</span></span>
+<span data-ttu-id="26e3b-108">От потвърдената фактура се създава нов проект на фактура.</span><span class="sxs-lookup"><span data-stu-id="26e3b-108">A new draft invoice is created from the confirmed invoice.</span></span> <span data-ttu-id="26e3b-109">Всички подробности за реда за фактура от предварително потвърдената фактура се копират в новия проект.</span><span class="sxs-lookup"><span data-stu-id="26e3b-109">All invoice line details from the previously confirmed invoice are copied to the new draft.</span></span> <span data-ttu-id="26e3b-110">По-долу са някои от ключовите моменти, които трябва да разберете относно подробностите за линията в новата коригирана фактура:</span><span class="sxs-lookup"><span data-stu-id="26e3b-110">The following are some of the key points to understand about the line details on the new corrected invoice:</span></span>
 
-- <span data-ttu-id="d1613-111">Всички количества са актуализирани до нула.</span><span class="sxs-lookup"><span data-stu-id="d1613-111">All quantities are updated to zero.</span></span> <span data-ttu-id="d1613-112">Приложението приема, че всички фактурирани артикули са изцяло кредитирани.</span><span class="sxs-lookup"><span data-stu-id="d1613-112">The application assumes that all invoiced items are fully credited.</span></span> <span data-ttu-id="d1613-113">Ако е необходимо, можете ръчно да актуализирате тези количества, за да отразят количеството, което се фактурира, а не количеството, което се кредитира.</span><span class="sxs-lookup"><span data-stu-id="d1613-113">If needed, you can manually update these quantities to reflect the quantity that is being invoiced, and not the quantity that is being credited.</span></span> <span data-ttu-id="d1613-114">Въз основа на въведеното количество, приложението изчислява кредитираното количество.</span><span class="sxs-lookup"><span data-stu-id="d1613-114">Based on the quantity you enter, the application calculates the credited quantity.</span></span> <span data-ttu-id="d1613-115">Тази сума се отразява в действителните факти, които се създават при потвърждаване на коригираната фактура.</span><span class="sxs-lookup"><span data-stu-id="d1613-115">This amount is reflected in the actuals that are created when the corrected invoice is confirmed.</span></span> <span data-ttu-id="d1613-116">Ако правите промени в данъчната сума, трябва да въведете правилната данъчна сума, а не сумата, която се кредитира.</span><span class="sxs-lookup"><span data-stu-id="d1613-116">If you are making changes to the tax amount, you must enter the correct tax amount and not the tax amount that is being credited.</span></span>
-- <span data-ttu-id="d1613-117">По-рано потвърдените продуктови договорени редове не се копират.</span><span class="sxs-lookup"><span data-stu-id="d1613-117">Previously confirmed product-based contract lines are not copied over.</span></span> <span data-ttu-id="d1613-118">Обработката на корекции на фактура за проект, базирана на продукт, не се поддържа.</span><span class="sxs-lookup"><span data-stu-id="d1613-118">Processing corrections on a product-based project invoice is not supported.</span></span>
-- <span data-ttu-id="d1613-119">Основните корекции винаги се обработват като пълни кредити.</span><span class="sxs-lookup"><span data-stu-id="d1613-119">Milestone corrections are always processed as full credits.</span></span>
-- <span data-ttu-id="d1613-120">Сумите за фиксиране или аванс могат да бъдат коригирани, ако клиентът е бил фактуриран за неправилна сума.</span><span class="sxs-lookup"><span data-stu-id="d1613-120">Retainer or advance amounts can be corrected if the customer was invoiced for an incorrect amount.</span></span>
-- <span data-ttu-id="d1613-121">Съпоставянията на задържащите и авансовите плащания могат да бъдат коригирани, ако е използвана неправилна сума за изравняване на таксите по предварително потвърдена фактура.</span><span class="sxs-lookup"><span data-stu-id="d1613-121">Reconciliations of retainers and advances can be corrected if an incorrect amount was used to reconcile against the charges on a previously confirmed invoice.</span></span>
+- <span data-ttu-id="26e3b-111">Всички количества са актуализирани до нула.</span><span class="sxs-lookup"><span data-stu-id="26e3b-111">All quantities are updated to zero.</span></span> <span data-ttu-id="26e3b-112">Приложението приема, че всички фактурирани артикули са изцяло кредитирани.</span><span class="sxs-lookup"><span data-stu-id="26e3b-112">The application assumes that all invoiced items are fully credited.</span></span> <span data-ttu-id="26e3b-113">Ако е необходимо, можете ръчно да актуализирате тези количества, за да отразят количеството, което се фактурира, а не количеството, което се кредитира.</span><span class="sxs-lookup"><span data-stu-id="26e3b-113">If needed, you can manually update these quantities to reflect the quantity that is being invoiced, and not the quantity that is being credited.</span></span> <span data-ttu-id="26e3b-114">Въз основа на въведеното количество, приложението изчислява кредитираното количество.</span><span class="sxs-lookup"><span data-stu-id="26e3b-114">Based on the quantity you enter, the application calculates the credited quantity.</span></span> <span data-ttu-id="26e3b-115">Тази сума се отразява в действителните факти, които се създават при потвърждаване на коригираната фактура.</span><span class="sxs-lookup"><span data-stu-id="26e3b-115">This amount is reflected in the actuals that are created when the corrected invoice is confirmed.</span></span> <span data-ttu-id="26e3b-116">Ако правите промени в данъчната сума, трябва да въведете правилната данъчна сума, а не сумата, която се кредитира.</span><span class="sxs-lookup"><span data-stu-id="26e3b-116">If you are making changes to the tax amount, you must enter the correct tax amount and not the tax amount that is being credited.</span></span>
+- <span data-ttu-id="26e3b-117">По-рано потвърдените продуктови договорени редове не се копират.</span><span class="sxs-lookup"><span data-stu-id="26e3b-117">Previously confirmed product-based contract lines are not copied over.</span></span> <span data-ttu-id="26e3b-118">Обработката на корекции на фактура за проект, базирана на продукт, не се поддържа.</span><span class="sxs-lookup"><span data-stu-id="26e3b-118">Processing corrections on a product-based project invoice is not supported.</span></span>
+- <span data-ttu-id="26e3b-119">Основните корекции винаги се обработват като пълни кредити.</span><span class="sxs-lookup"><span data-stu-id="26e3b-119">Milestone corrections are always processed as full credits.</span></span>
+- <span data-ttu-id="26e3b-120">Сумите за фиксиране или аванс могат да бъдат коригирани, ако клиентът е бил фактуриран за неправилна сума.</span><span class="sxs-lookup"><span data-stu-id="26e3b-120">Retainer or advance amounts can be corrected if the customer was invoiced for an incorrect amount.</span></span>
+- <span data-ttu-id="26e3b-121">Съпоставянията на задържащите и авансовите плащания могат да бъдат коригирани, ако е използвана неправилна сума за изравняване на таксите по предварително потвърдена фактура.</span><span class="sxs-lookup"><span data-stu-id="26e3b-121">Reconciliations of retainers and advances can be corrected if an incorrect amount was used to reconcile against the charges on a previously confirmed invoice.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d1613-122">Подробности за реда за фактури, които представляват корекции на други вече фактурирани такси, имат полето **Корекция**, зададено на **Да**.</span><span class="sxs-lookup"><span data-stu-id="d1613-122">Invoice line details that are corrections to other already invoiced charges have the field **Correction** set to **Yes**.</span></span> <span data-ttu-id="d1613-123">Фактурите, които са коригирали данните за реда на фактурата, имат поле, наречено **Има корекции** и също е настроено на **Да**.</span><span class="sxs-lookup"><span data-stu-id="d1613-123">Invoices that have corrected invoice line details have a field called **Has corrections** that is also set to **Yes**.</span></span>
+> <span data-ttu-id="26e3b-122">Подробности за реда за фактури, които представляват корекции на други вече фактурирани такси, имат полето **Корекция**, зададено на **Да**.</span><span class="sxs-lookup"><span data-stu-id="26e3b-122">Invoice line details that are corrections to other already invoiced charges have the field **Correction** set to **Yes**.</span></span> <span data-ttu-id="26e3b-123">Фактурите, които са коригирали данните за реда на фактурата, имат поле, наречено **Има корекции** и също е настроено на **Да**.</span><span class="sxs-lookup"><span data-stu-id="26e3b-123">Invoices that have corrected invoice line details have a field called **Has corrections** that is also set to **Yes**.</span></span>
 
-## <a name="actuals-created-on-confirmation-of-a-corrective-invoice"></a><span data-ttu-id="d1613-124">Факти, създадени при потвърждаване на коригираща фактура:</span><span class="sxs-lookup"><span data-stu-id="d1613-124">Actuals created on Confirmation of a corrective invoice:</span></span>
+## <a name="actuals-created-on-confirmation-of-a-corrective-invoice"></a><span data-ttu-id="26e3b-124">Факти, създадени при потвърждаване на коригираща фактура:</span><span class="sxs-lookup"><span data-stu-id="26e3b-124">Actuals created on Confirmation of a corrective invoice:</span></span>
 
-<span data-ttu-id="d1613-125">По-долу са действителните, създадени от приложението за потвърждаване на коректив въз основа на извършените операции върху проекта на коригираща фактура преди потвърждение.</span><span class="sxs-lookup"><span data-stu-id="d1613-125">Below are the actuals created by the application on confirmation of a corrective based on the operations performed on the draft corrective invoice before confirmation.</span></span>
+<span data-ttu-id="26e3b-125">По-долу са действителните, създадени от приложението за потвърждаване на коректив въз основа на извършените операции върху проекта на коригираща фактура преди потвърждение.</span><span class="sxs-lookup"><span data-stu-id="26e3b-125">Below are the actuals created by the application on confirmation of a corrective based on the operations performed on the draft corrective invoice before confirmation.</span></span>
 
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td width="216" valign="top">
-                <p><span data-ttu-id="d1613-126">
+                <p><span data-ttu-id="26e3b-126">
                     <strong>Сценарий</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="d1613-126">
+                </span><span class="sxs-lookup"><span data-stu-id="26e3b-126">
                     <strong>Scenario</strong>
                 </span></span></p>
             </td>
             <td width="808" valign="top">
-                <p><span data-ttu-id="d1613-127">
+                <p><span data-ttu-id="26e3b-127">
                     <strong>Действителни данни, създадени при потвърждение</strong>
-                </span><span class="sxs-lookup"><span data-stu-id="d1613-127">
+                </span><span class="sxs-lookup"><span data-stu-id="26e3b-127">
                     <strong>Actuals created on confirmation</strong>
                 </span></span></p>
             </td>
@@ -62,234 +62,237 @@ ms.locfileid: "4176418"
         <tr>
             <td width="216" rowspan="4" valign="top">
                 <p>
-<span data-ttu-id="d1613-128">Потвърдете корекцията на фактуриран аванс или фиксатор.<strong></strong>
-                </span><span class="sxs-lookup"><span data-stu-id="d1613-128">Confirm the correction of an invoiced advance or retainer.<strong></strong>
+<span data-ttu-id="26e3b-128">Потвърдете корекцията на фактуриран аванс или фиксатор.<strong></strong>
+                </span><span class="sxs-lookup"><span data-stu-id="26e3b-128">Confirm the correction of an invoiced advance or retainer.<strong></strong>
                 </span></span></p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-129">Нефактулирано обръщане на продажбите на фиксатора или аванса, създаден за помирение.</span><span class="sxs-lookup"><span data-stu-id="d1613-129">An unbilled sales reversal of the retainer or advance that was created for reconciliation.</span></span> <span data-ttu-id="d1613-130">Тази сума е положителна, тъй като има за цел да анулира отрицателното, създадено при фактуриране на фиксатора или аванса.</span><span class="sxs-lookup"><span data-stu-id="d1613-130">This amount is positive because it is meant to cancel out the negative that was created when the retainer or advance was invoiced.</span></span>
+<span data-ttu-id="26e3b-129">Нефактулирано обръщане на продажбите на фиксатора или аванса, създаден за помирение.</span><span class="sxs-lookup"><span data-stu-id="26e3b-129">An unbilled sales reversal of the retainer or advance that was created for reconciliation.</span></span> <span data-ttu-id="26e3b-130">Тази сума е положителна, тъй като има за цел да анулира отрицателното, създадено при фактуриране на фиксатора или аванса.</span><span class="sxs-lookup"><span data-stu-id="26e3b-130">This amount is positive because it is meant to cancel out the negative that was created when the retainer or advance was invoiced.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-131">Създава се действително обръщане на фактурирани продажби за сумата върху фиксатора или аванс за обръщане на първоначалните фактурирани продажби.</span><span class="sxs-lookup"><span data-stu-id="d1613-131">A billed sales reversal actual is created for the amount on the retainer or advance to reverse the original billed sales.</span></span>
+<span data-ttu-id="26e3b-131">Създава се действително обръщане на фактурирани продажби за сумата върху фиксатора или аванс за обръщане на първоначалните фактурирани продажби.</span><span class="sxs-lookup"><span data-stu-id="26e3b-131">A billed sales reversal actual is created for the amount on the retainer or advance to reverse the original billed sales.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-132">Създава се нова актуална таксувана продажба за коригираната сума на фиксатора или коригирана фактура на базата на аванс.</span><span class="sxs-lookup"><span data-stu-id="d1613-132">A new billed sales actual is created for the corrected amount on the retainer or advance-based corrected invoice line.</span></span>
+<span data-ttu-id="26e3b-132">Създава се нова актуална таксувана продажба за коригираната сума на фиксатора или коригирана фактура на базата на аванс.</span><span class="sxs-lookup"><span data-stu-id="26e3b-132">A new billed sales actual is created for the corrected amount on the retainer or advance-based corrected invoice line.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-133">Нефактурирани продажби, действителни с отрицателна сума на фиксатора или коригирана линия на фактура, базирана на аванс, която ще се използва за съгласуване.</span><span class="sxs-lookup"><span data-stu-id="d1613-133">An unbilled sales actual of negative amount of the retainer or advance-based corrected invoice line, which will be used for reconciliation.</span></span>
+<span data-ttu-id="26e3b-133">Нефактурирани продажби, действителни с отрицателна сума на фиксатора или коригирана линия на фактура, базирана на аванс, която ще се използва за съгласуване.</span><span class="sxs-lookup"><span data-stu-id="26e3b-133">An unbilled sales actual of negative amount of the retainer or advance-based corrected invoice line, which will be used for reconciliation.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="4" valign="top">
                 <p>
-<span data-ttu-id="d1613-134">Потвърждение за корекцията на предварително примирен фиксатор или аванс.</span><span class="sxs-lookup"><span data-stu-id="d1613-134">A confirmation of the correction of a previously reconciled retainer or advance.</span></span>
+<span data-ttu-id="26e3b-134">Потвърждение за корекцията на предварително примирен фиксатор или аванс.</span><span class="sxs-lookup"><span data-stu-id="26e3b-134">A confirmation of the correction of a previously reconciled retainer or advance.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-135">Нефактулирано обръщане на продажбите на фиксатора или аванса, създаден за помирение.</span><span class="sxs-lookup"><span data-stu-id="d1613-135">An unbilled sales reversal of the retainer or advance that was created for reconciliation.</span></span> <span data-ttu-id="d1613-136">Тази сума е положителна и има за цел да анулира отрицателното, създадено при възникването на предишно уравняване.</span><span class="sxs-lookup"><span data-stu-id="d1613-136">This amount is positive and is meant to cancel out the negative that was created when the previous reconciliation occurred.</span></span>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="408" valign="top">
-                <p>
-<span data-ttu-id="d1613-137">Фактурирано обръщане на продажби, действително за сумата от предходната фактура.</span><span class="sxs-lookup"><span data-stu-id="d1613-137">A billed sales reversal actual for the amount on the previous invoice.</span></span>
+<span data-ttu-id="26e3b-135">Нефактулирано обръщане на продажбите на фиксатора или аванса, създаден за помирение.</span><span class="sxs-lookup"><span data-stu-id="26e3b-135">An unbilled sales reversal of the retainer or advance that was created for reconciliation.</span></span> <span data-ttu-id="26e3b-136">Тази сума е положителна и има за цел да анулира отрицателното, създадено при възникването на предишно уравняване.</span><span class="sxs-lookup"><span data-stu-id="26e3b-136">This amount is positive and is meant to cancel out the negative that was created when the previous reconciliation occurred.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-138">Създава се нови действителни данни за таксувани продажби за коригираната сума на капаро, която се прилага за коригирана фактура.</span><span class="sxs-lookup"><span data-stu-id="d1613-138">A new billed sales actual for the corrected retainer amount that is applied on the corrected invoice.</span></span>
+<span data-ttu-id="26e3b-137">Фактурирано обръщане на продажби, действително за сумата от предходната фактура.</span><span class="sxs-lookup"><span data-stu-id="26e3b-137">A billed sales reversal actual for the amount on the previous invoice.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-139">Нефактурирани действителни данни за продажби с отрицателна сума от коригиран останал аванс или капаро, които ще се използват за уравняване на по-нататъшни фактури.</span><span class="sxs-lookup"><span data-stu-id="d1613-139">An unbilled sales actual with a negative amount from the corrected leftover retainer or advance, which will be used for reconciliation on later invoices.</span></span>
+<span data-ttu-id="26e3b-138">Създава се нови действителни данни за таксувани продажби за коригираната сума на капаро, която се прилага за коригирана фактура.</span><span class="sxs-lookup"><span data-stu-id="26e3b-138">A new billed sales actual for the corrected retainer amount that is applied on the corrected invoice.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="408" valign="top">
+                <p>
+<span data-ttu-id="26e3b-139">Нефактурирани действителни данни за продажби с отрицателна сума от коригиран останал аванс или капаро, които ще се използват за уравняване на по-нататъшни фактури.</span><span class="sxs-lookup"><span data-stu-id="26e3b-139">An unbilled sales actual with a negative amount from the corrected leftover retainer or advance, which will be used for reconciliation on later invoices.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="d1613-140">Фактуриране на пълния кредит на предварително фактурирана транзакция във времето.</span><span class="sxs-lookup"><span data-stu-id="d1613-140">Invoicing the full credit of a previously invoiced time transaction.</span></span>
+<span data-ttu-id="26e3b-140">Фактуриране на пълния кредит на предварително фактурирана транзакция във времето.</span><span class="sxs-lookup"><span data-stu-id="26e3b-140">Invoicing the full credit of a previously invoiced time transaction.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-141">Обръщане на фактурирани продажби за часовете и сумата в детайла на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="d1613-141">A billed sales reversal for the hours and amount on the original invoice line detail for time.</span></span>
+<span data-ttu-id="26e3b-141">Обръщане на фактурирани продажби за часовете и сумата в детайла на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="26e3b-141">A billed sales reversal for the hours and amount on the original invoice line detail for time.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-142">Нови действителни данни за нефактурирани продажби за часовете и сумата в детайла на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="d1613-142">A new unbilled sales actual for the hours and amount on the original invoice line detail for time.</span></span>
+<span data-ttu-id="26e3b-142">Нови действителни данни за нефактурирани продажби за часовете и сумата в детайла на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="26e3b-142">A new unbilled sales actual for the hours and amount on the original invoice line detail for time.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="3" valign="top">
                 <p>
-<span data-ttu-id="d1613-143">Фактуриране на частичния кредит по времева транзакция.</span><span class="sxs-lookup"><span data-stu-id="d1613-143">Invoicing the partial credit on a time transaction.</span></span>
+<span data-ttu-id="26e3b-143">Фактуриране на частичния кредит по времева транзакция.</span><span class="sxs-lookup"><span data-stu-id="26e3b-143">Invoicing the partial credit on a time transaction.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-144">Обръщане на фактурирани продажби за часовете и сумата, фактурирана в подробностите на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="d1613-144">A billed sales reversal for the hours and amount invoiced on the original invoice line detail for time.</span></span>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="408" valign="top">
-                <p>
-<span data-ttu-id="d1613-145">Нова нефактурирана действителна продажба, която се заплаща за часовете и сумата в редактирания детайл на реда за фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="d1613-145">A new unbilled sales actual that is chargeable for the hours and amount on the edited invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
+<span data-ttu-id="26e3b-144">Обръщане на фактурирани продажби за часовете и сумата, фактурирана в подробностите на оригиналната фактура за времето.</span><span class="sxs-lookup"><span data-stu-id="26e3b-144">A billed sales reversal for the hours and amount invoiced on the original invoice line detail for time.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-146">Нова действителна нефактурирана продажба, която се дължи за оставащите часове и сума след приспадане на коригираните цифри в детайла на фактурата.</span><span class="sxs-lookup"><span data-stu-id="d1613-146">A new unbilled sales actual that is chargeable for the remaining hours and amount after deducting the corrected figures on the invoice line detail.</span></span>
+<span data-ttu-id="26e3b-145">Нова нефактурирана действителна продажба, която се заплаща за часовете и сумата в редактирания детайл на реда за фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="26e3b-145">A new unbilled sales actual that is chargeable for the hours and amount on the edited invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="408" valign="top">
+                <p>
+<span data-ttu-id="26e3b-146">Нова действителна нефактурирана продажба, която се дължи за оставащите часове и сума след приспадане на коригираните цифри в детайла на фактурата.</span><span class="sxs-lookup"><span data-stu-id="26e3b-146">A new unbilled sales actual that is chargeable for the remaining hours and amount after deducting the corrected figures on the invoice line detail.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="d1613-147">Фактуриране на пълния кредит на предварително фактурирана транзакция за разход.</span><span class="sxs-lookup"><span data-stu-id="d1613-147">Invoicing the full credit of a previously invoiced expense transaction.</span></span>
+<span data-ttu-id="26e3b-147">Фактуриране на пълния кредит на предварително фактурирана транзакция за разход.</span><span class="sxs-lookup"><span data-stu-id="26e3b-147">Invoicing the full credit of a previously invoiced expense transaction.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-148">Обръщане на фактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за разхода.</span><span class="sxs-lookup"><span data-stu-id="d1613-148">A billed sales reversal for the quantity and amount on the original invoice line detail for the expense.</span></span>
+<span data-ttu-id="26e3b-148">Обръщане на фактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за разхода.</span><span class="sxs-lookup"><span data-stu-id="26e3b-148">A billed sales reversal for the quantity and amount on the original invoice line detail for the expense.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-149">Нови действителни данни за нефактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за разхода.</span><span class="sxs-lookup"><span data-stu-id="d1613-149">A new unbilled sales actual for the quantity and amount on the original invoice line detail for the expense.</span></span>
+<span data-ttu-id="26e3b-149">Нови действителни данни за нефактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за разхода.</span><span class="sxs-lookup"><span data-stu-id="26e3b-149">A new unbilled sales actual for the quantity and amount on the original invoice line detail for the expense.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="3" valign="top">
                 <p>
-<span data-ttu-id="d1613-150">Фактуриране на частичния кредит на предварително фактурирана транзакция за разход.</span><span class="sxs-lookup"><span data-stu-id="d1613-150">Invoicing the partial credit of a previously invoiced expense transaction.</span></span>
+<span data-ttu-id="26e3b-150">Фактуриране на частичния кредит на предварително фактурирана транзакция за разход.</span><span class="sxs-lookup"><span data-stu-id="26e3b-150">Invoicing the partial credit of a previously invoiced expense transaction.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-151">Обръщане на фактурирани продажби за количеството и сумата, фактурирана в подробностите на оригиналната фактура за разход.</span><span class="sxs-lookup"><span data-stu-id="d1613-151">A billed sales reversal for the quantity and amount invoiced on the original invoice line detail for an expense.</span></span>
+<span data-ttu-id="26e3b-151">Обръщане на фактурирани продажби за количеството и сумата, фактурирана в подробностите на оригиналната фактура за разход.</span><span class="sxs-lookup"><span data-stu-id="26e3b-151">A billed sales reversal for the quantity and amount invoiced on the original invoice line detail for an expense.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-152">Нова нефактурирана действителна продажба, която се заплаща за количеството и сумата в редактирания детайл на реда на коригирана фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="d1613-152">A new unbilled sales actual that is chargeable for the quantity and amount on the corrected invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
+<span data-ttu-id="26e3b-152">Нова нефактурирана действителна продажба, която се заплаща за количеството и сумата в редактирания детайл на реда на коригирана фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="26e3b-152">A new unbilled sales actual that is chargeable for the quantity and amount on the corrected invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-153">Нова действителна нефактурирана продажба, която се дължи за оставащото количество и сума след приспадане на коригираните цифри в детайла на фактурата.</span><span class="sxs-lookup"><span data-stu-id="d1613-153">A new unbilled sales actual that is chargeable for the remaining quantity and amount after deducting the corrected figures on the invoice line detail.</span></span>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="216" rowspan="2" valign="top">
-                <p>
-<span data-ttu-id="d1613-154">Фактуриране на пълния кредит на предварително фактурирана транзакция на такса.</span><span class="sxs-lookup"><span data-stu-id="d1613-154">Invoicing the full credit of a previously invoiced fee transaction.</span></span>
-                </p>
-            </td>
-            <td width="408" valign="top">
-                <p>
-<span data-ttu-id="d1613-155">Обръщане на фактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="d1613-155">A billed sales reversal for the quantity and amount on the original invoice line detail for the fee.</span></span>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="408" valign="top">
-                <p>
-<span data-ttu-id="d1613-156">Нови действителни данни за нефактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="d1613-156">A new unbilled sales actual for the quantity and amount on the original invoice line detail for the fee.</span></span>
+<span data-ttu-id="26e3b-153">Нова действителна нефактурирана продажба, която се дължи за оставащото количество и сума след приспадане на коригираните цифри в детайла на фактурата.</span><span class="sxs-lookup"><span data-stu-id="26e3b-153">A new unbilled sales actual that is chargeable for the remaining quantity and amount after deducting the corrected figures on the invoice line detail.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" rowspan="2" valign="top">
                 <p>
-<span data-ttu-id="d1613-157">Фактуриране на частичния кредит на предварително фактурирана транзакция на такса.</span><span class="sxs-lookup"><span data-stu-id="d1613-157">Invoicing the partial credit of a previously invoiced fee transaction.</span></span>
+<span data-ttu-id="26e3b-154">Фактуриране на пълния кредит на предварително фактурирана транзакция на такса.</span><span class="sxs-lookup"><span data-stu-id="26e3b-154">Invoicing the full credit of a previously invoiced fee transaction.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-158">Обръщане на фактурирани продажби за количеството и сумата, фактурирана в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="d1613-158">A billed sales reversal for the quantity and amount invoiced on the original invoice line detail for fee.</span></span>
+<span data-ttu-id="26e3b-155">Обръщане на фактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="26e3b-155">A billed sales reversal for the quantity and amount on the original invoice line detail for the fee.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-159">Нова нефактурирана действителна продажба, която се заплаща за количеството и сумата в редактирания детайл на реда на редактирана коригираща фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="d1613-159">A new unbilled sales actual that is chargeable for the quantity and amount on the edited corrective invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
+<span data-ttu-id="26e3b-156">Нови действителни данни за нефактурирани продажби за количеството и сумата в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="26e3b-156">A new unbilled sales actual for the quantity and amount on the original invoice line detail for the fee.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="216" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="26e3b-157">Фактуриране на частичния кредит на предварително фактурирана транзакция на такса.</span><span class="sxs-lookup"><span data-stu-id="26e3b-157">Invoicing the partial credit of a previously invoiced fee transaction.</span></span>
+                </p>
+            </td>
+            <td width="408" valign="top">
+                <p>
+<span data-ttu-id="26e3b-158">Обръщане на фактурирани продажби за количеството и сумата, фактурирана в подробностите на оригиналната фактура за таксата.</span><span class="sxs-lookup"><span data-stu-id="26e3b-158">A billed sales reversal for the quantity and amount invoiced on the original invoice line detail for fee.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="408" valign="top">
+                <p>
+<span data-ttu-id="26e3b-159">Нова нефактурирана действителна продажба, която се заплаща за количеството и сумата в редактирания детайл на реда на редактирана коригираща фактура, сторниране на това и еквивалентна действителна фактурирана продажба.</span><span class="sxs-lookup"><span data-stu-id="26e3b-159">A new unbilled sales actual that is chargeable for the quantity and amount on the edited corrective invoice line detail, a reversal of this, and an equivalent billed sales actual.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="216" valign="top">
+                <p>
+<span data-ttu-id="26e3b-160">Фактуриране на пълния кредит на предварително фактурирана контролна точка.</span><span class="sxs-lookup"><span data-stu-id="26e3b-160">Invoicing the full credit of a previously invoiced milestone.</span></span>
+                </p>
+            </td>
+            <td width="408" valign="top">
+                <p>
+<span data-ttu-id="26e3b-161">Обръщане на фактурирани продажби за сумата в детайла на оригиналната фактура за контролната точка.</span><span class="sxs-lookup"><span data-stu-id="26e3b-161">A billed sales reversal for the amount on the original invoice line detail for the milestone.</span></span>
+                </p>
+                <p>
+<span data-ttu-id="26e3b-162">Състоянието на фактурата или фактурата на етапа по реда на договора за проект се актуализира до **Готови за фактуриране**.</span><span class="sxs-lookup"><span data-stu-id="26e3b-162">The milestone invoice or billing status on the project contract line is updated to **Ready to Invoice**.</span></span>
                 </p>
             </td>
         </tr>
         <tr>
             <td width="216" valign="top">
                 <p>
-<span data-ttu-id="d1613-160">Фактуриране на пълния кредит на предварително фактурирана контролна точка.</span><span class="sxs-lookup"><span data-stu-id="d1613-160">Invoicing the full credit of a previously invoiced milestone.</span></span>
+<span data-ttu-id="26e3b-163">Фактуриране на частичния кредит на предварително фактурирана контролна точка.</span><span class="sxs-lookup"><span data-stu-id="26e3b-163">Invoicing the partial credit of a previously invoiced milestone.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-161">Обръщане на фактурирани продажби за сумата в детайла на оригиналната фактура за контролната точка.</span><span class="sxs-lookup"><span data-stu-id="d1613-161">A billed sales reversal for the amount on the original invoice line detail for the milestone.</span></span>
-                </p>
-                <p>
-<span data-ttu-id="d1613-162">Състоянието на фактурата или фактурата на етапа по реда на договора за проект се актуализира до **Готови за фактуриране**.</span><span class="sxs-lookup"><span data-stu-id="d1613-162">The milestone invoice or billing status on the project contract line is updated to **Ready to Invoice**.</span></span>
-                </p>
+<span data-ttu-id="26e3b-164">Неподдържано</span><span class="sxs-lookup"><span data-stu-id="26e3b-164">Unsupported</span></span> </p>
             </td>
         </tr>
         <tr>
             <td width="216" valign="top">
                 <p>
-<span data-ttu-id="d1613-163">Фактуриране на частичния кредит на предварително фактурирана контролна точка.</span><span class="sxs-lookup"><span data-stu-id="d1613-163">Invoicing the partial credit of a previously invoiced milestone.</span></span>
+<span data-ttu-id="26e3b-165">Кредити и корекции на предварително фактурирана продуктови аспекти на договор.</span><span class="sxs-lookup"><span data-stu-id="26e3b-165">Credits and corrections of a previously invoiced product-based contract line.</span></span>
                 </p>
             </td>
             <td width="408" valign="top">
                 <p>
-<span data-ttu-id="d1613-164">Неподдържано</span><span class="sxs-lookup"><span data-stu-id="d1613-164">Unsupported</span></span> </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="216" valign="top">
-                <p>
-<span data-ttu-id="d1613-165">Кредити и корекции на предварително фактурирана продуктови аспекти на договор.</span><span class="sxs-lookup"><span data-stu-id="d1613-165">Credits and corrections of a previously invoiced product-based contract line.</span></span>
-                </p>
-            </td>
-            <td width="408" valign="top">
-                <p>
-<span data-ttu-id="d1613-166">Неподдържано</span><span class="sxs-lookup"><span data-stu-id="d1613-166">Unsupported</span></span> </p>
+<span data-ttu-id="26e3b-166">Неподдържано</span><span class="sxs-lookup"><span data-stu-id="26e3b-166">Unsupported</span></span> </p>
             </td>
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
