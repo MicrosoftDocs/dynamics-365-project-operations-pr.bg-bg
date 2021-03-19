@@ -1,6 +1,6 @@
 ---
 title: Обновени отчетите за разходите
-description: Тази тема предоставя информация за преработения и преосмислен опит за въвеждане на отчет за разходите в Microsoft Dynamics 365 Finance. Новият опит опростява процеса на попълване на отчети за разходите и намалява необходимото време.
+description: Тази тема предоставя информация за преработения и преосмислен опит за въвеждане на отчет за разходите.
 author: ryansandness
 manager: AnnBe
 ms.date: 06/14/2019
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2019-6-30
 ms.dyn365.ops.version: 10.0.3
-ms.openlocfilehash: d076c0a596940cb08433f7ee57dea54903f6078f
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
+ms.openlocfilehash: 7533f8aca317bd8d72e437592b5251fd3a866ba6
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960234"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271970"
 ---
 # <a name="redesigned-expense-reports"></a>Обновени отчетите за разходите
 
@@ -40,12 +40,6 @@ ms.locfileid: "4960234"
 - Добавен е нов елемент от менюто за видимост на полето за разходи.
 - Не се премахват съществуващи елементи от менюто за отчети за разходите (съществуващата страница) или полетата за отчет за разходите.
 - Работните процеси и всякакви одобрения все още ви отвеждат до съществуващата страница с отчети за разходите.
-
-## <a name="getting-started-video-for-new-users"></a>Първи стъпки видео за нови потребители
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
-
-Видеоклипът за [Изживяването за разходи в Dynamics 365 for Finance and Operations](https://youtu.be/Ocy-MsTvEE0) (показано по-горе) е включен в [списъка за изпълнение на Finance and Operations](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) на разположение в YouTube.
 
 ## <a name="new-features"></a>Нови функции
 

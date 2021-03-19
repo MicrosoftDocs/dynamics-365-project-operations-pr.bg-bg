@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 34a3ea3dda64969fe66248e295cd3dd8bbe72a05
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071845"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270620"
 ---
 # <a name="manage-resource-competencies"></a>Управление на компетенции на ресурс
 
@@ -39,9 +39,9 @@ ms.locfileid: "4071845"
 
 ## <a name="set-up-competencies-certificates"></a>Създаване на компетенции: Сертификати
 
-1. На списъчната страница **Работници** , изберете реда за работника, за който да добавите информация за сертификат.
+1. На списъчната страница **Работници**, изберете реда за работника, за който да добавите информация за сертификат.
 2. В панела за действие, в раздела **Работник** в групата **Компетенции** изберете **Сертификати**.
-3. Изберете **Ново** , след което е полето **Тип сертификат** изберете **PMP**.
+3. Изберете **Ново**, след което е полето **Тип сертификат** изберете **PMP**.
 4. В полето **Начална дата** изберете **10/1/2015** и изберете **Записване**.
 
 ## <a name="set-up-competencies-skills"></a>Създаване на компетенции: Умения

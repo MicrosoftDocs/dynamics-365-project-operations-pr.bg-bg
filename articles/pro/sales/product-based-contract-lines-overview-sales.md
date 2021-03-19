@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: eb09140eae5383b882db73195d0360a836ece791
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 6e9ef33cc9c79f828e85733f4f5a199bce842700
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177858"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272645"
 ---
 # <a name="product-based-contract-lines-overview---lite"></a>Общ преглед на базирани на продукти аспекти на договор – олекотено
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Можете да създадете базирани на продукти договорни линии в Dynamics 365 Project Operations. Аспекти на договор, базирани на продукти, могат да бъдат ръчно създадени редове или могат да бъдат елементи от продуктовия каталог.
+Можете да създавате аспекти на договор, базирани на продукти, в Dynamics 365 Project Operations. Аспекти на договор, базирани на продукти, могат да бъдат ръчно създадени редове или могат да бъдат елементи от продуктовия каталог.
 
 ## <a name="product-catalog"></a>Продуктов каталог
 

@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 000c22944b187b6250f2e982d73020028093fde6
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 34ee7bb157426507ec7ca8c031f5cb552e85099b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180179"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275480"
 ---
 # <a name="set-up-price-lists"></a>Създаване на ценови листи
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Ценовите листи в Dynamics 365 Project Operations представляват каталог на тарифите. Тарифите изразяват разходите, продажбите и фактурите. В зависимост от това дали ценовата листа изразява ставки на разходите или продажби и сметки, контекстът на ценовата листа е **Продажби** или **Разходи**.
+Ценови листи в Dynamics 365 Project Operations представляват каталог на цените. Тарифите изразяват разходите, продажбите и фактурите. В зависимост от това дали ценовата листа изразява ставки на разходите или продажби и сметки, контекстът на ценовата листа е **Продажби** или **Разходи**.
 
 Следните разширения са специфични за Project Operations и се прилагат към ценовите листи от Dynamics 365 Sales.
 

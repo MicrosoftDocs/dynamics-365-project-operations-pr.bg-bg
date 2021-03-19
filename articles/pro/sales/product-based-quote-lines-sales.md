@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f6aa428c486f149308ad078f9d7a80a0be0f0f04
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 29d82637c6c8bb5b5cde7707d181d5b3d3b235c4
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4178175"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272555"
 ---
 # <a name="product-based-quote-lines-overview---lite"></a>Общ преглед на базирана на продукт оферта – олекотен
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Можете да създавате редове на оферти, базирани на продукти, в Dynamics 365 Project Operations. Редовете на оферти, базирани на продукти, могат да бъдат добавени ръчно или могат да бъдат елементи от продуктовия каталог.
+Можете да създавате редове на оферти, базирани на продукти, в Dynamics 365 Project Operations Редовете на оферти, базирани на продукти, могат да бъдат добавени ръчно или могат да бъдат елементи от продуктовия каталог.
 
 ## <a name="product-catalog"></a>Продуктов каталог
 

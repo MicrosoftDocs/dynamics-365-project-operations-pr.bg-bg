@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: fd29a3fc9c873d46dd66a05ad100c7515177d6cd
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 04c97429ab8ac769dd22b4127432d80de8fde937
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4130925"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275570"
 ---
 # <a name="default-price-lists"></a>Ценови листи по подразбиране
 
@@ -21,7 +21,7 @@ _**Отнася се за:** Project Operations за сценарии, бази�
 
 ## <a name="sales-price-lists"></a>Ценови листи за продажби
 
-Всяка оферта за проект и договор в Dynamics 365 Project Operations съдържа ценова листа по подразбиране. 
+Всяка оферта за проект и договор в Dynamics 365 Project Operations съдържа ценова листа по подразбиране за продажби. 
 
 ### <a name="price-list-default-on-project-quotes"></a>Ценоразпис по подразбиране за проектни оферти
 Системата завършва следния процес, за да определи коя ценова листа да бъде зададена по подразбиране за оферта на проект:

@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 8c18dd734312b2dd147381169f5c3dc38a68a601
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 6e89e23189fa65057d7b955897924057c440ccd8
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4119540"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274940"
 ---
 # <a name="resolve-sales-prices-for-estimates-and-actuals"></a>Разрешаване на продажни цени за прогнози и действителни данни
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Когато продажните цени за приблизителни оценки и факти са решени в Dynamics 365 Project Operations, системата първо използва датата и валутата на съответната оферта за проект или договор, за да разреши ценовата листа на продажбите. След като ценовата листа на продажбите е решена, системата определя стойността на продажбите или сметката.
+Когато продажните цени на прогнози и факти са решени в Dynamics 365 Project Operations, системата първо използва датата и валутата на свързаната оферта за проект или договор, за да разреши ценовата листа на продажбите. След като ценовата листа на продажбите е решена, системата определя стойността на продажбите или сметката.
 
 ## <a name="resolve-sales-rates-on-actual-and-estimate-lines-for-time"></a>Решете процентите на продажби по реални и прогнозни линии за времето
 
