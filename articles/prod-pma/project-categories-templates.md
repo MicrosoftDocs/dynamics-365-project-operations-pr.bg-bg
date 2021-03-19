@@ -17,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: ed7ca3c85d3f99b7eefe10f4ddec822b9aeb1684
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4abb7fe6554825b97df4cc04ee1b02d731cb4af9
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071959"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289626"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Синхронизирайте категориите разходи за проекти между Finance and Operations и Project Service Automation
 
@@ -64,7 +64,7 @@ ms.locfileid: "4071959"
 
 ### <a name="template-and-task"></a>Шаблони и задача
 
-За достъп до шаблона, в администраторски център на Microsoft Power Apps, изберете **Проекти** и след това в горния десен ъгъл изберете **Нов проект** , за да изберете публични шаблони.
+За достъп до шаблона, в администраторски център на Microsoft Power Apps, изберете **Проекти** и след това в горния десен ъгъл изберете **Нов проект**, за да изберете публични шаблони.
 
 Следният шаблон и основните задачи се използват за синхронизиране на категории на разходи на проекта от Finance към Project Service Automation:
 
@@ -86,7 +86,7 @@ ms.locfileid: "4071959"
 Когато синхронизирате с Project Service Automation, трябва да използвате Microsoft Power Query за Excel, за да зададете типа на таксуване в категорията на транзакциите. Категориите на транзакционните категории на проекта (Fin и Ops към PSA) предоставят колона и картографиране по подразбиране. Ако създадете свой собствен шаблон, трябва да добавите тази условна колона в Power Query. Следвайте тези стъпки.
 
 1. Щракнете върху стрелката, за да отворите задачата за картографиране на категорията на разходите за проекта в шаблона за категории на транзакции за проект (Fin и Ops към PSA).
-2. Щракнете върху връзката **Разширени заявки и филтриране** , за да отворите Power Query.
+2. Щракнете върху връзката **Разширени заявки и филтриране**, за да отворите Power Query.
 2. Изберете **Добавете условна колона**.
 3. Въведете име за новата колона, като например **BillingType**.
 4. Въведете следното условие: **ако CATEGORYID не е равно на нула, тогава 19235001, в противен случай е нула**.

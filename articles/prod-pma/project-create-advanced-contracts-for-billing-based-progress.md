@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 1a83785a9db4dffc4585acf11ef971c08594f312
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b1de330df8cf85ed30c0ee4e4f2f2fe74d05dbff
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071949"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289491"
 ---
 # <a name="create-advanced-contracts-for-billing-based-on-progress"></a>Създаване на разширени договори за фактуриране въз основа на напредъка
 [!include [banner](../includes/banner.md)]
@@ -61,7 +61,7 @@ ms.locfileid: "4071949"
 
 1. Отидете на **Управление на проекти и счетоводство** \> **Проекти** \> **Договори за проекти**.
 2. На страницата **договори на проект** изберете **Нов**.
-3. В диалоговия прозорец **Нов договор за проект** , задайте следните полета:
+3. В диалоговия прозорец **Нов договор за проект**, задайте следните полета:
 
     - **Име**
     - **Тип финансиране**
