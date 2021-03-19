@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: e9d3a5d8e6e1daafac72a3b4c0380b679d1869bd
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: 2da6af3240d8e561d01b1fcd8d32b657dbac1588
+ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401205"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5479551"
 ---
 # <a name="determine-your-deployment-type"></a>Определяне на типа на внедряването ви
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 > [!IMPORTANT]
-> След като закупите лиценза, започнете оттук, за да определите най-добрия модел за внедряване на Dynamics 365 Project Operations с помощта на [Направляван поток на инсталация](https://aka.ms/provisionprojectoperations).
+> След като закупите лиценза, започнете от тук, за да определите най-добрия модел за внедряване на Dynamics 365 Project Operations, като използвате [Насочван поток за инсталация](https://aka.ms/provisionprojectoperations).
 > След като завършите ръководството за инсталиране, ще бъдете насочени към правилния портал за управление, за да завършите инсталацията си. Вижте подробностите за разполагане, за да завършите инсталацията.
 
 
@@ -31,6 +31,9 @@ Project Operations включва възможностите, предостав
 
 Съществуващите клиенти на Finance, които използват функционалността за управление на проекти и счетоводство, могат да продължат да я използват както е. Вижте [Project Operations за сценарии, базирани на наличност/поръчка за производство](#pma).
 
+
+## <a name="deployment-regions"></a>Региони на внедряване
+За да определите кои региони поддържат внедряването на Project Operations, вижте [отчета за географска наличност за Dynamics 365 и Power Platform](https://dynamics.microsoft.com/en-us/geographic-availability/). Изберете **Преглед на отчета** и разширете **Dynamics 365 > Операционни приложения > Dynamics 365 Project Operations**, за да видите поддържаните региони.
 
 ## <a name="deployment-types"></a>Типове внедряване
 Project Operations поддържа множество опции за разполагане, за да отговарят на вашите изисквания. Независимо дали сте нов или съществуващ клиент на Dynamics 365, Project Operations може да поддържа вашите нужди.

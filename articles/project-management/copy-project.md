@@ -1,27 +1,27 @@
 ---
 title: Копиране на проект
-description: Тази тема предоставя информация за копиране на проекти в Dynamics 365 Project Operations.
+description: Тази тема предоставя информация за копирането на проекти в Dynamics 365 Project Operations.
 author: ruhercul
 manager: AnnBe
-ms.date: 10/07/2020
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 53c72e5fd680eb28128644788752368705440445
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: af1942e81691d9e13fdcbbf68599c1a8a4004582
+ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131780"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5479506"
 ---
 # <a name="copy-a-project"></a>Копиране на проект
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-С Dynamics 365 Project Operations можете бързо да създавате нови проекти, като изберете **Копиране на проект** върху формуляра **Проекти**. За да копирате проект, отворете проекта, който искате да копирате, и след това изберете **Копиране на проект**. Действието ще копира:
+С помощта на Dynamics 365 Project Operations можете бързо да изграждате нови проекти, като изберете **Копиране на проект** във формуляра **Проекти**. За да копирате проект, отворете проекта, който искате да копирате, и след това изберете **Копиране на проект**. Действието ще копира:
 
-- Свойства на проекта
+- Свойства на проекта (Очакваната начална дата се копира от проекта източник)
 - Съставна структура на работата
 - Членове на екипа на проект
 - Оценки на проекта
