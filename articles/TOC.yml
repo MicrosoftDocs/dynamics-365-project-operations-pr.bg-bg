@@ -36,6 +36,8 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: Какво е новото
       items:
+        - name: 'Април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-apr-2021-resource-based.md
         - name: 'Mart 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-mar-2021-resource-based.md
         - name: 'Февруари 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -64,7 +66,7 @@
           items:
             - name: Общ преглед на управлението на възможности на проект
               href: sales/manage-project-based-opportunities.md
-            - name: Настройки на базирана на проект възможност
+            - name: Подробности за заглавието за базирани на проекти възможности
               href: sales/opportunity-header.md
             - name: Базирани на проект редове на възможност
               href: sales/project-based-lines.md
@@ -78,23 +80,27 @@
           items:
             - name: Общ преглед на управлението на оферти по проект
               href: pro/sales/manage-quotes-sales.md
-            - name: Концепции за оферти по проект
+            - name: 'Концепции, уникални за базирани на проект оферти'
               href: sales/quotes-key-concepts.md
-            - name: Настройки на оферти по проект
+            - name: Подробности за заглавието за базирани на проекти оферти
               href: sales/quote-values-budget-limits-contract.md
             - name: Управление на множество клиенти в оферта по проект
               href: sales/manage-multiple-customers-quote.md
             - name: Управление на ценови листи на оферта
-              href: sales/managing-project-price-lists.md
+              href: pro/sales/manage-project-price-lists-sales.md
             - name: Базирани на проект редове на оферта
               items:
                 - name: Общ преглед на базирани на проект редове на оферта
-                  href: sales/manage-quoted-values-budget-limits-quote-line.md
+                  href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
                 - name: Управление на множество клиенти в базирани на проект редове на оферта
                   href: sales/manage-multiple-customers-quote-line.md
+                - name: Нанасяне на проекти и задачи към базиран на проект редове на оферта
+                  href: pro/sales/mapping-projects-tasks-quote-line-sales.md
+                - name: Конфигуриране на платими компоненти за базирани на проект редове на оферта
+                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
                 - name: Конфигуриране на платимите компоненти на ред на оферта по проект
                   href: sales/configure-chargeable-quoteline.md
-                - name: Създаване на прогнози на ред на оферта
+                - name: Прогнозиране на ред на оферта по проект
                   href: sales/create-estimate-quote-line.md
                 - name: Импортиране на прогнози от проект в базиран на проект ред на оферта
                   href: sales/import-estimate-quote-line.md
@@ -108,9 +114,9 @@
           items:
             - name: Общ преглед на управлението на договори по проект
               href: pro/sales/manage-contracts-sales.md
-            - name: Концепции за договори по проекти
+            - name: 'Концепции, уникални за базирани на проект договори'
               href: sales/contracts-key-concepts.md
-            - name: Настройки на договор по проект
+            - name: Подробности за заглавието за базирани на проекти договори
               href: sales/project-contract-settings.md
             - name: Управление на ценови листи на проект в договори по проекти
               href: sales/contracts-manage-project-price-lists.md
@@ -119,12 +125,14 @@
             - name: Базирани на проект аспекти на договор
               items:
                 - name: Общ преглед на базирани на проект аспекти на договор
-                  href: sales/manage-contract-values-project-based.md
+                  href: pro/sales/manage-contract-values-project-based-sales.md
                 - name: Управление на множество клиенти в базирани на проект аспекти на договор
                   href: sales/manage-multiple-customers-contract-line.md
-                - name: Конфигуриране на платими компоненти на базирани на проект аспекти на договор
-                  href: sales/configure-chargeable-contract-line.md
-                - name: Прогнозиране на базирани на проект аспекти на договор
+                - name: Нанасяне на проекти и задачи върху аспекти на договор по проект
+                  href: pro/sales/mapping-projects-tasks-contract-line-sales.md
+                - name: Конфигуриране на платими компоненти за аспекти на договор по проект
+                  href: pro/sales/configure-chargeable-components-contract-line.md
+                - name: Оценяване на аспекти на договор по проект
                   href: sales/create-estimate-contract-line.md
                 - name: Импортиране на прогнози от проект в базирани на проект аспекти на договор
                   href: sales/import-estimate-project-contract-line.md
@@ -132,8 +140,6 @@
                   href: sales/invoice-schedules-contract-line.md
             - name: Потвърждение на договор по проект
               href: pro/sales/confirm-contract-sales.md
-            - name: Копиране на договор по проект
-              href: pro/sales/copy-project-contracts-sales.md
             - name: Суми за аванси и капаро
               items:
                 - name: Базирани на авансови плащания и капаро договори
@@ -146,16 +152,16 @@
       items:
         - name: Настройване на ценова листа
           items:
-            - name: Създаване на ценови листи
+            - name: Дефиниция на ценова листа
               href: pricing-costing/price-list-setup.md
-            - name: Ценови листи на продукт
-              href: pricing-costing/product-price-list.md
             - name: Настройване на размер на фактура за труд
               href: pricing-costing/set-up-labor-bill-rate.md
             - name: Настройване на размер на разход за труд
               href: pricing-costing/set-up-labor-cost-rate.md
             - name: Настройване на размер на разход и продажби за разходи
               href: pricing-costing/set-up-cost-sales-rates-expenses.md
+            - name: Настройване на размер на разход и продажби за материали
+              href: pricing-costing/set-up-cost-sales-rates-materials.md
         - name: Настройки по подразбиране и замествания
           items:
             - name: Ценови листи по подразбиране
@@ -168,6 +174,8 @@
               href: pricing-costing/sales-price-resolution.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
+            - name: Дезактивиране на ценови листи
+              href: pricing-costing/deactivatepricelists.md
         - name: Измерения на ценообразуване
           items:
             - name: Преглед на измеренията на ценообразуване
@@ -218,18 +226,24 @@
               href: project-management/create-wbs.md
             - name: Създаване на задания
               href: project-management/create-assignments.md
-        - name: Оценяване на проекти
+        - name: Финансови оценки по проекти
           items:
-            - name: Преглед на оценяване на проекти
+            - name: Концепции за финансова оценка
               href: project-management/estimating-projects-overview.md
-            - name: Прогнози за ресурс
+            - name: Финансови оценки за време на ресурс по проекти
               href: project-management/resource-estimates.md
-            - name: Създаване на прогнози за разход
+            - name: Финансови оценки за разходи по проекти
               href: project-management/create-expense-estimates.md
+            - name: Финансови оценки за материали по проекти
+              href: project-management/create-material-estimate.md
         - name: Проследяване на проект
           items:
-            - name: Общ преглед на проследяване на проект
+            - name: Проследяване на усилие по проект
               href: project-management/project-tracking-overview.md
+            - name: Проследяване на разходите за труд по проекти
+              href: project-management/project-cost-tracking.md
+            - name: Проследяване на приходите от труд по проекти
+              href: project-management/project-sales-tracking.md
             - name: Актуализиране на оценка при завършване
               href: project-management/update-completed-estimate.md
         - name: Членове на екипа на проект
@@ -248,6 +262,8 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
+            - name: Използване на API за график (публичен преглед)
+              href: project-management/schedule-api-preview.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -366,6 +382,10 @@
           items:
             - name: Възстановяване на ДДС
               href: expense/vat-recovery.md
+    - name: Използване на материал
+      items:
+        - name: Записване на използването на материали по проекти и проектни задачи
+          href: material/material-usage-log.md
     - name: Одобрения
       items:
         - name: Общ преглед на одобренията
@@ -378,6 +398,8 @@
       items:
         - name: Общ преглед на действителни данни
           href: actuals/actuals-overview.md
+        - name: Свързване на действителните данни с първоначални записи
+          href: actuals/linkingactuals.md
         - name: Журнали за корекции
           items:
             - name: Създаване и потвърждаване на журнали за корекции
@@ -390,19 +412,21 @@
           href: invoicing/format-update-project-invoice-proposals.md
         - name: Проформа фактуриране
           items:
-            - name: Управление на натрупване на фактуриране по проект
+            - name: Управление на натрупване на фактуриране на база проект
               href: proforma-invoicing/manage-billing-backlog.md
             - name: 'Управление на състоянието и проверките за стойности, които не трябва да се надвишават'
               href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
-            - name: Ръчно създаване на проформа фактура по проект
+            - name: Базирани на проект проформа фактури
               href: proforma-invoicing/create-manual-proforma-invoice.md
-            - name: Управление на проформа фактура по проект
+            - name: Управление на базирана на проект проформа фактура
               href: proforma-invoicing/manage-proforma-invoice.md
             - name: Фактуриране на капаро или авансово плащане
               href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
-            - name: Потвърждение на проформа фактура по проект
+            - name: Потвърждение на базирана на проект проформа фактура
               href: proforma-invoicing/confirm-proforma-invoice.md
-            - name: Конфигуриране на автоматизация на фактура по проект
+            - name: Създаване на коригиращи базирани на проект фактури
+              href: proforma-invoicing/corrective-invoices.md
+            - name: Конфигуриране на автоматизация на базирана на проект фактура
               href: proforma-invoicing/configure-automated-invoice-creation.md
     - name: Счетоводство на проект
       items:
@@ -458,6 +482,8 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
+        - name: Нововъведения от април 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: Нововъведения от март 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-mar-2021-lite.md
         - name: Нововъведения от февруари 2021 г. – олекотено внедряване
@@ -486,7 +512,7 @@
           items:
             - name: Общ преглед на възможности на проект
               href: sales/manage-project-based-opportunities.md
-            - name: Настройки на възможност на проект
+            - name: Подробности за заглавието за възможности по проект
               href: pro/sales/opportunity-header-sales.md
             - name: Управление на базирани на продукт редове за възможност
               href: pro/sales/product-based-lines-sales.md
@@ -502,9 +528,9 @@
           items:
             - name: Общ преглед на базирани на проект оферти
               href: pro/sales/manage-quotes-sales.md
-            - name: Концепции за оферта по проект
+            - name: 'Концепции, уникални за оферти по проект'
               href: pro/sales/quotes-key-concepts-sales.md
-            - name: Настройки на оферта по проект
+            - name: Подробности за заглавието за оферти по проект
               href: pro/sales/quote-values-budget-limits-contract-sales.md
             - name: Множество клиенти за оферти по проект
               href: pro/sales/manage-multiple-customers-quote-sales.md
@@ -542,9 +568,9 @@
           items:
             - name: Общ преглед на базирани на проект договори
               href: pro/sales/manage-contracts-sales.md
-            - name: Концепции за договор по проект
+            - name: 'Концепции, уникални за договори по проект'
               href: pro/sales/contracts-key-concepts-sales.md
-            - name: Настройки на договор по проект
+            - name: Подробности за заглавието за договори по проект
               href: pro/sales/project-contract-settings-sales.md
             - name: Множество клиенти в договори по проект
               href: pro/sales/manage-multiple-customers-contract-sales.md
@@ -590,30 +616,32 @@
       items:
         - name: Настройване на ценова листа
           items:
-            - name: Създаване на ценови листи
+            - name: Дефиниция на ценова листа
               href: pricing-costing/price-list-setup.md
-            - name: Настройване на ценова листа за продажби
-              href: pricing-costing/sales-price-list-setup.md
-            - name: Настройване на размер на фактура за труд – олекотено
+            - name: Създаване на продуктови ценови листи
+              href: pricing-costing/product-price-list.md
+            - name: Задаване на размери на фактури за труд
               href: pro/pricing-costing/set-up-labor-bill-rate-sales.md
-            - name: Настройване на размер на разход за труд – олекотено
+            - name: Задаване на размери на разходи за труд
               href: pro/pricing-costing/set-up-labor-cost-rates-sales.md
-            - name: Настройване на размер на разход и продажби за продукти от каталог – олекотено
-              href: pro/pricing-costing/set-up-cost-sales-rates-catalog-products.md
             - name: Настройване на размер на разход и продажби за разходи
               href: pricing-costing/set-up-cost-sales-rates-expenses.md
+            - name: Настройване на размер на разход и продажби за материали
+              href: pricing-costing/set-up-cost-sales-rates-materials.md
         - name: Настройки по подразбиране и замествания
           items:
             - name: Ценови листи по подразбиране
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Заместване на ценовите листи за продажби по проект
               href: pricing-costing/override-project-sales-price-list-default.md
-            - name: Разрешаване на себестойности на прогнози и действителни данни – олекотено
+            - name: Разрешаване на себестойности за прогнозни и действителни данни по проект
               href: pro/pricing-costing/cost-price-resolution-sales.md
-            - name: Разрешаване на продажни цени за прогнози и действителни данни – олекотено
+            - name: Разрешаване на продажни цени за прогнозни и действителни данни по проект
               href: pro/pricing-costing/sales-price-resolution-sales.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
+            - name: Дезактивиране на ценови листи по проект
+              href: pricing-costing/deactivatepricelists.md
         - name: Измерения на ценообразуване
           items:
             - name: Преглед на измеренията на ценообразуване
@@ -664,18 +692,24 @@
               href: project-management/create-wbs.md
             - name: Създаване на задания
               href: project-management/create-assignments.md
-        - name: Оценяване на проекти
+        - name: Финансови оценки по проекти
           items:
-            - name: Преглед на оценяване на проекти
+            - name: Концепции за финансова оценка
               href: project-management/estimating-projects-overview.md
-            - name: Прогнози за ресурс
+            - name: Финансови оценки за време на ресурс по проекти
               href: project-management/resource-estimates.md
-            - name: Създаване на прогнози за разход
+            - name: Финансови оценки за разходи по проекти
               href: project-management/create-expense-estimates.md
+            - name: Финансови оценки за материали по проекти
+              href: project-management/create-material-estimate.md
         - name: Проследяване на проект
           items:
-            - name: Общ преглед на проследяване на проект
+            - name: Проследяване на усилие по проект
               href: project-management/project-tracking-overview.md
+            - name: Проследяване на разходите за труд по проекти
+              href: project-management/project-cost-tracking.md
+            - name: Проследяване на приходите от труд по проекти
+              href: project-management/project-sales-tracking.md
             - name: Актуализиране на оценка при завършване
               href: project-management/update-completed-estimate.md
         - name: Членове на екипа на проект
@@ -694,6 +728,8 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
+            - name: Използване на API за график (публичен преглед)
+              href: project-management/schedule-api-preview.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -768,6 +804,10 @@
           href: expense/expense-overview.md
         - name: Запис на разход (олекотен)
           href: expense/basic-expense.md
+    - name: Използване на материал
+      items:
+        - name: Записване на използването на материали по проекти и проектни задачи
+          href: material/material-usage-log.md
     - name: Одобрения
       items:
         - name: Общ преглед на одобренията
@@ -780,6 +820,8 @@
       items:
         - name: Общ преглед на действителни данни
           href: actuals/actuals-overview.md
+        - name: Свързване на действителните данни с първоначални записи
+          href: actuals/linkingactuals.md
         - name: Журнали за корекции
           items:
             - name: Създаване и потвърждаване на журнали за корекции
@@ -790,7 +832,7 @@
           href: pro/proforma-invoicing/manage-billing-backlog-sales.md
         - name: 'Управление на състоянието и проверките за стойности, които не трябва да се надвишават'
           href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
-        - name: Ръчно създаване на проформа фактура по проект
+        - name: Проформа фактури по проект
           href: pro/proforma-invoicing/create-manual-proforma-invoice-sales.md
         - name: Управление на проформа фактура по проект
           href: pro/proforma-invoicing/manage-proforma-invoice-sales.md
@@ -806,6 +848,8 @@
   items:
     - name: Какво е новото
       items:
+        - name: 'Нововъведения от март 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-mar-2021-stocked.md
         - name: 'Нововъведения от януари 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
           href: prod-pma/whats-new/whats-new-jan-2021-stocked.md
         - name: 'Нововъведения от декември 2020 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -830,6 +874,8 @@
       href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts'
     - name: Фактуриране по проект
       href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing'
+    - name: Производителност на предложение за фактуриране по проект
+      href: prod-pma/project-invoice-proposal-performance.md
     - name: Договори по проекти
       href: prod-pma/project-contracts.md
     - name: Създаване на разширени договори за фактуриране въз основа на напредъка
@@ -952,6 +998,10 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 30, V3'
+          href: psa/whats-new-ur-30.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 29.5, актуална корекция, V3'
+          href: psa/whats-new-ur-29-5.md
         - name: 'Какво е новото или промененото в изданието на актуализация 29, V3'
           href: psa/whats-new-ur-29.md
         - name: 'Какво е новото или промененото в изданието на актуализация 28.6, актуална корекция, V3'
