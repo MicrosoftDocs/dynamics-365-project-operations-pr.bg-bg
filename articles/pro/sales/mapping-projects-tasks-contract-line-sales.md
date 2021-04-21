@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: c5c29872ef3d62780eea3c0eda48c8fd2a9af4b1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 4737f9870904bfc7adac11b8e2aa13bb8c610ca3
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272780"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858035"
 ---
-# <a name="map-projects-and-tasks-to-a-project-based-contract-line---lite"></a>Нанасяне на проекти и задачи към базирани на проект аспекти на договор – олекотено
+# <a name="map-projects-and-tasks-to-a-project-based-contract-line"></a>Нанасяне на проекти и задачи към базирани на проект аспекти на договор 
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Олекотено внедряване – сделка към проформа фактуриране, Project Operations за сценарии, базирани на ресурси / без складови наличности_
 
 В аспекти на договор, базирани на проект, можете да съпоставите конкретни задачи в проект с аспектите на договора.
 

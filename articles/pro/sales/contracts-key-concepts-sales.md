@@ -8,14 +8,14 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 55d1310de4338e50a1fc7d0af8cd83e63856db61
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 75c4b90e47c0b90ed3fea8dce1533057aa6137b9
+ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5273770"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "5663761"
 ---
-# <a name="project-contracts---key-concepts---lite"></a>Договори по проект – ключови концепции – олекотено
+# <a name="concepts-unique-to-project-contracts"></a>Концепции, уникални за договори по проект
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
