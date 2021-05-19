@@ -34,6 +34,22 @@
               href: environment/security-model.md
             - name: Конфигуриране на интеграция на Project Operations на юридическо лице
               href: environment/resource-configure-integration-per-legal-entity.md
+        - name: Конфигуриране на интеграция на двойно записване
+          items:
+            - name: Общ прегледна интеграция на двойно записване
+              href: environment/resource-dual-write-overview.md
+            - name: Версии на карта на двойно записване на Project Operations
+              href: environment/resource-dual-write-maps.md
+            - name: Интегриране на данни за настройка и конфигурация на Project Operations
+              href: environment/resource-dual-write-setup-integration.md
+            - name: Проектни оценки и интеграция на действителни данни
+              href: environment/resource-dual-write-estimates-actuals.md
+            - name: Интегриране на фактуриране по проект
+              href: environment/resource-dual-write-project-invoice.md
+            - name: Интегриране на управление на разходите
+              href: environment/resource-dual-write-expense.md
+            - name: Интегриране на фактуриране на доставчик
+              href: environment/resource-dual-write-vendor-invoice.md
     - name: Какво е новото
       items:
         - name: 'Април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -216,6 +232,8 @@
           href: project-management/understand-project-status.md
         - name: Определяне на календари на проекти
           href: project-management/define-project-calendars.md
+        - name: Методи на планиране
+          href: project-management/scheduling-modes.md
         - name: Актуализиране на проект
           href: project-management/update-project.md
         - name: Копиране на проект
@@ -404,6 +422,12 @@
           items:
             - name: Създаване и потвърждаване на журнали за корекции
               href: actuals/create-confirm-correction-journals.md
+    - name: Доставка
+      items:
+        - name: Конфигуриране на нескладирани материали и фактури на доставчици в изчакване
+          href: procurement/configure-materials-nonstocked.md
+        - name: Осигуряване на нескладирани материали за проекти с помощта на фактури на доставчици в изчакване
+          href: procurement/pending-vendor-invoices.md
     - name: Фактуриране
       items:
         - name: Общ преглед на процеса на фактуриране
@@ -428,6 +452,8 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Конфигуриране на автоматизация на базирана на проект фактура
               href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: Управление на предложения за фактуриране по проект
+          href: invoicing/format-update-project-invoice-proposals.md
     - name: Счетоводство на проект
       items:
         - name: Стойности по подразбиране за финансово измерение
@@ -682,6 +708,8 @@
           href: project-management/understand-project-status.md
         - name: Определяне на календари на проекти
           href: project-management/define-project-calendars.md
+        - name: Методи на планиране
+          hreF: project-management/scheduling-modes.md
         - name: Актуализиране на проект
           href: project-management/update-project.md
         - name: Копиране на проект
@@ -848,6 +876,8 @@
   items:
     - name: Какво е новото
       items:
+        - name: 'Нововъведения от април 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: 'Нововъведения от март 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
           href: prod-pma/whats-new/whats-new-mar-2021-stocked.md
         - name: 'Нововъведения от януари 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -871,9 +901,9 @@
     - name: Настройване и използване на плащания на доставчик при получаване на плащане
       href: prod-pma/setup-manage-vendor-payments.md
     - name: Нарастване на разход по проект в разписки за покупки
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts'
+      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
     - name: Фактуриране по проект
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing'
+      href: /dynamics365/finance/accounts-payable/project-invoicing
     - name: Производителност на предложение за фактуриране по проект
       href: prod-pma/project-invoice-proposal-performance.md
     - name: Договори по проекти
@@ -998,6 +1028,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 31, V3'
+          href: psa/whats-new-ur-31.md
         - name: 'Какво е новото или промененото в изданието на актуализация 30, V3'
           href: psa/whats-new-ur-30.md
         - name: 'Какво е новото или промененото в изданието на актуализация 29.5, актуална корекция, V3'
@@ -1327,7 +1359,7 @@
             - name: Преглед на използването на ресурси
               href: psa/view-resource-utilization.md
             - name: Universal Resource Scheduling (URS)
-              href: 'https://docs.microsoft.com/dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling'
+              href: /dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling
         - name: Ръководство за мениджъри на проекти
           items:
             - name: Ръководство за мениджъри на проект (Project Service)
