@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: b095bdda7e2cb9128f261aaf7ace97ae9e25adc3
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 2bc407bd92ad7c79fe90c73d7cd47bc3d72e2247
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4069245"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951241"
 ---
-Тази функция се поддържа в Dynamics CRM Online 2016 Update 1. Интересуват ли ви начините за получаване на тази функция? [Намерете своя администратор или лице по поддръжката на Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support)
+Тази функция се поддържа в Dynamics CRM Online 2016 Update 1. Интересуват ли ви начините за получаване на тази функция? [Намерете своя администратор или лице по поддръжката на Dynamics 365](/dynamics365/customerengagement/on-premises/basics/find-administrator-support)
