@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 715b117cae5418fc743ea870772278450fff5ae9
-ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
+ms.openlocfilehash: 1aae04230104d27db2f62db8e674697fd83460ac
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "5663581"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948091"
 ---
 # <a name="determine-your-deployment-type"></a>Определяне на типа на внедряването ви
 
@@ -99,7 +99,7 @@ Project Operations за сценарии с ресурси / не складир
 #### <a name="deployment-steps"></a>Стъпки на внедряването
 Определете най-добрия модел за внедряване на Project Operations с помощта на [Въпросник за разполагане](https://aka.ms/provisionprojectoperations).
 
-За това разполагане вижте [Регистрация за абонаменти за предварителен преглед](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=/dynamics365/finance/toc.json) и [Осигуряване на нова среда](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment?toc=/dynamics365/finance/toc.json). 
+За това разполагане вижте [Регистрация за абонаменти за предварителен преглед](/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=%2fdynamics365%2ffinance%2ftoc.json) и [Осигуряване на нова среда](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment?toc=%2fdynamics365%2ffinance%2ftoc.json). 
 
 
 

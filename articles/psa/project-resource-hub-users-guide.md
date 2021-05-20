@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e27cc0919272784a030374f457d1ab1dccc1f9f1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2450c00bae9eeb31d3b4bb14e6255e0681997672
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283760"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948117"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Ръководство на потребителя за центъра за ресурси на проект
 
@@ -48,7 +48,7 @@ ms.locfileid: "5283760"
 ## <a name="install-the-mobile-app"></a>Инсталирайте мобилното приложение
 Преди да започнете да използвате приложението „Център за ресурси на проект”, трябва да инсталирате приложението на устройството. 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталиране на Dynamics 365 for phones и tablets](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталиране на Dynamics 365 for phones и tablets](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
 
 ## <a name="basic-navigation"></a>Основна навигация
 1.  Когато влезете в приложението, ще видите страницата MyApps със списък с приложенията, до които имате достъп. 
@@ -99,7 +99,7 @@ ms.locfileid: "5283760"
 5. Продължете да въвеждате разходите за седмицата. Когато сте готови и всичко изглежда правилно, докоснете **Подаване**. Мениджър ще разгледа и одобри разходите ви.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Обща информация за начина на използване на мобилното приложение 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Ръководство за основите на мобилното приложение](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Ръководство за основите на мобилното приложение](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
 
 ### <a name="see-also"></a>Вижте също  
  [Преглед на Project Service](../psa/overview.md)   
