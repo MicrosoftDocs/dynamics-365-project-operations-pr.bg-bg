@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 28b967ddb6bec9fcc1be099e6ab218f38640a14c
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 31640ba6d91831d75ca21b7938a50e4b431d759f
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287990"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950746"
 ---
 # <a name="whats-new-november-2020---project-operations-for-stockedproduction-based-scenarios"></a>Какво е новото през ноември 2020 г. – Project Operations за сценарии, базирани на наличност/производство
 
@@ -25,7 +25,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 ## <a name="regulatory-updates"></a>Нормативни актуализации
 
-За информация относно нормативните актуализации за приложенията на Dynamics 365 Finance and Operations вижте [Нормативни актуализации](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно нормативните актуализации за приложенията на Dynamics 365 Finance and Operations вижте [Нормативни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 92c4cb3e1661f0415d49b84c9a59aba4bda38f20
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d52caf0739ee55c25598318608f0c235107c85f3
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282275"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951376"
 ---
 # <a name="sign-in-to-project-service-automation"></a>Влизане в Project Service Automation
 
@@ -39,7 +39,7 @@ ms.locfileid: "5282275"
   
 - Вашата парола  
   
-  Вероятно сте получили тази информация с имейл от администратора. Ако не разполагате с тази информация, или ако имате проблеми с влизането, [намерете своя администратор или лице по поддръжката](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support).  
+  Вероятно сте получили тази информация с имейл от администратора. Ако не разполагате с тази информация, или ако имате проблеми с влизането, [намерете своя администратор или лице по поддръжката](/dynamics365/customerengagement/on-premises/basics/find-administrator-support).  
   
 ## <a name="set-your-personal-options-to-allow-email"></a>Зададете вашите лични опции, за да разрешите имейл  
  Трябва да конфигурирате настройките на своя имейл, за да позволите на другите да изпращат имейл от ваше име, така че [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] да може да изпраща имейл известия за вас, когато имате време и разходи за одобрение или регистрация за проекти.  

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 872f4f2878f474e16674932f23fe192c6a8de6eb
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 4d132bcbef5421202d2f4899091f0dc75166dd66
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279440"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949936"
 ---
 # <a name="resource-management-modes-overview"></a>Общ преглед на режими на управление на ресурси
 
@@ -29,11 +29,11 @@ Dynamics 365 Project Operations поддържа два режима, за да 
 
 За да управлявате ресурси с централния режим, вижте:
 
-- [Присвояване на общи налични ресурси на задача и генериране на изисквания за ресурси](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
-- [Резервиране на наименувани ресурси от изисквания за ресурси](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
-- [Подаване на заявка за ресурс](https://docs.microsoft.com/dynamics365/project-service/submit-resource-request)
-- [Изпълнете заявка за ресурс](https://docs.microsoft.com/dynamics365/project-service/resource-management-fulfill-requests)
-- [Приемане или отхвърляне на предложен ресурс по проект от заявка за ресурс](https://docs.microsoft.com/dynamics365/project-service/accept-reject-proposed-resource)
+- [Присвояване на общи налични ресурси на задача и генериране на изисквания за ресурси](/dynamics365/project-service/assign-generic-bookable-resource)
+- [Резервиране на наименувани ресурси от изисквания за ресурси](/dynamics365/project-service/book-named-resource)
+- [Подаване на заявка за ресурс](/dynamics365/project-service/submit-resource-request)
+- [Изпълнете заявка за ресурс](/dynamics365/project-service/resource-management-fulfill-requests)
+- [Приемане или отхвърляне на предложен ресурс по проект от заявка за ресурс](/dynamics365/project-service/accept-reject-proposed-resource)
 
 ## <a name="hybrid-mode"></a>Хибриден режим
 За организации, които изискват гъвкавост при разпределението на ресурсите, хибридният режим дава възможност както на ръководителите на проекти, така и на мениджърите на ресурси да резервират ресурси.
@@ -43,11 +43,11 @@ Dynamics 365 Project Operations поддържа два режима, за да 
 В допълнение към процеса на поддържан централен режим, вижте следните теми за управление на всички други поддържани потоци на резервации в хибриден режим:
 
 Резервиране на ресурс директно към проект:
-- [Резервиране на наименувани налични ресурси в екип по проект и присвояване на задачи](https://docs.microsoft.com/dynamics365/project-service/assign-named-bookable-resource)
+- [Резервиране на наименувани налични ресурси в екип по проект и присвояване на задачи](/dynamics365/project-service/assign-named-bookable-resource)
 
 Резервиране на ресурс от изискване за ресурси:
-- [Присвояване на общи налични ресурси на задача и генериране на изисквания за ресурси](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
-- [Резервиране на наименувани ресурси от изисквания за ресурси](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
+- [Присвояване на общи налични ресурси на задача и генериране на изисквания за ресурси](/dynamics365/project-service/assign-generic-bookable-resource)
+- [Резервиране на наименувани ресурси от изисквания за ресурси](/dynamics365/project-service/book-named-resource)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

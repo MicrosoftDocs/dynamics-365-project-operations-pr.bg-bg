@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2351d87d2953f0e661d8f5281a4fdd071edb9c05
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 6343ff4dcfeae5d53eaf8eaa860afaf42559857a
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5292011"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950341"
 ---
 # <a name="create-product-catalog-items-project-service"></a>Създаване на елементи в продуктов каталог (Project Service)
 
@@ -33,7 +33,7 @@ ms.locfileid: "5292011"
 
 Ако искате да включите продукти, като например софтуерни лицензи, в своите оферти и оценки на проекти, трябва да добавите всеки продукт в продуктовия каталог в.  
   
- За повече информация относно добавянето на продукти към продуктовия каталог вижте [Създаване на продукт (Sales)](https://docs.microsoft.com/dynamics365/sales-enterprise/create-product-sales).  
+ За повече информация относно добавянето на продукти към продуктовия каталог вижте [Създаване на продукт (Sales)](/dynamics365/sales-enterprise/create-product-sales).  
   
 ### <a name="see-also"></a>Вижте също  
  [Конфигуриране на Project Service](../psa/configure.md)

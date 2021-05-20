@@ -17,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1df4864ca8dbf6948ca88a7c82a6c0a676e3bd53
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: f9ebfadf8a331fd6a8a86a9cc040dc8957db3b82
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5275030"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950296"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>Управление на проекти и резервации във вашия календар (Project Service)
 
@@ -52,7 +52,7 @@ ms.locfileid: "5275030"
   
 - Необходимо е да имате идентификационни данни на глобален администратор или системен администратор на [!INCLUDE[pn_office_365](../includes/pn-office-365.md)].  
   
-- Администраторите ще трябва да конфигурират профила на имейл сървъра, а всеки потребител ще трябва да конфигурира пощенската си кутия. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Настройване на обработка на имейл чрез синхронизиране от страна на сървъра](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
+- Администраторите ще трябва да конфигурират профила на имейл сървъра, а всеки потребител ще трябва да конфигурира пощенската си кутия. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Настройване на обработка на имейл чрез синхронизиране от страна на сървъра](/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
   
 ## <a name="turn-on-synchronization-for-your-organization-admin-task"></a>Включване на синхронизация за организацията (задача за администратор)  
   
