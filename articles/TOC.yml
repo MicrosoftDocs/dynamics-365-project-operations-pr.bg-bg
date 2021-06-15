@@ -52,6 +52,8 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Какво е новото
       items:
+        - name: 'Май 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-may-2021-resource-based.md
         - name: 'Април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: 'Mart 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -342,7 +344,7 @@
       items:
         - name: Общ преглед на време
           href: time/time-entry-overview.md
-        - name: Създаване на записи за време
+        - name: Създаване на времеви записи
           items:
             - name: Потребителски интерфейс на запис за време
               href: time/ui-behavior-time.md
@@ -374,6 +376,8 @@
               href: expense/set-up-credit-card-integration.md
             - name: Настройване на категории разходи
               href: expense/set-up-expense-categories.md
+            - name: 'Настройте пробег, като използвате нива ставка за пробег'
+              href: expense/set-up-mileage.md
         - name: Лични разходи
           href: expense/personal-expenses-expense-report.md
         - name: Междуфирмени разходи
@@ -508,6 +512,8 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
+        - name: Нововъведения от май 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-may-2021-lite.md
         - name: Нововъведения от април 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: Нововъведения от март 2021 г. – олекотено внедряване
@@ -818,7 +824,7 @@
       items:
         - name: Общ преглед на време
           href: time/time-entry-overview.md
-        - name: Създаване на записи за време
+        - name: Създаване на времеви записи
           items:
             - name: Потребителски интерфейс на запис за време
               href: time/ui-behavior-time.md
@@ -1028,6 +1034,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 32, V3'
+          href: psa/whats-new-ur-32.md
         - name: 'Какво е новото или промененото в изданието на актуализация 31, V3'
           href: psa/whats-new-ur-31.md
         - name: 'Какво е новото или промененото в изданието на актуализация 30, V3'
@@ -1258,14 +1266,16 @@
               href: psa/reports-dashboards.md
             - name: Модел данни на Project Service Automation
               href: psa/reports-working-project-service-data-model.md
-        - name: Записи за време
+        - name: Времеви записи
           items:
-            - name: Създаване на записи за време
+            - name: Създаване на времеви записи
               href: psa/time-entries.md
-            - name: Календар за записи за време
+            - name: Календар с времеви записи
               href: psa/time-entry-calendar.md
-            - name: Персонализиране на седмичен запис за време
+            - name: Персонализиране на седмичен времеви запис
               href: psa/time-entry-extensibility-v3.md
+            - name: Набори от одобрения
+              href: psa/approval-set.md
     - name: ЧЗВ и отстраняване на неизправности (3.x)
       items:
         - name: Защо цената по подразбиране е нула в действителните данни за стойност на разход?
