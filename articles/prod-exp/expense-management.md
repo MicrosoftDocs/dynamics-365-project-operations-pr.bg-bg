@@ -2,11 +2,9 @@
 title: Общ преглед на управление на разход
 description: Тази тема предоставя обща информация за управлението на разходите и връзки към допълнителни ресурси. Можете да използвате управление на разходите, за да създадете интегриран работен поток, където можете да съхранявате информация за метода на плащане, да импортирате транзакции с кредитни карти и да проследявате парите, които служителите харчат, когато правят разходи за вашия бизнес.
 author: ShylaThompson
-manager: AnnBe
 ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 2db1c2cd34a2b99ac8e0cc88c34bac804bbafdb6
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 0fe9f763e18507fa232cb830f8e0b6852374b65b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949756"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993538"
 ---
 # <a name="expense-management-overview"></a>Общ преглед на управление на разход
 

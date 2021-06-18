@@ -2,11 +2,9 @@
 title: Управление на делегирането
 description: Тази тема предоставя информация за това как делегат на разходи може да създава и управлява отчети за разходи за друг служител.
 author: suvaidya
-manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: ee00b3c6a683aa8daf2823331a1a9638828dad03
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 34b190f9a458c9e2706c5b8c9fdbceea1fbe2621
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276380"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995293"
 ---
 # <a name="manage-delegation"></a>Управление на делегирането
 Делегат на разходи може да създава и управлява отчети за разходи за друг служител.

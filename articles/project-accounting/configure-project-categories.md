@@ -2,18 +2,16 @@
 title: Конфигуриране на категории на проект
 description: Тази тема предоставя информация за настройването на категориите на проект.
 author: sigitac
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: b7adf61a82714a0148d9c8b1d2b2b37fd611c1cf
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d82302f12ba75a92f2de0e9746ad7e61ce0cdc6b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287495"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995158"
 ---
 # <a name="configure-project-categories"></a>Конфигуриране на категории на проект
 
@@ -29,7 +27,7 @@ Project Operations предлага надеждни възможности за
 
 ## <a name="transaction-categories"></a>Категории трансакция
 
-Категориите на транзакциите представляват основното групиране за транзакции по проект и не са специфични за компанията или типа транзакция. Например Contoso Robotics използва категории за проектиране, пътуване, инсталиране и обслужване на транзакции, за да групира транзакции по проект.
+Категориите на транзакциите представляват основното групиране за транзакции по проект и не са специфични за компанията или типа транзакция. Например Contoso Robotics използва категории на трансакции за проектиране, пътуване, инсталиране и обслужване, за да групира трансакциите на проекта.
 
 Категориите на транзакциите са дефинирани в модула Project Operations. 
 1. Отидете на **Настройки** \> **Категории на трансакция**, за да отворите формуляра. 
