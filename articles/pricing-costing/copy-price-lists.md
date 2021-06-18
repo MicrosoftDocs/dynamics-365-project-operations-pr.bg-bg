@@ -2,18 +2,16 @@
 title: Копиране на ценови листи
 description: Тази тема предоставя информация за това как да копирате ценови листи в Project Operations.
 author: rumant
-manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e49a95a04e9506e983d920c49d4c504d9f944c88
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 9e4f4eeda019f2af11a0d7a4469c41ee450eb03b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5275705"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001413"
 ---
 # <a name="copy-price-lists"></a>Копиране на ценови листи
 
