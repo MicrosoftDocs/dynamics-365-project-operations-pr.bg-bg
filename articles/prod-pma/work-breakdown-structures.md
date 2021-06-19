@@ -2,11 +2,9 @@
 title: Общ преглед на съставни структури на работата
 description: Съставна структура на работата (WBS) е описание на работата, която ще бъде изпълнена за даден проект. Това е йерархия от задачи, която представя разбирането на екипа на проекта за състава на работата, както и за размера, разходите и продължителността на всеки компонент или задача.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjWorkBreakdownStructure
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 9dc4575f5b4b80e257e34e21980b0516e7c546e6
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 713e38f4218b980c4256e433e90c12adccd70e11
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287945"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012213"
 ---
 # <a name="work-breakdown-structures-overview"></a>Общ преглед на съставни структури на работата
 
