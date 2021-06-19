@@ -2,8 +2,6 @@
 title: Умения и модели на опитност
 description: Тази тема предоставя информация за това как да използвате уменията и моделите на опитност.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/13/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 82eeab4c9682e5b777da4e66f6c4f3f1afb3c19b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 976650cc71b0cdb75d5ce2d7532cd78bd91d3670
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282950"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008658"
 ---
 # <a name="skills-and-proficiency-models"></a>Умения и модели на опитност
 

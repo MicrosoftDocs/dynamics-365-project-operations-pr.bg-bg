@@ -2,8 +2,6 @@
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 28.5, актуална корекция, V3
 description: Тази тема изброява функциите и корекциите, които са налични за актуализацията на Project Service Automation, издание 28.5, актуална корекция, V3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 49693becc1b18d6e966d6c5b94397d82587aeb0d
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 2e97ce97cd9d8178c293089bd131683278bee4a9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948527"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6010593"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-285-v3"></a>Какво е новото или промененото в Project Service Automation, издание на актуализация 28.5, V3
 

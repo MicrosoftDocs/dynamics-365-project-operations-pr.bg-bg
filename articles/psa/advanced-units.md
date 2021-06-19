@@ -2,8 +2,6 @@
 title: Групи единици и единици
 description: Тази тема предоставя информация за групите единици и единиците.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/05/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 45e4a95b429cd9d1f174653bd28cf567f690676d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: e981f39bbb6ca4277778382a5816952df2a8a1fb
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291606"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009558"
 ---
 # <a name="unit-groups-and-units"></a>Групи единици и единици
 
@@ -88,7 +86,7 @@ Dynamics 365 Project Service Automation използва единици и гр�
 
 | Роля      | Група единици | Единица | Организационна единица | Цена   |
 |-----------|------------|------|---------------------|---------|
-| Разработчици | Време       | Day  | Contoso ОК          | 800 GBP |
+| За разработчици | Време       | Ден  | Contoso Обединеното кралство          | 800 GBP |
 
 ### <a name="time-entry"></a>Запис за време
 
