@@ -2,8 +2,6 @@
 title: Преглед на членовете на екипа на проекта и управление на резервации
 description: Как се преглеждат членовете на екипа на проекта и се управляват резервации в Project Service
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,45 +16,45 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d831418e1d9409622874f11d9c222dc26414797b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: dd9fea4806e654048c94a826160e678fe2bb188e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281375"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6015408"
 ---
-# <a name="view-project-team-members-and-manage-bookings-project-service"></a><span data-ttu-id="36881-103">Преглед на членовете на екипа на проекта и управление на резервации (Project Service)</span><span class="sxs-lookup"><span data-stu-id="36881-103">View project team members and manage bookings (Project Service)</span></span>
+# <a name="view-project-team-members-and-manage-bookings-project-service"></a><span data-ttu-id="f9678-103">Преглед на членовете на екипа на проекта и управление на резервации (Project Service)</span><span class="sxs-lookup"><span data-stu-id="f9678-103">View project team members and manage bookings (Project Service)</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="36881-104">Можете да видите списък с членовете на екипа на проекта и от там можете да поддържате резервации и да подавате заявки за ресурси.</span><span class="sxs-lookup"><span data-stu-id="36881-104">You can view a list of your project’s team members, and from there you can maintain bookings and submit resource requests.</span></span>  
+<span data-ttu-id="f9678-104">Можете да видите списък с членовете на екипа на проекта и от там можете да поддържате резервации и да подавате заявки за ресурси.</span><span class="sxs-lookup"><span data-stu-id="f9678-104">You can view a list of your project’s team members, and from there you can maintain bookings and submit resource requests.</span></span>  
   
-1.  <span data-ttu-id="36881-105">Отидете на **Project Service > Проекти**.</span><span class="sxs-lookup"><span data-stu-id="36881-105">Go to **Project Service > Projects**.</span></span>  
+1.  <span data-ttu-id="f9678-105">Отидете на **Project Service > Проекти**.</span><span class="sxs-lookup"><span data-stu-id="f9678-105">Go to **Project Service > Projects**.</span></span>  
   
-2.  <span data-ttu-id="36881-106">Щракнете върху проекта, върху който искате да работите.</span><span class="sxs-lookup"><span data-stu-id="36881-106">Click the project you want to work on.</span></span>  
+2.  <span data-ttu-id="f9678-106">Щракнете върху проекта, върху който искате да работите.</span><span class="sxs-lookup"><span data-stu-id="f9678-106">Click the project you want to work on.</span></span>  
   
-3.  <span data-ttu-id="36881-107">В лентата в горната част на екрана изберете стрелката за падащо меню до името на проекта и след това щракнете върху **Членове на екипа на проекта**.</span><span class="sxs-lookup"><span data-stu-id="36881-107">In the bar across the top of the screen, select the down arrow next to the project name, and then click **Project Team Members**.</span></span>  
+3.  <span data-ttu-id="f9678-107">В лентата в горната част на екрана изберете стрелката за падащо меню до името на проекта и след това щракнете върху **Членове на екипа на проекта**.</span><span class="sxs-lookup"><span data-stu-id="f9678-107">In the bar across the top of the screen, select the down arrow next to the project name, and then click **Project Team Members**.</span></span>  
   
-4.  <span data-ttu-id="36881-108">За да подавате заявки за ресурси, изберете ролите, за които искате да заявите ресурси, и след това щракнете върху **Подаване на заявка**.</span><span class="sxs-lookup"><span data-stu-id="36881-108">To submit resource requests, select the roles you want to request resources for, and then click **Submit Request**.</span></span>  
+4.  <span data-ttu-id="f9678-108">За да подавате заявки за ресурси, изберете ролите, за които искате да заявите ресурси, и след това щракнете върху **Подаване на заявка**.</span><span class="sxs-lookup"><span data-stu-id="f9678-108">To submit resource requests, select the roles you want to request resources for, and then click **Submit Request**.</span></span>  
   
-5.  <span data-ttu-id="36881-109">За фиксирана резервация на ресурс вместо това изберете ролята и щракнете върху **Фиксирана резервация**.</span><span class="sxs-lookup"><span data-stu-id="36881-109">To hard book a resource instead, select the role, and then click **Hard Book**.</span></span> <span data-ttu-id="36881-110">Това показва календарен изглед на всички ресурси и тяхната наличност, с цветово кодиране, което предоставя визуален изглед на състоянието на резервацията на ресурса.</span><span class="sxs-lookup"><span data-stu-id="36881-110">This shows a calendar view of all resources and their availability, with color coding that provides a visual view of a resource’s booking status.</span></span> <span data-ttu-id="36881-111">Направете едно от следните неща, за да оптимизирате търсенето:</span><span class="sxs-lookup"><span data-stu-id="36881-111">Do any of the following to optimize your search:</span></span>  
+5.  <span data-ttu-id="f9678-109">За фиксирана резервация на ресурс вместо това изберете ролята и щракнете върху **Фиксирана резервация**.</span><span class="sxs-lookup"><span data-stu-id="f9678-109">To hard book a resource instead, select the role, and then click **Hard Book**.</span></span> <span data-ttu-id="f9678-110">Това показва календарен изглед на всички ресурси и тяхната наличност, с цветово кодиране, което предоставя визуален изглед на състоянието на резервацията на ресурса.</span><span class="sxs-lookup"><span data-stu-id="f9678-110">This shows a calendar view of all resources and their availability, with color coding that provides a visual view of a resource’s booking status.</span></span> <span data-ttu-id="f9678-111">Направете едно от следните неща, за да оптимизирате търсенето:</span><span class="sxs-lookup"><span data-stu-id="f9678-111">Do any of the following to optimize your search:</span></span>  
   
-    -   <span data-ttu-id="36881-112">Изберете изглед или ред на сортиране от горната част на екрана.</span><span class="sxs-lookup"><span data-stu-id="36881-112">Select a view or sort order from the top of the screen.</span></span> <span data-ttu-id="36881-113">Можете също да изберете дали да се показва наличността за **Ден**, **Седмица**, или **Месец** и да използвате стрелките, за да видите предишния или следващ период от време.</span><span class="sxs-lookup"><span data-stu-id="36881-113">You can also select whether to show availability for the **Day**, **Week**, or **Month**, and use the arrows to view the previous or next time period.</span></span> <span data-ttu-id="36881-114">Използвайте полето за търсене, за да намерите конкретен ресурс.</span><span class="sxs-lookup"><span data-stu-id="36881-114">Use the search box to find a specific resource.</span></span>  
+    -   <span data-ttu-id="f9678-112">Изберете изглед или ред на сортиране от горната част на екрана.</span><span class="sxs-lookup"><span data-stu-id="f9678-112">Select a view or sort order from the top of the screen.</span></span> <span data-ttu-id="f9678-113">Можете също да изберете дали да се показва наличността за **Ден**, **Седмица**, или **Месец** и да използвате стрелките, за да видите предишния или следващ период от време.</span><span class="sxs-lookup"><span data-stu-id="f9678-113">You can also select whether to show availability for the **Day**, **Week**, or **Month**, and use the arrows to view the previous or next time period.</span></span> <span data-ttu-id="f9678-114">Използвайте полето за търсене, за да намерите конкретен ресурс.</span><span class="sxs-lookup"><span data-stu-id="f9678-114">Use the search box to find a specific resource.</span></span>  
   
-    -   <span data-ttu-id="36881-115">Щракнете върху **Опции**, за да промените това, което се показва.</span><span class="sxs-lookup"><span data-stu-id="36881-115">Click **Options** to change what displays.</span></span> <span data-ttu-id="36881-116">Например можете да покажете легенда, която показва на цветовата схема за различните видове на резервации, или можете да изберете да се покаже определен тип резервация (например твърда резервация или плаваща резервация).</span><span class="sxs-lookup"><span data-stu-id="36881-116">For example, you can show a legend that shows the color scheme for the different types of bookings, or you can choose to show only a certain type of booking (for example, hard booking or soft booking).</span></span>  
+    -   <span data-ttu-id="f9678-115">Щракнете върху **Опции**, за да промените това, което се показва.</span><span class="sxs-lookup"><span data-stu-id="f9678-115">Click **Options** to change what displays.</span></span> <span data-ttu-id="f9678-116">Например можете да покажете легенда, която показва на цветовата схема за различните видове на резервации, или можете да изберете да се покаже определен тип резервация (например твърда резервация или плаваща резервация).</span><span class="sxs-lookup"><span data-stu-id="f9678-116">For example, you can show a legend that shows the color scheme for the different types of bookings, or you can choose to show only a certain type of booking (for example, hard booking or soft booking).</span></span>  
   
-    -   <span data-ttu-id="36881-117">Щракнете върху **Филтър**, за да се покаже екранът **Филтър**, който ви позволява да филтрирате резултатите си по организационна единица, роля, умение или други атрибути.</span><span class="sxs-lookup"><span data-stu-id="36881-117">Click **Filter** to display the **Filter** pane, which lets you filter your results by organizational unit, role, skill, or other attributes.</span></span>  
+    -   <span data-ttu-id="f9678-117">Щракнете върху **Филтър**, за да се покаже екранът **Филтър**, който ви позволява да филтрирате резултатите си по организационна единица, роля, умение или други атрибути.</span><span class="sxs-lookup"><span data-stu-id="f9678-117">Click **Filter** to display the **Filter** pane, which lets you filter your results by organizational unit, role, skill, or other attributes.</span></span>  
   
-    -   <span data-ttu-id="36881-118">В календара за ресурса, който искате да резервирате, изберете периода от време за резервация на ресурса, и след това щракнете върху **Резервиране**, за да резервирате ресурса, или върху **Предлагане на резервация**, за да предложите резервацията и подалият заявката да я одобри.</span><span class="sxs-lookup"><span data-stu-id="36881-118">In the calendar for the resource you want to book, select the time period to book the resource, and then either click **Book** to book the resource or **Propose Booking** to propose the booking and have the requestor approve it.</span></span>  
+    -   <span data-ttu-id="f9678-118">В календара за ресурса, който искате да резервирате, изберете периода от време за резервация на ресурса, и след това щракнете върху **Резервиране**, за да резервирате ресурса, или върху **Предлагане на резервация**, за да предложите резервацията и подалият заявката да я одобри.</span><span class="sxs-lookup"><span data-stu-id="f9678-118">In the calendar for the resource you want to book, select the time period to book the resource, and then either click **Book** to book the resource or **Propose Booking** to propose the booking and have the requestor approve it.</span></span>  
   
-6.  <span data-ttu-id="36881-119">За да управлявате резервациите на ресурси за този проект, изберете ресурсите, които искате, и след това щракнете върху **Поддържане на резервации**.</span><span class="sxs-lookup"><span data-stu-id="36881-119">To manage the resource bookings for this project, select the resources you want, and then click **Maintain Bookings**.</span></span>  
+6.  <span data-ttu-id="f9678-119">За да управлявате резервациите на ресурси за този проект, изберете ресурсите, които искате, и след това щракнете върху **Поддържане на резервации**.</span><span class="sxs-lookup"><span data-stu-id="f9678-119">To manage the resource bookings for this project, select the resources you want, and then click **Maintain Bookings**.</span></span>  
   
-7.  <span data-ttu-id="36881-120">Мениджър на ресурси трябва да прегледа и одобри заявките ви за ресурси.</span><span class="sxs-lookup"><span data-stu-id="36881-120">A resource manager needs to review and approve your resource requests.</span></span>  
+7.  <span data-ttu-id="f9678-120">Мениджър на ресурси трябва да прегледа и одобри заявките ви за ресурси.</span><span class="sxs-lookup"><span data-stu-id="f9678-120">A resource manager needs to review and approve your resource requests.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="36881-121">Вижте също</span><span class="sxs-lookup"><span data-stu-id="36881-121">See Also</span></span>  
- [<span data-ttu-id="36881-122">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="36881-122">Project Manager Guide</span></span>](../psa/project-manager-guide.md)
+### <a name="see-also"></a><span data-ttu-id="f9678-121">Вижте също</span><span class="sxs-lookup"><span data-stu-id="f9678-121">See Also</span></span>  
+ [<span data-ttu-id="f9678-122">Ръководство за мениджъри на проекти</span><span class="sxs-lookup"><span data-stu-id="f9678-122">Project Manager Guide</span></span>](../psa/project-manager-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
