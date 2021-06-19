@@ -2,18 +2,16 @@
 title: Управление на състоянието и проверките за стойности, които не трябва да се надвишават
 description: Тази тема предоставя информация за проверките на ограниченията, които не трябва да се надвишават, изпълнявани в Project Operations.
 author: rumant
-manager: Annbe
 ms.date: 04/05/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7026ff654a9db8e8a22bcef544b043af39865559
-ms.sourcegitcommit: ca0fc078d1a12484eca193fe051b8442c0559db8
+ms.openlocfilehash: d51a61e441b004ae836037aefa172fdd20ac83ed
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "5866714"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003888"
 ---
 # <a name="manage-not-to-exceed-status-and-validations"></a>Управление на състоянието и проверките за стойности, които не трябва да се надвишават 
 
