@@ -2,11 +2,9 @@
 title: Отчети за разходи и множество одобряващи
 description: Тази тема предоставя информация за отчетите за разходите, които изискват одобрение от повече от едно лице.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,32 +13,32 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 9b9826c89e9deb870adb053f82bd049906f56052
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2502b2975ad3aebad720970e693ea68eac0a302c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276515"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002043"
 ---
-# <a name="expense-reports-and-multiple-approvers"></a><span data-ttu-id="17abc-103">Отчети за разходи и множество одобряващи</span><span class="sxs-lookup"><span data-stu-id="17abc-103">Expense reports and multiple approvers</span></span>
+# <a name="expense-reports-and-multiple-approvers"></a><span data-ttu-id="c559b-103">Отчети за разходи и множество одобряващи</span><span class="sxs-lookup"><span data-stu-id="c559b-103">Expense reports and multiple approvers</span></span>
 
-<span data-ttu-id="17abc-104">_**Отнася се за:** Проектни операции за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_</span><span class="sxs-lookup"><span data-stu-id="17abc-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="c559b-104">_**Отнася се за:** Проектни операции за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_</span><span class="sxs-lookup"><span data-stu-id="c559b-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-<span data-ttu-id="17abc-105">В зависимост от политиките за одобрение на разходите на вашата организация може да се наложи повече от едно лице да одобри представен отчет за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-105">Depending on your organization's expense approval policies, more than one person might have to approve a submitted expense report.</span></span> <span data-ttu-id="17abc-106">Когато настройвате процеса на работния поток за одобрение на отчета за разходите, можете да добавите елементи на работния поток, които включват задачи или стъпки за един или повече одобряващи отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-106">When you set up the workflow process for expense report approval, you can add workflow elements that include tasks or steps for one or more expense report approvers.</span></span> <span data-ttu-id="17abc-107">Например може да изискате всички отчети за разходите да бъдат одобрени от двама отделни души, мениджъра на служителя, който е представил отчета, и координатора на задълженията по сметките.</span><span class="sxs-lookup"><span data-stu-id="17abc-107">For example, you might require that all expense reports be approved by two separate people, the manager of the employee who submitted the report and the Accounts payable coordinator.</span></span>
+<span data-ttu-id="c559b-105">В зависимост от политиките за одобрение на разходите на вашата организация може да се наложи повече от едно лице да одобри представен отчет за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-105">Depending on your organization's expense approval policies, more than one person might have to approve a submitted expense report.</span></span> <span data-ttu-id="c559b-106">Когато настройвате процеса на работния поток за одобрение на отчета за разходите, можете да добавите елементи на работния поток, които включват задачи или стъпки за един или повече одобряващи отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-106">When you set up the workflow process for expense report approval, you can add workflow elements that include tasks or steps for one or more expense report approvers.</span></span> <span data-ttu-id="c559b-107">Например може да изискате всички отчети за разходите да бъдат одобрени от двама отделни души, мениджъра на служителя, който е представил отчета, и координатора на задълженията по сметките.</span><span class="sxs-lookup"><span data-stu-id="c559b-107">For example, you might require that all expense reports be approved by two separate people, the manager of the employee who submitted the report and the Accounts payable coordinator.</span></span>
 
-<span data-ttu-id="17abc-108">Ако решите да изисквате множество одобряващи отчети за разходите, можете да добавите елементи на работния поток по всеки от следните начини:</span><span class="sxs-lookup"><span data-stu-id="17abc-108">If you decide to require multiple expense report approvers, you can add the workflow elements in any of the following ways:</span></span>
+<span data-ttu-id="c559b-108">Ако решите да изисквате множество одобряващи отчети за разходите, можете да добавите елементи на работния поток по всеки от следните начини:</span><span class="sxs-lookup"><span data-stu-id="c559b-108">If you decide to require multiple expense report approvers, you can add the workflow elements in any of the following ways:</span></span>
 
-- <span data-ttu-id="17abc-109">Добавете един елемент за одобрение, който има една стъпка.</span><span class="sxs-lookup"><span data-stu-id="17abc-109">Add one approval element that has one step.</span></span> <span data-ttu-id="17abc-110">Например, стъпката може да изисква отчет за разходите да бъде присвоен на група потребители и да бъде одобрен от 50 процента от членовете на групата потребители.</span><span class="sxs-lookup"><span data-stu-id="17abc-110">For example, the step might require that an expense report be assigned to a user group, and that it be approved by 50 percent of the user group's members.</span></span>
-- <span data-ttu-id="17abc-111">Добавете един елемент за одобрение, който има няколко стъпки.</span><span class="sxs-lookup"><span data-stu-id="17abc-111">Add one approval element that has multiple steps.</span></span> <span data-ttu-id="17abc-112">Например елементът за одобрение може да има следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="17abc-112">For example, the approval element might have the following steps:</span></span>
+- <span data-ttu-id="c559b-109">Добавете един елемент за одобрение, който има една стъпка.</span><span class="sxs-lookup"><span data-stu-id="c559b-109">Add one approval element that has one step.</span></span> <span data-ttu-id="c559b-110">Например, стъпката може да изисква отчет за разходите да бъде присвоен на група потребители и да бъде одобрен от 50 процента от членовете на групата потребители.</span><span class="sxs-lookup"><span data-stu-id="c559b-110">For example, the step might require that an expense report be assigned to a user group, and that it be approved by 50 percent of the user group's members.</span></span>
+- <span data-ttu-id="c559b-111">Добавете един елемент за одобрение, който има няколко стъпки.</span><span class="sxs-lookup"><span data-stu-id="c559b-111">Add one approval element that has multiple steps.</span></span> <span data-ttu-id="c559b-112">Например елементът за одобрение може да има следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="c559b-112">For example, the approval element might have the following steps:</span></span>
 
-    1. <span data-ttu-id="17abc-113">Управителят на служителя, подал отчета за разходите, го одобрява.</span><span class="sxs-lookup"><span data-stu-id="17abc-113">The manager of the employee who submitted the expense report approves it.</span></span>
-    2. <span data-ttu-id="17abc-114">Служителят по задълженията проверява разписките и елементите на отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-114">The Accounts payable clerk verifies the receipts and the expense report items.</span></span>
-    3. <span data-ttu-id="17abc-115">Собственикът на бюджета одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-115">The budget owner approves the expense report.</span></span>
+    1. <span data-ttu-id="c559b-113">Управителят на служителя, подал отчета за разходите, го одобрява.</span><span class="sxs-lookup"><span data-stu-id="c559b-113">The manager of the employee who submitted the expense report approves it.</span></span>
+    2. <span data-ttu-id="c559b-114">Служителят по задълженията проверява разписките и елементите на отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-114">The Accounts payable clerk verifies the receipts and the expense report items.</span></span>
+    3. <span data-ttu-id="c559b-115">Собственикът на бюджета одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-115">The budget owner approves the expense report.</span></span>
 
-- <span data-ttu-id="17abc-116">Добавете множество елементи за одобрение, всеки от които има една стъпка.</span><span class="sxs-lookup"><span data-stu-id="17abc-116">Add multiple approval elements, each of which has one step.</span></span> <span data-ttu-id="17abc-117">Например можете да добавите отделен елемент за одобрение за всяка от следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="17abc-117">For example, you might add a separate approval element for each of the following steps:</span></span>
+- <span data-ttu-id="c559b-116">Добавете множество елементи за одобрение, всеки от които има една стъпка.</span><span class="sxs-lookup"><span data-stu-id="c559b-116">Add multiple approval elements, each of which has one step.</span></span> <span data-ttu-id="c559b-117">Например можете да добавите отделен елемент за одобрение за всяка от следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="c559b-117">For example, you might add a separate approval element for each of the following steps:</span></span>
 
-    1. <span data-ttu-id="17abc-118">Мениджърът на служителя одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-118">The employee's manager approves the expense report.</span></span>
-    2. <span data-ttu-id="17abc-119">Собственикът на бюджета одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="17abc-119">The budget owner approves the expense report.</span></span>
+    1. <span data-ttu-id="c559b-118">Мениджърът на служителя одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-118">The employee's manager approves the expense report.</span></span>
+    2. <span data-ttu-id="c559b-119">Собственикът на бюджета одобрява отчета за разходите.</span><span class="sxs-lookup"><span data-stu-id="c559b-119">The budget owner approves the expense report.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
