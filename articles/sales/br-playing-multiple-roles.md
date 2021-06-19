@@ -2,18 +2,16 @@
 title: Оценка на продажбите и разходите по проект, когато наличен ресурс изпълнява няколко роли в проект
 description: Тази тема обяснява как да се използват измерения на ценообразуване за поддръжка на оценки на ценообразуването и разходите за ресурс, който изпълнява няколко роли в проект.
 author: rumant
-manager: tfehr
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f01c9c6adfeedc11fcb04a7e8b8f5a55e5f8dc79
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7ef9765b7db1c6650fb0599bf5fb4b4b6304be69
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5278810"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6013653"
 ---
 # <a name="estimate-project-sales-and-costs-when-a-bookable-resource-fills-multiple-roles-on-a-project"></a>Оценка на продажбите и разходите по проект, когато наличен ресурс изпълнява няколко роли в проект 
 
