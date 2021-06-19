@@ -3,8 +3,6 @@ title: Начална страница за офериране, ценообра
 description: Тази тема предоставя информация за офериране, ценообразуване и фактуриране.
 author: rumant
 ms.author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,32 +16,32 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ee6ed766595773aa8af65e8e3e5aa816de4e6117
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 0923dbca91e2975d0fd90dde012122a85e5ac700
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283490"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008928"
 ---
-# <a name="quoting-pricing-and-billing-home-page"></a><span data-ttu-id="b9762-103">Начална страница за офериране, ценообразуване и фактуриране</span><span class="sxs-lookup"><span data-stu-id="b9762-103">Quoting, pricing, and billing home page</span></span>
+# <a name="quoting-pricing-and-billing-home-page"></a><span data-ttu-id="4b2b3-103">Начална страница за офериране, ценообразуване и фактуриране</span><span class="sxs-lookup"><span data-stu-id="4b2b3-103">Quoting, pricing, and billing home page</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="b9762-104">Офериране, ценообразуване и фактуриране са функции, които се използват от малки и големи организации.</span><span class="sxs-lookup"><span data-stu-id="b9762-104">Quoting, pricing, and billing are features that are used by both small and large organizations.</span></span> <span data-ttu-id="b9762-105">Чрез разбирането как тези функции работят в приложението организациите могат по-лесно да персонализират конфигурации.</span><span class="sxs-lookup"><span data-stu-id="b9762-105">By understanding how these features work in the application, organizations can more easily customize configurations.</span></span>
+<span data-ttu-id="4b2b3-104">Офериране, ценообразуване и фактуриране са функции, които се използват от малки и големи организации.</span><span class="sxs-lookup"><span data-stu-id="4b2b3-104">Quoting, pricing, and billing are features that are used by both small and large organizations.</span></span> <span data-ttu-id="4b2b3-105">Чрез разбирането как тези функции работят в приложението организациите могат по-лесно да персонализират конфигурации.</span><span class="sxs-lookup"><span data-stu-id="4b2b3-105">By understanding how these features work in the application, organizations can more easily customize configurations.</span></span>
 
-<span data-ttu-id="b9762-106">Следните теми предоставят повече информация относно функционалността за офериране, ценообразуване и фактуриране в PSA:</span><span class="sxs-lookup"><span data-stu-id="b9762-106">The following topics provide more information about the quoting, pricing, and billing functionality in PSA:</span></span>
+<span data-ttu-id="4b2b3-106">Следните теми предоставят повече информация относно функционалността за офериране, ценообразуване и фактуриране в PSA:</span><span class="sxs-lookup"><span data-stu-id="4b2b3-106">The following topics provide more information about the quoting, pricing, and billing functionality in PSA:</span></span>
 
-- [<span data-ttu-id="b9762-107">Продажбен процес</span><span class="sxs-lookup"><span data-stu-id="b9762-107">Sales process</span></span>](basic-sales-process.md)
-- [<span data-ttu-id="b9762-108">Редове на оферти</span><span class="sxs-lookup"><span data-stu-id="b9762-108">Quote lines</span></span>](basic-quote-lines.md)
-- [<span data-ttu-id="b9762-109">Ценообразуване</span><span class="sxs-lookup"><span data-stu-id="b9762-109">Pricing</span></span>](basic-pricing.md)
-- [<span data-ttu-id="b9762-110">Бизнес транзакции</span><span class="sxs-lookup"><span data-stu-id="b9762-110">Business transactions</span></span>](basic-business-transactions.md)
-- [<span data-ttu-id="b9762-111">Анализиране на оферти по проекти</span><span class="sxs-lookup"><span data-stu-id="b9762-111">Analyzing project quotes</span></span>](basic-analyzing-quotes.md)
-- [<span data-ttu-id="b9762-112">Организационни единици</span><span class="sxs-lookup"><span data-stu-id="b9762-112">Organizational units</span></span>](advanced-organizational.md)
-- [<span data-ttu-id="b9762-113">Групи единици и единици</span><span class="sxs-lookup"><span data-stu-id="b9762-113">Unit groups and units</span></span>](advanced-units.md)
-- [<span data-ttu-id="b9762-114">Многокомпонентна валута</span><span class="sxs-lookup"><span data-stu-id="b9762-114">Multi-unit currency</span></span>](advanced-currency.md)
-- [<span data-ttu-id="b9762-115">Записване на действителни данни</span><span class="sxs-lookup"><span data-stu-id="b9762-115">Recording actuals</span></span>](advanced-actuals.md)
+- [<span data-ttu-id="4b2b3-107">Продажбен процес</span><span class="sxs-lookup"><span data-stu-id="4b2b3-107">Sales process</span></span>](basic-sales-process.md)
+- [<span data-ttu-id="4b2b3-108">Редове на оферти</span><span class="sxs-lookup"><span data-stu-id="4b2b3-108">Quote lines</span></span>](basic-quote-lines.md)
+- [<span data-ttu-id="4b2b3-109">Ценообразуване</span><span class="sxs-lookup"><span data-stu-id="4b2b3-109">Pricing</span></span>](basic-pricing.md)
+- [<span data-ttu-id="4b2b3-110">Бизнес транзакции</span><span class="sxs-lookup"><span data-stu-id="4b2b3-110">Business transactions</span></span>](basic-business-transactions.md)
+- [<span data-ttu-id="4b2b3-111">Анализиране на оферти по проекти</span><span class="sxs-lookup"><span data-stu-id="4b2b3-111">Analyzing project quotes</span></span>](basic-analyzing-quotes.md)
+- [<span data-ttu-id="4b2b3-112">Организационни единици</span><span class="sxs-lookup"><span data-stu-id="4b2b3-112">Organizational units</span></span>](advanced-organizational.md)
+- [<span data-ttu-id="4b2b3-113">Групи единици и единици</span><span class="sxs-lookup"><span data-stu-id="4b2b3-113">Unit groups and units</span></span>](advanced-units.md)
+- [<span data-ttu-id="4b2b3-114">Многокомпонентна валута</span><span class="sxs-lookup"><span data-stu-id="4b2b3-114">Multi-unit currency</span></span>](advanced-currency.md)
+- [<span data-ttu-id="4b2b3-115">Записване на действителни данни</span><span class="sxs-lookup"><span data-stu-id="4b2b3-115">Recording actuals</span></span>](advanced-actuals.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
