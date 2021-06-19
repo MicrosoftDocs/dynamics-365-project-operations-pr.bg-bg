@@ -2,8 +2,6 @@
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 15, V3
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 15, V3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/27/2020
 ms.topic: article
@@ -17,52 +15,52 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: fe1e2b2046faeee4e4c71484a976d70e8722e090
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 86aadca637939120d0ccd839e7c425e9e8d38aec
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949306"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6006813"
 ---
-# <a name="project-service-automation-update-release-15-v3"></a><span data-ttu-id="22d48-103">Project Service Automation, издание на актуализация 15, V3</span><span class="sxs-lookup"><span data-stu-id="22d48-103">Project Service Automation Update Release 15, V3</span></span>
+# <a name="project-service-automation-update-release-15-v3"></a><span data-ttu-id="2d65c-103">Project Service Automation, издание на актуализация 15, V3</span><span class="sxs-lookup"><span data-stu-id="2d65c-103">Project Service Automation Update Release 15, V3</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="22d48-104">С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA).</span><span class="sxs-lookup"><span data-stu-id="22d48-104">We’re pleased to announce the latest update for the Dynamics 365 Project Service Automation (PSA) application.</span></span> <span data-ttu-id="22d48-105">Тази версия включва някои важни подобрения в качеството, производителността и използваемостта.</span><span class="sxs-lookup"><span data-stu-id="22d48-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="22d48-106">Това издание е съвместимо с Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="22d48-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="22d48-107">За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията.</span><span class="sxs-lookup"><span data-stu-id="22d48-107">To update to this release, visit the Admin Center for Dynamics 365 online, and go to the solutions page to install the update.</span></span> <span data-ttu-id="22d48-108">За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="22d48-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="2d65c-104">С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA).</span><span class="sxs-lookup"><span data-stu-id="2d65c-104">We’re pleased to announce the latest update for the Dynamics 365 Project Service Automation (PSA) application.</span></span> <span data-ttu-id="2d65c-105">Тази версия включва някои важни подобрения в качеството, производителността и използваемостта.</span><span class="sxs-lookup"><span data-stu-id="2d65c-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="2d65c-106">Това издание е съвместимо с Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="2d65c-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="2d65c-107">За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията.</span><span class="sxs-lookup"><span data-stu-id="2d65c-107">To update to this release, visit the Admin Center for Dynamics 365 online, and go to the solutions page to install the update.</span></span> <span data-ttu-id="2d65c-108">За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="2d65c-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="22d48-109">Тази тема изброява функциите и корекциите, които са нови или променени за PSA V3, издание на актуализация 15.</span><span class="sxs-lookup"><span data-stu-id="22d48-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 15.</span></span> <span data-ttu-id="22d48-110">Тази версия е с номер на компилация V3.10.5.28 и е общодостъпна за самостоятелно актуализиране от януари 2020 г.</span><span class="sxs-lookup"><span data-stu-id="22d48-110">This version has a build number of V3.10.5.28 and is generally available through a self-update in January 2020.</span></span>
+<span data-ttu-id="2d65c-109">Тази тема изброява функциите и корекциите, които са нови или променени за PSA V3, издание на актуализация 15.</span><span class="sxs-lookup"><span data-stu-id="2d65c-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 15.</span></span> <span data-ttu-id="2d65c-110">Тази версия е с номер на компилация V3.10.5.28 и е общодостъпна за самостоятелно актуализиране от януари 2020 г.</span><span class="sxs-lookup"><span data-stu-id="2d65c-110">This version has a build number of V3.10.5.28 and is generally available through a self-update in January 2020.</span></span>
 
-## <a name="update-release-15"></a><span data-ttu-id="22d48-111">Издание на актуализация 15</span><span class="sxs-lookup"><span data-stu-id="22d48-111">Update Release 15</span></span> 
+## <a name="update-release-15"></a><span data-ttu-id="2d65c-111">Издание на актуализация 15</span><span class="sxs-lookup"><span data-stu-id="2d65c-111">Update Release 15</span></span> 
 
-### <a name="enhancements"></a><span data-ttu-id="22d48-112">Подобрения</span><span class="sxs-lookup"><span data-stu-id="22d48-112">Enhancements</span></span>
+### <a name="enhancements"></a><span data-ttu-id="2d65c-112">Подобрения</span><span class="sxs-lookup"><span data-stu-id="2d65c-112">Enhancements</span></span>
 
-- <span data-ttu-id="22d48-113">Управление на проекти</span><span class="sxs-lookup"><span data-stu-id="22d48-113">Project Management</span></span>
+- <span data-ttu-id="2d65c-113">Управление на проекти</span><span class="sxs-lookup"><span data-stu-id="2d65c-113">Project Management</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="22d48-114">Корекции на грешки</span><span class="sxs-lookup"><span data-stu-id="22d48-114">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="2d65c-114">Корекции на грешки</span><span class="sxs-lookup"><span data-stu-id="2d65c-114">Bug fixes</span></span>
 
-- <span data-ttu-id="22d48-115">Време и разход</span><span class="sxs-lookup"><span data-stu-id="22d48-115">Time and Expense</span></span>
+- <span data-ttu-id="2d65c-115">Време и разход</span><span class="sxs-lookup"><span data-stu-id="2d65c-115">Time and Expense</span></span>
 
-  - <span data-ttu-id="22d48-116">Поправено: Добавяне на обработка на грешки при зареждане в изгледа за съгласуване.</span><span class="sxs-lookup"><span data-stu-id="22d48-116">Fixed: Add on-load error handling in the reconciliation view.</span></span>
-  - <span data-ttu-id="22d48-117">Поправено: Център за ресурси на проект: преименуване на **Количество** за намаляване на двусмислеността.</span><span class="sxs-lookup"><span data-stu-id="22d48-117">Fixed: Project Resource Hub: Rename **Amount** to reduce ambiguity.</span></span>
-  - <span data-ttu-id="22d48-118">Поправено: Коригиране на изгледа **Копиране на колоните за запис за време**, за да включва типа.</span><span class="sxs-lookup"><span data-stu-id="22d48-118">Fixed: Adjust the view **Copy Time Entry Columns** to include the type.</span></span>
-  - <span data-ttu-id="22d48-119">Поправено: Редактирането на времетраенето на запис за време в мрежовидния изглед с помощта на десетични числа води до неизвестна грешка за някои числа.</span><span class="sxs-lookup"><span data-stu-id="22d48-119">Fixed: Editing time entry duration in the grid view using decimal numbers results in unknown error for some numbers.</span></span>
+  - <span data-ttu-id="2d65c-116">Поправено: Добавяне на обработка на грешки при зареждане в изгледа за съгласуване.</span><span class="sxs-lookup"><span data-stu-id="2d65c-116">Fixed: Add on-load error handling in the reconciliation view.</span></span>
+  - <span data-ttu-id="2d65c-117">Поправено: Център за ресурси на проект: преименуване на **Количество** за намаляване на двусмислеността.</span><span class="sxs-lookup"><span data-stu-id="2d65c-117">Fixed: Project Resource Hub: Rename **Amount** to reduce ambiguity.</span></span>
+  - <span data-ttu-id="2d65c-118">Поправено: Коригиране на изгледа **Копиране на колоните за запис за време**, за да включва типа.</span><span class="sxs-lookup"><span data-stu-id="2d65c-118">Fixed: Adjust the view **Copy Time Entry Columns** to include the type.</span></span>
+  - <span data-ttu-id="2d65c-119">Поправено: Редактирането на времетраенето на запис за време в мрежовидния изглед с помощта на десетични числа води до неизвестна грешка за някои числа.</span><span class="sxs-lookup"><span data-stu-id="2d65c-119">Fixed: Editing time entry duration in the grid view using decimal numbers results in unknown error for some numbers.</span></span>
 
-- <span data-ttu-id="22d48-120">Управление на проекти</span><span class="sxs-lookup"><span data-stu-id="22d48-120">Project Management</span></span>
+- <span data-ttu-id="2d65c-120">Управление на проекти</span><span class="sxs-lookup"><span data-stu-id="2d65c-120">Project Management</span></span>
 
-  - <span data-ttu-id="22d48-121">Поправено: Падащото меню за **Използване в изглед за проследяване** сега се разширява въз основа на ширината на опциите.</span><span class="sxs-lookup"><span data-stu-id="22d48-121">Fixed: The drop-down menu for **Use in Tracking View** now expands based on the width of the options.</span></span>
-  - <span data-ttu-id="22d48-122">Поправено: При управление на проекти в часовата зона +13 изчисленията на задачите може да покажат неточни резултати.</span><span class="sxs-lookup"><span data-stu-id="22d48-122">Fixed: When managing projects in the +13 time zone, tasks calculations can display inaccurate results.</span></span>
-  - <span data-ttu-id="22d48-123">Поправено: **Краен час на член на екипа** е коригирано при използване на 24-часов календар.</span><span class="sxs-lookup"><span data-stu-id="22d48-123">Fixed: **Team Member End Time** has been corrected when using a 24-hour calendar.</span></span>
-  - <span data-ttu-id="22d48-124">Поправено: Повторно активиране на **BPF** в основния формуляр **msdyn_project**.</span><span class="sxs-lookup"><span data-stu-id="22d48-124">Fixed: Re-activated the **BPF** in **msdyn_project** main form.</span></span>
-  - <span data-ttu-id="22d48-125">Поправено: Изчисляването на присвояванията вече не игнорира един ден.</span><span class="sxs-lookup"><span data-stu-id="22d48-125">Fixed: Assignments calculation no longer ignores one day.</span></span>
-  - <span data-ttu-id="22d48-126">Поправено: Към формуляра на проекта е добавен нов банер за известяване, когато часовата зона на потребителя и проекта е различна.</span><span class="sxs-lookup"><span data-stu-id="22d48-126">Fixed: A new notification banner has been added to the project form when the time zone differs between user and project.</span></span>
+  - <span data-ttu-id="2d65c-121">Поправено: Падащото меню за **Използване в изглед за проследяване** сега се разширява въз основа на ширината на опциите.</span><span class="sxs-lookup"><span data-stu-id="2d65c-121">Fixed: The drop-down menu for **Use in Tracking View** now expands based on the width of the options.</span></span>
+  - <span data-ttu-id="2d65c-122">Поправено: При управление на проекти в часовата зона +13 изчисленията на задачите може да покажат неточни резултати.</span><span class="sxs-lookup"><span data-stu-id="2d65c-122">Fixed: When managing projects in the +13 time zone, tasks calculations can display inaccurate results.</span></span>
+  - <span data-ttu-id="2d65c-123">Поправено: **Краен час на член на екипа** е коригирано при използване на 24-часов календар.</span><span class="sxs-lookup"><span data-stu-id="2d65c-123">Fixed: **Team Member End Time** has been corrected when using a 24-hour calendar.</span></span>
+  - <span data-ttu-id="2d65c-124">Поправено: Повторно активиране на **BPF** в основния формуляр **msdyn_project**.</span><span class="sxs-lookup"><span data-stu-id="2d65c-124">Fixed: Re-activated the **BPF** in **msdyn_project** main form.</span></span>
+  - <span data-ttu-id="2d65c-125">Поправено: Изчисляването на присвояванията вече не игнорира един ден.</span><span class="sxs-lookup"><span data-stu-id="2d65c-125">Fixed: Assignments calculation no longer ignores one day.</span></span>
+  - <span data-ttu-id="2d65c-126">Поправено: Към формуляра на проекта е добавен нов банер за известяване, когато часовата зона на потребителя и проекта е различна.</span><span class="sxs-lookup"><span data-stu-id="2d65c-126">Fixed: A new notification banner has been added to the project form when the time zone differs between user and project.</span></span>
 
-- <span data-ttu-id="22d48-127">Sales</span><span class="sxs-lookup"><span data-stu-id="22d48-127">Sales</span></span>
+- <span data-ttu-id="2d65c-127">Sales</span><span class="sxs-lookup"><span data-stu-id="2d65c-127">Sales</span></span>
 
-  - <span data-ttu-id="22d48-128">Поправено: Справочното поле за категория на оценка на разход може да се използва за филтриране на дублиращи се записи.</span><span class="sxs-lookup"><span data-stu-id="22d48-128">Fixed: Expense estimate category lookup can be used to filter duplicates.</span></span>
-  - <span data-ttu-id="22d48-129">Поправено: Кодът в **PluginDomain.ExecuteInTryCatchBlock(..)** вече не крие произхода на изключението.</span><span class="sxs-lookup"><span data-stu-id="22d48-129">Fixed: Code in **PluginDomain.ExecuteInTryCatchBlock(..)** no longer hides the origin of the exception.</span></span>
-  - <span data-ttu-id="22d48-130">Поправено: Вече не получавате съобщение за грешка **Справка за проект** във формуляра **Ред на оферта**, когато има повече от 1000 проекта.</span><span class="sxs-lookup"><span data-stu-id="22d48-130">Fixed: No longer get an error message in **Project lookup** in the **Quote Line** form when there are more than 1000 projects.</span></span>
-  - <span data-ttu-id="22d48-131">Поправено: Мрежата **Прогнозни оценки** за прогнози за труд и разход сега показва правилния валутен знак.</span><span class="sxs-lookup"><span data-stu-id="22d48-131">Fixed: **Estimates** grid for labor estimates and expense estimates now displays the correct currency symbol.</span></span>
-  - <span data-ttu-id="22d48-132">Поправено: След като организацията актуализира PSA от издание на актуализация 14 до издание на актуализация 15, разделът **График** вече не се показва като празен във формуляра **Проект**.</span><span class="sxs-lookup"><span data-stu-id="22d48-132">Fixed: After an organization updates PSA from Update Release 14 to Update Release 15, the **Schedule** tab no longer appears as blank on the **Project** form.</span></span>
+  - <span data-ttu-id="2d65c-128">Поправено: Справочното поле за категория на оценка на разход може да се използва за филтриране на дублиращи се записи.</span><span class="sxs-lookup"><span data-stu-id="2d65c-128">Fixed: Expense estimate category lookup can be used to filter duplicates.</span></span>
+  - <span data-ttu-id="2d65c-129">Поправено: Кодът в **PluginDomain.ExecuteInTryCatchBlock(..)** вече не крие произхода на изключението.</span><span class="sxs-lookup"><span data-stu-id="2d65c-129">Fixed: Code in **PluginDomain.ExecuteInTryCatchBlock(..)** no longer hides the origin of the exception.</span></span>
+  - <span data-ttu-id="2d65c-130">Поправено: Вече не получавате съобщение за грешка **Справка за проект** във формуляра **Ред на оферта**, когато има повече от 1000 проекта.</span><span class="sxs-lookup"><span data-stu-id="2d65c-130">Fixed: No longer get an error message in **Project lookup** in the **Quote Line** form when there are more than 1000 projects.</span></span>
+  - <span data-ttu-id="2d65c-131">Поправено: Мрежата **Прогнозни оценки** за прогнози за труд и разход сега показва правилния валутен знак.</span><span class="sxs-lookup"><span data-stu-id="2d65c-131">Fixed: **Estimates** grid for labor estimates and expense estimates now displays the correct currency symbol.</span></span>
+  - <span data-ttu-id="2d65c-132">Поправено: След като организацията актуализира PSA от издание на актуализация 14 до издание на актуализация 15, разделът **График** вече не се показва като празен във формуляра **Проект**.</span><span class="sxs-lookup"><span data-stu-id="2d65c-132">Fixed: After an organization updates PSA from Update Release 14 to Update Release 15, the **Schedule** tab no longer appears as blank on the **Project** form.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
