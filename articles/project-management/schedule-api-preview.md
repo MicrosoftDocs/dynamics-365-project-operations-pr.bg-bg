@@ -2,18 +2,16 @@
 title: Използвайте API на графика, за да извършвате операции с обекти за планиране
 description: Тази тема предоставя информация и проби за използване на API за график.
 author: sigitac
-manager: Annbe
 ms.date: 04/27/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: e03f4e6c49a835206b23cade3fabe3fd26693441
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 4a032dc7bcbdf23fce3c3b2ca63c51d473bd8e26
+ms.sourcegitcommit: fc96c6eb9a2094f9fa3d1ae39646730ef9d558ba
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950791"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6116784"
 ---
 # <a name="use-schedule-apis-to-perform-operations-with-scheduling-entities"></a>Използвайте API на графика, за да извършвате операции с обекти за планиране
 
@@ -268,7 +266,6 @@ OperationSet е модел на единица работа, който може
 - Всеки потребител може да има максимум 10 отворени **OperationSets**.
 - Понастоящем Project Operations поддържа максимум 500 общо задачи по проект.
 - Състоянието на неуспех **OperationSet** и регистрационните файлове за неуспех в момента не са достъпни.
-- API за график са в публичен преглед. Използването на тези API в производствена среда не се поддържа от Microsoft.
 - [Граници и ограничения на проекти и задачи](/project-for-the-web/project-for-the-web-limits-and-boundaries)
 
 ## <a name="error-handling"></a>Грешка при обработването
