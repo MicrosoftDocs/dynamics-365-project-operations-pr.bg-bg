@@ -2,7 +2,7 @@
 title: Интеграция на Microsoft Project Client
 description: Планирането и поддържането на график на проекта може да бъде сложно, така че ръководителите на проекти трябва да използват инструменти, които да им помогнат да управляват тази задача. Интеграцията с Microsoft Project Client осигурява поддръжка за отваряне и управление на структурна разбивка на работата на проекта.
 author: Yowelle
-ms.date: 12/11/2017
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 032d726bb6206c563b573f30d13fe2697a13c949
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: b312ec5b1f4e6a98a2cbf1667b2f55b758b2d613
+ms.sourcegitcommit: 3a4b181be08ef0428104d72b54a3e61ac2782f14
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999433"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "6269822"
 ---
 # <a name="microsoft-project-client-integration"></a>Интеграция на Microsoft Project Client
 
@@ -126,5 +126,12 @@ ms.locfileid: "5999433"
 
 11. Щракнете върху **OK**.
 
+> [!NOTE]
+> Добавката за клиент на проект не поддържа следните знаци във формата на ИД на проекта:
+> 
+>   - Долна черта
+>   - Точка
+>   - Интервал
+>   - Наклонена черта
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
