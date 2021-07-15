@@ -28,6 +28,8 @@
               href: environment/resource-apply-pro-setup-config-data.md
         - name: Внедряване на среди
           items:
+            - name: Ръчно внедряване на приложението Project Operations Dataverse с поддръжка на двойно писане
+              href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: Осигуряване на нова среда
               href: environment/resource-provision-new-environment.md
             - name: Модел на защита
@@ -52,6 +54,10 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Какво е новото
       items:
+        - name: 'Юли 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-july-2021-resource-based.md
+        - name: 'Юни 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-june-2021-resource-based.md
         - name: 'Май 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-may-2021-resource-based.md
         - name: 'Април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -282,7 +288,7 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
-            - name: Използване на API за график (публичен преглед)
+            - name: Използване на API за график по проект (публичен преглед)
               href: project-management/schedule-api-preview.md
     - name: Управление на ресурси
       items:
@@ -436,8 +442,6 @@
       items:
         - name: Общ преглед на процеса на фактуриране
           href: invoicing/post-project-invoices.md
-        - name: Управление на предложения за фактуриране по проект
-          href: invoicing/format-update-project-invoice-proposals.md
         - name: Проформа фактуриране
           items:
             - name: Управление на натрупване на фактуриране на база проект
@@ -456,8 +460,22 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Конфигуриране на автоматизация на базирана на проект фактура
               href: proforma-invoicing/configure-automated-invoice-creation.md
-        - name: Управление на предложения за фактуриране по проект
-          href: invoicing/format-update-project-invoice-proposals.md
+        - name: Фактуриране на клиент
+          items:
+            - name: Управление на предложения за фактуриране по проект
+              href: invoicing/format-update-project-invoice-proposals.md
+            - name: Правилно счетоводство на чернови на предложения за фактури по проекти
+              href: invoicing/correct-project-invoice-proposals.md
+        - name: Междуфирмено фактуриране
+          items:
+            - name: Преглед на междуфирменото фактуриране
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: Конфигуриране на междуфирмено фактуриране
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: Създаване на междуфирмени трансакции
+              href: project-accounting/create-intercompany-transactions.md
+            - name: Създаване на междуфирмени фактури за клиенти и доставчици
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Счетоводство на проект
       items:
         - name: Стойности по подразбиране за финансово измерение
@@ -470,16 +488,6 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Журнал за интеграция в Project Operations
           href: project-accounting/project-operations-integration-journal.md
-        - name: Междуфирмено фактуриране
-          items:
-            - name: Преглед на междуфирменото фактуриране
-              href: project-accounting/intercompany-invoicing-overview.md
-            - name: Конфигуриране на междуфирмено фактуриране
-              href: project-accounting/configure-intercompany-invoicing.md
-            - name: Създаване на междуфирмени трансакции
-              href: project-accounting/create-intercompany-transactions.md
-            - name: Създаване на междуфирмени фактури за клиенти и доставчици
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Признаване на приходите
       items:
         - name: Общ преглед на признаването на приходите
@@ -512,6 +520,10 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
+        - name: Нововъведения от юли 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-july-2021-lite.md
+        - name: Нововъведения от юни 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-june-2021-lite.md
         - name: Нововъведения от май 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-may-2021-lite.md
         - name: Нововъведения от април 2021 г. – олекотено внедряване
@@ -762,7 +774,7 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
-            - name: Използване на API за график (публичен преглед)
+            - name: Използване на API за график по проект (публичен преглед)
               href: project-management/schedule-api-preview.md
     - name: Управление на ресурси
       items:
@@ -882,6 +894,10 @@
   items:
     - name: Какво е новото
       items:
+        - name: 'Нововъведения от юли 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
+        - name: 'Нововъведения от май 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-may-2021-stocked.md
         - name: 'Нововъведения от април 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
           href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: 'Нововъведения от март 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -1034,6 +1050,10 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 33, V3'
+          href: psa/whats-new-ur-33.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 32.5, V3'
+          href: psa/whats-new-ur-32-5.md
         - name: 'Какво е новото или промененото в изданието на актуализация 32, V3'
           href: psa/whats-new-ur-32.md
         - name: 'Какво е новото или промененото в изданието на актуализация 31, V3'
