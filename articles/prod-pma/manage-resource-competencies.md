@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 21721a9b0af820df10c4fa965d000e85098e0dea
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999028"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007403"
 ---
 # <a name="manage-resource-competencies"></a>Управление на компетенции на ресурс
 
@@ -29,7 +29,7 @@ ms.locfileid: "5999028"
 
 Ресурсните компетенции са съществена част от управлението на ресурсите. Компетентностите могат да се използват като базова линия за определяне на ресурси, които имат правилния баланс между умения, образование, сертифициране и опит в проекта. Трябва да настроите тази информация за всеки ресурс и да я актуализирате редовно. По този начин можете да увеличите максимално възможностите, когато конкретни ресурсни компетенции са съпоставени по време на присвояване на ресурс на проекта.
 
-[![Примери за умения, сертификати, образование и опит в проекти](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![Примери за умения, сертификати, образование и опит в проекти.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 Следващите процедури обясняват как да се създадат някои от компетенциите за ресурс.
 

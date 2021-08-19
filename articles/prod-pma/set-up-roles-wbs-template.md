@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: ec952021f9da4d83520d29d68d040675f7933df7
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: c84015c46f0a8c9d3d48be1b995d4bdd7fd8ee25b240f455bbe2031f42adc0f5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997588"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008888"
 ---
 # <a name="set-up-roles-on-work-breakdown-structure-templates"></a>Настройване на роли в шаблони за съставна структура на работата
 
@@ -89,7 +89,7 @@ ms.locfileid: "5997588"
 
 4. Задайте датите и усилията (часове), както е показано на следващата илюстрация.
 
-    [![Определяне на дати и усилия](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
+    [![Определяне на дати и усилия.](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
 
 5. Изберете реда на задача **Иницииране** и след това в полето **Роля** изберете **Старши ръководител на проекта**.
 6. Изберете **Публикуване**.

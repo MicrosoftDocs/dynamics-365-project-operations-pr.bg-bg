@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 579a07e117cf00727813385da28d47f7e42f0127
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: ea2a34ed9e0bf5b28649a53db88976ec56aaf10d1c80af99cb0856250873a2ab
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6369453"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007313"
 ---
 # <a name="project-resourcing-home-page"></a>Начална страница за ресурсно обезпечаване на проекти
 
@@ -38,7 +38,7 @@ ms.locfileid: "6369453"
 - Оценете броя на ресурсите, които са необходими за целия жизнен цикъл на даден проект.
 - Изгответе структура на разбивка на работата (ССР), като използвате първоначалните задания за ресурси.
 
-[![Жизнен цикъл на проекта](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
+[![Жизнен цикъл на проект.](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
 
 С напредването на планирането на проектите планираните ресурси могат да бъдат заменени с ресурси за персонал. Мениджърът на проекта може също да се върне и да актуализира резервациите за ресурси по време на всеки етап от проекта.
 
