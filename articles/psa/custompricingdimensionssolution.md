@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ae7f22b9cb092e956d0f1eaf1f1997c8e97392f4
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 4dea80d8e4645675d3e89e846532ca7c0f292faa328c45938941c50dc15486fc
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012303"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995253"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>Създаване на персонализирани решения за ценови измерения
 
@@ -32,7 +32,7 @@ ms.locfileid: "6012303"
 1. Изберете **Настройки** > **Решения** и след това изберете **Създаване**. 
 2. Наименувайте решението, **Ценови измерения на \<your organization name>**, въведете оставащата изисквана информация и след това изберете **Записване**.
 
-> ![Създаване на персонализирано решение за ценови измерения](media/Creation-of-custom-pricing-dimension-solution.PNG)
+> ![Създаване на персонализирано решение за ценови измерения.](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Добавяне на всички необходими обекти и свързаните компоненти в решението за ценови измерения
 Ще трябва да добавите следните обекти на Project Service към вашето решение за ценообразуване. Изпълнете стъпките в тази процедура, за да направите някои важни промени на схемата в решението за ценообразуване, така че обектите да разберат новите ценови измерения.
@@ -54,16 +54,16 @@ ms.locfileid: "6012303"
 - Цена на роля 
 - Запис за време 
 
-> ![Добавяне на съществуващи обекти към решението за ценови измерения](media/Existing-entities-to-PD-solution.png)
+> ![Добавяне на съществуващи обекти към решението за ценови измерения.](media/Existing-entities-to-PD-solution.png)
 
-> ![Избор на компоненти на решението](media/Dimension-Components.png)
+> ![Избор на компоненти на решението.](media/Dimension-Components.png)
 
 > [!NOTE]
 > Уверете се, че сте включили всички формуляри и изгледи за всеки от избраните обекти.
 
 4. Когато бъдете подканени да включите зависими обекти за избраните обекти изберете **Не**.
 
-> ![Не включвай всички свързани компоненти](media/Do-not-include-required.png)
+> ![Не включвайте всички свързани компоненти.](media/Do-not-include-required.png)
 
 
 
