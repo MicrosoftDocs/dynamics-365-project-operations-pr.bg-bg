@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 976650cc71b0cdb75d5ce2d7532cd78bd91d3670
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 73509fda4a715a4131781645736e49cfb02115da2c3650c5a966e35360e7703f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6008658"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990483"
 ---
 # <a name="skills-and-proficiency-models"></a>Умения и модели на опитност
 
@@ -33,7 +33,7 @@ ms.locfileid: "6008658"
 
 За да поддържате хранилището с умения в Project Service Automation, отидете в **Ресурси** \> **Умения на ресурси**. 
 
-> ![Умения на ресурси](media/Resource-Management-image84.png)
+> ![Умения на ресурс.](media/Resource-Management-image84.png)
 
 ## <a name="use-proficiency-models-to-rate-resources"></a>Използване на модели на опитност за оценка на ресурси
 
@@ -43,7 +43,7 @@ ms.locfileid: "6008658"
 2. В новия модел на оценка укажете минималната стойност на оценка, максималната стойност на оценка и обекта, който се оценява.
 3. В подмрежата **Стойности на оценки** можете да дефинирате различните стойности на оценки – от минималната до максималната.
 
-> ![Дефинирани минимални и максимални оценки](media/Resource-Management-image85.png)
+> ![Дефинирани минимални и максимални оценки.](media/Resource-Management-image85.png)
 
 Тези стойности на оценки се показват във филтрите **Изисквания за ресурси**, **Табло на графика** и **Асистент за планиране**.
 

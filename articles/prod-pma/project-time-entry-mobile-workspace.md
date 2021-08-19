@@ -16,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: f087e15780272fd376a14b42ed9e00420f86a61f
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 04024cc005b67b8f4e5821b22be65cfd1822b2414c85e1fbb75c3b2ac4339dc4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6009918"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6989538"
 ---
 # <a name="project-time-entry-mobile-workspace"></a>Мобилно работно пространство за запис на време за проект
 
@@ -94,7 +94,7 @@ ms.locfileid: "6009918"
 3.  Първият път, когато влезете, ще бъдете подканени да въведете вашето потребителско име и парола. Въведете идентификационните си данни.
 4.  След като влезете, се показват наличните работни пространства за вашата компания. Имайте предвид, че ако системният ви администратор публикува ново работно пространство по-късно, ще трябва да опресните списъка с мобилни работни пространства.
 
-[![Издърпване за обновяване](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
+[![Издърпване за обновяване.](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
 
 ## <a name="enter-time-by-using-the-project-time-entry-mobile-workspace"></a>Въведете време, като използвате мобилното работно пространство за въвеждане на време на проекта
 1.  На мобилното си устройство изберете **Запис на време за проект** работно пространство.

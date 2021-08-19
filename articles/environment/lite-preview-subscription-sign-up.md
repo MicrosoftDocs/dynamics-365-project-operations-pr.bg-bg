@@ -6,12 +6,12 @@ ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 2b5a65f5e29915c349d40400ebbf3e4923b36a67
-ms.sourcegitcommit: 52b26950bb3b1596ad81aa4ff91745ee9615d1b0
+ms.openlocfilehash: 5ba43ba9f917da068415fb62067ab73433b701139ee07014b6bd8c02612008ce
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "6334769"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991518"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Регистриране за абонамент за преглед – олекотено 
 
@@ -52,16 +52,16 @@ ms.locfileid: "6334769"
 
 1. Осигурете нова среда за внедряване на Project Operations Dataverse, като следвате инструкциите в темата, [Модел за внедряване на Dataverse](lite-deployment.md). Когато изберете типа среда, не забравяйте да използвате **Пробен период (базиран на абонамент)**.
 
-  ![Нова среда](./media/19CreateEnvironment.png)
+  ![Нова среда.](./media/19CreateEnvironment.png)
 
 2. Изберете **Активирайте приложенията на Dynamics 365** настройка и оставете **Автоматично внедряване на тези приложения** празно.  
 3. Изберете **Запиши**, за да създадете средата.
 
-  ![Добавяне на база данни](./media/20CreateEnvironment1.png)
+  ![Добавяне на база данни.](./media/20CreateEnvironment1.png)
 
 4. След като средата е създадена, инсталирайте решението **Microsoft Dynamics 365 Project Operations**. 
 
-![Инсталиране на решение](./media/21InstallSolution.png)
+![Инсталиране на решение.](./media/21InstallSolution.png)
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>Инсталирайте конфигурация на CDS и настройте демонстрационни данни
 

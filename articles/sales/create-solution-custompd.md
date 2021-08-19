@@ -6,12 +6,12 @@ ms.date: 11/09/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 86f4cd2c26ebfca621d1b226b571d220d3b2441e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6010323"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992193"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>Създаване на решение за персонализирани измерения на ценообразуване
 
@@ -26,7 +26,7 @@ ms.locfileid: "6010323"
 2.  Задайте име на решението, *<your organization name> измерения за ценообразуване*.
 3. Въведете останалата необходима информация и след това изберете **Запиши**.
 
-  ![Създаване на решение за персонализирано измерение на ценообразуване](./media/Creation-of-custom-pricing-dimension-solution.png)
+  ![Създаване на решение за персонализирано измерение на ценообразуване.](./media/Creation-of-custom-pricing-dimension-solution.png)
  
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Добавяне на всички необходими обекти и свързаните компоненти в решението за ценови измерения
 
@@ -49,19 +49,19 @@ ms.locfileid: "6010323"
    - **Цена на роля**
    - **Запис за време**
  
-   ![Добавяне на решение за персонализирано измерение на ценообразуване за съществуващи обекти](./media/Existing-entities-to-PD-solution.png)
+   ![Добавяне на решение за персонализирано измерение на ценообразуване за съществуващи обекти.](./media/Existing-entities-to-PD-solution.png)
  
  4. За всеки обект прегледайте добавените компоненти и окончателния списък на активите на обекта за всеки обект. 
 
    >[!NOTE]
    > Включете всички формуляри и изгледи за всеки от избраните обекти.
 
-  ![Добавени обекти](./media/solution-component-selection.png)
+  ![Добавени обекти.](./media/solution-component-selection.png)
 
 
 5.  Когато бъдете подканени да включите зависими обекти за избраните обекти, изберете **Не, не включвай задължителни компоненти.**
 
-    ![Включване на зависими обекти](./media/Do-not-include-required.png)
+    ![Включване на зависими обекти.](./media/Do-not-include-required.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

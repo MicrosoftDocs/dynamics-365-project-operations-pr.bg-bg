@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3d838bde8a3d7cbc15e06fb3289924468c284a8a
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: f501bcc106a296f35bba996b6ab3a8b758cefb1926033faf04ee23c42bc94d39
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998938"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992418"
 ---
 # <a name="create-custom-fields-and-entities"></a>Създаване на персонализирани полета и обекти 
 
@@ -43,7 +43,7 @@ ms.locfileid: "5998938"
 2. В мениджъра на решения, в левия навигационен екран, изберете **Обекти**.
 3. Щракнете върху **Нов**, за да създадете нов обект, наречен **Стандартна длъжност**. Въведете останалата необходима информация и след това щракнете върху **Запиши**.
 
-> ![Дефиниране на обекта „Стандартна длъжност“](media/Standard-Title-entity-definition.png)
+> ![Дефиниране на обекта „Стандартна длъжност“.](media/Standard-Title-entity-definition.png)
 
 
 ### <a name="option-set-based-dimensions"></a>Измерения, базирани на набор от опции 
@@ -54,9 +54,9 @@ ms.locfileid: "5998938"
 2. В мениджъра на решения, в левия навигационен екран, изберете **Набори от опции**. 
 3. Щракнете върху **Нов**, за да създадете нов набор от опции, въведете останалата изисквана информация и след това щракнете върху **Запиши**.
 
-> ![Ценово измерение, базирано на набор от опции, наречено „Месторабота на ресурс“ ](media/Option-set-PD-called-Resource-Work-Location.png)
+> ![Измерение на ценообразуване, базирано на набор от опции, наречено „Месторабота на ресурс“.](media/Option-set-PD-called-Resource-Work-Location.png)
 
-> ![Ценово измерение, базирано на набор от опции, наречено „Работни часове на ресурс“ ](media/Option-set-PD-called-Resource-Work-Hours.PNG)
+> ![Измерение на ценообразуване, базирано на набор от опции, наречено „Работни часове на ресурс“.](media/Option-set-PD-called-Resource-Work-Hours.PNG)
 
 
 ## <a name="create-data-for-entity-based-dimensions"></a>Създаване на данни за измерения, базирани на обекти
@@ -68,7 +68,7 @@ ms.locfileid: "5998938"
 3. Затворете формуляра. 
 4. Повторете стъпки 1 – 3, за да създадете друга стандартна длъжност за „Старши системен инженер“.
 
-> ![Примерни данни за обект „Стандартна длъжност“ ](media/ST-data.png)
+> ![Примерни данни за обект „Стандартна длъжност“.](media/ST-data.png)
 
 
 

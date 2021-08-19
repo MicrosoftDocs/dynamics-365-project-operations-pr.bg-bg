@@ -6,12 +6,12 @@ ms.date: 01/27/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7729b4a9ef5f498b78af298f7233d7dd45434bb3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e25d358f1fd7705d580855d372d85690f6a5e265d3ba2b60fc26742bf3edc86f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997138"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993273"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Прилагане на демонстрационни данни за настройка и конфигурация за Project Operations – олекотено 
 
@@ -30,24 +30,24 @@ _**Леко внедряване – фактуриране на сделка к
 2. Отидете в папката *ProjOpsSampleSetupData – CMT само за CE* и стартирайте изпълнимия файл *DataMigrationUtility*.
 3. На страница 1 на Common Data Service Съветник за миграция на конфигурация (CMT), изберете **Импортиране на данни** и след това изберете **Продължение**.
 
-    ![Мигриране на конфигурация](./media/1ConfigurationMigration.png)
+    ![Мигриране на конфигурация.](./media/1ConfigurationMigration.png)
 
 4. На страница 2 от съветника за CMT изберете **Microsoft 365** като **Тип на внедряване**.
 5. Изберете квадратчета за отметка **Показване на списък с наличните организации** и **Показване на напреднали**.
 6. Изберете региона на вашия наемател, въведете вашите идентификационни данни и след това изберете **Вход**.
 
-   ![Вход в конфигурация](./media/2ConfigurationSignin.png)
+   ![Вход в конфигурация.](./media/2ConfigurationSignin.png)
 
 7. На страница 3 от списъка с организации на клиента изберете организацията, в която искате да импортирате демонстрационните данни, и изберете **Вход**.
 8. На страница 4 изберете zip файла *SampleSetupAndConfigData* от разопакованата папка *ProjOpsSampleSetupData – CMT само за CE*.
 
-   ![Zip файл](./media/3ZipFile.png)
+   ![Zip файл.](./media/3ZipFile.png)
 
-   ![Избор на файл](./media/4SelectAFile.png)
+   ![Избор на файл.](./media/4SelectAFile.png)
 
 9. След като изберете zip файла, изберете **Импортиране на данни**.
 
-   ![Импортиране на данни](./media/5ImportData.png)
+   ![Импортиране на данни.](./media/5ImportData.png)
 
 10. Импортирането ще продължи приблизително две-десет минути в зависимост от скоростта на вашата мрежа. След като завърши, излезте от съветника за CMT. 
 11. Проверете вашата организация за данни в следните 18 обекта:
@@ -71,7 +71,7 @@ _**Леко внедряване – фактуриране на сделка к
     -   Асоциация на категория налични ресурси
     -   Характеристика на наличен ресурс
 
-    ![Пълно импортиране](./media/6CompleteImport.png)
+    ![Пълно импортиране.](./media/6CompleteImport.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
