@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 2f5fa0143c903f08b3937426805cb43d5d6109e3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: acb87be977cc009f89ceac5b01c9028d6741b552a441ef49e024b6b078a188d4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999793"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001058"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>Синхронизирайте договори за проекти и проекти директно от Project Service Automation с Finance 
 
@@ -42,7 +42,7 @@ ms.locfileid: "5999793"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интеграция на Project Service Automation с Finance](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
+[![Поток от данни за интеграция на Project Service Automation с Finance.](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
 
 ## <a name="templates-and-tasks"></a>Шаблони и задачи
 
@@ -140,17 +140,17 @@ ms.locfileid: "5999793"
 
 Следните илюстрации показват примери на нанасяне на задача за съпоставяне в интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
-[![Съпоставяне на шаблон на договор за проект](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
+[![Съпоставяне на шаблон на договор за проект.](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
 
-[![Съпоставяне на шаблон на проект](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
+[![Съпоставяне на шаблон на проект.](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
 
-[![Съпоставяне на шаблон на редове на договор за проект](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
+[![Съпоставяне на шаблон за аспекти на договор за проект.](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
 
-[![Съпоставяне на шаблон на контролна точка на аспекти на договор за проект](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
+[![Съпоставяне на шаблон за контролна точка на аспекти на договор за проект.](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
 
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Съпоставяне на етапа на проектната линия на проекти в проекти и договори (PSA 3.x към Dynamics) - шаблон v2:
 
-[![Съпоставяне на шаблон на контролна точка с шаблон на втора версия](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+[![Съпоставяне на контролна точка на аспекти на договор по проект с шаблон на втора версия.](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
