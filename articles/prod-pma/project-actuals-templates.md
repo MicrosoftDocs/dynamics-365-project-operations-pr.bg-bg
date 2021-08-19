@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: db63413456e4b91d308af9c1103000d5cdc693f7
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 85b6c07464e919e363f28d8bc62115e8fb4c72ea6631269b98fd00f324a01cba
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999883"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988098"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизирайте действителните проекти директно от Project Service Automation с дневника за интегриране на проекти за публикуване в Finance and Operations
 
@@ -42,7 +42,7 @@ ms.locfileid: "5999883"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интеграция на Project Service Automation с Finance and Operations](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Поток от данни за интеграция на Project Service Automation с Finance and Operations.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Действителни данни на проекта от Project Service Automation
 
@@ -93,9 +93,9 @@ ms.locfileid: "5999883"
 
 Следните илюстрации показват пример за съпоставяне на задача на шаблон при интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
-[![Картографиране на шаблони - Действителни](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
+[![Съпоставяне на шаблони – действителни данни.](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
 
-[![Съпоставяне на шаблони - Транзакционни връзки](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
+[![Съпоставяне на шаблони – връзки на трансакции.](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
 
 ## <a name="import-from-staging-table-after-integration-from-project-service-automation"></a>Импортиране от подреждаща таблица след интеграция от Project Service Automation
 
@@ -135,9 +135,9 @@ ms.locfileid: "5999883"
 
 Следните илюстрации показват примери на нанасяне на задача за съпоставяне в интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Finance в Project Service Automation.
 
-[![Картографиране на шаблони - Актуализиране на действителни данни](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
+[![Съпоставяне на шаблони – актуализиране на действителни данни.](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
-[![Картографиране на шаблони - Актуализиране на трансакция](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+[![Съпоставяне на шаблони – актуализиране на трансакция.](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

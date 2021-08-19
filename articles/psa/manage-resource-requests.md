@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7c7ca0dbaeb8938fc2254da782b359a5dd29e6da
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 518edcb210e33a7922e8920f896479a79d264ab62742641cc66b7c3a33b6c6e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6015003"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985128"
 ---
 # <a name="manage-resource-requests-project-service"></a>Управление на заявки за ресурси (Project Service)
 
@@ -43,7 +43,7 @@ ms.locfileid: "6015003"
   
    -   Щракнете върху **Филтър**, за да се покаже екранът **Филтър**, който ви позволява да филтрирате резултатите си по организационна единица, роля, умение или други атрибути.  
   
-       ![Екран за заявки за ресурси на Project Service](../psa/media/project-service-resource-request-screen.png "Екран за заявки за ресурси на Project Service")  
+       ![Екран за заявки за ресурси на Project Service.](../psa/media/project-service-resource-request-screen.png "Екран за заявки за ресурси на Project Service")  
   
 3. В календара за ресурса, който искате да резервирате, изберете периода от време за резервация на ресурса, и след това щракнете върху **Резервиране**, за да резервирате ресурса, или върху **Предлагане на резервация**, за да предложите резервацията и подалият заявката да я одобри. Когато резервирате ресурс, можете да направите плаваща или твърда резервация.  
   
