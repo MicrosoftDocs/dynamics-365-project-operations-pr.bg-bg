@@ -6,12 +6,12 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: d82302f12ba75a92f2de0e9746ad7e61ce0cdc6b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: cea43422469adf12f336f7686814a8199717090c18804d3d0a7509452349566e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5995158"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997098"
 ---
 # <a name="configure-project-categories"></a>Конфигуриране на категории на проект
 
@@ -23,7 +23,7 @@ Project Operations предлага надеждни възможности за
 
 Категориите транзакции са основното групиране за транзакции по проекти. В рамките на това групиране има набор от споделени категории, които могат да се споделят между приложения и модули. Още по-навътре в спецификите, категориите проекти са най-подробното ниво на категориите. Категориите на проектите са специфични за юридическо лице, модул и приложение.
 
-![Корелация между категориите транзакции, споделените категории и категориите проекти](media/project-categories.png)
+![Корелация между категориите трансакции, споделените категории и категориите проекти.](media/project-categories.png)
 
 ## <a name="transaction-categories"></a>Категории трансакция
 

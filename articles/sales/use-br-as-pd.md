@@ -6,12 +6,12 @@ ms.date: 11/18/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d46d4659a5f60226f80b29f3dd8607249cb91ac2
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1e8487d3d32acab294bb2de16fb0278f357f774e62b553eb0c1ebd5b6246e332
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6011178"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996243"
 ---
 # <a name="use-a-bookable-resource-as-a-pricing-dimension"></a>Използване на наличен ресурс като измерение на ценообразуване
 
@@ -64,18 +64,18 @@ ms.locfileid: "6011178"
 1. Щракнете двукратно върху реда в мрежата **Измерения на ценообразуване**, за да отворите страницата на измерението **msdyn_bookableresource**.
 2. На страницата на измерението, в раздела **Свързани** изберете **Имена на полета за измерение на ценообразуване**.
 
-  ![Раздел „Имена на полета за ценово измерение“](media/PD-fieldname.png)
+  ![Раздел „Имена на полета за измерение на ценообразуване“.](media/PD-fieldname.png)
 
 3. В свързания изглед, който се отваря, изберете **Добавяне на ново име на поле на измерение на ценообразуване**.
 
-  ![Добавяне на ново име на поле на ценово измерение](media/Add-NewPD-fieldname.png)
+  ![Добавяне на ново име на поле на измерение на ценообразуване.](media/Add-NewPD-fieldname.png)
 
   Това отваря страницата **Ново име на поле на ценово измерение** за **msdyn_bookableresource**. 
 
 4. На страницата **Ново име на поле на измерение на ценообразуване** добавете **msdyn_projectteam** към **Логическо име на обект**.
 5. Добавете **msdyn_bookableresourceid** към **Име на поле**.
 
- ![Формуляр „Ново име на поле на ценово измерение“](media/PD-fieldname-Added.png)
+ ![Формуляр „Ново име на поле на измерение на ценообразуване“.](media/PD-fieldname-Added.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

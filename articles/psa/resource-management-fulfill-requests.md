@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1814d3a48611a76ee957967fc6da0b66e821ce5d
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1b9c19438effff5901426c904fa905afb3e2c09c35aff8559f491c06401806e0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997993"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996828"
 ---
 # <a name="fulfilling-resource-requests"></a>Изпълнение на заявки за ресурси
 
@@ -33,15 +33,15 @@ ms.locfileid: "5997993"
 
 Заявките за ресурси се показват като списък в изгледа **Заявки за активни ресурси**.
 
-> ![Списък със заявки за ресурси](media/Resource-Management-image59.png)
+> ![Списък със заявки за ресурси.](media/Resource-Management-image59.png)
 
 За да изпълните заявка, изберете я в списъка, след което изберете **Търсене на ресурси**. Или щракнете двукратно върху ред, за да се отвори заявката. След това можете да изберете раздела **Изисквания за ресурси**, за да видите изискванията за това искане. За да започнете да изпълнявате заявката, изберете **Търсене на ресурси**.
 
-> ![Подробности на заявки за ресурси](media/Resource-Management-image60.png)
+> ![Подробности за заявки за ресурси.](media/Resource-Management-image60.png)
 
 Асистентът за планиране се показва и се филтрира по изискванията. Изберете ресурса и след това **Резервиране**.
 
-> ![Избран ресурс](media/Resource-Management-image61.png)
+> ![Избран ресурс.](media/Resource-Management-image61.png)
 
 Общият член на екипа се заменя с потвърдено резервиран наименуван ресурс в екипа на проекта и присвоявания на задачи в графика на проекта.
 

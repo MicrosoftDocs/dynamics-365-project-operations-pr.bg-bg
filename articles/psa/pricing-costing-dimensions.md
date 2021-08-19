@@ -16,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5c8c28839f5e7b3259afbea4ab400d0c4fca95fd
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6368868"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998448"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>Начална страница на измерения за ценообразуване и остойностяване
 
@@ -41,7 +41,7 @@ ms.locfileid: "6368868"
 
 PSA се доставя с набор от ценовите измерения по подразбиране. Можете да ги видите, като отидете в **Project Service** > **Параметри**. В записа на параметъра, в раздела **Ценови измерения, базирани на сума**, проверете дали ролята, **msdyn_resourcecategory** и организационна единица, **msdyn_organizationalunit** имат полета **Приложимо за продажби** и **Приложимо за разходи**, зададени на **Да**. Това ще ви позволи да зададете цената и разходите за всяка комбинация от роля и организационна единица.
 
-![Екранна снимка на параметри на Project Service с маркирана опция „Приложимо за продажби“](media/PS-OOB-parameters.png)
+![Екранна снимка на параметри на Project Service с маркирана опция „Приложимо за продажби“.](media/PS-OOB-parameters.png)
 
 > [!IMPORTANT]
 > Ако сте използвали стандартните полета на роля и организационна единица като ценови измерения преди версия 3 на PSA, няма да има никаква видима промяна. Можете да продължите да използвате Project Service както обикновено. 
