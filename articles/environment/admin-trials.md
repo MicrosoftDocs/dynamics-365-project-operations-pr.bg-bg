@@ -2,16 +2,16 @@
 title: Регистрация за пробни версии на Project Operations
 description: Тази тема предоставя информация за това как да внедрите пробна версия на Dynamics 365 Project Operations.
 author: ruhercul
-ms.date: 08/19/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e9c0d81591061f0ff01200dd5fd634a4a9ff31e4
-ms.sourcegitcommit: 0e5de344f2040075ba431918a4499a80510458d9
+ms.openlocfilehash: 1c8ae111acffb45fef1c2e6435849471ae331796
+ms.sourcegitcommit: 05ee415093d152b5b9e1203c3db0ea7f0c5a75a5
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "7418444"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "7599200"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Регистрация за пробни версии на Project Operations 
 
@@ -85,15 +85,9 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
    След стартиране на предоставянето ще бъдете пренасочени към списъка със среда в центъра за администрация на Power Platform. Докато предоставянето е в ход, състоянието на вашата среда е **PreparingInstance**.
  
-  След като предоставянето приключи, състоянието на вашата среда е **Готово**.
+  Когато предоставянето приключи, състоянието на вашата среда е **Готов**. Осигуряването на средата включва разполагане на демо данни.
  
-4.  Когато предоставянето приключи, изберете съответния Microsoft Dataverse URL адрес и Finance and Operations URL адреси на приложения за валидиране на внедряването.
-
-## <a name="demo-data-installation"></a>Инсталация на демонстрационни данни
-
-Използвайте следните връзки за достъп до демонстрационни пакети с данни както за несъхранявани материали, така и за сценарии за внедряване. 
-- [Демонстрационни данни за нескладови материали](resource-apply-pro-setup-config-data.md)
-- [Олекотени демонстрационни данни](lite-apply-demo-setup-config-data.md)
+4.  Изберете съответния URL адрес на Microsoft Dataverse и URL адресите на приложенията Finance and Operations за валидиране на внедряването.
 
 ## <a name="configuring-dual-write"></a>Конфигуриране на двукратно записване
 Само за внедряване на материали без запаси, конфигурирайте своите съпоставяния с двойно записване. За повече информация вижте [Версии на карти с двойно записване на Project Operations](resource-dual-write-maps.md).
