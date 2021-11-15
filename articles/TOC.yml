@@ -52,8 +52,10 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интегриране на управление на разходите
               href: environment/resource-dual-write-expense.md
-            - name: Интегриране на фактура на доставчик
+            - name: Интегриране на фактури на доставчици
               href: environment/resource-dual-write-vendor-invoice.md
+        - name: Деинсталиране на Dynamics 365 Project Operations
+          href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
         - name: 'Октомври 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -298,6 +300,8 @@
               href: project-management/dev-copy-project.md
             - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Производителност на API за планиране на проекти
+              href: project-management/project-schedule-api-performance.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -802,6 +806,8 @@
               href: project-management/dev-copy-project.md
             - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Производителност на API за планиране на проекти
+              href: project-management/project-schedule-api-performance.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -1102,6 +1108,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 37, V3'
+          href: psa/whats-new-ur-37.md
         - name: 'Какво е новото или промененото в изданието на актуализация 36, V3'
           href: psa/whats-new-ur-36.md
         - name: 'Какво е новото или промененото в изданието на актуализация 35, V3'
