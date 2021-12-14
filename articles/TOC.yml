@@ -58,6 +58,8 @@
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
+        - name: 'Ноември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-nov-2021-resource-based.md
         - name: 'Октомври 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-oct-2021-resource-based.md
         - name: 'Септември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -302,6 +304,8 @@
               href: project-management/schedule-api-preview.md
             - name: Производителност на API за планиране на проекти
               href: project-management/project-schedule-api-performance.md
+            - name: Регистрационни файлове за планиране на проекти
+              href: project-management/schedule-api-logs.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -544,6 +548,8 @@
       items:
         - name: Нововъведения за ранен достъп до вълна 2 за 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Нововъведения от ноември 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: Нововъведения от октомври 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-oct-2021-lite.md
         - name: Нововъведения от септември 2021 г. – олекотено внедряване
@@ -952,6 +958,10 @@
   items:
     - name: Какво е новото
       items:
+        - name: 'Нововъведения от октомври 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
+        - name: 'Нововъведения от септември 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
         - name: 'Нововъведения от юли 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
           href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
         - name: 'Нововъведения от май 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -1108,6 +1118,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 37.5, V3'
+          href: psa/whats-new-ur-37-5.md
         - name: 'Какво е новото или промененото в изданието на актуализация 37, V3'
           href: psa/whats-new-ur-37.md
         - name: 'Какво е новото или промененото в изданието на актуализация 36, V3'
