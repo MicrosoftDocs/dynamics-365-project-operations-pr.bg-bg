@@ -2,16 +2,16 @@
 title: Регистрация за пробни версии на Project Operations
 description: Тази тема предоставя информация за това как да внедрите пробна версия на Dynamics 365 Project Operations.
 author: ruhercul
-ms.date: 10/04/2021
+ms.date: 12/08/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 1c8ae111acffb45fef1c2e6435849471ae331796
-ms.sourcegitcommit: 05ee415093d152b5b9e1203c3db0ea7f0c5a75a5
+ms.openlocfilehash: e40b4ac23241730f5c2db89f0dc674083f9e7abe
+ms.sourcegitcommit: 8f970b46d0303dafaa75fc7d00567d232e1e600b
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "7599200"
+ms.lasthandoff: 12/09/2021
+ms.locfileid: "7901604"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Регистрация за пробни версии на Project Operations 
 
@@ -90,7 +90,8 @@ _**Приложимо за:** Project Operations за сценарии, бази
 4.  Изберете съответния URL адрес на Microsoft Dataverse и URL адресите на приложенията Finance and Operations за валидиране на внедряването.
 
 ## <a name="configuring-dual-write"></a>Конфигуриране на двукратно записване
-Само за внедряване на материали без запаси, конфигурирайте своите съпоставяния с двойно записване. За повече информация вижте [Версии на карти с двойно записване на Project Operations](resource-dual-write-maps.md).
+- За да конфигурирате права за достъп за двойно записване, вижте [Актуализиране на настройките за защита на Project Operations в Dataverse](resource-provision-new-environment.md).
+- За да конфигурирате карти с двойно записване, вижте Изпълнение на [проектни операции карти с двойно записване](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Присвояване на лицензи
 
