@@ -2,10 +2,12 @@
 title: Създаване на персонализирани полета и обекти
 description: Тази тема обяснява как да създадете набори от опции и обекти в собственото си решение в платформата Power Apps.
 author: Rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -15,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f501bcc106a296f35bba996b6ab3a8b758cefb1926033faf04ee23c42bc94d39
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b9e32c8871a8986ba827f742baf4e4d5cd9dd235
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992418"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144850"
 ---
 # <a name="create-custom-fields-and-entities"></a>Създаване на персонализирани полета и обекти 
 
@@ -43,7 +45,7 @@ ms.locfileid: "6992418"
 2. В мениджъра на решения, в левия навигационен екран, изберете **Обекти**.
 3. Щракнете върху **Нов**, за да създадете нов обект, наречен **Стандартна длъжност**. Въведете останалата необходима информация и след това щракнете върху **Запиши**.
 
-> ![Дефиниране на обекта „Стандартна длъжност“.](media/Standard-Title-entity-definition.png)
+> ![Дефиниране на обекта „Стандартна длъжност“](media/Standard-Title-entity-definition.png)
 
 
 ### <a name="option-set-based-dimensions"></a>Измерения, базирани на набор от опции 
@@ -54,9 +56,9 @@ ms.locfileid: "6992418"
 2. В мениджъра на решения, в левия навигационен екран, изберете **Набори от опции**. 
 3. Щракнете върху **Нов**, за да създадете нов набор от опции, въведете останалата изисквана информация и след това щракнете върху **Запиши**.
 
-> ![Измерение на ценообразуване, базирано на набор от опции, наречено „Месторабота на ресурс“.](media/Option-set-PD-called-Resource-Work-Location.png)
+> ![Ценово измерение, базирано на набор от опции, наречено „Месторабота на ресурс“ ](media/Option-set-PD-called-Resource-Work-Location.png)
 
-> ![Измерение на ценообразуване, базирано на набор от опции, наречено „Работни часове на ресурс“.](media/Option-set-PD-called-Resource-Work-Hours.PNG)
+> ![Ценово измерение, базирано на набор от опции, наречено „Работни часове на ресурс“ ](media/Option-set-PD-called-Resource-Work-Hours.PNG)
 
 
 ## <a name="create-data-for-entity-based-dimensions"></a>Създаване на данни за измерения, базирани на обекти
@@ -68,9 +70,6 @@ ms.locfileid: "6992418"
 3. Затворете формуляра. 
 4. Повторете стъпки 1 – 3, за да създадете друга стандартна длъжност за „Старши системен инженер“.
 
-> ![Примерни данни за обект „Стандартна длъжност“.](media/ST-data.png)
+> ![Примерни данни за обект „Стандартна длъжност“ ](media/ST-data.png)
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

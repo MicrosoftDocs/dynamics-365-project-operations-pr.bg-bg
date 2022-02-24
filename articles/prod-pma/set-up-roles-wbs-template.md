@@ -2,9 +2,11 @@
 title: Настройване на роли в шаблони за съставна структура на работата
 description: Тази тема предоставя информация за настройване на информация за ролята на шаблоните за съставна структура на работата.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: c84015c46f0a8c9d3d48be1b995d4bdd7fd8ee25b240f455bbe2031f42adc0f5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 143f1094c653fb7ac0e026b7875aa162a3eb83f7
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008888"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071800"
 ---
 # <a name="set-up-roles-on-work-breakdown-structure-templates"></a>Настройване на роли в шаблони за съставна структура на работата
 
@@ -89,7 +91,7 @@ ms.locfileid: "7008888"
 
 4. Задайте датите и усилията (часове), както е показано на следващата илюстрация.
 
-    [![Определяне на дати и усилия.](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
+    [![Определяне на дати и усилия](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
 
 5. Изберете реда на задача **Иницииране** и след това в полето **Роля** изберете **Старши ръководител на проекта**.
 6. Изберете **Публикуване**.
@@ -105,6 +107,3 @@ ms.locfileid: "7008888"
     > Не получавате предупреждение, че посоченият ресурс вече е 2, тъй като броят на ресурсите остава 1.
 
 14. На страницата **съставна структура на работата**, проверете присвояването на ресурс на ССР и след това изберете **Записване**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

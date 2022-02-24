@@ -2,9 +2,11 @@
 title: Мобилно приложение за времеви лист за проекти
 description: Тази тема предоставя информация за мобилното приложение Microsoft Dynamics 365 Project Timesheet. Мобилното приложение Project Timesheet дава възможност на потребителите да подават и одобряват разписания за проекти на своето мобилно устройство.
 author: abruer
+manager: AnnBe
 ms.date: 04/08/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df6d286b6d5716fb0ea908ed71c2257b4db21ecfd35148fea65dfd96e058ac9a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b9cbd84ecb0d71a99982e158d7e0ea1e236fb369
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997188"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071993"
 ---
 # <a name="project-timesheet-mobile-application"></a>Мобилно приложение за времеви лист за проекти
 
@@ -94,6 +96,3 @@ ms.locfileid: "6997188"
 ## <a name="review-timesheets"></a>Прегледайте разписанията
 
 Списък с разписанията, които трябва да бъдат прегледани, е наличен в менюто. Тази опция е налична само ако сте били определени за одобряващ работен поток. Поддържат се както одобрение на заглавка, така и линия. Одобрението на ниво линия предлага възможност за маркиране на една или повече линии за одобрение. След като прегледате информацията за работния лист, щракнете върху **Одобрете**, **Делегирайте** или **Връщане**, за да продължите работния процес.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

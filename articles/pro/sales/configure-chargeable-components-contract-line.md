@@ -2,16 +2,18 @@
 title: Конфигуриране на платими компоненти на базирани на проект аспекти на договор
 description: Тази тема предоставя информация за това как да добавите таксуеми компоненти към договорни линии в Project Operations.
 author: rumant
+manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d18e56f29457151e07636b67ff8d9b184bf5014ef0ceeef9bb9d322672be4335
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: ddada2cb412ba7370fb0a750325a84772937d8d0
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003443"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858460"
 ---
 # <a name="configure-chargeable-components-of-a-project-based-contract-line"></a>Конфигуриране на платими компоненти на базирани на проект аспекти на договор
 

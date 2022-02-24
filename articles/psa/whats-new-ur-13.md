@@ -2,6 +2,8 @@
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 13, V3
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 13, V3.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3a20cf32e578bc818f3ef6ed916784c32b559c3342162bcb7857f5e9cc520d9c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 7287054c470a44ed1fdc243018ec935fe21a6c4f
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006665"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147235"
 ---
 # <a name="project-service-automation-update-release-13-v3"></a>Project Service Automation, издание на актуализация 13, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
+С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 13. Тази версия е с номер на компилация V3.10.3.18 и е достъпна по следния график:
 
@@ -57,6 +59,3 @@ ms.locfileid: "7006665"
      - Коригирано: Допълнителните бутони за **Нова възможност**, **Оферта**, **Ред на поръчка** и **Добавяне на продукт** са видими в команди за възможности, оферти, поръчка на продукти и подмрежа с редове, базирани на проект.
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

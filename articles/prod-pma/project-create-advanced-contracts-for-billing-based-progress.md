@@ -2,9 +2,11 @@
 title: Създаване на разширени договори за фактуриране въз основа на напредъка
 description: Тази тема обяснява как да създадете проектни договори, така че да можете да генерирате фактури за клиенти въз основа на процент от завършената работа.
 author: RadhikaRS
+manager: AnnBe
 ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 661e8aa0be70e9c8aadcb3a3d9dd6d39d1bcb2fd55d198b3c9af19fc2d0ae9d3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1a83785a9db4dffc4585acf11ef971c08594f312
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000968"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071949"
 ---
 # <a name="create-advanced-contracts-for-billing-based-on-progress"></a>Създаване на разширени договори за фактуриране въз основа на напредъка
 [!include [banner](../includes/banner.md)]
@@ -101,6 +103,3 @@ ms.locfileid: "7000968"
 8. По избор: Присвойте правилото за фактуриране на допълнителни проекти. Във FastTab **Проект** в секцията **Налични проекти** проект и след това изберете бутона със стрелка надясно, за да добавите проекта към секцията **Избрани проекти**.
 9. По избор: Изчислете процентната сума, която клиентът удържа от плащания по фактура. На FastTab **Условия за задържане на плащане** изберете източника на финансиране и след това в полето **Процент на задържане** въведете процента на задържане.
 10. Повторете тези стъпки, за да създадете допълнителни правила за фактуриране за проектния договор.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

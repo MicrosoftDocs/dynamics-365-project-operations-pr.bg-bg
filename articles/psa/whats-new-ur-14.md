@@ -2,6 +2,8 @@
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 14, V3
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 14, V3.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 71971b96ea6955b95fa519884356a310b2885d0667d60ca07856a444de77dc64
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: f9347741d8dae2c9a810bb5b3a32d4d6c0a628ed
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987018"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147145"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation, издание на актуализация 14, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
+С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 Тази тема изброява функциите и корекциите, които са нови или променени за PSA V3, издание на актуализация 14. Тази версия е с номер на компилация V3.10.4.21 и е достъпна по следния график:
 
@@ -62,6 +64,3 @@ ms.locfileid: "6987018"
      - Поправено: Общата продажна цена не се изчислява, докато потребителят не въведе и себестойност за оценка на разходите по проект.
      - Поправено: Затварянето на оферта като **Спечелена** е неуспешно, ако свързаният договор по проект не е в състояние **Чернова**.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

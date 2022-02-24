@@ -1,6 +1,8 @@
 ---
 title: Подаване на заявка за ресурс
 description: Тази тема предоставя информация за подаване на заявка за ресурс на проект.
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/1/2018
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: da3e2798079816409ffbcfed911c05f3d51307fef22c48d112802927828faeb2
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 173572be43149aea253bf7beddb993f8c50ab337
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6984949"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149710"
 ---
 # <a name="submitting-a-resource-request"></a>Подаване на заявка за ресурс
 
@@ -34,11 +36,8 @@ ms.locfileid: "6984949"
 1. В Project Service Automation (PSA), на страницата **Проекти** щракнете върху раздела **Екип**, за да видите списък с наличните ресурси. 
 2. Изберете общия ресурс, който има изискване за ресурс, от списъка и след това щракнете върху **Подаване на заявка**.
 
-![Подаване на заявка за ресурс.](media/RM-how-to-18.png)
+![Подаване на заявка за ресурс](media/RM-how-to-18.png)
 
 Състоянието на заявката на общия член на екипа ще се промени **Подадено**.
 
 След като заявката бъде изпълнена от мениджъра на ресурси, общият ресурс ще бъде заменен с наименуван ресурс, ако мениджърът на ресурси изпълни заявката с резервацията на наименуван ресурс. В противен случай общият ресурс ще остане в екипа и състоянието на заявката ще се промени на **Нуждае се от преглед**, ако мениджърът на ресурси е предложил наименуван ресурс.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,6 +2,8 @@
 title: Въвеждане на време
 description: Как се въвежда време в Project Service
 author: revathimuthiah
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3dfd16ff38e729ce183247a03b3340b8af52ea1318c799ec5fd544d7b94086be
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 222488f9ec52e07f1fb17d8dba3c3b0e5342b58d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985668"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149305"
 ---
 # <a name="enter-time-project-service"></a>Въвеждане на време (Project Service)
 
@@ -59,6 +61,3 @@ ms.locfileid: "6985668"
   
 ### <a name="see-also"></a>Вижте също  
  [Ръководство за време, разходи и сътрудничество](../psa/time-expense-collaboration-guide.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,10 +2,12 @@
 title: Създаване на персонализирани решения за ценови измерения
 description: Тази тема обяснява как да създадете персонализирано решение при създаване на персонализирани размери за ценообразуване.
 author: Rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -15,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4dea80d8e4645675d3e89e846532ca7c0f292faa328c45938941c50dc15486fc
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3810df9b875d017a8d639b5253b96275571898f3
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995253"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144625"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>Създаване на персонализирани решения за ценови измерения
 
@@ -32,7 +34,7 @@ ms.locfileid: "6995253"
 1. Изберете **Настройки** > **Решения** и след това изберете **Създаване**. 
 2. Наименувайте решението, **Ценови измерения на \<your organization name>**, въведете оставащата изисквана информация и след това изберете **Записване**.
 
-> ![Създаване на персонализирано решение за ценови измерения.](media/Creation-of-custom-pricing-dimension-solution.PNG)
+> ![Създаване на персонализирано решение за ценови измерения](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Добавяне на всички необходими обекти и свързаните компоненти в решението за ценови измерения
 Ще трябва да добавите следните обекти на Project Service към вашето решение за ценообразуване. Изпълнете стъпките в тази процедура, за да направите някои важни промени на схемата в решението за ценообразуване, така че обектите да разберат новите ценови измерения.
@@ -54,18 +56,15 @@ ms.locfileid: "6995253"
 - Цена на роля 
 - Запис за време 
 
-> ![Добавяне на съществуващи обекти към решението за ценови измерения.](media/Existing-entities-to-PD-solution.png)
+> ![Добавяне на съществуващи обекти към решението за ценови измерения](media/Existing-entities-to-PD-solution.png)
 
-> ![Избор на компоненти на решението.](media/Dimension-Components.png)
+> ![Избор на компоненти на решението](media/Dimension-Components.png)
 
 > [!NOTE]
 > Уверете се, че сте включили всички формуляри и изгледи за всеки от избраните обекти.
 
 4. Когато бъдете подканени да включите зависими обекти за избраните обекти изберете **Не**.
 
-> ![Не включвайте всички свързани компоненти.](media/Do-not-include-required.png)
+> ![Не включвай всички свързани компоненти](media/Do-not-include-required.png)
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

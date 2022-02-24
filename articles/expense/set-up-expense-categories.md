@@ -2,16 +2,18 @@
 title: Настройване на категории разходи
 description: Тази тема предоставя информация за това как да настроите категории разходи и споделени категории за отчети за разходите.
 author: suvaidya
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: 8f5b1a5d069b8d73051406369ecba2c4547eaa38e0d5bde2e34f52c5b7b724bd
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 13e72e4b852fd0edac5ad35d5162e74b016bce33
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993093"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123770"
 ---
 # <a name="set-up-expense-categories"></a>Настройване на категории разходи
 
@@ -59,6 +61,3 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 
     - Изключена ли е някоя от подкатегориите от събирането на данъци?
     - Каква е групата за данък върху продажбите на артикули в подкатегориите?
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

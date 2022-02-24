@@ -2,26 +2,28 @@
 title: Начална страница за ресурсно обезпечаване на проекти
 description: Тази тема предоставя информация за осигуряването на ресурси за проекта.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
 ms.reviewer: josaw
 ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.custom: 82022
 ms.assetid: bd2fb375-84c6-428a-8e54-f0f719045898
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: ea2a34ed9e0bf5b28649a53db88976ec56aaf10d1c80af99cb0856250873a2ab
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3ecf8ee588de9ec41e0b4f384110f912759ed53f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007313"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071806"
 ---
 # <a name="project-resourcing-home-page"></a>Начална страница за ресурсно обезпечаване на проекти
 
@@ -38,7 +40,7 @@ ms.locfileid: "7007313"
 - Оценете броя на ресурсите, които са необходими за целия жизнен цикъл на даден проект.
 - Изгответе структура на разбивка на работата (ССР), като използвате първоначалните задания за ресурси.
 
-[![Жизнен цикъл на проект.](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
+[![Жизнен цикъл на проекта](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
 
 С напредването на планирането на проектите планираните ресурси могат да бъдат заменени с ресурси за персонал. Мениджърът на проекта може също да се върне и да актуализира резервациите за ресурси по време на всеки етап от проекта.
 
@@ -47,12 +49,9 @@ ms.locfileid: "7007313"
 - [Настройване на ресурси на проект](set-up-project-resources.md)
 - [Управление на компетенции на ресурс](manage-resource-competencies.md)
 - [Създаване на нов проект](create-new-project.md)
-- [Настройване на ценообразуване въз основа на роли](set-up-role-based-pricing.md)
-- [Създаване на екип на проект](create-project-team.md)
+- [Настройте ценообразуване въз основа на роли](set-up-role-based-pricing.md)
+- [Създаване на екип по проекта](create-project-team.md)
 - [Синхронизиране на производителност на ресурс](synchronize-resource-capacity.md)
 - [Производителност на планиране на ресурс за проект](project-scheduling-performance.md)
 - [Настройване на роли в шаблони за съставна структура на работата](set-up-roles-wbs-template.md)
 - [Изпълнение на ресурсите за планираните ресурси](resource-fulfillment-planned-resources.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

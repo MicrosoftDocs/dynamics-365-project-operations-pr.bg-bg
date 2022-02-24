@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 32dba5acd95c1d192556153240ebd51343112be53aa3db93e5e6f127c2d960e9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: e1c123854209b3cb5c310e3bbcb242c9219279a8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007133"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5992821"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>Преглед на платимото използване на ресурси
 
@@ -29,7 +29,7 @@ ms.locfileid: "7007133"
  
 **Изгледът за използване** на страницата **Използване на ресурсите на Project Service** показва платимото използване за всеки наличен ресурс. Тъй като изгледът е базиран на таблото на графика, ще намерите много от същите функции.
 
-> ![Екранна снимка на изгледа за използване.](media/FAQ-utilization-1.png)
+> ![Екранна снимка на изгледа за използване](media/FAQ-utilization-1.png)
  
 
 Изчисляването на платимо използване работи, както следва:
@@ -48,7 +48,7 @@ ms.locfileid: "7007133"
 2. Изберете ресурс, за да отворите записа. 
 3. В раздела **Project Service** можете да зададете целевото използване на ресурса.
 
-> ![Екранна снимка на използването на раздела Project Service за задаване на целево използване.](media/FAQ-utilization-2.png)
+> ![Екранна снимка на използването на раздела „Project Service” за задаване на целево използване](media/FAQ-utilization-2.png)
  
 ## <a name="set-target-utilization-on-a-role"></a>Задаване на целево използване за роля
 
@@ -56,7 +56,7 @@ ms.locfileid: "7007133"
 2. Изберете роля и отворете записа. 
 3. Задайте целевото използване за ролята.
 
-> ![Екранна снимка на използването на роли на ресурс за задаване на целево използване.](media/FAQ-utilization-3.png)
+> ![Екранна снимка на използването на роли на ресурс за задаване на целево използване](media/FAQ-utilization-3.png)
  
 ## <a name="calculate-chargeable-utilization-for-a-resource"></a>Изчисляване на платимото използване на ресурс
 

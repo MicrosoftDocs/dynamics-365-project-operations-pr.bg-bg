@@ -2,9 +2,11 @@
 title: Договори по проект
 description: Тази тема предоставя примери за проектни договори, които можете да създадете за различни видове проекти и източници на финансиране, както и как можете да управлявате договори и да фактурирате клиенти на проекти.
 author: Yowelle
+manager: AnnBe
 ms.date: 11/03/2017
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectContractsListPage, ProjProjectsListPage
 audience: Application User, IT Pro
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1b92668c38071e8b1afdee9a79fd4a25190248ada30380bfb79054a6dc587f95
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b7d15523f1b22bb8813a47f9f822f12bc4162104
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001013"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071951"
 ---
 # <a name="project-contracts"></a>Договори по проект
 
@@ -342,6 +344,3 @@ ms.locfileid: "7001013"
 
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

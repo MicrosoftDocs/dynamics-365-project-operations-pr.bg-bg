@@ -2,9 +2,11 @@
 title: Синхронизиране на производителност на ресурс
 description: Тази тема предоставя информация за това как да синхронизирате капацитета на ресурса в календари и проекти.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 5f2e9b8e189be0594569e14ebc41c6ed452afd10aba34ea1397b3e3f66cd2e96
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 006ebbfea42572f17663fab324a20a10321b78f0
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005603"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071798"
 ---
 # <a name="synchronize-resource-capacity"></a>Синхронизиране на производителност на ресурс
 
@@ -29,7 +31,7 @@ ms.locfileid: "7005603"
 
 Процесите за синхронизиране на ресурси помагат да се гарантира, че информацията за календара и основния календар се влива в планирането на ресурсите на проекта. Ако календарът е променен, процесите правят необходимите актуализации на планирането на ресурсите на проекта. Процесите помагат и за подобряване на производителността, тъй като информацията за ресурсите на календара се синхронизира предварително. Следователно актуализациите на информацията за планиране на ресурси се извършват по-бързо. Препоръчваме ви да планирате процесите като пакет, вместо като един по един. В противен случай съществува риск някой да забрави включените дати, когато информацията е била синхронизирана за последен път. Ако не се използват включени дати, могат да възникнат пропуски по време на синхронизирането на датите.
 
-![Синхронизация на календар.](./media/projectresourcing04-1024x471.jpg)
+![Синхронизация на календар](./media/projectresourcing04-1024x471.jpg)
 
 ## <a name="synchronize-resource-capacity-roll-ups"></a>Синхронизация на сборове на капацитет на ресурс
 
@@ -46,7 +48,4 @@ ms.locfileid: "7005603"
     | Начална дата  | Въведете началната дата за процеса на синхронизиране за събирания на капацитета на ресурсите. |
     | Крайна дата    | Въведете крайна дата за процеса на синхронизиране за събирания на капацитета на ресурсите. |
 
-[![Процес на синхронизация.](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[![Процес на синхронизация](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)

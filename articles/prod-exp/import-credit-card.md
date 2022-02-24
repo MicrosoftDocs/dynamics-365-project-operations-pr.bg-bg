@@ -2,9 +2,11 @@
 title: Импортиране и поддържане на трансакции с кредитна карта
 description: Тази тема обяснява как да импортирате и поддържате транзакции с кредитни карти, свързани с разходи. Тези транзакции могат да бъдат настроени така, че да бъдат автоматично импортирани по повтарящ се график, или могат да бъдат импортирани ръчно, както се изисква.
 author: KimANelson
+manager: AnnBe
 ms.date: 01/12/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvPbsMainDataLines
 audience: Application User
@@ -16,18 +18,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: c3a53d2ae4eae411364aaf68ac806b55335c75d4870a24715954ccae327f4358
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995838"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271565"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Импортиране и поддържане на трансакции с кредитна карта
 
 Свързаните с разходи транзакции с кредитни карти могат да бъдат настроени така, че да бъдат автоматично импортирани по повтарящ се график. Алтернативно, транзакциите могат да бъдат импортирани ръчно, както са необходими. Транзакциите с кредитни карти се импортират чрез субекта за данни за транзакции с кредитни карти.
 
-За повече информация относно обектите на данни вижте [Обекти на данни](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities).
+За повече информация относно обектите на данни вижте [Обекти на данни](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities).
 
 ## <a name="import-credit-card-transactions"></a>Внос на транзакции с кредитни карти
 

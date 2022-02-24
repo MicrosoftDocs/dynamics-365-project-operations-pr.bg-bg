@@ -2,16 +2,18 @@
 title: Прилагане на демонстрационни данни за настройка и конфигурация – олекотено
 description: Тази тема предоставя информация за това как да приложите демонстрационни данни за настройка конфигурационни в Project Operations.
 author: sigitac
+manager: Annbe
 ms.date: 01/27/2021
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: e25d358f1fd7705d580855d372d85690f6a5e265d3ba2b60fc26742bf3edc86f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 762b0cf317d442565a033f56033a53a5b5cc435c
+ms.sourcegitcommit: b4298ca4729643c1040ef35dde8c67f829461ce7
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993273"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "5089106"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Прилагане на демонстрационни данни за настройка и конфигурация за Project Operations – олекотено 
 
@@ -26,31 +28,31 @@ _**Леко внедряване – фактуриране на сделка к
 
 ## <a name="instructions"></a>Инструкции
 
-1. Изтеглете [Пакет с основни данни](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip). 
-2. Отидете в папката *ProjOpsSampleSetupData – CMT само за CE* и стартирайте изпълнимия файл *DataMigrationUtility*.
+1. Изтеглете [Пакет с основни данни](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip). 
+2. Придвижете се до папката *ProjOpsDemoDataSetupAndMaster - Integrated CMT* и стартирайте изпълнимия файл *DataMigrationUtility*.
 3. На страница 1 на Common Data Service Съветник за миграция на конфигурация (CMT), изберете **Импортиране на данни** и след това изберете **Продължение**.
 
-    ![Мигриране на конфигурация.](./media/1ConfigurationMigration.png)
+    ![Мигриране на конфигурация](./media/1ConfigurationMigration.png)
 
 4. На страница 2 от съветника за CMT изберете **Microsoft 365** като **Тип на внедряване**.
 5. Изберете квадратчета за отметка **Показване на списък с наличните организации** и **Показване на напреднали**.
 6. Изберете региона на вашия наемател, въведете вашите идентификационни данни и след това изберете **Вход**.
 
-   ![Вход в конфигурация.](./media/2ConfigurationSignin.png)
+   ![Вход в конфигурация](./media/2ConfigurationSignin.png)
 
 7. На страница 3 от списъка с организации на клиента изберете организацията, в която искате да импортирате демонстрационните данни, и изберете **Вход**.
-8. На страница 4 изберете zip файла *SampleSetupAndConfigData* от разопакованата папка *ProjOpsSampleSetupData – CMT само за CE*.
+8. На страница 4 изберете zip файла *MasterAndSetupData* от разопакованата папка *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
 
-   ![Zip файл.](./media/3ZipFile.png)
+   ![Zip файл](./media/3ZipFile.png)
 
-   ![Избор на файл.](./media/4SelectAFile.png)
+   ![Избор на файл](./media/4SelectAFile.png)
 
 9. След като изберете zip файла, изберете **Импортиране на данни**.
 
-   ![Импортиране на данни.](./media/5ImportData.png)
+   ![Импортиране на данни](./media/5ImportData.png)
 
 10. Импортирането ще продължи приблизително две-десет минути в зависимост от скоростта на вашата мрежа. След като завърши, излезте от съветника за CMT. 
-11. Проверете вашата организация за данни в следните 18 обекта:
+11. Проверете вашата организация за данни в следните 20 обекта:
 
     -   Валута
     -   Клиент
@@ -71,7 +73,4 @@ _**Леко внедряване – фактуриране на сделка к
     -   Асоциация на категория налични ресурси
     -   Характеристика на наличен ресурс
 
-    ![Пълно импортиране.](./media/6CompleteImport.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+    ![Пълно импортиране](./media/6CompleteImport.png)

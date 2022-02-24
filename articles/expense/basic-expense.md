@@ -2,16 +2,18 @@
 title: Запис на разход (олекотен)
 description: Тази тема предоставя информация за това как да работите с въвеждане на разходи в опростено разполагане.
 author: stsporen
+manager: AnnBe
 ms.date: 11/19/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 48bf86a5cee475708f93462dc154e21b36240023f0a94cf31c49e9a096951736
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d87094882751f0751a8d9d539fa4cdcfc6b7b0d7
+ms.sourcegitcommit: 16c442258ba24c79076cf5877a0f3c1f51a85f61
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007808"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "4590933"
 ---
 # <a name="expense-entry-lite"></a>Запис на разход (олекотен)
 
@@ -53,6 +55,3 @@ _**Прилага се за:** Леко внедряване – фактури�
 ## <a name="see-also"></a>Вижте също
 
 - [Общ преглед на одобренията](../approvals/approvals-overview.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

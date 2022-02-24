@@ -2,16 +2,18 @@
 title: Работа с базирани на проект аспекти на договор
 description: Тази тема предоставя информация за базирани на проект аспекти на договор.
 author: rumant
+manager: Annbe
 ms.date: 10/28/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: c1c935a998cba8bd42ba2f11c8310d41e72de94adac7c2cb83f4c7224127b10b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 14d880eccd5547c122ebe37b63022e64fa2fb6fe
+ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990033"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "4181693"
 ---
 # <a name="work-with-projectbased-contract-lines"></a>Работа с базирани на проект аспекти на договор
 
@@ -55,6 +57,3 @@ ms.locfileid: "6990033"
 | С1       | CL2           | П1      | No           | Да             | No          | Валидно           | Времето и таксите по проект P1 са включени в CL1. Разходите за проект P1 са включени в CL2. </br>   Няма припокриване на това, което е включено във всеки аспект на договора, следователно е валидно.  |
 | С1       | CL1           | П1      | Да          | Да             | Да         | Невалидно       | Нарушава правилото. Времето, разходите и таксите по проект P1 са включени в редовете на два договора.                                                                                               |
 | CL2      | CL2           | П1      | Да          | Да             | Да         | Невалидно       | Нарушава правилото. Времето, разходите и таксите по проект P1 са включени в редовете на два договора.                                                                                               |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

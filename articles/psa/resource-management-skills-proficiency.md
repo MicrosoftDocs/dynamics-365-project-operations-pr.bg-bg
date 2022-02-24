@@ -2,6 +2,8 @@
 title: Умения и модели на опитност
 description: Тази тема предоставя информация за това как да използвате уменията и моделите на опитност.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/13/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 73509fda4a715a4131781645736e49cfb02115da2c3650c5a966e35360e7703f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: c7da8b2a7eda51b2aa7cf04e325a92f33d834efc
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990483"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147460"
 ---
 # <a name="skills-and-proficiency-models"></a>Умения и модели на опитност
 
@@ -33,7 +35,7 @@ ms.locfileid: "6990483"
 
 За да поддържате хранилището с умения в Project Service Automation, отидете в **Ресурси** \> **Умения на ресурси**. 
 
-> ![Умения на ресурс.](media/Resource-Management-image84.png)
+> ![Умения на ресурси](media/Resource-Management-image84.png)
 
 ## <a name="use-proficiency-models-to-rate-resources"></a>Използване на модели на опитност за оценка на ресурси
 
@@ -43,9 +45,6 @@ ms.locfileid: "6990483"
 2. В новия модел на оценка укажете минималната стойност на оценка, максималната стойност на оценка и обекта, който се оценява.
 3. В подмрежата **Стойности на оценки** можете да дефинирате различните стойности на оценки – от минималната до максималната.
 
-> ![Дефинирани минимални и максимални оценки.](media/Resource-Management-image85.png)
+> ![Дефинирани минимални и максимални оценки](media/Resource-Management-image85.png)
 
 Тези стойности на оценки се показват във филтрите **Изисквания за ресурси**, **Табло на графика** и **Асистент за планиране**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

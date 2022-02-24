@@ -2,40 +2,60 @@
 title: Регистриране за абонамент за преглед – олекотено
 description: Тази тема предоставя информация за това как да се абонирате и разгърнете внедряване на Project Operations lite - сделка за проформа фактуриране.
 author: sigitac
-ms.date: 07/02/2021
+manager: Annbe
+ms.date: 10/07/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5ba43ba9f917da068415fb62067ab73433b701139ee07014b6bd8c02612008ce
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 6f4360b7febab57b97df0776ef9148d2a38f16a7
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991518"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175878"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Регистриране за абонамент за преглед – олекотено 
 
-Тази тема обяснява как да се абонирате за пробната оферта и да внедрите олекотено внедряване на Dynamics 365 Project Operations – сделката с проформа фактуриране.
+Тази тема обяснява как да се абонирате за предложението на партньора за преглед и да внедрите Dynamics 365 Project Operations lite - сделка за проформа фактуриране.
 
 > [!NOTE]
 > Този процес ще се промени в предстоящите версии на Project Operations.
 
 ## <a name="prerequisites"></a>Предварителни изисквания
-- Потребителят, който използва визуализацията, трябва да има права на глобален администратор на Клиент на Azure. Можете да създадете наемател по време на първото осребряване на офертата.
+
+- Ще получите имейл с покана да участвате в визуализацията. Можете да поискате визуализация на [Уебсайт на Project Operations](https://dynamics.microsoft.com/en-us/project-operations/overview/).
+- Потребителят, който използва визуализацията, трябва да има права на глобален администратор на Клиент на Azure.
+- Прегледайте всички условия.
+
+## <a name="subscribe"></a>Абониране
+
+Когато получите одобрение за [заявка за предварителен преглед](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u), ще получите две оферти от Microsoft по имейл. Тези предложения ви позволяват да разгърнете визуализацията на Project Operations:
+
+- Dynamics 365 Project Operations (CRM) – пробна версия за преглед
+- Office 365 Project Operations - Пробна версия за преглед
 
 > [!IMPORTANT]
 > Само един човек, администраторът на наемател, в дадена организация трябва да изпълни тази задача. Ако не сте абонат на тази версия, изчакайте, докато организацията ви бъде регистрирана и не получите потребителските си идентификационни данни.
-> 
-> Пробните версии са еднократни за наемателя. Можете да стартирате пробна версия само веднъж. Препоръчваме ви да създадете нов клиент за целите на пробния период.
 
-### <a name="dynamics-365-project-operations-trial"></a>Пробна версия на Dynamics 365 Project Operations 
+### <a name="dynamics-365-project-operations-crm---preview-trial"></a>Dynamics 365 Project Operations (CRM) – пробна версия за преглед 
 
 Преди да започнете, уверете се, че сте влезли в браузър с потребителския работен акаунт в наемателя, където искате визуализация на Project Operations.
 
-1. Отидете на [Пробна версия на Project Operations](https://aka.ms/try-po) да осребрите първия код на офертата, **Dynamics 365 Project Operations**.
-2. Потвърдете поръчката си.
+1. Осребрете първия код на офертата, **Dynamics 365 Project Operations (CRM) - Преглед на пробен период** като го поставите в URL адреса на браузъра.
 
-  Ще видите, че офертата за потвърждение е осребрена успешно.
+![Осребряване на оферта](./media/16RedeemFirstOfferNew.png)
+
+2. Потвърдете поръчката си.
+![Потвърждаване на поръчката](./media/17ConfirmOrderNew.png)
+
+Ще видите, че офертата за потвърждение е осребрена успешно.
+
+![Потвърждение](./media/18OrderConfirmationNew.png)
+
+### <a name="office-365-project-operations---preview-trial"></a>Office 365 Project Operations - Пробна версия за преглед
+
+Повторете същите стъпки като при първия код на офертата. Не забравяйте да добавите втория код на офертата, като използвате същия потребителски акаунт, който е използван с първия код на офертата.
 
 ## <a name="assign-licenses"></a>Присвояване на лиценз
 
@@ -44,28 +64,30 @@ ms.locfileid: "6991518"
 
 
 1. Отидете на [Административен център на Microsoft 365](https://portal.office.com/), за да присвоите лицензите на вашите потребители.
+
+![Начална страница на център за администрация](./media/14AdminPortal.png)
+
 2. На страницата **Активни потребители** изберете потребителите, на които искате да присвоите лиценз.
-3. Проверете дали **Dynamics 365 Project Operations** лицензът е избран. 
+
+![Присвояване на лицензи](./media/15AssignLicenses.png)
+
+3. Проверете дали **Преглед на Dynamics 365 Project Operations (CRM)** и **Office 365 Project Operations - Преглед** лицензите са избрани. 
 4. Изберете **Записване на промените**.
 
-## <a name="create-a-new-dataverse-environment"></a>Създаване на нова среда на Dataverse
+## <a name="create-a-new-cds-environment"></a>Създаване на нова среда на CDS
 
-1. Осигурете нова среда за внедряване на Project Operations Dataverse, като следвате инструкциите в темата, [Модел за внедряване на Dataverse](lite-deployment.md). Когато изберете типа среда, не забравяйте да използвате **Пробен период (базиран на абонамент)**.
-
-  ![Нова среда.](./media/19CreateEnvironment.png)
+1. Осигурете нова среда за внедряване на CDS за Project Operations, като следвате инструкциите в темата, [Модел за внедряване на CDS](lite-deployment.md). Когато изберете типа среда, не забравяйте да използвате **Пробен период (базиран на абонамент)**.
+![Нова среда](./media/19CreateEnvironment.png)
 
 2. Изберете **Активирайте приложенията на Dynamics 365** настройка и оставете **Автоматично внедряване на тези приложения** празно.  
 3. Изберете **Запиши**, за да създадете средата.
 
-  ![Добавяне на база данни.](./media/20CreateEnvironment1.png)
+![Добавяне на база данни](./media/20CreateEnvironment1.png)
 
-4. След като средата е създадена, инсталирайте решението **Microsoft Dynamics 365 Project Operations**. 
+4. След като средата е създадена, инсталирайте **Microsoft Dynamics 365 Project Operations** решение. 
 
-![Инсталиране на решение.](./media/21InstallSolution.png)
+![Инсталиране на решение](./media/21InstallSolution.png)
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>Инсталирайте конфигурация на CDS и настройте демонстрационни данни
 
 Инсталирайте конфигурацията на CDS и настройте демонстрационни данни, като следвате инструкциите в темата, [Приложете демо настройка и данни за конфигурация](lite-apply-demo-setup-config-data.md).
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

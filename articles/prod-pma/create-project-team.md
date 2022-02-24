@@ -2,9 +2,11 @@
 title: Създаване на екип на проект
 description: Тази тема предоставя информация за това как да създавате и управлявате екипи по проекти.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1ab8ae045852a75a7a39a4eccfa86a114a34273581c98631975bcbfac5a7a343
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 121a007d91c2da4f3b9951901781757b8bcca8fe
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005783"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270845"
 ---
 # <a name="create-a-project-team"></a>Създаване на екип по проекта
 
@@ -33,7 +35,7 @@ ms.locfileid: "7005783"
 
 Мениджърът на проекта може да избере роля на страницата и след това, ако има наличен ресурс, който отговаря на изискването, изберете да резервирате ресурс за запълване на ролята. Имайте предвид, че на този етап на етапа на планиране ресурсите не трябва да се резервират. Когато създавате ССР, можете да замените ролите с персонални ресурси за проекта. Ако ролите се заменят с персонални ресурси в WBS, настройката на ресурсите автоматично актуализира списъка и планирането на екипа на проекта.
 
-[![Списък на проектния екип, който включва както роли, така и действителни ресурси.](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
+[![Списък на проектния екип, който включва както роли, така и действителни ресурси](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
 
 Мениджърът на проекта има различни опции за резервиране на ресурс за проект, като например **Оставащ капацитет**, **Пълен капацитет**, **Процент на капацитета** и **Посочете часове**. Тези опции за резервация могат да бъдат отменени по всяко време, ако заданията за ресурси се променят. Поддържат се два вида резервации:
 

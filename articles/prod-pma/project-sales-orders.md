@@ -2,9 +2,11 @@
 title: Проектни поръчки за продажби за времеви и материални проекти
 description: Тази тема обяснява как да създавате поръчки за продажби, базирани на проекти, за времеви и материални проекти.
 author: Yowelle
+manager: AnnBe
 ms.date: 04/05/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2019-04-05
 ms.dyn365.ops.version: AX 10.0.2
-ms.openlocfilehash: bec39790b0a41e72b4cc9798d37a01e87029e18335f77d895680aafbb74fac3b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3653a6869dab323be88f1fd0f9fd0f2cb35c456f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992823"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071805"
 ---
 # <a name="project-sales-orders-for-time-and-material-projects"></a>Проектни поръчки за продажби за времеви и материални проекти
 
@@ -39,6 +41,3 @@ ms.locfileid: "6992823"
 - Отидете на самия проект. В екрана за действие изберете **Управление > Задачи за артикули > Поръчка за продажба**. Информацията за проекта по подразбиране ще бъде поръчка за продажба от проекта. Ако проектният договор има повече от един източник на финансиране, ще трябва да изберете източника на финансиране, за да настроите клиента за поръчката за продажба. Ако има само един източник на финансиране за проекта, клиентът ще бъде настроен автоматично.
 - Отидете на **Всички поръчки за продажба** страница със списък и създайте нова поръчка за продажба. Ще трябва да изберете проекта за поръчка за продажба. След като проектът бъде избран, клиентът ще бъде настроен от източника на финансиране или ще трябва да изберете източника на финансиране, ако договорът за проект има множество източници на финансиране.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

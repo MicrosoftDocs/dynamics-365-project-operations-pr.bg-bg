@@ -2,6 +2,8 @@
 title: Основни концепции
 description: Тази тема предоставя информация относно основните концепции за управлението на ресурси в Project Service Automation.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8e56523a9a2fbe8bc07e6d46062f4e1c20e6d2fa2244b32ff53e96d898b0086c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 75b2d2c520cc48eb59c266289ca2bdc1288f2920
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995073"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147730"
 ---
 # <a name="key-concepts"></a>Основни концепции
 
@@ -46,6 +48,3 @@ ms.locfileid: "6995073"
 | Контур                    | Задача, изискване или часове на присвояване, както са разбити в ежедневно разпределение. Например петдневна задача от 40 часа може да бъде преоформена в осем часа на ден в продължение на пет дни. |
 | Изглед „Съгласуване“        | Изглед, който показва резервациите и присвояванията за всеки член на екипа на проекта. Този изглед позволява на мениджъра на проекти да търси несъответствие между резервации и присвоявания и да предприеме коригиращи действия, ако възникне несъответствие. |
 | Работни часове                 | Обект, който се използва за идентифициране на ресурсния капацитет и работни и неработни часове. Този обект се нарича също календар на ресурса. |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

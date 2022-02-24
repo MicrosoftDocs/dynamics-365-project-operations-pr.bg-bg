@@ -2,9 +2,11 @@
 title: Производителност на предложение за фактуриране по проект
 description: Тази тема предоставя информация за подобрения на ефективността на предложенията за фактури по проекта.
 author: Yowelle
-ms.date: 06/16/2021
+manager: AnnBe
+ms.date: 04/20/2021
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ''
 audience: Application User, IT Pro
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 8b6df8baf1013720778308ce536b037dec4775f040d2925a47508fb373900f81
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
+ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005693"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "5920289"
 ---
 # <a name="project-invoice-proposal-performance"></a>Производителност на предложение за фактуриране по проект
 
@@ -44,6 +46,4 @@ ms.locfileid: "7005693"
 3.  Обновете браузъра си.
 
 > [!NOTE]
-> Ефективността на предложението за фактура не може да се приложи, когато са активирани правилата за таксуване.
-> 
-> По време на пакетния процес за създаване на предложения за фактури, броят на подзадачите ще раздели задачите на максимален брой въз основа на броя на договорите с фактурирани транзакции, независимо от това, което сте въвели. Например, ако въведете **3** за броя подзадачи за създаване на предложение за фактура в партида и има само два договора с фактурирани транзакции, създават се само две подзадачи.
+> Ефективността на предложението за фактура не може да се приложи, когато са активирани правилата за фактуриране или се изпълняват пакетни процеси.

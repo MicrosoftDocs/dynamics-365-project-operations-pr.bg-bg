@@ -2,7 +2,9 @@
 title: Разрешаване на функциите на приложението Project Finder Mobile
 description: Как се разрешават функциите на приложението Project Finder Mobile за Project Service
 author: JohnPBurrows
+manager: kfend
 ms.prod: ''
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -17,12 +19,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8651ba591853faf648587dcbd4c50625ba94360958d7b418e89aa0bf09464a89
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1b70182125d607aa17528ef3dc4ea2345b76acd1
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004793"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144535"
 ---
 # <a name="enable-project-finder-mobile-app-features-project-service"></a>Разрешаване на функциите на приложението Project Finder Mobile (Project Service)
 
@@ -47,11 +49,11 @@ ms.locfileid: "7004793"
   
 4. Задайте **Разрешаване на актуализация на уменията от ресурса** на **Да**.  
   
-   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![ProjectService_ProjectFinderEnable](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    Това е глобална настройка. Ръководителите на проекти могат да зададат дали даден проект ще се вижда на тази страница на **Екип на проекта** на проекта.  
   
-   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![ProjectService_ProjectTeamVisible](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>Известявания по имейл  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] изпраща имейли по отношение на искания ресурс към следните получатели в следните часове:  
@@ -66,6 +68,3 @@ ms.locfileid: "7004793"
   
 ### <a name="see-also"></a>Вижте също  
  [Задаване на ресурси](../psa/set-up-resources.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

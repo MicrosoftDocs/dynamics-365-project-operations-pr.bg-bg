@@ -2,6 +2,8 @@
 title: Шаблони на проекти
 description: Тази тема предоставя информация как да използвате шаблоните за проекти за бърза настройка на проекти.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 34df8ed9a8baff949097af1b95da56bfe9a4240c213896fafd5c7dcfcf580b6c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db42c9ea7280274cdc9cc90f1487f27e08f892e5
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7002498"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148045"
 ---
 # <a name="project-templates"></a>Шаблони на проекти 
 
@@ -47,7 +49,7 @@ ms.locfileid: "7002498"
 
 - Когато създавате проект от оферта, можете да изберете шаблон на проект в диалоговия прозорец **Бързо създаване: проект**.
 
-> ![Бързо създаване: диалогов прозорец на проект.](media/project-11.png)
+> ![Диалогов прозорец „Бързо създаване: проект“](media/project-11.png)
 
 - Когато създавате проект чрез избиране на **Нов проект**, страницата **Проект** се появява преди записът да бъде записан. В полето **Избор на шаблон** изберете един от предварително зададените шаблони на проекти в организацията.
 - Използвайте **Създаване на проект от шаблон** на страницата **Обект на шаблон**.
@@ -67,6 +69,3 @@ ms.locfileid: "7002498"
 ### <a name="copying-a-project-team"></a>Копиране на екип на проект
 
 Когато екип на проект се копира от шаблон на проект в проект, общите ресурси се копират заедно с уменията и опитностите, дефинирани в шаблона. Присвояванията на общи ресурси се поддържат също както в шаблона на проект. Наименувани ресурси не се поддържат в шаблоните на проекти.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

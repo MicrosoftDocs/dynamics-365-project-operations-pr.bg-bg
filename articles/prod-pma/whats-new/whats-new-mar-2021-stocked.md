@@ -2,17 +2,19 @@
 title: Какво е ново и променено в Project Operations от март 2021 г. за сценарии, базирани на наличност/производство
 description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от март 2021 г. за складови/производствени сценарии.
 author: andchoi
+manager: tfehr
 ms.date: 03/22/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 2569133200b531197a46da095547fcc3f444cc98bfcc139b77a7db58e1439ca9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 804b5d1cc3392349fb6bcc81a91d69d0d9dc51da
+ms.sourcegitcommit: 386921f44f1e9a8a828b140206d52945de07aee7
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991158"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "5701909"
 ---
 # <a name="whats-new-or-changed-in-project-operations-march-2021-for-stockedproduction-based-scenarios"></a>Какво е ново и променено в Project Operations от март 2021 г. за сценарии, базирани на наличност/производство
 
@@ -121,7 +123,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Управление на проекти и счетоводство | [533530](https://fix.lcs.dynamics.com/Issue/Details/?bugId=533530) | Методът на наследената съставна структура на работата (WBS) **ProjWBSUpdateController::updateOutlineNumbersAndPublishInPreOrder** е оттеглен.                                                                                                   |
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](/dynamics365/finance/localizations/regulatory-updates.md). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
