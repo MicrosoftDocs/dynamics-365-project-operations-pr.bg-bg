@@ -2,28 +2,26 @@
 title: Начална страница за ресурсно обезпечаване на проекти
 description: Тази тема предоставя информация за осигуряването на ресурси за проекта.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
 ms.reviewer: josaw
 ms.search.scope: Core, Operations
-ms.custom: 82022
+ms.custom: intro-internal
 ms.assetid: bd2fb375-84c6-428a-8e54-f0f719045898
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 3ecf8ee588de9ec41e0b4f384110f912759ed53f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 579a07e117cf00727813385da28d47f7e42f0127
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071806"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369453"
 ---
 # <a name="project-resourcing-home-page"></a>Начална страница за ресурсно обезпечаване на проекти
 
@@ -49,9 +47,12 @@ ms.locfileid: "4071806"
 - [Настройване на ресурси на проект](set-up-project-resources.md)
 - [Управление на компетенции на ресурс](manage-resource-competencies.md)
 - [Създаване на нов проект](create-new-project.md)
-- [Настройте ценообразуване въз основа на роли](set-up-role-based-pricing.md)
-- [Създаване на екип по проекта](create-project-team.md)
+- [Настройване на ценообразуване въз основа на роли](set-up-role-based-pricing.md)
+- [Създаване на екип на проект](create-project-team.md)
 - [Синхронизиране на производителност на ресурс](synchronize-resource-capacity.md)
 - [Производителност на планиране на ресурс за проект](project-scheduling-performance.md)
 - [Настройване на роли в шаблони за съставна структура на работата](set-up-roles-wbs-template.md)
 - [Изпълнение на ресурсите за планираните ресурси](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

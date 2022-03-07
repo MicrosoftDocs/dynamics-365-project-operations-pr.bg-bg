@@ -17,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7f05b082e7c67937c78c82dcd9e094ee3b989e94
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 6b9da3ec54ec10408774945d26db9e702c858d05
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948496"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146650"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-27-v3"></a>Какво е новото или промененото в Project Service Automation, издание на актуализация 27, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
+С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 27. Тази версия е с номер на компилация V3.10.45.98 и е общодостъпна за самостоятелно актуализиране от януари 2021 г.
 
@@ -81,6 +81,3 @@ ms.locfileid: "5948496"
 - Кога Dynamics 365 Field Service и Project Service Automation са инсталирани едновременно **Заключване на ценообразуването** и **Използвайте текущите цени** опциите не се показват едновременно на страницата **Фактура**.
 - За японски език има несъвместим превод с други страници, базирани на календар.
 - **Активиране** и **Дезактивиране** са премахнати от обектите **Асоциация на ценоразпис** в Project Service Automation.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

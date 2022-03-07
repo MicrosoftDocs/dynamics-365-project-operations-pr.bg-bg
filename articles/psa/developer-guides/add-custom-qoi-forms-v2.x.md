@@ -2,12 +2,10 @@
 title: Добавяне на нови персонализирани формуляри на обекти (Project Service Automation 2.x)
 description: Тази тема предоставя информация за това как да добавите персонализирани формуляри на обекти за възможности, оферти, поръчки или фактури в Dynamics 365 Project Service Automation 2.x.
 author: makk
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 3/14/2019
 ms.topic: article
-ms.service: business-applications
 ms.author: makk
 audience: admin
 search.audienceType:
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 31986efed81892cc5722cb8f5e292cde14d8843d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: e59e343887ef59ee28bee13346a0c9bf3ad7df27346e2a4f3f02a1e5c08c060f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144580"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995208"
 ---
 # <a name="add-new-custom-entity-forms-project-service-automation-2x"></a>Добавяне на нови персонализирани формуляри на обекти (Project Service Automation 2.x)
 
@@ -59,7 +57,7 @@ Dynamics 365 Project Service Automation разчита на полето **Ти�
     - Експортирайте формуляра **Информация за моя проект информация** като част от незавършено решение и след това потърсете стойността на **formid** във файла customization.xml на експортираното решение.
     - Отворете формуляра **Информация за моя проект** в редактора на формуляри и след това потърсете глобален еднозначен идентификатор (GUID) до параметъра **fromid** в URL адреса, както е показано на илюстрацията по-долу.
 
-    ![Стойността formId на новия формуляр в URL адреса](media/how-to-add-custom-forms-in-v2.0.png)
+    ![Стойността formId на новия формуляр в URL адреса.](media/how-to-add-custom-forms-in-v2.0.png)
 
 5. Създайте съпоставяне на **msdyn\_ordertype** за стойността **formId**, като редактирате уеб ресурса msdyn\_/SalesDocument/PSSalesDocumentCustomFormIds.js. Премахнете кода от ресурса и го заменете със следния код.
 
@@ -96,3 +94,6 @@ Dynamics 365 Project Service Automation разчита на полето **Ти�
     ```
 
 6. Запишете и след това публикувайте персонализациите.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

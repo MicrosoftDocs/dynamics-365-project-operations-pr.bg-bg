@@ -1,12 +1,10 @@
 ---
 title: Синхронизирайте действителните проекти директно от Project Service Automation с дневника за интегриране на проекти за публикуване в Finance and Operations
-description: Тази тема описва шаблонi и основните задачи, които се използват за синхронизиране на прогнозни часове на действителни данни за проект директно от Microsoft Dynamics 365 Project Service Automation във Finance and Operations.
+description: Тази тема описва шаблонi и основните задачи, които се използват за синхронизиране на прогнозни часове на действителни данни за проект директно от Microsoft Dynamics 365 Project Service Automation в Finance and Operations.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: cff62e739e88dc45e7c3d1ea044875f0600f2bc1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 85b6c07464e919e363f28d8bc62115e8fb4c72ea6631269b98fd00f324a01cba
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071952"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988098"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизирайте действителните проекти директно от Project Service Automation с дневника за интегриране на проекти за публикуване в Finance and Operations
 
@@ -44,7 +42,7 @@ ms.locfileid: "4071952"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интеграция на Project Service Automation с Finance and Operations](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Поток от данни за интеграция на Project Service Automation с Finance and Operations.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Действителни данни на проекта от Project Service Automation
 
@@ -95,9 +93,9 @@ ms.locfileid: "4071952"
 
 Следните илюстрации показват пример за съпоставяне на задача на шаблон при интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
-[![Картографиране на шаблони - Действителни](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
+[![Съпоставяне на шаблони – действителни данни.](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
 
-[![Съпоставяне на шаблони - Транзакционни връзки](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
+[![Съпоставяне на шаблони – връзки на трансакции.](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
 
 ## <a name="import-from-staging-table-after-integration-from-project-service-automation"></a>Импортиране от подреждаща таблица след интеграция от Project Service Automation
 
@@ -137,6 +135,9 @@ ms.locfileid: "4071952"
 
 Следните илюстрации показват примери на нанасяне на задача за съпоставяне в интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Finance в Project Service Automation.
 
-[![Картографиране на шаблони - Актуализиране на действителни данни](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
+[![Съпоставяне на шаблони – актуализиране на действителни данни.](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
-[![Картографиране на шаблони - Актуализиране на трансакция](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+[![Съпоставяне на шаблони – актуализиране на трансакция.](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

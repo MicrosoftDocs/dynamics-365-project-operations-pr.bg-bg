@@ -2,8 +2,6 @@
 title: Какво представлява Dynamics 365 Project Service Automation?
 description: Въведение и преглед на Project Service
 author: stsporen
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/23/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a78d8a2085821d6ba44750cfdba909c2c38b42ff
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 537fa056fd0103e1a4fa05c8e66d408286ee101c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150520"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998533"
 ---
 # <a name="what-is-dynamics-365-project-service-automation"></a>Какво представлява Dynamics 365 Project Service Automation?
 
@@ -47,10 +45,10 @@ ms.locfileid: "5150520"
 ## <a name="whats-new-in-psa"></a>Какво е новото в PSA
 За екипа е удоволствие да обяви нашите най-нови актуализации! Обхват от подобрения на потребителския интерфейс, коригиране на грешки и добавяне на важни нови функции и възможности. Вие поискахте – ние послушахме.
 
-Прегледайте [Бележки по изданието от октомври '19](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index), за да видите най-новите ни подобрения и допълнения.
+Прегледайте [Бележки по изданието от октомври '19](/dynamics365-release-plan/2019wave2/index), за да видите най-новите ни подобрения и допълнения.
 
 ### <a name="in-development"></a>В процес на разработка
-За да видите какво сме планирали за близкото бъдеще, се насочете към [Dynamics 365: издание за 2020 г., план за вълна 1](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/index).
+За да видите какво сме планирали за близкото бъдеще, се насочете към [Dynamics 365: издание за 2020 г., план за вълна 1](/dynamics365-release-plan/2020wave1/index).
 
 ## <a name="get-help-with-psa-version-3x"></a>Получаване на помощ за версия 3.x на PSA
 Търсите ли ресурси, които да ви помогнат да планирате реализацията? Прегледайте тези ръководства с възможност за изтегляне.
@@ -86,3 +84,6 @@ ms.locfileid: "5150520"
  <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

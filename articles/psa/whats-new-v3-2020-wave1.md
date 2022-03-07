@@ -1,8 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, версия 3.x, вълна 1, 2020 г.
 description: Тази тема предоставя информация за това какво е новото и промененото в Project Service Automation, версия 3, вълна 1, 2020 г.
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5110679038ae7ed1e21a3e7dc80a4657e0752b49
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: f77c881c62428e423e0dab66eb34b033628a2a1b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150925"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5996823"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Какво е новото или промененото в Project Service Automation, версия 3, вълна 1, 2020 г.
 
@@ -43,3 +41,6 @@ ms.locfileid: "5150925"
 
 ### <a name="currently-extended-time-entry-changes"></a>Промени на записите за време, разширени в момента
 За да се сведе до минимум въздействието на текущите потребители на записи за време, тази промяна на ролята е единственото основно изискване, необходимо за продължаване на използването на записите за време. Ако сте създали персонализирани изгледи или отделни записи за време, трябва да зададете полетата **Настройка на запис за време** на правилната стойност на PSA.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

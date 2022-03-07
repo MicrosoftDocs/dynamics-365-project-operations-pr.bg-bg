@@ -2,11 +2,9 @@
 title: Управление на ценови листи на оферта
 description: Тази тема предоставя информация за обекта на ценова листа по проект.
 author: rumant
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,18 +15,18 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 5fc8691984e22b2fa35e26b1a7d94cc56c25c26d
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
-ms.translationtype: HT
+ms.openlocfilehash: 8cfabf98f1a38823c777b6e388fbbb65d02877e3cd433069dd3845c292f2b277
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177183"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003893"
 ---
 # <a name="manage-project-price-lists-on-a-quote"></a>Управление на ценови листи на оферта
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Dynamics 365 Project Operations разширява обекта на ценова листа в Dynamics 365 Sales. 
+Dynamics 365 Project Operations разширява обекта „Ценова листа“ в Dynamics 365 Sales. 
 
 ## <a name="key-entities"></a>Основни обекти
 
@@ -120,3 +118,6 @@ Project Operations проследява разходите за използва
     1. Ценовата листа, която е прикачена към организационната единица.
     2. Ценовата листа, която е прикачена към параметрите на Project Operations. Тъй като към параметрите могат да бъдат прикачени ценови списъци за разходи в много различни валути, валутно съгласуване се изпълнява между валутата на организационната единица на проекта, подписваща договора, договора или офертата и валутата на ценовата листа за разходи.
     3. За разходите методите за ценообразуване по себестойност и надценка над стойността не се прилагат за ценовите листи за разходи. Дори ако тези методи на ценообразуване се използват за редове от ценова листа за разходи настройка на разходи за категории транзакции, системата ги игнорира и не се въвежда себестойност по подразбиране.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

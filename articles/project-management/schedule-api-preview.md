@@ -2,22 +2,23 @@
 title: Използвайте API за график на проекти, за да извършвате операции с обекти за планиране
 description: Тази тема предоставя информация и проби за използване на API за график на проекти.
 author: sigitac
-ms.date: 09/09/2021
+ms.date: 06/22/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6be35b1c52996f4f94dc429974ef47343a027c8c
-ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
+ms.openlocfilehash: 4915261c08a3271a919e04084e92a14b297c1b35
+ms.sourcegitcommit: 2f16c2bc7c8350676a6a380c61fffa9958db6a0b
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "7487672"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "6293214"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>Използвайте API за график на проекти, за да извършвате операции с обекти за планиране
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-
+> [!IMPORTANT] 
+> Част или цялата функционалност, отбелязана в тази тема, е достъпна като част от версия за преглед. Съдържанието и функционалността подлежат на промяна. 
 
 ## <a name="scheduling-entities"></a>Обекти за планиране
 

@@ -1,19 +1,17 @@
 ---
 title: Общ преглед на управление на проект
-description: Тази тема предоставя информация за управление на проекти в Dynamics 365 Project Operations.
+description: Тази тема предоставя информация за настройките за управление на проекти в Dynamics 365 Project Operations.
 author: ruhercul
-manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c2bca0c7dfc957753f0d05f9a3b5cc45bc13b920
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: b99fab32101724a4c6307136ef37503316dfc42e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127550"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6011808"
 ---
 # <a name="project-management-overview"></a>Общ преглед на управление на проект
 
@@ -26,3 +24,6 @@ _**Отнася се за:** Project Operations за сценарии, бази�
 - Използване на прогнозни оценки на проекти по време на процеса на продажби.
 - Прогнозиране на изискванията за ресурси за проекти, които са в конвейера.
 - Успешно изпълнение на проекти чрез проследяване на напредъка и консумацията на разходите.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

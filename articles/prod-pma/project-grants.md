@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 89801696d6a2924d78c85f6e9b4281409222dbb0
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: dfd91e859244cc03b9b358b057bded79eeea0182
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4072001"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289356"
 ---
 # <a name="project-grants"></a>Разрешения на проект
 
@@ -79,3 +79,6 @@ ms.locfileid: "4072001"
 2. Изберете безвъзмездните средства, които да промените.
 3. В панела за действие, в раздела **Субсидия** в групата **Поддръжка** изберете **Редактиране**.
 4. Прегледайте подробностите за безвъзмездните средства и направете необходимите промени.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

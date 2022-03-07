@@ -2,11 +2,9 @@
 title: Производителност на планиране на ресурс за проект
 description: Тази тема предоставя информация за това как да подобрите ефективността на планирането на ресурси за голям брой проекти.
 author: Yowelle
-manager: AnnBe
 ms.date: 08/31/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.14
 ms.search.validFrom: 2020-09-01
-ms.openlocfilehash: c3f219ce0635545976a6a4639233f166e18468af
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 9dc638a7b2d8e0db45b5acfa5cc9512f356f8b2635028748a1e2c3230605c154
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071803"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007268"
 ---
 # <a name="project-resource-scheduling-performance"></a>Производителност на планиране на ресурс за проект
 
@@ -69,3 +67,6 @@ ms.locfileid: "4071803"
 
 > [!NOTE]
 > Това ще разпространи общи данни към таблицата **ResRollup** във всички компании във вашата среда, така че пакетната работа трябва да се изпълнява само в едно юридическо лице. Тази партидна работа е необходима за всички изгледи **Наличност на ресурс**. Ако тази партидна задача не се изпълни, **ResRollup** данните ще се генерират в движение, което може да отнеме време.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

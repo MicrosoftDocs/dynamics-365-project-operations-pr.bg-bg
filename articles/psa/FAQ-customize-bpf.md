@@ -1,6 +1,8 @@
 ---
 title: Как да персонализирам потока на бизнес процес „Етапи на проект”?
 description: Общ преглед на това как да персонализирате потока на бизнес процес „Етапи на проект”.
+manager: kfend
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/11/2018
@@ -16,17 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2e6c60fe67aea908013077bde40c2faeabc2f39e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 2dccc33088cd9e49e7ffe609f9d9754ef33a5dba
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993133"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4072006"
 ---
 # <a name="how-do-i-customize-the-project-stages-business-process-flow"></a>Как да персонализирам потока на бизнес процес „Етапи на проект”?
-
-[!include [banner](../includes/psa-now-project-operations.md)]
-
 [!INCLUDE[cc-applies-to-psa-app-2-4x-9-0-platform](../includes/cc-applies-to-psa-app-2-4x-9-0-platform.md)]
 [!INCLUDE[cc-applies-to-psa-app-1x-8-2-platform](../includes/cc-applies-to-psa-app-1x-8-2-platform.md)]
 
@@ -105,6 +104,3 @@ ms.locfileid: "5993133"
 
    ![Екранна снимка на промяната на изгледи в обекта на проекта](media/FAQ-Customize-BPF-8-720.png)
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

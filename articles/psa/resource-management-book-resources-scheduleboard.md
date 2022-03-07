@@ -2,8 +2,6 @@
 title: Използване на таблото на графика за резервиране на ресурси по проект
 description: Тази тема предоставя информация за това как да резервирате ресурси.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9c9db2e602ca97d63ba237fd2c0eb757583caebc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 5e4516d13a30ddfb5763fe600b0c1fc675ba6cf980730912e1795cc3d6f4991f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144400"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998223"
 ---
 # <a name="use-the-schedule-board-to-book-project-resources"></a>Използване на таблото на графика за резервиране на ресурси по проект
 
@@ -36,20 +34,23 @@ ms.locfileid: "5144400"
 1. Ако прозорецът **Изисквания за резервации** в долната част на страницата е свит, изберете контролата за разгъване, за да го разгънете.
 2. В прозореца **Изисквания за резервации** в раздела **Проект** изберете изискването за резервиране.
 
-    ![Изискване, избрано в раздела „Проект“](media/Resource-Management-image73.png)
+    ![Изискване, избрано в раздела „Проект“.](media/Resource-Management-image73.png)
 
 3. Изберете **Търсене на наличност**, за да филтрирате наличните ресурси и да преглеждате достъпните ресурси. 
 4. Изберете един или повече ресурси от таблото на графика. 
 5. В прозореца **Създаване на резервация на ресурс** в дясната част на страницата въведете информацията за резервацията, след което изберете **Резервиране и изход**.
 
-    ![Прозорец „Създаване на резервация на ресурс“ за избрания наличен ресурс](media/Resource-Management-image74.png)
+    ![Прозорец „Създаване на резервация на ресурс“ за избрания наличен ресурс.](media/Resource-Management-image74.png)
 
 6. Докато изискването е избрано в прозореца **Създаване на резервация на ресурс**, изберете една или повече клетки на ресурс, за да създадете резервацията.
 
-    ![Няколко клетки, избрани за ресурс](media/Resource-Management-image75.png)
+    ![Няколко клетки, избрани за ресурс.](media/Resource-Management-image75.png)
 
 7. Изберете **Резервиране**.
 
 Изискването е изпълнено с помощта на избрания ресурс. В прозореца **Изисквания за резервации** забележете, че изискването е актуализирано и ресурсът се показва като резервиран по проекта.
 
-![Ресурс, резервиран по проекта](media/Resource-Management-image76.png)
+![Ресурс, резервиран по проекта.](media/Resource-Management-image76.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

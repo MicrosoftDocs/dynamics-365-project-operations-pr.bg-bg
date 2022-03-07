@@ -2,18 +2,16 @@
 title: Актуализиране на атрибути на добавка с нови измерения на ценообразуване
 description: Тази тема предоставя информация за начина на актуализиране на атрибутите на добавката за измерения на ценообразуване.
 author: rumant
-manager: Annbe
 ms.date: 11/18/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 9b0cf48318d0b9e94c4be0d3775b54e83832c1b7
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 54b87a993929edbf89ef48741ba0a06c6c42ec4e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4643205"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6004608"
 ---
 # <a name="update-plug-in-attributes-with-new-pricing-dimensions"></a>Актуализиране на атрибути на добавка с нови измерения на ценообразуване
 
@@ -52,3 +50,6 @@ ms.locfileid: "4643205"
 7. Изберете **OK**, за да затворите страницата, след което изберете **Актуализиране на стъпката**.
 8. Повторете стъпки 2-7 за втората добавка, **PreOperationQuoteLineDetail**. За тази добавка трябва да актуализирате стъпката **Актуализиране на msdyn_quotelinetransaction**.
 9. Затворете **PluginRegistrationTool**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

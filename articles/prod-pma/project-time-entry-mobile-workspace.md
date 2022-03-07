@@ -2,11 +2,9 @@
 title: Мобилно работно пространство за запис на време за проект
 description: Тази тема предоставя информация за мобилно работно пространство за запис на време за проект. Това работно пространство позволява на потребителите да влизат и да спестяват време срещу проект, като използват мобилното си устройство.
 author: Yowelle
-manager: AnnBe
 ms.date: 12/01/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 23a5a9f25cfdd6df74257b3500c7a035d711b5f6
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 04024cc005b67b8f4e5821b22be65cfd1822b2414c85e1fbb75c3b2ac4339dc4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071801"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6989538"
 ---
 # <a name="project-time-entry-mobile-workspace"></a>Мобилно работно пространство за запис на време за проект
 
@@ -48,7 +46,7 @@ ms.locfileid: "4071801"
 Предпоставките се различават в зависимост от версията на Microsoft Dynamics 365, който е бил разположен за вашата организация.
 
 ### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Предпоставки, ако използвате Dynamics 365 Finance
-Ако Finance е внедрен за вашата организация, системният администратор трябва да публикува мобилно работно пространство **Запис на време за проект**. За инструкции вижте [Публикувайте мобилно работно пространство](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace).
+Ако Finance е внедрен за вашата организация, системният администратор трябва да публикува мобилно работно пространство **Запис на време за проект**. За инструкции вижте [Публикувайте мобилно работно пространство](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace).
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Предпоставки, ако използвате версия 1611 с актуализация на платформа 3 или по-нова
 Ако за вашата организация е внедрена версия 1611 с актуализация на платформа 3 или по-нова, системният администратор трябва да изпълни следните предпоставки. 
@@ -68,17 +66,17 @@ ms.locfileid: "4071801"
 <td>Системен администратор</td>
 <td>KB 4018050 е актуална корекция на X ++ за актуализация или метаданни, която съдържа мобилно работно пространство <strong>Запис на време за проект</strong>. За да приложите KB 4018050, вашият системен администратор трябва да изпълни тези стъпки.
 <ol>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Изтеглете актуалната корекция на метаданните от Microsoft Dynamics Lifecycle Services (LCS)</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирайте актуалната корекция на метаданни</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Създайте разгръщаем пакет,</a> който съдържа <strong>ApplicationSuite</strong> и <strong>ProjectMobile</strong> модели и след това качете пакета за разполагане в LCS.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Приложете разгръщащия се пакет</a>.</li>
+<li><a href="/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Изтеглете актуалната корекция на метаданните от Microsoft Dynamics Lifecycle Services (LCS)</a>.</li>
+<li><a href="/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирайте актуалната корекция на метаданни</a>.</li>
+<li><a href="/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Създайте разгръщаем пакет,</a> който съдържа <strong>ApplicationSuite</strong> и <strong>ProjectMobile</strong> модели и след това качете пакета за разполагане в LCS.</li>
+<li><a href="/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Приложете разгръщащия се пакет</a>.</li>
 
 </ol></td>
 </tr>
 <tr class="even">
 <td>Публикувайте мобилно работно пространство <strong>запис на време за проект</strong>.</td>
 <td>Системен администратор</td>
-<td>Вижте <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Публикувайте мобилно работно пространство</a>.</td>
+<td>Вижте <a href="/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Публикувайте мобилно работно пространство</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -96,20 +94,23 @@ ms.locfileid: "4071801"
 3.  Първият път, когато влезете, ще бъдете подканени да въведете вашето потребителско име и парола. Въведете идентификационните си данни.
 4.  След като влезете, се показват наличните работни пространства за вашата компания. Имайте предвид, че ако системният ви администратор публикува ново работно пространство по-късно, ще трябва да опресните списъка с мобилни работни пространства.
 
-[![Издърпване за обновяване](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
+[![Издърпване за обновяване.](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
 
 ## <a name="enter-time-by-using-the-project-time-entry-mobile-workspace"></a>Въведете време, като използвате мобилното работно пространство за въвеждане на време на проекта
 1.  На мобилното си устройство изберете **Запис на време за проект** работно пространство.
 2.  Изберете **Времеви запис**. Показват се календарните дати за текущата седмица.
 3.  За избрана дата изберете **Действия** &gt; **Нов запис**.
 4.  Въведете броя на часовете за запис.
-5.  Изберете проект за времевия запис. Списък показва проектите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+5.  Изберете проект за времевия запис. Списък показва проектите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 6.  Ако вашият проект не е в списъка, изберете **Търсене**. Търсете по име или превключете към търсене по име на проект или клиент.
-7.  Избор на категория. Списък показва категориите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+7.  Избор на категория. Списък показва категориите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 8.  Ако вашата категория не е в списъка, изберете **Търсене**. Търсете по категория или превключете към търсене по име на категория.
-9.  Избери дейност. Списък показва дейностите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+9.  Избери дейност. Списък показва дейностите, които са заредени във вашето приложение за офлайн употреба. По подразбиране се зареждат 50 елемента, но разработчикът може да промени този номер. За повече информация вж. [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 10. Ако вашата дейност не е в списъка, изберете **Търсене**. Търсете по номер на дейност или превключете към търсене по цел.
 
 11. Изберете свойството Ред.
 12. По желание: въведете външни и вътрешни коментари.
 13. Изберете **Готово**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

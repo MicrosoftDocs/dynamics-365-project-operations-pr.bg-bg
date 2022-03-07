@@ -2,8 +2,6 @@
 title: Управление на проекти и резервации във вашия календар на Office 365
 description: Как да управлявате проекти и резервации във вашия календар на Office 365
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c575bd3deba5bcde2526ccfc598327917bf91642
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: b38affbfc8d339ac1a2093391286ea4c095207be8de2e8eeca558e6fcc5bcc07
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144445"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985308"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>Управление на проекти и резервации във вашия календар (Project Service)
 
@@ -52,7 +50,7 @@ ms.locfileid: "5144445"
   
 - Необходимо е да имате идентификационни данни на глобален администратор или системен администратор на [!INCLUDE[pn_office_365](../includes/pn-office-365.md)].  
   
-- Администраторите ще трябва да конфигурират профила на имейл сървъра, а всеки потребител ще трябва да конфигурира пощенската си кутия. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Настройване на обработка на имейл чрез синхронизиране от страна на сървъра](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
+- Администраторите ще трябва да конфигурират профила на имейл сървъра, а всеки потребител ще трябва да конфигурира пощенската си кутия. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Настройване на обработка на имейл чрез синхронизиране от страна на сървъра](/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
   
 ## <a name="turn-on-synchronization-for-your-organization-admin-task"></a>Включване на синхронизация за организацията (задача за администратор)  
   
@@ -91,3 +89,6 @@ ms.locfileid: "5144445"
   
 ### <a name="see-also"></a>Вижте също  
  [Ръководство за време, разходи и сътрудничество](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

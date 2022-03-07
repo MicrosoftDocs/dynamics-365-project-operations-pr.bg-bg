@@ -2,11 +2,9 @@
 title: Актуализиране на атрибути на добавка за включване на нови ценови измерения
 description: Тази тема предоставя информация за актуализирането на атрибутите на добавката за ценови измерения.
 author: Rumant
-manager: kfend
 ms.custom: ''
 ms.date: 11/19/2018
 ms.topic: article
-ms.service: project-operations
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 603b0e9a10dc2fe23c9fa0fa7065bc3f500dc540
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: b0d50733340f277453f4ef5b52bdd3ee089449cd
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147055"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012798"
 ---
 # <a name="update-plug-in-attributes-to-include-new-pricing-dimensions"></a>Актуализиране на атрибути на добавка за включване на нови ценови измерения
 
@@ -68,3 +66,6 @@ ms.locfileid: "5147055"
 
 9. Затворете инструмента за регистрация на добавки.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

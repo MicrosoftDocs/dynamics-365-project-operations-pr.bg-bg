@@ -2,6 +2,8 @@
 title: Как да направя „непотвърдена резервация” на ресурс във версия 2.x на приложението?
 description: Тази статия описва как да направите непотвърдена резервация за членове на екипа на проекта с Project Service.
 author: JohnPBurrows
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/21/2018
@@ -16,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 413783d2386cccd98cfe216a7c7300a5b7f771ab
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: a35799b422fa338c2666e1b2aa11bc2a54f5cce3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992876"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122240"
 ---
 # <a name="how-do-i-soft-book-resources-in-the-web-app-project-service-app-v2x"></a>Как да направя непотвърдена резервация на ресурси в уеб приложението (приложение Project Service, версия 2.x)?
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1.x-2.x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -85,6 +85,3 @@ ms.locfileid: "5992876"
 2. Когато се отвори таблото на графика, разгънете ресурса, за да покажете резервациите му. Ще видите резервацията, обозначена като непотвърдена.
 3. Щракнете с десен бутон върху резервацията, под „Промяна на състояние” изберете „Потвърдена резервация” и след това „Потвърдена”. Състоянието на резервация вече е „Потвърдена”.
 4. След затварянето на таблото на графика ще видите, че часовете за ресурса са се променили от непотвърдени на потвърдени в мрежата на член на екипа. Вече можете да присвоите ресурса към задачи (ако приемем, че има равнение между твърдо резервираните часове и часовете на усилие за задачата за присвояване). Обърнете внимание, че ако сте следвали стъпките за изпълнение на генеричен ресурс в елемент №3 по-горе, когато промените състоянието на плаващо резервирания наличен ресурс на твърдо, генеричният член на екипа се премахва от него.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

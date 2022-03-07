@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 790a0281f72eff5f241d11da025b5b4af643a567
-ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
+ms.openlocfilehash: 2f0a6391a3bf6dd39d21504a6f286e4ff1954183
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "4595927"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273584"
 ---
 # <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Създаване на специално авансово плащане по договор
 
@@ -39,3 +39,6 @@ Microsoft Dynamics 365 Project Operations поддържа сценарии за
     | **Състояние на фактура** | Това е настройка на опцията, която показва дали този аванс е добавен към проект на фактура за този клиент. Възможните стойности са:</br>- **Не е готово за фактуриране**</br>- **Готово за фактуриране** | Когато аванс или предварително плащане е отбелязан като **Готово за фактуриране**, той се добавя като ред в чернова на фактура. Само изцяло фактуриран аванс може да се използва за съгласуване с разходите по проекта за следващия период на фактуриране. |
 
 4. Изберете **Записване и затваряне** в диалоговия прозорец за бързо създаване, за да запишете аванса или предварителното плащане.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 121a007d91c2da4f3b9951901781757b8bcca8fe
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: a7eb9101352afd27b527bf6b8acc6f92198f44ea
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270845"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4071985"
 ---
 # <a name="create-a-project-team"></a>Създаване на екип по проекта
 
@@ -62,6 +62,3 @@ ms.locfileid: "5270845"
 ## <a name="monitor-project-teams"></a>Наблюдавайте проектни екипи
 1. На страницата **Всички проекти** изберете **ИД на проект** за проект **Фаза 2 за надстройка на XYZ**.
 2. Във FastTab **Екип на проекта и планиране**, проверете дали изброените ресурси на проекта са верни.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

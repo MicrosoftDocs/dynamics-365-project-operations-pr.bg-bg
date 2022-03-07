@@ -2,11 +2,9 @@
 title: Изпълнение на ресурсите за планираните ресурси
 description: Тази тема предоставя информация относно планирани ресурси за проект.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 2d849e7bdd020b0a2f5f35a627e28434ea77e5fb
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: eaeae9b0a4563805af61d20d6cc6709f7d697f582d4b1af2b883b292ac482af5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071991"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6989493"
 ---
 # <a name="resource-fulfillment-for-planned-resources"></a>Изпълнение на ресурсите за планираните ресурси
 
@@ -40,3 +38,6 @@ ms.locfileid: "4071991"
 7. Изберете работник и след това изберете **Присвояване**.
 8. Проверете дали линията за **Разработчик на софтуер 1** е премахната за проекта **Проект за надстройка на XYZ Фаза 2**.
 9. На раздела **Екип на проекта и планиране** за проекта **Фаза за надстройка на XYZ 2** проверете дали работникът, който сте избрали в предишната стъпка, е добавен като **Разработчик на софтуер**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

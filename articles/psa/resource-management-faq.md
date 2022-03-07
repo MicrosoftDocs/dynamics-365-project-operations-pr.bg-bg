@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d335a12a9b478bff63b6c93809c89dac9718a4be
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 20562b98ccc8451ab57dd42fb8c2f9f303811dbe
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144355"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5283130"
 ---
 # <a name="resource-management-faq"></a>ЧЗВ за управление на ресурси
 
@@ -54,3 +54,6 @@ ms.locfileid: "5144355"
 ## <a name="what-is-the-difference-between-an-assignment-and-a-booking"></a>Каква е разликата между присвояване и резервация?
 
 Присвояванията са присвояването на ресурси на задачи по проекта в графика на проекта. Ресурсите могат да бъдат реални или общи ресурси. Резервациите са потвърдено или непотвърдено разпределение на ресурси за даден проект. Потвърдените резервации консумират капацитет на ресурса. В идеалния случай за реални ресурси резервациите и присвояванията трябва да са съгласувани, защото не се различават. PSA обаче не прилага това съгласуване. Изгледът „Съгласуване“ показва на мениджъра на проекта местата, където резервациите на ресурса и присвояванията не са съгласувани.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

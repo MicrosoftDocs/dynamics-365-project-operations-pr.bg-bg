@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d4ef905f875ac8af7b2d70c3e64506558bdea1ed
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 0af8067fc0673890a317ac6f4e62d74b7f4eebca
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642170"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290076"
 ---
 # <a name="deploy-project-operations---lite"></a>Внедряване на Project Operations – олекотено
 
@@ -44,3 +44,6 @@ Project Operations поддържа множество модели за раз�
 2. Инсталирайте **Microsoft Dynamics 365 Project Operations** от списъка с внедрявания на приложения на Dynamics 365. За повече информация вижте [Управление на приложения на Dynamics 365](https://docs.microsoft.com/power-platform/admin/manage-apps).
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

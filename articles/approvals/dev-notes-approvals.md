@@ -2,18 +2,16 @@
 title: Бележки на разработчик за одобрения
 description: Тази тема предоставя допълнителна информация за разработчици за работа с одобрения.
 author: stsporen
-manager: Annbe
 ms.date: 11/09/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 9e4e910d0ff0a5f2603148fcc5daa0d423a4d174
-ms.sourcegitcommit: a9dbcd3aff4c6ae495412e4980e105ae160fd1ec
-ms.translationtype: HT
+ms.openlocfilehash: cfa4928eda286bee298a2c33f4e9c25b576f495795fc2deda33b393e372465b1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "4483935"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991653"
 ---
 # <a name="developer-notes-for-approvals"></a>Бележки на разработчик за одобрения
 
@@ -23,3 +21,6 @@ Dynamics 365 Project Operations включва логика за проверк�
 
   - Всички поддържащи редове са създадени в свързани таблици, като журнали и действителни данни.
   - Одобряващият е маркиран като **Одобряващ на проект** в проекта, преди да продължите.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

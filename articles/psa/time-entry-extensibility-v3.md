@@ -2,8 +2,6 @@
 title: Персонализиране на седмичния запис за време
 description: Тази тема предоставя информация как да се приложат персонализираните бизнес правила, които поддържат практиките на организацията.
 author: stsporen
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 07/09/2019
@@ -18,14 +16,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a34244884bc81da74ae3bf550bde6f982d04abd3
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: c117e06e7a5c57c7f9b70d1380f450c0ea97cd12
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149620"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6013023"
 ---
-# <a name="customize-weekly-time-entry"></a>Персонализиране на седмичния запис за време 
+# <a name="customize-weekly-time-entry"></a>Персонализиране на седмичен запис за време 
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
@@ -132,3 +130,6 @@ TBX страниците, които се използват за редакти
 
 > [!IMPORTANT] 
 > В момента известен проблем на TBX страниците не позволява на потребителите да коригират информация и да избират повторно „Готово“, когато актуализацията не успее да валидира добавка. Като заобиколно решение настройте валидирания на бизнес правила да предотвратяват тази ситуация, доколкото е възможно.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

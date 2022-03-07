@@ -2,24 +2,22 @@
 title: Стартиране на нов проект на LCS
 description: Тази тема предоставя информация за създаване на нов проект в LCS за вашата среда в Project Operations.
 author: stsporen
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 595fda369fe19a69604fc4ab694cb844f45076b5
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: d348515f8bd64df8aaab3a8a6dbee09237973f11
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175608"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995563"
 ---
 # <a name="start-a-new-lcs-project"></a>Стартиране на нов проект на LCS
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Използвайте Lifecycle Services (LCS), за да управлявате средите си за Dynamics 365 Project Operations. Изпълнете следните стъпки, за да създадете нов LCS проект.
+Използвайте Lifecycle Services (LCS), за да управлява средите ви на Dynamics 365 Project Operations. Изпълнете следните стъпки, за да създадете нов LCS проект.
 
 1. Отидете на [LCS](https://lcs.dynamics.com/Logon/Index) и изберете **Вход** използвайки акаунта, за който сте се абонирали.
 2. Ако бъдете подканени, приемете правните условия и условията за поверителност.
@@ -36,3 +34,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 
 Използвайте този LCS проект, за да разгърнете средата си за Project Operations.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

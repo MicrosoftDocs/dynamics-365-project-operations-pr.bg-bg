@@ -2,8 +2,6 @@
 title: Ръководство за отчитане
 description: Тази тема предоставя връзки към информация за отчитането.
 author: kfend
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 02/11/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 10f4a6cbd741008b696ae9dd147307413b5b7936
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: a366528fa54ed999a79f5adbda7ec478e4dda439
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150790"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007353"
 ---
 # <a name="reporting-guide"></a>Ръководство за отчитане
 
@@ -41,3 +39,6 @@ ms.locfileid: "5150790"
 
 > [!NOTE]
 > Тази тема ще бъде премахната в бъдеща актуализация на документацията. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

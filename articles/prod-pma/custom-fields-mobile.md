@@ -2,11 +2,9 @@
 title: Внедрете персонализирани полета за мобилно приложение Microsoft Dynamics 365 Project Timesheet на iOS и Android
 description: Тази тема предоставя общи модели за използване на разширения за внедряване на персонализирани полета.
 author: Yowelle
-manager: AnnBe
 ms.date: 05/29/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 9f19a6d069c4f825be8515a6d26739c50d3b064698fc1872ede07a4e74ee4dcb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270980"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005738"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>Внедрете персонализирани полета за мобилно приложение Microsoft Dynamics 365 Project Timesheet на iOS и Android
 
@@ -155,13 +153,13 @@ ms.locfileid: "5270980"
 
 По-долу е екранна снимка от мобилното приложение на създаване на запис на работен лист. Той показва полетата извън кутията и персонализирано поле в раздела „Въвеждане на време“, наречен „Тестов низ“ с вече зададена стойност на изброяване на „Втора опция“.
 
-![Тествайте персонализирано поле в низа в приложението](media/timesheet-entry.jpg)
+![Тествайте персонализирано поле в низа в приложението.](media/timesheet-entry.jpg)
 
 
 
 По-долу има екранна снимка от мобилното приложение на потребителя, избираща една от опциите за изброяване, налични за персонализираното поле "Тестов низ".  Двете опции са „Първа опция“ и „Втора опция“, показани като радио бутони. В момента е избрана втората опция.
 
-![Бутони с опции (радиобутони) за полето за тестване на потребителски низ](media/enum-option.jpg)
+![Бутони с опции (радиобутони) за полето за тестване на потребителски низ.](media/enum-option.jpg)
 
 
 
@@ -173,7 +171,7 @@ ms.locfileid: "5270980"
 
 По-долу е екранна снимка от Visual Studio на дървото на обекта на приложението. Той показва разширение на таблицата TSTimesheetLine с поле TestLineString, добавено като персонализирано поле.
 
-![Линеен низ](media/b6756b4a3fc5298093327a088a7710fd.png)
+![Линеен низ.](media/b6756b4a3fc5298093327a088a7710fd.png)
 
 ### <a name="use-chain-of-command-on-the-buildcustomfieldlist-method-of-the-tstimesheetsettings-class-to-show-a-field-in-the-timesheet-entry-section"></a>Използвайте верига от команди на метода buildCustomFieldList на класа TSTimesheetSettings, за да покажете поле в раздела за въвеждане на разписанието
 
@@ -319,11 +317,11 @@ final class TSTimesheetEntryService_Extension
 
 По-долу е екранна снимка от мобилното приложение на потребител, преглеждащ разписанието. Бутонът „Повече информация“ е избран в горния десен ъгъл, за да се покаже опцията „Преглед на повече подробности“.  
 
-![Команда за преглед на още подробности](media/show-more.png)
+![Команда за преглед на още подробности.](media/show-more.png)
 
 По-долу е екранна снимка от мобилното приложение, показващ секцията „Още” на разписанието. Потребителско поле, наречено "Скорост на използване на този работен лист (изчислено персонализирано поле)" е добавено към раздела за заглавие на работния лист. Стойността само за четене "0.667" е зададена в потребителското поле.
 
-![Секция „Още”](media/more-section.jpg)
+![Секция „Още”.](media/more-section.jpg)
 
 ### <a name="extend-the-tstimesheettable-table-so-that-it-has-a-custom-field"></a>Разширете таблицата TSTimesheetTable, така че да има персонализирано поле
 
@@ -416,7 +414,7 @@ final class TSTimesheetDetails_Extension
 
 От параметрите на проекта можете да направите полетата извън полето само за четене или скрити в мобилното приложение. Задайте опциите в секцията **Мобилни разписания** на раздела **Таблица за работно време** на страницата **Управление на проекти и счетоводни параметри**.
 
-![Параметри на проекта](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
+![Параметри на проект.](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
 
 ### <a name="changing-the-activities-that-are-available-for-selection-via-extensions"></a>Промяна на дейностите, които са достъпни за избор чрез разширения
 

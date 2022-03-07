@@ -2,18 +2,16 @@
 title: Създаване на график на фактура в базирани на проект аспекти на договор
 description: Тази тема предоставя информация за това как да създавате графици за контролни точки в редове на оферта.
 author: rumant
-manager: Annbe
 ms.date: 10/17/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b2fbec567c07d7567f1d133fa3512496039f16a1
-ms.sourcegitcommit: 869bde007805ef255f61b03937e4a44aeef61df9
-ms.translationtype: HT
+ms.openlocfilehash: 51a34e5a62fdadf7a6601f0a635efd484238f3565abcac8a1f7de3d49cebf23e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "4513911"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999663"
 ---
 # <a name="create-an-invoice-schedule-on-a-project-based-contract-line"></a>Създаване на график на фактура в базирани на проект аспекти на договор 
 
@@ -74,3 +72,6 @@ _**Прилага се за:** Project Operations за сценарии, баз�
 | Данък | Бързо създаване | Сумата на данъка, приложена към крайъгълен камък. | Това се предава към контролна точка по аспекти на договор за проект и към фактура. |
 
 3. Изберете **Записване и затваряне**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

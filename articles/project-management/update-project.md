@@ -2,16 +2,18 @@
 title: Актуализиране на проект
 description: Тази тема предоставя информация за актуализирането на проекти в Project Operations.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c07542444b970430d8143a60aad6970305769b22
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 8bcbc6c5a62d252398d541649647fbad49006a0c
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993358"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131420"
 ---
 # <a name="update-a-project"></a>Актуализиране на проект
 
@@ -46,6 +48,3 @@ _**Отнася се за:** Project Operations за сценарии, бази�
 - **Общо състояние на проекта**: Цялостното състояние на проекта, осигурено от ръководителя на проекта.
 - **Коментари**: Разказ относно текущото състояние на проекта, предоставен от ръководителя на проекта.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

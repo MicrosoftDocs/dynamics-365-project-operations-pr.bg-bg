@@ -4,6 +4,8 @@
   items:
     - name: Определяне на типа на внедряването ви
       href: environment/determine-deployment-type.md
+    - name: Регистрация за пробни версии на Project Operations
+      href: environment/admin-trials.md
     - name: Актуализации на Project Operations
       href: whats-new/project-operations-updates.md
 - name: 'Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -28,6 +30,8 @@
               href: environment/resource-apply-pro-setup-config-data.md
         - name: Внедряване на среди
           items:
+            - name: Ръчно внедряване на приложението Project Operations Dataverse с поддръжка на двойно писане
+              href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: Осигуряване на нова среда
               href: environment/resource-provision-new-environment.md
             - name: Модел на защита
@@ -48,10 +52,26 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интегриране на управление на разходите
               href: environment/resource-dual-write-expense.md
-            - name: Интегриране на фактуриране на доставчик
+            - name: Интегриране на фактури на доставчици
               href: environment/resource-dual-write-vendor-invoice.md
+        - name: Деинсталиране на Dynamics 365 Project Operations
+          href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
+        - name: 'Ноември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-nov-2021-resource-based.md
+        - name: 'Октомври 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-oct-2021-resource-based.md
+        - name: 'Септември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-sept-2021-resource-based.md
+        - name: 'Август 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-august-2021-resource-based.md
+        - name: 'Юли 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-july-2021-resource-based.md
+        - name: 'Юни 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-june-2021-resource-based.md
+        - name: 'Май 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-may-2021-resource-based.md
         - name: 'Април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: 'Mart 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -280,8 +300,12 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
-            - name: Използване на API за график (публичен преглед)
+            - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Производителност на API за планиране на проекти
+              href: project-management/project-schedule-api-performance.md
+            - name: Регистрационни файлове за планиране на проекти
+              href: project-management/schedule-api-logs.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -342,7 +366,7 @@
       items:
         - name: Общ преглед на време
           href: time/time-entry-overview.md
-        - name: Създаване на записи за време
+        - name: Създаване на времеви записи
           items:
             - name: Потребителски интерфейс на запис за време
               href: time/ui-behavior-time.md
@@ -374,6 +398,8 @@
               href: expense/set-up-credit-card-integration.md
             - name: Настройване на категории разходи
               href: expense/set-up-expense-categories.md
+            - name: 'Настройте пробег, като използвате нива ставка за пробег'
+              href: expense/set-up-mileage.md
         - name: Лични разходи
           href: expense/personal-expenses-expense-report.md
         - name: Междуфирмени разходи
@@ -408,6 +434,8 @@
       items:
         - name: Общ преглед на одобренията
           href: approvals/approvals-overview.md
+        - name: Набори от одобрения
+          href: approvals/approval-sets.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
@@ -428,12 +456,18 @@
           href: procurement/configure-materials-nonstocked.md
         - name: Осигуряване на нескладирани материали за проекти с помощта на фактури на доставчици в изчакване
           href: procurement/pending-vendor-invoices.md
+        - name: 'Поръчвайте неналични на склад материали за проекти, като използвате поръчки за покупка по проект'
+          href: procurement/non-stocked-materials-project-purchase-orders.md
+        - name: Задържане на доставчици
+          items:
+            - name: Общ преглед на задържането на доставчици
+              href: procurement/vendor-retention-overview.md
+            - name: Настройка на задържане на доставчици
+              href: procurement/set-up-vendor-retention.md
     - name: Фактуриране
       items:
         - name: Общ преглед на процеса на фактуриране
           href: invoicing/post-project-invoices.md
-        - name: Управление на предложения за фактуриране по проект
-          href: invoicing/format-update-project-invoice-proposals.md
         - name: Проформа фактуриране
           items:
             - name: Управление на натрупване на фактуриране на база проект
@@ -452,8 +486,22 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Конфигуриране на автоматизация на базирана на проект фактура
               href: proforma-invoicing/configure-automated-invoice-creation.md
-        - name: Управление на предложения за фактуриране по проект
-          href: invoicing/format-update-project-invoice-proposals.md
+        - name: Фактуриране на клиент
+          items:
+            - name: Управление на предложения за фактуриране по проект
+              href: invoicing/format-update-project-invoice-proposals.md
+            - name: Правилно счетоводство на чернови на предложения за фактури по проекти
+              href: invoicing/correct-project-invoice-proposals.md
+        - name: Междуфирмено фактуриране
+          items:
+            - name: Преглед на междуфирменото фактуриране
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: Конфигуриране на междуфирмено фактуриране
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: Създаване на междуфирмени трансакции
+              href: project-accounting/create-intercompany-transactions.md
+            - name: Създаване на междуфирмени фактури за клиенти и доставчици
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Счетоводство на проект
       items:
         - name: Стойности по подразбиране за финансово измерение
@@ -466,16 +514,6 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Журнал за интеграция в Project Operations
           href: project-accounting/project-operations-integration-journal.md
-        - name: Междуфирмено фактуриране
-          items:
-            - name: Преглед на междуфирменото фактуриране
-              href: project-accounting/intercompany-invoicing-overview.md
-            - name: Конфигуриране на междуфирмено фактуриране
-              href: project-accounting/configure-intercompany-invoicing.md
-            - name: Създаване на междуфирмени трансакции
-              href: project-accounting/create-intercompany-transactions.md
-            - name: Създаване на междуфирмени фактури за клиенти и доставчици
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: Признаване на приходите
       items:
         - name: Общ преглед на признаването на приходите
@@ -508,6 +546,22 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
+        - name: Нововъведения за ранен достъп до вълна 2 за 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Нововъведения от ноември 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-nov-2021-lite.md
+        - name: Нововъведения от октомври 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-oct-2021-lite.md
+        - name: Нововъведения от септември 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-sept-2021-lite.md
+        - name: Нововъведения от август 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-august-2021-lite.md
+        - name: Нововъведения от юли 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-july-2021-lite.md
+        - name: Нововъведения от юни 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-june-2021-lite.md
+        - name: Нововъведения от май 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-may-2021-lite.md
         - name: Нововъведения от април 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: Нововъведения от март 2021 г. – олекотено внедряване
@@ -756,8 +810,10 @@
           items:
             - name: Разработване на шаблони за проекти с копирането на проект
               href: project-management/dev-copy-project.md
-            - name: Използване на API за график (публичен преглед)
+            - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Производителност на API за планиране на проекти
+              href: project-management/project-schedule-api-performance.md
     - name: Управление на ресурси
       items:
         - name: Ключови концепции
@@ -814,11 +870,35 @@
           items:
             - name: Общ преглед на използването на ресурси
               href: resource-management/resource-utilization-overview.md
+    - name: Управление на подизпълнение в Project Operations
+      items:
+        - name: Управление на подизпълнение в Project Operations
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Възлагане на подизпълнители в ранен достъп от октомври 2021
+          href: pro/subcontracting/Subcontracting_EA_scope.md
+        - name: Ключови концепции при възлагането на подизпълнение
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: Управление на доставчици и ценови листи на проекти
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: Подизпълнители като налични ресурси
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Подробности за заглавието за подизпълнения
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Редове за подизпълнение за време
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Редове за подизпълнение за категории на разход
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Редове за подизпълнение за продукти
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Ресурси на ред за подизпълнение
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Контролни точки на ред за подизпълнение
+          href: pro/subcontracting/subcontract-line-milestones.md
     - name: Време
       items:
         - name: Общ преглед на време
           href: time/time-entry-overview.md
-        - name: Създаване на записи за време
+        - name: Създаване на времеви записи
           items:
             - name: Потребителски интерфейс на запис за време
               href: time/ui-behavior-time.md
@@ -840,6 +920,8 @@
       items:
         - name: Общ преглед на одобренията
           href: approvals/approvals-overview.md
+        - name: Набори от одобрения
+          href: approvals/approval-sets.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
@@ -876,6 +958,14 @@
   items:
     - name: Какво е новото
       items:
+        - name: 'Нововъведения от октомври 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
+        - name: 'Нововъведения от септември 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
+        - name: 'Нововъведения от юли 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
+        - name: 'Нововъведения от май 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-may-2021-stocked.md
         - name: 'Нововъведения от април 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
           href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: 'Нововъведения от март 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -1028,6 +1118,22 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 37.5, V3'
+          href: psa/whats-new-ur-37-5.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 37, V3'
+          href: psa/whats-new-ur-37.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 36, V3'
+          href: psa/whats-new-ur-36.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 35, V3'
+          href: psa/whats-new-ur-35.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 34, V3'
+          href: psa/whats-new-ur-34.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 33, V3'
+          href: psa/whats-new-ur-33.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 32.5, V3'
+          href: psa/whats-new-ur-32-5.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 32, V3'
+          href: psa/whats-new-ur-32.md
         - name: 'Какво е новото или промененото в изданието на актуализация 31, V3'
           href: psa/whats-new-ur-31.md
         - name: 'Какво е новото или промененото в изданието на актуализация 30, V3'
@@ -1258,14 +1364,16 @@
               href: psa/reports-dashboards.md
             - name: Модел данни на Project Service Automation
               href: psa/reports-working-project-service-data-model.md
-        - name: Записи за време
+        - name: Времеви записи
           items:
-            - name: Създаване на записи за време
+            - name: Създаване на времеви записи
               href: psa/time-entries.md
-            - name: Календар за записи за време
+            - name: Календар с времеви записи
               href: psa/time-entry-calendar.md
-            - name: Персонализиране на седмичен запис за време
+            - name: Персонализиране на седмичен времеви запис
               href: psa/time-entry-extensibility-v3.md
+            - name: Набори от одобрения в Project Service Automation
+              href: psa/approval-set.md
     - name: ЧЗВ и отстраняване на неизправности (3.x)
       items:
         - name: Защо цената по подразбиране е нула в действителните данни за стойност на разход?

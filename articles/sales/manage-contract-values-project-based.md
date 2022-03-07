@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 14d880eccd5547c122ebe37b63022e64fa2fb6fe
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 2b856e280ac56c1cedd7d4966aca7e7f234bc520
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181693"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5278090"
 ---
 # <a name="work-with-projectbased-contract-lines"></a>Работа с базирани на проект аспекти на договор
 
@@ -57,3 +57,6 @@ ms.locfileid: "4181693"
 | С1       | CL2           | П1      | No           | Да             | No          | Валидно           | Времето и таксите по проект P1 са включени в CL1. Разходите за проект P1 са включени в CL2. </br>   Няма припокриване на това, което е включено във всеки аспект на договора, следователно е валидно.  |
 | С1       | CL1           | П1      | Да          | Да             | Да         | Невалидно       | Нарушава правилото. Времето, разходите и таксите по проект P1 са включени в редовете на два договора.                                                                                               |
 | CL2      | CL2           | П1      | Да          | Да             | Да         | Невалидно       | Нарушава правилото. Времето, разходите и таксите по проект P1 са включени в редовете на два договора.                                                                                               |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

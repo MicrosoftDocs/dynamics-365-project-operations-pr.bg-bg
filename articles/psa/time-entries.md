@@ -2,8 +2,6 @@
 title: Създаване на записи за време
 description: Тази тема предоставя информация за това как да създадете записи за време.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/20/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 520d3a6e6cc3d486d778c66c2ef7fd3ff20cd582
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 0d0e21d0964788564d3db9173c3a0b3378cd0049b4455a23ccc1bccd1c21d9e7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149665"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990393"
 ---
 # <a name="create-time-entries"></a>Създаване на записи за време
 
@@ -70,3 +68,6 @@ ms.locfileid: "5149665"
 ## <a name="group-by-sort-search-and-filter-capabilities"></a>Възможности за групиране по, сортиране, търсене и филтриране
 
 Можете да групирате и филтрирате записите за време по измеренията, указани в колоните. В полето **Групиране по** изберете измерението, което да се използва за филтриране на записите за време. Можете също да сортирате записите за време във възходящ или низходящ ред, като използвате стрелката за сортиране в заглавките на колоните. Освен това можете да показвате или скривате записи, като изберете бутона **Филтриране** в заглавките на колоните и след това в полето **Търсене** въведете текста, който трябва да се използва за търсене на записи за време по име на проект, задача по проект, запис за време или ресурс.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

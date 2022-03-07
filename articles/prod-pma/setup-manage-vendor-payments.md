@@ -2,11 +2,9 @@
 title: Настройване и използване на плащания на доставчик при получаване на плащане
 description: Тази тема обяснява как да създадете условия за плащане при плащане (PWP), така че да можете да освободите частични плащания от доставчици въз основа на плащания от клиенти.
 author: RadhikaRS
-manager: AnnBe
 ms.date: 03/30/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: e872c4a2d35cef4cddc6851615c6c4d73b4e9d9a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: c6f7888f3803b2c83a72bcac4caed1a7d7bc5f65
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071799"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997543"
 ---
 # <a name="set-up-and-use-pay-when-paid-vendor-payments"></a>Настройване и използване на плащания на доставчик при получаване на плащане
 
@@ -80,3 +78,6 @@ ms.locfileid: "4071799"
 2. На **Фактури на доставчика с плащане при плащане** страница, в полето за търсене въведете стойности, за да намерите фактурата на доставчика, която искате да прегледате, и след това изберете **Търсене**.
 3. На FastTab **Редове на фактури на доставчика**, изберете редовете, които искате да промените.
 4. Ако условията **Платете при плащане** са изпълнени за реда за фактура, изберете **Освободете плащане от доставчика**. Опцията **Платете при плащане** е изчистена и стойността на полето **Готово за плащане** се променя на **Да**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

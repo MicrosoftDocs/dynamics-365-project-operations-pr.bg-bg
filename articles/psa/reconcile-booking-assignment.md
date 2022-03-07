@@ -2,8 +2,6 @@
 title: Съгласуване на резервации и присвоявания
 description: Тази тема предоставя информация за действителни данни.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/27/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9528bd983e6e18197138f0720abccdc6d6fa1ed5
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 73cbc89ae4350cbd568f1bb978825ff53da07afb
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147910"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008883"
 ---
 # <a name="reconcile-bookings-and-assignments"></a>Съгласуване на резервации и присвоявания
 
@@ -101,3 +99,6 @@ ms.locfileid: "5147910"
 
 По-внимателният поглед върху подробностите за резервациите обаче показва разлики в началния час на резервациите. Резервациите ще започнат не по-рано от началния час на контура за присвояване и не по-рано от наличния начален час на ресурса.
  ![Нови резервации на ресурсите в таблото на графика](media/reconcile-assignments-12.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

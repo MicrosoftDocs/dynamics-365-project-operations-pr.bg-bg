@@ -2,8 +2,6 @@
 title: Създаване на шаблон за работно време
 description: Тази тема описва как се създава шаблон за работно време в Project Service.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 525f601ad6fee902cb6d5c128b596cc2d33f30c4
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
-ms.translationtype: HT
+ms.openlocfilehash: 90525cf1e7cd487a03b064466ad1b13f8afb7819443fc4bacf9c7d3eee86f0b6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981242"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987378"
 ---
 # <a name="create-a-work-hours-template-project-service"></a>Създаване на шаблон за работно време (Project Service)
 
@@ -51,7 +49,7 @@ ms.locfileid: "5981242"
 
 1. Отидете на **Ресурси** \> **Ресурси**.
 2. Създайте нов ресурс за справка в шаблона на календара или изберете съществуващ ресурс.
-3. Изберете раздела **Работни часове** в раздела на ресурса и попълнете инструкциите в [Задайте работно време за ресурс](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) за да конфигурирате правилата на календара.
+3. Изберете раздела **Работни часове** в раздела на ресурса и попълнете инструкциите в [Задайте работно време за ресурс](/dynamics365/field-service/set-work-hours-resource.md) за да конфигурирате правилата на календара.
 
 **Създаване на нов шаблон за календар**
 

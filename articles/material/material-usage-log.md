@@ -2,18 +2,16 @@
 title: Записване на използването на материали по проекти и проектни задачи
 description: Тази тема предоставя информация за това как да регистрирате използването на материали по проекти и проектни задачи.
 author: rumant
-manager: AnnBe
 ms.date: 03/31/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ab431ce4c18a4283cd887de9afcba0dd556d2567
-ms.sourcegitcommit: b4a05c7d5512d60abdb0d05bedd390e288e8adc9
-ms.translationtype: HT
+ms.openlocfilehash: 4d8757049953fab0ad8bf6ee1a1d695fcb6df75b1be52641ad4af3b3137d7a0a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "5852830"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999258"
 ---
 # <a name="record-material-usage-on-projects-and-project-tasks"></a>Записване на използването на материали по проекти и проектни задачи
 
