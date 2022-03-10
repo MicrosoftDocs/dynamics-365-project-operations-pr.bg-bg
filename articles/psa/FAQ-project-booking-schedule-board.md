@@ -2,8 +2,6 @@
 title: Създаване на резервация за проект от таблото на графика
 description: Тази тема предоставя информация за това как да създадете резервация за проект от таблото на графика.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5d815210ee78f3c728c0722e03bab2f790c953ee
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 513f7fe75cfb7b1658b4be71ed0a17da7b64a1023992e1dada9adca8f0dbf21e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5286100"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987603"
 ---
 # <a name="create-a-project-booking-from-the-schedule-board"></a>Създаване на резервация за проект от таблото на графика
 
@@ -45,7 +43,7 @@ ms.locfileid: "5286100"
 
 1.  На таблото на графика този ресурс се показва в раздела **Отворени изисквания**. Възможно е да трябва да използвате филтрите за колони в мрежата, ако имате множество отворени изисквания. 
 
-    ![Раздел „Отворени изисквания“ на таблото на графика](media/FAQ-Project-Booking-Schedule-Board-1.png "Екранна снимка на таблицата за резервации и присвоявания")
+    ![Раздел „Отворени изисквания“ на таблото на графика.](media/FAQ-Project-Booking-Schedule-Board-1.png "Екранна снимка на таблицата за резервации и присвоявания")
 
 2. Изберете изискване. Разделът **Търсене на наличност** ще се покаже в горната част на избрания ред.
  
@@ -55,7 +53,7 @@ ms.locfileid: "5286100"
 
     Избирането на **Резервация** резервира ресурса върху екипа на проекта.
 
-![Панел „Създаване на резервация на ресурс“](media/FAQ-Project-Booking-Schedule-Board-6.png "")
+![Панел „Създаване на резервация на ресурс“.](media/FAQ-Project-Booking-Schedule-Board-6.png "")
  
 
 ## <a name="book-from-the-primary-requirement"></a>Резервиране от основното изискване
@@ -64,7 +62,7 @@ ms.locfileid: "5286100"
 
 1. За да резервирате ресурс с основното изискване, на таблото на графика изберете раздела **Проект**. Възможно е да трябва да използвате филтъра за колони в колоната **Проект**, ако имате много проекти.
 
-   ![Филтри на колони в таблото на графика](media/FAQ-Project-Booking-Schedule-Board-2.png "Екранна снимка на таблицата за резервации и присвоявания")
+   ![Филтри на колони в таблото на графика.](media/FAQ-Project-Booking-Schedule-Board-2.png "Екранна снимка на таблицата за резервации и присвоявания")
 
 2. Изберете изискването, което има само името на проекта като свое име и времетраене нула (0).
 

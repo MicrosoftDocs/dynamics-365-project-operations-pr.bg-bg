@@ -2,18 +2,17 @@
 title: Общ преглед на асистента на графика
 description: Тази тема предоставя информация за работа с асистента по график за резервиране на ресурси.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: da551e805f395e466952df1dbb7d193bdddba358
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.custom: intro-internal
+ms.openlocfilehash: 309cb94ea30c525daccf032c625004c42fb408dada4b337b65d8f36d76219669
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071676"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990213"
 ---
 # <a name="schedule-assistant-overview"></a>Общ преглед на асистента на графика
 
@@ -57,3 +56,6 @@ _**Отнася се за:** Project Operations за сценарии, бази�
 -   Ресурсна фирма
 -   Типове ресурси
 -   Предпочитани ресурси
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

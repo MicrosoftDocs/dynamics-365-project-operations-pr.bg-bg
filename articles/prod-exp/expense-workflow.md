@@ -2,11 +2,9 @@
 title: Работен поток за управление на разходите
 description: Тази тема обяснява как можете да използвате системата за работен поток в Microsoft Dynamics 365 Finance, за да настроите процес на преглед на отчетите за разходи в управлението на разходите.
 author: ShylaThompson
-manager: AnnBe
 ms.date: 09/13/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: WorkflowtableListPageRnr
 audience: Application User
@@ -16,16 +14,14 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 5207be92cb58d8ab2658096b3e0f3fc81d73d91e
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 7c2a2cae435342139f32d1bb5d38d68acd920453f5e6f6551e1f6d57967d8053
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071975"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001283"
 ---
 # <a name="expense-management-workflow"></a>Работен поток за управление на разходите
-
-[!include [banner](../includes/banner.md)]
 
 Можете да използвате системата за работен поток, за да настроите процес на преглед на отчетите за разходи в управлението на разходите. Можете да настроите работен поток, който използва следните критерии, за да определи кой одобрява отчетите за разходите:
 
@@ -57,3 +53,6 @@ ms.locfileid: "4071975"
 След като тези изисквания бъдат проверени, отчетът за разходите се публикува.
 
 След осчетоводяването на отчета за разходите се разрешава плащане за отчета за разходите и на служителя се възстановяват разходите.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

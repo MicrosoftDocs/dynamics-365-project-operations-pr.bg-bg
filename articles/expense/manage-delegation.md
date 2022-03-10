@@ -2,11 +2,9 @@
 title: Управление на делегирането
 description: Тази тема предоставя информация за това как делегат на разходи може да създава и управлява отчети за разходи за друг служител.
 author: suvaidya
-manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 09fc5a58b3367d1b70d2ddddb8e920769055f9d2
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: f68d62ea96c9a31771b1938ee4c6505aadf0f2a81f168920a1f057227b986281
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122690"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997773"
 ---
 # <a name="manage-delegation"></a>Управление на делегирането
 Делегат на разходи може да създава и управлява отчети за разходи за друг служител.
@@ -39,3 +37,6 @@ ms.locfileid: "4122690"
 Делегат може бързо да филтрира и да търси в съществуващите отчети за разходите, които са му били делегирани. Делегатът може също така бързо да създаде нов отчет за разходите за други потребители, като избере **Нов отчет за разходите**.
 
 Делегатите могат да създават и управляват отчети за разходите за други служители, като отидат на **Управление на разходите** > **Моите разходи** > **Доклади за разходите** и изберете **Отворете разходите на други потребители**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

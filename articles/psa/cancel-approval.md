@@ -2,8 +2,6 @@
 title: Отмяна на преди това одобрени записи за време и разходи
 description: Тази тема предоставя информация за това как да отмените одобрена транзакция за време и разход по проект.
 author: rumant
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/07/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0ea816040570cc8f6ddf3c5ec8a74ac092fc68b2
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 09b85ea302ac46171afbd531a551aa5fbf5492a3644cba3448be03009840228c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071995"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987423"
 ---
 # <a name="cancel-previously-approved-time-or-expense-entries"></a>Отмяна на преди това одобрени записи за време или разходи
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -60,3 +60,6 @@ ms.locfileid: "4071995"
 След това се създават записи за сторниране в таблицата „Действителни данни“. За да създадете записи за сторниране, системата копира отгоре стойностите на полето от първоначалните действителни данни. Единствените стойности, които не се копират, са количествените стойности. Вместо това тези стойности се сторнират. Сторнирани действителни данни се създават за действителни данни **Разходи** и **Нефактурирани продажби**. Полето **Състояние на корекцията** на сторнирани действителни данни се задава на **Некоректируемо**, а състоянието на фактуриране се задава на **Отменено**.
 
 След като тези промени бъдат направени, сумата, която е записана като изразходвана по проекта, и натрупаните приходи по проекта вече няма да отчитат сумите, които тези действителни данни представляват.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

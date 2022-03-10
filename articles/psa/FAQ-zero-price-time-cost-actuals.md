@@ -2,8 +2,6 @@
 title: Защото цената по подразбиране е нула за действителни данни за разход на време?
 description: Отстраняване на причината защо дадена цена е по подразбиране 0 в действителни данни за разход на време.
 author: rumant
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/21/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 44d4952b77ac0a541cdf8e3e55f202c9209efdf4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: e1f81268c894e2ff5d607d8008876c84f7eafdf05f8b1f3212263a5dfa89b69d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071839"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996963"
 ---
 # <a name="why-is-the-price-defaulting-to-zero-on-time-cost-actuals"></a>Защото цената по подразбиране е нула за действителни данни за разход на време?
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -64,3 +64,6 @@ ms.locfileid: "4071839"
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

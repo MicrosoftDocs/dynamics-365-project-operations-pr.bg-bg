@@ -2,8 +2,6 @@
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 14, V3
 description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 14, V3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2020
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d0aeb4684ae04d8774a31a51664ceb84307b10d
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: 71971b96ea6955b95fa519884356a310b2885d0667d60ca07856a444de77dc64
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949353"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987018"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation, издание на актуализация 14, V3
 

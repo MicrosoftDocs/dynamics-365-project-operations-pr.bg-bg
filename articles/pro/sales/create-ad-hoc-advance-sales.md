@@ -2,18 +2,16 @@
 title: Създаване на специално авансово плащане по договор
 description: Тази тема предоставя информация за създаване на авансово плащане по договор, ако е необходимо.
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2f0a6391a3bf6dd39d21504a6f286e4ff1954183
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: bceed1372dbaf523426a4c34da7152d77fe108240c8c3e4e1390c43b1cf536a4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5273584"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999123"
 ---
 # <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Създаване на специално авансово плащане по договор
 

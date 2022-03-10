@@ -8,6 +8,10 @@
       href: environment/admin-trials.md
     - name: Актуализации на Project Operations
       href: whats-new/project-operations-updates.md
+    - name: Премахнати или отхвърлени функции
+      items:
+        - name: Премахнати или отхвърлени функции в Project Operations
+          href: whats-new/removed-depreciated-features-project.md
 - name: 'Project Operations за сценарии, базирани на ресурси/неналичност'
   items:
     - name: Начало
@@ -52,12 +56,14 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интегриране на управление на разходите
               href: environment/resource-dual-write-expense.md
-            - name: Интегриране на фактури на доставчици
+            - name: Интегриране на фактура на доставчик
               href: environment/resource-dual-write-vendor-invoice.md
         - name: Деинсталиране на Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
+        - name: 'Декември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-dec-2021-resource-based.md
         - name: 'Ноември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-nov-2021-resource-based.md
         - name: 'Октомври 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -400,6 +406,8 @@
               href: expense/set-up-expense-categories.md
             - name: 'Настройте пробег, като използвате нива ставка за пробег'
               href: expense/set-up-mileage.md
+        - name: Подреждане на разходите
+          href: prod-exp/expense-itemization.md
         - name: Лични разходи
           href: expense/personal-expenses-expense-report.md
         - name: Междуфирмени разходи
@@ -530,6 +538,12 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: Управление на прогнози за приходи
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: Отстраняване на неизправности
+      items:
+        - name: Процес на продажби по проект
+          items:
+            - name: 'Грешка поради несъответствие на валута при създаване на проект, договор, оферта или наличен ресурс'
+              href: troubleshooting/project-sales-process/currency-mismatch-error.md
 - name: Леко внедряване – фактуриране на сделката към проформа
   items:
     - name: Начало
@@ -548,6 +562,8 @@
       items:
         - name: Нововъведения за ранен достъп до вълна 2 за 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Нововъведения от декември 2021 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: Нововъведения от ноември 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: Нововъведения от октомври 2021 г. – олекотено внедряване
@@ -894,6 +910,20 @@
           href: pro/subcontracting/subcontract-line-resources.md
         - name: Контролни точки на ред за подизпълнение
           href: pro/subcontracting/subcontract-line-milestones.md
+        - name: Членове на екип по проект за подизпълнение
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: Опция за подизпълнение за членове на екип по проект
+          href: pro/subcontracting/subcon-options.md
+        - name: Оценка на разходите за присвоявания на назначен за подизпълнение ресурс
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: 'Конфигурирайте табло на графика, за да покажете работници по договор и назначен за подизпълнение капацитет'
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: Осигуряване на персонал за проект с помощта на работници по договор и назначен за подизпълнение капацитет
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'Записване на използване на време, разходи и материали за компоненти на подизпълнение'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: Преходи на състояние на подизпълнение
+          href: pro/subcontracting/subcon-states.md
     - name: Време
       items:
         - name: Общ преглед на време
@@ -1118,6 +1148,8 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 38, V3'
+          href: psa/whats-new-ur-38.md
         - name: 'Какво е новото или промененото в изданието на актуализация 37.5, V3'
           href: psa/whats-new-ur-37-5.md
         - name: 'Какво е новото или промененото в изданието на актуализация 37, V3'
@@ -1204,6 +1236,8 @@
           href: psa/implementation-guides/resource-management-guide.md
         - name: Ръководство за отчитане
           href: psa/implementation-guides/reporting-guide.md
+    - name: Надстройте от Project Service Automation до Project Operations – олекотена версия
+      href: psa/upgrade-project-operations-non-stocked.md
     - name: Надстройка на Project Service Automation (версия на приложението 3.x)
       items:
         - name: Надстройка на Project Service Automation

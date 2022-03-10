@@ -2,18 +2,16 @@
 title: Оценка на продажбите и разходите по проект, когато наличен ресурс изпълнява няколко роли в проект
 description: Тази тема обяснява как да се използват измерения на ценообразуване за поддръжка на оценки на ценообразуването и разходите за ресурс, който изпълнява няколко роли в проект.
 author: rumant
-manager: tfehr
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: da17f0f58623128d51fda0f5529182cd37ea41b9
-ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
-ms.translationtype: HT
+ms.openlocfilehash: 28a67e79b03dfbc38e9786350c931838ef27891a3d26787fc0334e0572528228
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "4531361"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990123"
 ---
 # <a name="estimate-project-sales-and-costs-when-a-bookable-resource-fills-multiple-roles-on-a-project"></a>Оценка на продажбите и разходите по проект, когато наличен ресурс изпълнява няколко роли в проект 
 
@@ -106,3 +104,6 @@ _**Приложимо за:** Project Operations за сценарии, бази
 ### <a name="estimates-grid"></a>Мрежа с оценки 
 
 В мрежата **Оценки** двете присвоявания за един и същи ресурс се оценяват по различен начин. Заданието за ресурса по **Задача A** се определя с помощта на стойността на атрибута **Роля** на **Консултиране на потенциален клиент**. Присвояването за същия ресурс по **Задача Б** се оценява с помощта на стойността на атрибута **Роля** на **Мрежови техник**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

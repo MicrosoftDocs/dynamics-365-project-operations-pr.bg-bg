@@ -2,8 +2,6 @@
 title: Конфигуриране на категории транзакции
 description: Как се настройват категории транзакции в Project Service
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8a0edd4ca5bb175d67e645b1a6903a1bbde4ecca
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: a6f88f3f2a883a663c3594fa4a08cc9e170330ae30318c1b8f322cca6349bf3f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290616"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008663"
 ---
 # <a name="configure-transaction-categories-project-service"></a>Конфигуриране на категории транзакции (Project Service)
 

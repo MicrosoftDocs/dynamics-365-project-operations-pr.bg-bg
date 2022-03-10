@@ -2,8 +2,6 @@
 title: Графици на проекти
 description: Тази тема предоставя информация за това как да създадете график.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 3/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8f1a0b0ed610ade094546782a1fa517682a390e4
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 192fbe7f26a2bd060ffe9bc0b1eea50b9431bca4696e3da1d94bf53158e026a6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283967"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998403"
 ---
 # <a name="project-schedules"></a>Графици на проекти 
 
@@ -96,7 +94,7 @@ ms.locfileid: "5283967"
 
 Името на задача описва работата, която трябва да бъде извършена. В PSA атрибутите, които са свързани със задача описват графика на задачата и нейните изисквания за осигуряване на персонал.
 
-> ![Атрибути на задача](media/project-2.png)
+> ![Атрибути на задача.](media/project-2.png)
  
 ### <a name="schedule-attributes"></a>Атрибути на графика
 

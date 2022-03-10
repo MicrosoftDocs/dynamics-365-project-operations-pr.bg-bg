@@ -2,18 +2,16 @@
 title: Конфигуриране на автоматично създаване на фактура
 description: Тази тема предоставя информация за това как да конфигурирате на системата за автоматично генериране на фактури.
 author: rumant
-manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 0dddd963e79f8ecd91a96a6e684ab79e1b95bd6d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 894e8f6e4ffbb5f003cdd1f69594e2a1e043b514923de5673d7ba9afaa6894e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287900"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992643"
 ---
 # <a name="configure-automatic-invoice-creation"></a>Конфигуриране на автоматично създаване на фактура
 

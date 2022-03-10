@@ -7,12 +7,12 @@ ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
 ms.custom: intro-internal
-ms.openlocfilehash: 41265534661e51565bf31105ef69cec9b3b181c3
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: 5c0f98a6f08129ebef9b6d3fed1cc85969aa347c815a643d3c8dd639b42c0e8c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6367878"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008213"
 ---
 # <a name="resource-management-modes-overview"></a>Общ преглед на режими на управление на ресурси
 
@@ -24,7 +24,7 @@ Dynamics 365 Project Operations поддържа два режима, за да 
 ## <a name="central-mode"></a>Централен режим
 За организации, които централизират разпределението на ресурси за проекти, централният режим осигурява начин да се гарантира, че мениджърите на проекти могат да определят изискванията за ресурси на ниво проект. Изпълнението на изискванията за ресурси се делегира на мениджър на ресурси. Мениджърите на проекти могат да приемат или отхвърлят ресурси, предложени от Мениджъра на ресурси.
 
-![Централен режим](./media/resource-management-central.png)
+![Централен режим.](./media/resource-management-central.png)
 
 За да управлявате ресурси с централния режим, вижте:
 
@@ -37,7 +37,7 @@ Dynamics 365 Project Operations поддържа два режима, за да 
 ## <a name="hybrid-mode"></a>Хибриден режим
 За организации, които изискват гъвкавост при разпределението на ресурсите, хибридният режим дава възможност както на ръководителите на проекти, така и на мениджърите на ресурси да резервират ресурси.
 
-![Хибриден режим](./media/resource-management-hybrid.png)
+![Хибриден режим.](./media/resource-management-hybrid.png)
 
 В допълнение към процеса на поддържан централен режим, вижте следните теми за управление на всички други поддържани потоци на резервации в хибриден режим:
 

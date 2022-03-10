@@ -2,11 +2,9 @@
 title: Управление на компетенции на ресурс
 description: Тази тема предоставя информация за настройване на компетенции за ресурси по проект.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270620"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007403"
 ---
 # <a name="manage-resource-competencies"></a>Управление на компетенции на ресурс
 
@@ -31,7 +29,7 @@ ms.locfileid: "5270620"
 
 Ресурсните компетенции са съществена част от управлението на ресурсите. Компетентностите могат да се използват като базова линия за определяне на ресурси, които имат правилния баланс между умения, образование, сертифициране и опит в проекта. Трябва да настроите тази информация за всеки ресурс и да я актуализирате редовно. По този начин можете да увеличите максимално възможностите, когато конкретни ресурсни компетенции са съпоставени по време на присвояване на ресурс на проекта.
 
-[![Примери за умения, сертификати, образование и опит в проекти](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![Примери за умения, сертификати, образование и опит в проекти.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 Следващите процедури обясняват как да се създадат някои от компетенциите за ресурс.
 

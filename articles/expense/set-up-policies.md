@@ -2,11 +2,9 @@
 title: Определете политики за разходите
 description: Можете да определите политики за разходите, които вашите работници трябва да спазват, когато въвеждат и подават отчети за разходите и заявки за пътуване.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 30b3a0e1547ca7043b1433da2b4ebf02f2b473a1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: d29b1a9c1a935b933f403f78279b74577d11089007ce1d1090c361075822263a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4071890"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986343"
 ---
 # <a name="define-expense-policies"></a>Определете политики за разходите
 
@@ -53,3 +51,6 @@ _**Отнася се за:** Проектни операции за сценар
 ## <a name="when-to-evaluate-policies"></a>Кога да се оценяват политиките
 
 В параметрите за управление на разходите можете да изберете да оцените политиките за управление на разходите, когато дадена линия е запазена или когато е изпратен отчет за разходите. Ако изберете да оцените кога дадена линия е запазена, потребителите ще имат по-ранна видимост какво трябва да направят, за да попълнят отчета си за разходи наведнъж. В противен случай можете да забавите оценката на политиката и да спестите време, като проверите в края, по време на подаването в работния процес.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

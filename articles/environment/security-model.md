@@ -6,12 +6,12 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ccca2f387ce3abef3b24cb96fdbcc69f3c0c075b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002223"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991473"
 ---
 # <a name="security-model"></a>Модел на защита
 
@@ -58,7 +58,7 @@ Project Operations не създава група чрез имплицитно 
 
 Търсене на член на група в диалог **Групово управление**, се ограничава до тези, които са зададени като част от групата за сигурност на средата. За допълнителна информация вижте [Управление на потребителския достъп до среди: групи за защита и лицензи](/power-platform/admin/control-user-access).
 
-![Групов режим](./media/groupsmode.png)
+![Групов режим.](./media/groupsmode.png)
 
 1. Проектът е създаден и притежаван от създаващия потребител.
 2. Собственикът на проекта е актуализиран за екипа.

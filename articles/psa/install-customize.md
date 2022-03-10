@@ -2,8 +2,6 @@
 title: Инсталиране и персонализиране
 description: Как се инсталира и персонализира Project Service
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: ''
 ms.date: 8/03/2018
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c2378ff6affd9bc21b8e9afab4108bca3983a454
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 9d482a4e38009f371b877599bc7559bc0e21b9acf57b175081c8618236163585
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5284300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985331"
 ---
 # <a name="install-and-customize-project-service"></a>Инсталиране и персонализиране (Project Service)
 
@@ -34,20 +32,20 @@ ms.locfileid: "5284300"
 <!-- TODO: I expect to find the information on how to get and install this here. Please find that and add it here. Same for Project Service.--> 
   
 ## <a name="install-project-service"></a>Инсталиране на Project Service  
- [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] е предпочитано решение. Има няколко начина за закупуване на решението. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Присъединяване на вашата организация и потребители](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/onboard-your-organization-and-users-to-dynamics-365-online)  
+ [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] е предпочитано решение. Има няколко начина за закупуване на решението. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Присъединяване на вашата организация и потребители](/dynamics365/customerengagement/on-premises/admin/onboard-your-organization-and-users-to-dynamics-365-online)  
   
 ## <a name="customize-pn_project_service_auto-forms-and-reports"></a>Персонализиране на формуляри и отчети за [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]  
  Ако искате да персонализирате някой от формулярите , таблата или отчетите на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], можете да намерите повече информация в следните връзки:  
   
-- [Първи стъпки за създаване и персонализиране на приложения](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/getting-started-customization)  
+- [Първи стъпки за създаване и персонализиране на приложения](/dynamics365/customerengagement/on-premises/customize/getting-started-customization)  
   
-- [Създаване и проектиране на формуляри](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-design-forms)  
+- [Създаване и проектиране на формуляри](/dynamics365/customerengagement/on-premises/customize/create-design-forms)  
   
-- [Създаване и редактиране на табла](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards)  
+- [Създаване и редактиране на табла](/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards)  
   
-- [Създаване и редактиране на процеси](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/guide-staff-through-common-tasks-processes)  
+- [Създаване и редактиране на процеси](/dynamics365/customerengagement/on-premises/customize/guide-staff-through-common-tasks-processes)  
   
-- [Въведение в отчети и анализ](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365)  
+- [Въведение в отчети и анализ](/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365)  
   
 ### <a name="see-also"></a>Вижте също  
  [Ръководство на администратора](../psa/admin-guide.md)   

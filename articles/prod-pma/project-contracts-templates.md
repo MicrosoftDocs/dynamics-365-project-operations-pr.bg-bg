@@ -2,11 +2,9 @@
 title: Синхронизирайте договори за проекти и проекти директно от Project Service Automation с Finance
 description: Тази тема описва шаблона и основните задачи, които се използват за синхронизиране на прогнозни часове на договор на проект и проекти директно от Microsoft Dynamics 365 Project Service Automation в Dynamics 365 Finance.
 author: Yowelle
-manager: AnnBe
 ms.date: 12/17/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 319000e6a826580049e8575def5790ab595a3165
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: acb87be977cc009f89ceac5b01c9028d6741b552a441ef49e024b6b078a188d4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289581"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001058"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>Синхронизирайте договори за проекти и проекти директно от Project Service Automation с Finance 
 
@@ -44,7 +42,7 @@ ms.locfileid: "5289581"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интеграция на Project Service Automation с Finance](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
+[![Поток от данни за интеграция на Project Service Automation с Finance.](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
 
 ## <a name="templates-and-tasks"></a>Шаблони и задачи
 
@@ -109,8 +107,8 @@ ms.locfileid: "5289581"
 ## <a name="prerequisites-and-mapping-setup"></a>Предпоставки и настройка на картографиране
 
 - Преди да може да се случи синхронизиране на договори за проекти и проекти, трябва да синхронизирате акаунти.
-- Във вашия набор от връзки добавете поле за интегриране на поле за ключ за **msdyn\_organizationalunits** на **msdyn\_name \[Name\]**. Може първо да се наложи да добавите проект към набора от връзки. За повече информация вижте [Интегриране на данни в Common Data Service за приложения](https://docs.microsoft.com/powerapps/administrator/data-integrator).
-- Във вашия набор от връзки добавете поле за интегриране на поле за ключ за **msdyn\_projects** на **msdynce\_projectnumber \[Project Number\]**. Може първо да се наложи да добавите проект към набора от връзки. За повече информация вижте [Интегриране на данни в Common Data Service за приложения](https://docs.microsoft.com/powerapps/administrator/data-integrator).
+- Във вашия набор от връзки добавете поле за интегриране на поле за ключ за **msdyn\_organizationalunits** на **msdyn\_name \[Name\]**. Може първо да се наложи да добавите проект към набора от връзки. За повече информация вижте [Интегриране на данни в Common Data Service за приложения](/powerapps/administrator/data-integrator).
+- Във вашия набор от връзки добавете поле за интегриране на поле за ключ за **msdyn\_projects** на **msdynce\_projectnumber \[Project Number\]**. Може първо да се наложи да добавите проект към набора от връзки. За повече информация вижте [Интегриране на данни в Common Data Service за приложения](/powerapps/administrator/data-integrator).
 - **SourceDataID** за договорите за проекти и проектите могат да бъдат актуализирани до различна стойност или премахнати от картографирането. Стойността на шаблона по подразбиране е **Project Service Automation**.
 - Картографирането **PaymentTerms** трябва да бъде актуализирано, така че да отразява валидни условия на плащане във финансите. Можете също да премахнете картографирането от проектната задача. Картата по подразбиране има стойности по подразбиране за демонстрационни данни. Следващата таблица показва стойностите в Project Service Automation.
 
@@ -131,7 +129,7 @@ ms.locfileid: "5289581"
 Ако трябва да използвате Power Query, следвайте тези указания:
 
 - Шаблонът Проекти и договори (PSA до Fin и Ops) има филтър по подразбиране, който включва само поръчки за продажба на **Работен елемент (msdyn\_ordertype = 192350001)** тип. Този филтър помага да се гарантира, че не се създават договори за проекти за поръчки за продажба във Finance. Ако създадете свой собствен шаблон, трябва да добавите този филтър.
-- Създайте филтър Power Query, който включва само договорните организации, които трябва да бъдат синхронизирани с юридическото лице на набора за интеграционна връзка. Например проектните договори, които имате с договорната организационна единица на Contoso US, трябва да бъдат синхронизирани с юридическото лице USSI, но договорите за проекти, които имате с договорната организационна единица на Contoso Global, трябва да бъдат синхронизирани с юридическото лице USMF. Ако не добавите този филтър към картографирането на вашата задача, всички договори за проекти ще бъдат синхронизирани с юридическото лице, което е дефинирано за набора от връзки, независимо от организационната единица на договора.
+- Създайте филтър Power Query, който включва само договорните организации, които трябва да бъдат синхронизирани с юридическото лице на набора за интеграционна връзка. Например проектни договори, които имате с организационната единица на договорите Contoso US трябва да бъдат синхронизирани с юридическото лице USSI, но договорите за проекти, които имате с организационната единица на договора на Contoso Global трябва да се синхронизира с юридическото лице на USMF. Ако не добавите този филтър към картографирането на вашата задача, всички договори за проекти ще бъдат синхронизирани с юридическото лице, което е дефинирано за набора от връзки, независимо от организационната единица на договора.
 
 ## <a name="template-mapping-in-data-integration"></a>Съпоставяне на шаблони при интеграция на данни
 
@@ -142,17 +140,17 @@ ms.locfileid: "5289581"
 
 Следните илюстрации показват примери на нанасяне на задача за съпоставяне в интеграция на данни. Картографирането показва информация за полето, която ще бъде синхронизирана от Project Service Automation към Finance.
 
-[![Съпоставяне на шаблон на договор за проект](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
+[![Съпоставяне на шаблон на договор за проект.](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
 
-[![Съпоставяне на шаблон на проект](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
+[![Съпоставяне на шаблон на проект.](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
 
-[![Съпоставяне на шаблон на редове на договор за проект](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
+[![Съпоставяне на шаблон за аспекти на договор за проект.](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
 
-[![Съпоставяне на шаблон на контролна точка на аспекти на договор за проект](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
+[![Съпоставяне на шаблон за контролна точка на аспекти на договор за проект.](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
 
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Съпоставяне на етапа на проектната линия на проекти в проекти и договори (PSA 3.x към Dynamics) - шаблон v2:
 
-[![Съпоставяне на шаблон на контролна точка с шаблон на втора версия](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+[![Съпоставяне на контролна точка на аспекти на договор по проект с шаблон на втора версия.](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
