@@ -56,12 +56,20 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интегриране на управление на разходите
               href: environment/resource-dual-write-expense.md
-            - name: Интегриране на фактура на доставчик
+            - name: Интегриране на фактури на доставчици
               href: environment/resource-dual-write-vendor-invoice.md
         - name: Деинсталиране на Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
+        - name: 'Май 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-may-2022-resource-based.md
+        - name: 'Април 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-apr-2022-resource-based.md
+        - name: 'Mart 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-mar-2022-resource-based.md
+        - name: 'Февруари 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-feb-2022-resource-based.md
         - name: 'Декември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
           href: whats-new/whats-new-dec-2021-resource-based.md
         - name: 'Ноември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -94,7 +102,7 @@
       items:
         - name: Общ преглед на процес на продажби по проект
           href: sales/sales-overview.md
-        - name: Инсталиране
+        - name: Настройка
           items:
             - name: Продукти
               href: sales/sales-products.md
@@ -102,6 +110,8 @@
               href: sales/sales-units-unit-groups.md
             - name: Валута
               href: sales/sales-currency.md
+            - name: Организационни единици
+              href: sales/OrgUnits.md
         - name: Управление на потенциални клиенти по проект
           href: sales/manage-leads.md
         - name: Управление на възможности на проект
@@ -288,8 +298,6 @@
               href: project-management/project-cost-tracking.md
             - name: Проследяване на приходите от труд по проекти
               href: project-management/project-sales-tracking.md
-            - name: Актуализиране на оценка при завършване
-              href: project-management/update-completed-estimate.md
         - name: Членове на екипа на проект
           items:
             - name: Общ преглед на членове на екипа по проекта
@@ -308,6 +316,8 @@
               href: project-management/dev-copy-project.md
             - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Използване на API за график на проект с Power Automate
+              href: project-management/scheduling-apis-powerautomate.md
             - name: Производителност на API за планиране на проекти
               href: project-management/project-schedule-api-performance.md
             - name: Регистрационни файлове за планиране на проекти
@@ -427,7 +437,7 @@
         - name: Аванс в брой
           href: expense/cash-advance.md
         - name: Дневни разходи
-          href: expense/per-diems.md
+          href: expense/per-diem-expenses.md
         - name: Приложение „Мобилни разходи“
           href: expense/expense-using-mobile.md
         - name: Финансово управление
@@ -444,27 +454,39 @@
           href: approvals/approvals-overview.md
         - name: Набори от одобрения
           href: approvals/approval-sets.md
+        - name: Отмяна на одобрението на по-рано одобрени записи
+          href: approvals/cancelapproval.md
+        - name: Оттегляне на предишно одобрени записи
+          href: approvals/recall-cancel.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
               href: approvals/dev-notes-approvals.md
     - name: Действителни данни
       items:
+        - name: Бизнес трансакции в Project Operations
+          href: actuals/businesstransactions.md
         - name: Общ преглед на действителни данни
           href: actuals/actuals-overview.md
-        - name: Свързване на действителните данни с първоначални записи
+        - name: Произход на трансакциите – Свързване на действителни данни с източник
           href: actuals/linkingactuals.md
-        - name: Журнали за корекции
+        - name: Връзки за трансакции – Свързване на действителните данни от различни типове трансакции
+          href: actuals/connectingactuals.md
+        - name: Журнали
           items:
+            - name: Създаване и потвърждаване на журнали за записи
+              href: actuals/create-confirm-entry-journals.md
             - name: Създаване и потвърждаване на журнали за корекции
               href: actuals/create-confirm-correction-journals.md
     - name: Доставка
       items:
         - name: Конфигуриране на нескладирани материали и фактури на доставчици в изчакване
           href: procurement/configure-materials-nonstocked.md
-        - name: Осигуряване на нескладирани материали за проекти с помощта на фактури на доставчици в изчакване
+        - name: Конфигуриране на категории за доставки за проекти
+          href: procurement/configure-procurement-categories.md
+        - name: Доставка на стоки и услуги за проекти с помощта на фактури на доставчици в изчакване
           href: procurement/pending-vendor-invoices.md
-        - name: 'Поръчвайте неналични на склад материали за проекти, като използвате поръчки за покупка по проект'
+        - name: Поръчване на стоки и услуги за проекти чрез използване на поръчки за покупка по проект
           href: procurement/non-stocked-materials-project-purchase-orders.md
         - name: Задържане на доставчици
           items:
@@ -538,6 +560,18 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: Управление на прогнози за приходи
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: Разширена конфигурация
+      items:
+        - name: Мигриране на напълно фактурирани контролни точки на фактуриране по време на прекъсване
+          href: advanced-configuration/migrating-invoiced-milestones.md
+    - name: Надстройка
+      items:
+        - name: Съображения за надстройка за съвременни одобрения
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Приложения на Project Operations
+      items:
+        - name: Приложение „Член на екипа на Project Operations“
+          href: team-member/project-operations-team-member.md
     - name: Отстраняване на неизправности
       items:
         - name: Процес на продажби по проект
@@ -562,6 +596,14 @@
       items:
         - name: Нововъведения за ранен достъп до вълна 2 за 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Нововъведения от май 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-may-2022-lite.md
+        - name: Нововъведения от април 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-apr-2022-lite.md
+        - name: Нововъведения от март 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-mar-2022-lite.md
+        - name: Нововъведения от февруари 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-feb-2022-lite.md
         - name: Нововъведения от декември 2021 г. – олекотено внедряване
           href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: Нововъведения от ноември 2021 г. – олекотено внедряване
@@ -594,7 +636,7 @@
       items:
         - name: Общ преглед на процес на продажби по проект
           href: sales/sales-overview.md
-        - name: Инсталиране
+        - name: Настройка
           items:
             - name: Продукти
               href: sales/sales-products.md
@@ -602,6 +644,8 @@
               href: sales/sales-units-unit-groups.md
             - name: Валута
               href: sales/sales-currency.md
+            - name: Организационни единици
+              href: sales/OrgUnits.md
         - name: Управление на потенциални клиенти по проект
           href: pro/sales/managing-leads-sales.md
         - name: Управление на възможности на проект
@@ -808,8 +852,6 @@
               href: project-management/project-cost-tracking.md
             - name: Проследяване на приходите от труд по проекти
               href: project-management/project-sales-tracking.md
-            - name: Актуализиране на оценка при завършване
-              href: project-management/update-completed-estimate.md
         - name: Членове на екипа на проект
           items:
             - name: Общ преглед на членове на екипа по проекта
@@ -828,6 +870,8 @@
               href: project-management/dev-copy-project.md
             - name: Използване на API за график на проект
               href: project-management/schedule-api-preview.md
+            - name: Използване на API за график на проект с Power Automate
+              href: project-management/scheduling-apis-powerautomate.md
             - name: Производителност на API за планиране на проекти
               href: project-management/project-schedule-api-performance.md
     - name: Управление на ресурси
@@ -886,12 +930,10 @@
           items:
             - name: Общ преглед на използването на ресурси
               href: resource-management/resource-utilization-overview.md
-    - name: Управление на подизпълнение в Project Operations
+    - name: Управление на подизпълнения
       items:
         - name: Управление на подизпълнение в Project Operations
           href: pro/subcontracting/managing-subcontracts-overview.md
-        - name: Възлагане на подизпълнители в ранен достъп от октомври 2021
-          href: pro/subcontracting/Subcontracting_EA_scope.md
         - name: Ключови концепции при възлагането на подизпълнение
           href: pro/subcontracting/key-concepts-subcontracting.md
         - name: Управление на доставчици и ценови листи на проекти
@@ -924,6 +966,28 @@
           href: pro/subcontracting/recording-subcon-actuals.md
         - name: Преходи на състояние на подизпълнение
           href: pro/subcontracting/subcon-states.md
+    - name: Фактури на доставчик по проект
+      items:
+        - name: Фактуриране на доставчик – Концепция и създаване
+          href: pro/subcontracting/vendor-invoice-overview.md
+        - name: Подробности за заглавка на фактури на доставчик
+          href: pro/subcontracting/vendor-invoice-header.md
+        - name: Редове на фактури на доставчик за време
+          href: pro/subcontracting/vendor-invoice-line-time.md
+        - name: Редове на фактури на доставчик за продукт
+          href: pro/subcontracting/vi-line-material.md
+        - name: Редове на фактури на доставчик за контролни точки
+          href: pro/subcontracting/vi-line-milestone.md
+        - name: Редове на фактура на доставчик за категории на разход
+          href: pro/subcontracting/vi-line-expense.md
+        - name: Проверка на фактури на доставчици с одобрени действителни данни
+          href: pro/subcontracting/VI-Verification.md
+        - name: Отмяна на фактура на доставчик по проект
+          href: pro/subcontracting/cancel-vi.md
+        - name: Потвърждение на фактура на доставчик по проект
+          href: pro/subcontracting/confirm-vi.md
+        - name: Преходи на състояние за фактура на доставчик
+          href: pro/subcontracting/vi-state-model.md
     - name: Време
       items:
         - name: Общ преглед на време
@@ -952,18 +1016,28 @@
           href: approvals/approvals-overview.md
         - name: Набори от одобрения
           href: approvals/approval-sets.md
+        - name: Отмяна на одобрението на по-рано одобрени записи
+          href: approvals/cancelapproval.md
+        - name: Оттегляне на предишно одобрени записи
+          href: approvals/recall-cancel.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
               href: approvals/dev-notes-approvals.md
     - name: Действителни данни
       items:
+        - name: Бизнес трансакции в Project Operations
+          href: actuals/businesstransactions.md
         - name: Общ преглед на действителни данни
           href: actuals/actuals-overview.md
-        - name: Свързване на действителните данни с първоначални записи
+        - name: Произход на трансакциите – Свързване на действителни данни с източник
           href: actuals/linkingactuals.md
-        - name: Журнали за корекции
+        - name: Връзки за трансакции – Свързване на действителните данни от различни типове трансакции
+          href: actuals/connectingactuals.md
+        - name: Журнали
           items:
+            - name: Създаване и потвърждаване на журнали за записи
+              href: actuals/create-confirm-entry-journals.md
             - name: Създаване и потвърждаване на журнали за корекции
               href: actuals/create-confirm-correction-journals.md
     - name: Проформа фактуриране
@@ -984,6 +1058,14 @@
           href: pro/proforma-invoicing/corrective-invoices-sales.md
         - name: Конфигуриране на автоматизация на фактура по проект
           href: pro/proforma-invoicing/configure-automated-invoice-creation-sales.md
+    - name: Надстройка
+      items:
+        - name: Съображения за надстройка за съвременни одобрения
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Приложения на Project Operations
+      items:
+        - name: Приложение „Член на екипа на Project Operations“
+          href: team-member/project-operations-team-member.md
 - name: 'Project Operations за сценарии, базирани на наличност/производство'
   items:
     - name: Какво е новото
@@ -1010,43 +1092,39 @@
       href: prod-pma/project-operations-prod-order-deployment-overview.md
     - name: Общ преглед на управление и счетоводство на проекти
       href: prod-pma/overview-project-management-accounting.md
-    - name: Междуфирмено фактуриране
-      href: prod-pma/intercompany-invoicing.md
-    - name: Конфигуриране на фактуриране за междуфирмен проект
-      href: prod-pma/tasks/configure-intercompany-project-invoicing.md
-    - name: Конфигуриране на стандартни разходи за труд и разходи
-      href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
-    - name: Създаване и прилагане на условия за запазване на плащания на доставчик
-      href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
-    - name: Настройване и използване на плащания на доставчик при получаване на плащане
-      href: prod-pma/setup-manage-vendor-payments.md
-    - name: Нарастване на разход по проект в разписки за покупки
-      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
-    - name: Фактуриране по проект
-      href: /dynamics365/finance/accounts-payable/project-invoicing
-    - name: Производителност на предложение за фактуриране по проект
-      href: prod-pma/project-invoice-proposal-performance.md
-    - name: Договори по проекти
-      href: prod-pma/project-contracts.md
-    - name: Създаване на разширени договори за фактуриране въз основа на напредъка
-      href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
-    - name: Прогнози за проект и бюджети
-      href: prod-pma/project-forecasts-budgets.md
-    - name: Създаване на модели на прогноза за бюджети на проекти
-      href: prod-pma/create-forecast-models-project-budgets.md
-    - name: Прехвърляне на бюджети на проекти в края на финансова година
-      href: prod-pma/process-project-budgets-for-fiscal-year-end.md
-    - name: Поръчки за продажби по проект
-      href: prod-pma/project-sales-orders.md
-    - name: Поръчки за покупка за проект
-      href: prod-pma/project-purchase-orders.md
-    - name: Оферти за проект
-      href: prod-pma/project-quotations.md
-    - name: 'Потвърждаване, актуализиране и изпращане на оферта за проект'
-      href: prod-pma/confirm-update-send-project-quotation.md
-    - name: Прехвърляне на оферта към проект
-      href: prod-pma/transfer-quote-new-existing-project.md
-    - name: Осигуряване на ресурси за проект
+    - name: Процес на продажби по проект
+      items:
+        - name: Оферти за проект
+          href: prod-pma/project-quotations.md
+        - name: 'Потвърждаване, актуализиране и изпращане на оферта за проект'
+          href: prod-pma/confirm-update-send-project-quotation.md
+        - name: Прехвърляне на оферта към проект
+          href: prod-pma/transfer-quote-new-existing-project.md
+        - name: Договори по проекти
+          href: prod-pma/project-contracts.md
+        - name: Разрешения на проект
+          href: prod-pma/project-grants.md
+    - name: Ценообразуване и разходи
+      items:
+        - name: Конфигуриране на стандартни разходи за труд и разходи
+          href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
+    - name: Управление на проекти
+      items:
+        - name: Общ преглед на съставните структури на работата
+          href: prod-pma/work-breakdown-structures.md
+        - name: Интеграция на Microsoft Project Client
+          href: prod-pma/project-integration.md
+        - name: Общ преглед на мобилни приложения на Project
+          href: prod-pma/project-mobile-application-overview.md
+        - name: Мобилна работна област за запис на време за проект
+          href: prod-pma/project-time-entry-mobile-workspace.md
+        - name: Мобилно приложение Project Timesheet
+          href: prod-pma/project-timesheet.md
+        - name: Project Timesheet на мобилно устройство
+          href: prod-pma/mobile-timesheets.md
+        - name: Внедряване на персонализирани полета за мобилното приложение Project Timesheet
+          href: prod-pma/custom-fields-mobile.md
+    - name: Управление на ресурси
       items:
         - name: Общ преглед на осигуряване на ресурси за проект
           href: prod-pma/project-resourcing.md
@@ -1068,28 +1146,106 @@
           href: prod-pma/set-up-roles-wbs-template.md
         - name: Изпълнение на ресурс за планирани ресурси
           href: prod-pma/resource-fulfillment-planned-resources.md
-    - name: Получаване на елементи по поръчка за покупка от изискване за елемент
-      href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
-    - name: Съставни структури на работата
+    - name: Бюджети и прогнози по проект
       items:
-        - name: Общ преглед на съставните структури на работата
-          href: prod-pma/work-breakdown-structures.md
-        - name: Интеграция на Microsoft Project Client
-          href: prod-pma/project-integration.md
-        - name: Общ преглед на мобилни приложения на Project
-          href: prod-pma/project-mobile-application-overview.md
-        - name: Мобилна работна област за запис на време за проект
-          href: prod-pma/project-time-entry-mobile-workspace.md
-        - name: Мобилно приложение за таблица за работно време на проект
-          href: prod-pma/project-timesheet.md
-        - name: Таблици за работно време на проект на мобилно устройство
-          href: prod-pma/mobile-timesheets.md
-        - name: Внедряване на персонализирани полета за мобилното приложение за таблица за работно време
-          href: prod-pma/custom-fields-mobile.md
-    - name: Разрешения на проект
-      href: prod-pma/project-grants.md
-    - name: Премахване на оценка на проект
-      href: prod-pma/eliminate-project-estimate.md
+        - name: Прогнози за проект и бюджети
+          href: prod-pma/project-forecasts-budgets.md
+        - name: Създаване на модели на прогноза за бюджети на проекти
+          href: prod-pma/create-forecast-models-project-budgets.md
+        - name: Прехвърляне на бюджети на проекти в края на финансова година
+          href: prod-pma/process-project-budgets-for-fiscal-year-end.md
+    - name: Време
+      items:
+        - name: Финансови измерения по подразбиране за времеви записи по проект
+          href: prod-pma/time-entry-dimension-defaults.md
+    - name: Разход
+      items:
+        - name: Общ преглед на разход
+          href: expense/expense-overview.md
+        - name: Ново изживяване за разходи
+          items:
+            - name: Обновени отчетите за разходите
+              href: expense/expense-reports-reimagined.md
+            - name: Заснемане на разписка с помощта на OCR
+              href: expense/match-receipt-expense-ocr.md
+        - name: Конфигурация и настройка
+          items:
+            - name: Настройване на политики
+              href: expense/set-up-policies.md
+            - name: Настройване на работни потоци
+              href: expense/set-up-workflows.md
+            - name: Управление на делегирането
+              href: expense/manage-delegation.md
+            - name: Конфигуриране на параметрите за управление на разходите
+              href: expense/configure-expense-management-parameters.md
+            - name: Настройване на интеграция на кредитни карти
+              href: expense/set-up-credit-card-integration.md
+            - name: Настройване на категории разходи
+              href: expense/set-up-expense-categories.md
+            - name: 'Настройте пробег, като използвате нива ставка за пробег'
+              href: expense/set-up-mileage.md
+        - name: Подреждане на разходите
+          href: prod-exp/expense-itemization.md
+        - name: Лични разходи
+          href: expense/personal-expenses-expense-report.md
+        - name: Междуфирмени разходи
+          href: prod-exp/intercompany-expense.md
+        - name: Създаване на отчети за разходи
+          items:
+            - name: Разпределения в отчет за разходи
+              href: expense/distributions-expense-report.md
+        - name: Одобряване на отчети за разходи
+          items:
+            - name: Отчети за разходи и множество одобряващи
+              href: expense/expense-reports-multiple-approvers.md
+        - name: Публикуване на отчети за разходи
+          href: expense/posting-expense-reports.md
+        - name: Заявка за пътуване
+          href: expense/travel-requisition.md
+        - name: Аванс в брой
+          href: expense/cash-advance.md
+        - name: Дневни разходи
+          href: expense/per-diem-expenses.md
+        - name: Приложение „Мобилни разходи“
+          href: expense/expense-using-mobile.md
+        - name: Финансово управление
+          items:
+            - name: Възстановяване на ДДС
+              href: expense/vat-recovery.md
+    - name: Доставка
+      items:
+        - name: Поръчки за покупка за проект
+          href: prod-pma/project-purchase-orders.md
+        - name: Нарастване на разход по проект в разписки за покупки
+          href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
+        - name: Получаване на елементи по поръчка за покупка от изискване за елемент
+          href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
+        - name: Настройване и използване на плащания на доставчик при получаване на плащане
+          href: prod-pma/setup-manage-vendor-payments.md
+        - name: Създаване и прилагане на условия за запазване на плащания на доставчик
+          href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
+    - name: Фактуриране по проект
+      items:
+        - name: Фактуриране по проект
+          href: /dynamics365/finance/accounts-payable/project-invoicing
+        - name: Производителност на предложение за фактура по проект
+          href: prod-pma/project-invoice-proposal-performance.md
+        - name: Създаване на разширени договори за фактуриране въз основа на напредъка
+          href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
+        - name: Поръчки за продажби по проект
+          href: prod-pma/project-sales-orders.md
+        - name: Изисквания за елементи за договори за проекти с множество източници на финансиране
+          href: prod-pma/multiple-funding-sources-item-req.md
+    - name: Междуфирмено фактуриране
+      items:
+        - name: Междуфирмено фактуриране
+          href: prod-pma/intercompany-invoicing.md
+        - name: Конфигуриране на фактуриране за междуфирмен проект
+          href: prod-pma/tasks/configure-intercompany-project-invoicing.md
+    - name: Признаване на приходите
+      items:
+        - name: Премахване на оценка на проект
+          href: prod-pma/eliminate-project-estimate.md
 - name: Управление на разходите
   items:
     - name: Общ преглед на управление на разход
@@ -1148,6 +1304,16 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 43, V3'
+          href: psa/whats-new-ur43.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 42, V3'
+          href: psa/whats-new-ur-42.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 41, V3'
+          href: psa/whats-new-ur-41.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 40, V3'
+          href: psa/whats-new-ur-40.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 39, V3'
+          href: psa/whats-new-ur-39.md
         - name: 'Какво е новото или промененото в изданието на актуализация 38, V3'
           href: psa/whats-new-ur-38.md
         - name: 'Какво е новото или промененото в изданието на актуализация 37.5, V3'
@@ -1238,6 +1404,8 @@
           href: psa/implementation-guides/reporting-guide.md
     - name: Надстройте от Project Service Automation до Project Operations – олекотена версия
       href: psa/upgrade-project-operations-non-stocked.md
+    - name: Промени на функции от Project Service Automation до Project Operations
+      href: psa/psa-project-operations-changes.md
     - name: Надстройка на Project Service Automation (версия на приложението 3.x)
       items:
         - name: Надстройка на Project Service Automation
