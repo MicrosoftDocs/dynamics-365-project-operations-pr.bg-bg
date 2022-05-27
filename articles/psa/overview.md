@@ -6,7 +6,7 @@ ms.custom:
 - dyn365-projectservice
 - intro-internal
 ms.date: 9/23/2019
-ms.topic: article
+ms.topic: overview
 ms.author: ruhercul
 audience: Admin
 search.audienceType:
@@ -17,12 +17,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 06894a64e4d96ec14799b528ff17b92fbb0d36ba8fdbc9b58abb892563e822b5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 4479f8b1d7cce5d3008ffa285c66da2669532576
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000248"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8580167"
 ---
 # <a name="what-is-dynamics-365-project-service-automation"></a>Какво представлява Dynamics 365 Project Service Automation?
 
@@ -42,14 +43,6 @@ ms.locfileid: "7000248"
 - …и още
 
 Освен това, за да ви помогне да проследявате и контролирате разходите за работата, базирана на проект, отделните консултанти лесно въвеждат и проследяват времето и разходите по проект на мобилно устройство или чрез уеб браузър.
-
-## <a name="whats-new-in-psa"></a>Какво е новото в PSA
-За екипа е удоволствие да обяви нашите най-нови актуализации! Обхват от подобрения на потребителския интерфейс, коригиране на грешки и добавяне на важни нови функции и възможности. Вие поискахте – ние послушахме.
-
-Прегледайте [Бележки по изданието от октомври '19](/dynamics365-release-plan/2019wave2/index), за да видите най-новите ни подобрения и допълнения.
-
-### <a name="in-development"></a>В процес на разработка
-За да видите какво сме планирали за близкото бъдеще, се насочете към [Dynamics 365: издание за 2020 г., план за вълна 1](/dynamics365-release-plan/2020wave1/index).
 
 ## <a name="get-help-with-psa-version-3x"></a>Получаване на помощ за версия 3.x на PSA
 Търсите ли ресурси, които да ви помогнат да планирате реализацията? Прегледайте тези ръководства с възможност за изтегляне.
@@ -80,10 +73,6 @@ ms.locfileid: "7000248"
  [Технически документи (версия на приложението 2.x или 1.x)](../psa/white-papers.md)
 
  [Бележки за разработчици (версия на приложението 2.x)](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
-
- ## <a name="watch-a-2-minute-overview-video"></a>Гледайте 2-минутно видео за общ преглед
- <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo."](https://go.microsoft.com/fwlink/p/?LinkId=799457)
-
 
 
 
