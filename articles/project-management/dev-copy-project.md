@@ -2,76 +2,80 @@
 title: Разработване на шаблони за проекти с копирането на проект
 description: Тази тема предоставя информация за това как да създадете шаблони за проекти с помощта на персонализираното действие Копиране на проект.
 author: stsporen
-ms.date: 01/21/2021
+ms.date: 03/10/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: d12301b4e7baabeb0f045f9a11d4695fc026339af3fa7650db7177c495c71e90
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 72aa2db7c717eeab85ada448c673bf702087baeb
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989227"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8590885"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Разработване на шаблони за проекти с копирането на проект
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 Dynamics 365 Project Operations поддържа възможността за копиране на проект и връщане на всички присвоявания към общите ресурси, които представляват ролята. Клиентите могат да използват тази функционалност за изграждане на основни шаблони за проекти.
 
 Когато изберете **Копиране на проект**, състоянието на целевия проект се актуализира. Използвайте **описание на състоянието**, за да определите кога действието за копиране е завършено. Избиране **Копиране на проект** също актуализира началната дата на проекта до текущата начална дата, ако в обекта на целевия проект не е открита целева дата.
 
-## <a name="copy-project-custom-action"></a>Копирайте персонализираното действие на проекта 
+## <a name="copy-project-custom-action"></a>Копирайте персонализираното действие на проекта
 
 ### <a name="name"></a>Име 
 
-**msdyn_CopyProjectV2**
+msdyn\_ CopyProjectV3
 
 ### <a name="input-parameters"></a>Входни параметри
+
 Има три входящи параметри:
 
-| Параметър          | Тип   | Стойности                                                   | 
-|--------------------|--------|----------------------------------------------------------|
-| ProjectCopyOption  | String | **{"removeNamedResources":true}** или **{"clearTeamsAndAssignments":true}** |
-| SourceProject      | Препратка към обект | Изходен проект |
-| Цел             | Препратка към обект | Целеви проект |
+- **ReplaceNamedResources** или **ClearTeamsAndРазпределения** – Задайте само една от опциите. Не поставяй и двете.
 
+    - **\{"ReplaceNamedResources":true\}** – Поведението по подразбиране за Операции по проекта. Всички наименувани ресурси се заменят с генерични ресурси.
+    - **\{"ClearTeamsAndAssignments":true\}** – Поведението по подразбиране за Project за уеб. Всички задачи и членове на екипа се премахват.
 
-- **{"clearTeamsAndAssignments":true}**: Поведението по подразбиране за проект за мрежата и ще премахне всички задания и членове на екипа.
-- **{"removeNamedResources":true}** Поведението по подразбиране за Project Operations и ще върне заданията към общи ресурси.
+- **SourceProject** – Препратката към обект на проекта източник, от който да копирате. Този параметър не може да е нищожна.
+- **Цел** – Препратката към обекта на целевия проект, в която да копирате. Този параметър не може да е нищожна.
 
-За повече стойности по подразбиране за действия вижте [Използване на действия на Web API](/powerapps/developer/common-data-service/webapi/use-web-api-actions)
+Следната таблица предоставя обобщение на трите параметъра.
 
-## <a name="specify-fields-to-copy"></a>Посочете полета за копиране 
+| параметър                | Вид             | Value                 |
+|--------------------------|------------------|-----------------------|
+| ЗамениНаименованияРесурси    | Boolean          | **Вярно** или **невярно** |
+| ClearTeamsИзадачи | Boolean          | **Вярно** или **невярно** |
+| SourceProject            | Препратка към обект | Проектът източник    |
+| Цел                   | Препратка към обект | Целевият проект    |
+
+За повече по подразбиране за действия вижте [Използване на действия](/powerapps/developer/common-data-service/webapi/use-web-api-actions) на Web API.
+
+### <a name="validations"></a>Потвърждаване
+
+Правят се следните валидации.
+
+1. Null проверява и извлича източника и целевите проекти, за да потвърди съществуването и на двата проекта в организацията.
+2. Системата валидира, че целевият проект е валиден за копиране, като проверява следните условия:
+
+    - В проекта няма предишна дейност (включително избор на **раздела Задачи**), а проектът е новосъздаен.
+    - Няма предишно копие, в този проект не е поискано импортиране и проектът няма **състояние "Неуспешно** ".
+
+3. Операцията не се извиква чрез HTTP.
+
+## <a name="specify-fields-to-copy"></a>Посочете полета за копиране
+
 Когато се извика действието, **Копиране на проект** ще разгледа изгледа на проекта **Копиране на колони на проекта**, за да определите кои полета да копирате при копиране на проекта.
 
-
 ### <a name="example"></a>Пример
-Следващият пример показва как да извикате **CopyProject** персонализирано действие с набор от параметри **removeNamedResources**.
+
+Следният пример показва как да се обадите **на действие CopyProjectV3** по избор с **набора от параметри на removeNamedResources**.
+
 ```C#
 {
     using System;
     using System.Runtime.Serialization;
     using Microsoft.Xrm.Sdk;
     using Newtonsoft.Json;
-
-    [DataContract]
-    public class ProjectCopyOption
-    {
-        /// <summary>
-        /// Clear teams and assignments.
-        /// </summary>
-        [DataMember(Name = "clearTeamsAndAssignments")]
-        public bool ClearTeamsAndAssignments { get; set; }
-
-        /// <summary>
-        /// Replace named resource with generic resource.
-        /// </summary>
-        [DataMember(Name = "removeNamedResources")]
-        public bool ReplaceNamedResources { get; set; }
-    }
 
     public class CopyProjectSample
     {
@@ -89,27 +93,32 @@ Dynamics 365 Project Operations поддържа възможността за �
             var sourceProject = new Entity("msdyn_project", sourceProjectId);
 
             Entity targetProject = new Entity("msdyn_project");
-            targetProject["msdyn_subject"] = "Example Project";
+            targetProject["msdyn_subject"] = "Example Project - Copy";
             targetProject.Id = organizationService.Create(targetProject);
 
-            ProjectCopyOption copyOption = new ProjectCopyOption();
-            copyOption.ReplaceNamedResources = true;
-
-            CallCopyProjectAPI(sourceProject.ToEntityReference(), targetProject.ToEntityReference(), copyOption);
+            CallCopyProjectAPI(sourceProject.ToEntityReference(), targetProject.ToEntityReference(), copyOption, true, false);
             Console.WriteLine("Done ...");
         }
 
-        private void CallCopyProjectAPI(EntityReference sourceProject, EntityReference TargetProject, ProjectCopyOption projectCopyOption)
+        private void CallCopyProjectAPI(EntityReference sourceProject, EntityReference TargetProject, bool replaceNamedResources = true, bool clearTeamsAndAssignments = false)
         {
-            OrganizationRequest req = new OrganizationRequest("msdyn_CopyProjectV2");
+            OrganizationRequest req = new OrganizationRequest("msdyn_CopyProjectV3");
             req["SourceProject"] = sourceProject;
             req["Target"] = TargetProject;
-            req["ProjectCopyOption"] = JsonConvert.SerializeObject(projectCopyOption);
+
+            if (replaceNamedResources)
+            {
+                req["ReplaceNamedResources"] = true;
+            }
+            else
+            {
+                req["ClearTeamsAndAssignments"] = true;
+            }
+
             OrganizationResponse response = organizationService.Execute(req);
         }
     }
 }
 ```
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

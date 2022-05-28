@@ -5,14 +5,14 @@ author: andchoi
 ms.date: 04/22/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 0b214678a17e5b1cdacb89ae00e4acb83b8292d02ff937f30e307751d39f152d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 42b4da3a77d56891454d094cd771575ff9bff081
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005558"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8589597"
 ---
 # <a name="whats-new-or-changed-in-project-operations-april-2021-for-stockedproduction-based-scenarios"></a>Нововъведения или промени в Project Operations за април 2021 за сценарии, базирани на наличност/производство
 
@@ -20,7 +20,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
-- Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.18
+- Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.18
  
 ### <a name="quality-updates"></a>Актуализации на качеството
                                                                                                                                                                                   
@@ -83,7 +83,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Пътуване и разход                | [550575](https://fix.lcs.dynamics.com/Issue/Details/?bugId=550575) | Когато категорията на разходите е непроектна категория, финансовите измерения, избрани на страницата **Разходи** не се копират в отчета за разходите.                                          |
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно регулаторни актуализации за приложения "Финанси и операции" вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -4,14 +4,14 @@ description: Тази тема предоставя информация за т
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 5ba43ba9f917da068415fb62067ab73433b701139ee07014b6bd8c02612008ce
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991518"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8587987"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Регистриране за абонамент за преглед – олекотено 
 
@@ -43,7 +43,7 @@ ms.locfileid: "6991518"
 > Ще ви е необходим административен достъп до организацията на Портал на Microsoft 365 на вашата организация, за да изпълните следните стъпки.
 
 
-1. Отидете на [Административен център на Microsoft 365](https://portal.office.com/), за да присвоите лицензите на вашите потребители.
+1. Отидете в [Microsoft 365 администраторски център](https://portal.office.com/), за да присвоите лицензите на потребителите си.
 2. На страницата **Активни потребители** изберете потребителите, на които искате да присвоите лиценз.
 3. Проверете дали **Dynamics 365 Project Operations** лицензът е избран. 
 4. Изберете **Записване на промените**.
