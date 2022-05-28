@@ -2,22 +2,22 @@
 title: Регистрация за пробни версии на Project Operations
 description: Тази тема предоставя информация за това как да внедрите пробна версия на Dynamics 365 Project Operations.
 author: ruhercul
-ms.date: 12/08/2021
+ms.date: 01/10/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: e40b4ac23241730f5c2db89f0dc674083f9e7abe
-ms.sourcegitcommit: 8f970b46d0303dafaa75fc7d00567d232e1e600b
-ms.translationtype: HT
+ms.openlocfilehash: a0c2532370c99cfe75b54da42c329f5b244a47e7
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/09/2021
-ms.locfileid: "7901604"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8584261"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Регистрация за пробни версии на Project Operations 
 
 _**Приложимо за:** Project Operations за сценарии, базирани на ресурси/неналичност, леко внедряване – фактуриране на сделка към проформа, Project Operations за сценарии, базирани на наличност/производство_ 
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Тази тема обяснява как да се абонирате за офертата за партньор за визуализация и да внедрите среда на Dynamics 365 Project Operations.
 
@@ -36,7 +36,6 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Оферта за използване                    | Един път на наемател                          |
 | Продължителност на офертата               | 30 календарни дни                             |
 | Осребрявания на наемател       | 1                                            |
-| Брой потребители              | 25                                           |
 | Разширение                    | 1 разширение, 30 календарни дни               |
 | Брой пробни среди | 3                                            |
 
@@ -87,17 +86,17 @@ _**Приложимо за:** Project Operations за сценарии, бази
  
   Когато предоставянето приключи, състоянието на вашата среда е **Готов**. Осигуряването на средата включва разполагане на демо данни.
  
-4.  Изберете съответния URL адрес на Microsoft Dataverse и URL адресите на приложенията Finance and Operations за валидиране на внедряването.
+4.  Изберете съответния Microsoft Dataverse URL адрес и URL адресите на приложенията "Финанси и операции", за да валидирате разполагането.
 
 ## <a name="configuring-dual-write"></a>Конфигуриране на двукратно записване
 - За да конфигурирате права за достъп за двойно записване, вижте [Актуализиране на настройките за защита на Project Operations в Dataverse](resource-provision-new-environment.md).
-- За да конфигурирате карти с двойно записване, вижте Изпълнение на [проектни операции карти с двойно записване](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
+- За да конфигурирате карти с двойно записване, вижте [Изпълнение на проектни операции карти с двойно записване](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Присвояване на лицензи
 
 Ще ви е необходим административен достъп до организацията на Портал на Microsoft 365 на вашата организация, за да изпълните следните стъпки.
 
-1. Отидете на [Административен център на Microsoft 365](https://portal.office.com/) да присвоите лицензите на вашите потребители.
+1. Отидете в [Microsoft 365 центъра](https://portal.office.com/) за администриране, за да присвоите лицензите на потребителите си.
 
    ![Начална страница на център за администрация](./media/14AdminPortal.png)
 
@@ -117,7 +116,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 ## <a name="frequently-asked-questions"></a>Често задавани въпроси
 
-### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Ами ако изисквам ALM или ELM за моя среда на приложения на Finance and Operations?
+### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Какво ще стане, ако изисквам ALM или ELM за моята среда за приложения "Финанси и операции"?
 
 - За партньори, които се нуждаят от пълни възможности за управление на жизнения цикъл на околната среда, вижте [Искане за лиценз за партньорска пясъчна кутия](https://experience.dynamics.com/requestlicense) за преглед на новото партньорско предложение. 
 - За партньори, които търсят повече информация за правата за вътрешно ползване, вижте [Облачни и софтуерни ползи за вътрешни права на ползване (microsoft.com)](https://partner.microsoft.com/membership/internal-use-software).
@@ -125,7 +124,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 ### <a name="can-i-extend-my-trial-beyond-30-days"></a>Мога ли да удължа пробния период след 30 дни?
 За да удължите пробния период, изпълнете следните стъпки.
 
-1. В **центъра за администриране на Microsoft 365** отидете на **Фактуриране** > **Вашите продукти**.
+1. В **Microsoft 365 Центъра** за администриране отидете **на Таксуване на** > **Продуктите** Ви.
 2. Изберете **Dynamics 365 Project Operations (CE) – Пробен преглед**.
 3. Под **Срок на годност**, изберете **Удължаване на датата**.
 

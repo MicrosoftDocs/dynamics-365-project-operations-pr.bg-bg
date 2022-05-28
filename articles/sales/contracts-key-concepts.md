@@ -4,26 +4,26 @@ description: Тази тема предоставя информация за к
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce84984f873e6336a6d065f0aa7a72f1474404a84d3dbb614c09d58bff66d83d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: f87a29893ca3d9bec6fbd07dded66a282ff597c3
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986928"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582927"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>Концепции, уникални за базирани на проект договори
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Тази тема предоставя ключовите концепции, с които трябва да се запознаете, преди да започнете да използвате договорите по проект в Dynamics 365 Project Operations:
 
 ## <a name="owning-company"></a>Притежаваща фирма
 
-Фирмата собственик е юридическо лице от модула **Управление на проекти и счетоводство** за Project Operations от Dynamics 365 Finance. Фирмата собственик представлява юридическото лице, което ще отчита разходите и приходите, които се натрупват от сделка.
+Притежаващата фирма е юридическото лице от модула за управление и счетоводство **на** проекта за "Операции по проекти" от Dynamics 365 Finance. Фирмата собственик представлява юридическото лице, което ще отчита разходите и приходите, които се натрупват от сделка.
 
 ## <a name="contracting-unit"></a>Единица, сключваща договора
 
