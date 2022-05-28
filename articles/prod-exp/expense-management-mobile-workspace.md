@@ -5,20 +5,19 @@ author: suvaidya
 ms.date: 12/01/2017
 ms.topic: article
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 274023
 ms.assetid: 3605eda1-a7ed-4675-8031-5279c5a8f5e4
 ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 0559f881aba2d0a9c65ad123a40803743fc7407bb0d87ac6e8280ee8e30d36b7
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d5309b55ed146d21d7a42e0b40add9ee346d48aa
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001463"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8682789"
 ---
 # <a name="expense-management-mobile-workspace"></a>Мобилна работна област за управление на разходите
 
@@ -35,7 +34,7 @@ ms.locfileid: "7001463"
 
 По-конкретно, мобилното работно пространство **Управление на разходите** позволява на потребителите да изпълняват следните задачи:
 
-- Направете снимка на разписка и я качете в Dynamics 365 Finance. След това можете да прикачите тази снимка към отчет за разходите по-късно.
+- Заснемете снимка на разписка, и я качете на Dynamics 365 Finance. След това можете да прикачите тази снимка към отчет за разходите по-късно.
 - Качете файл като уловена разписка. След това можете да прикачите този файл към отчет за разходите по-късно.
 - Създайте нов ред за разходи, като използвате приложена разписка. След това можете да добавите договорената позиция към отчет за разходите по-късно и да я изпратите за одобрение и възстановяване.
 

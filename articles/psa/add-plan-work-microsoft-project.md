@@ -16,12 +16,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ccebf1439f49092b23da5b4fc2ebb4fc484de4dd17c870eea9fe37b00fbb3689
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
+ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005288"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "8727945"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Използвайте добавката Project Service Automation за планиране на работата в Microsoft Project
 
@@ -40,7 +41,7 @@ ms.locfileid: "7005288"
 ## <a name="download-and-install-the-add-in"></a>Изтеглете и инсталирайте добавката  
  Подгответе информацията за регистрация в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]. Тази информация ви е необходима, за да се свържете от [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] с [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
 
-1.  От центъра за изтегляния изтеглете добавката за вашата поддържана версия на Project Service – [v2.X](https://go.microsoft.com/fwlink/?linkid=828268) или [v 3.4+](https://www.microsoft.com/download/details.aspx?id=57956).  
+1.  От центъра за изтегляния изтеглете добавката за вашата поддържана версия на Project Service – [v2.X](/dynamics365/project-operations/psa/overview#guidance-for-earlier-versions-app-version-2x-or-1x) или [v 3.4+](https://www.microsoft.com/download/details.aspx?id=57956).  
 
 2.  Щракнете върху връзката за изтегляне.  
 
@@ -87,9 +88,8 @@ ms.locfileid: "7005288"
 
 Проектът ще се импортира в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]. Прилагат се ценообразуването и процесът на генериране на екип. Отворете проекта в [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], за да проверите, че са генерирани екипът, оценките на проекта и съставната структура на работата. В таблицата по-долу е показано къде да се намерят резултатите:
 
-
-|                                                                                          |                                                                                                                                   |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Project | Подробни данни |
+| ---- | --- |
 |  [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Диаграма на Гант**   | Импортиране в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Съставна структура на работата**. |
 | [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Списък с ресурси** |   Импортиране в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Членове на екипа на проект**.   |
 |   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Използване на употреба**    |    Импортира в екрана на [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **Оценки на проект**.     |

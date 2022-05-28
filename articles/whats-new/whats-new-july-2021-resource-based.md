@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 07/07/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 69507427521466335df9cbbaba79db1cfc7be91386b8b2ded5b1c384555946ee
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1c88f3b4747005bee0d68d0e8a4314c01ffdaf34
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008033"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8600867"
 ---
 # <a name="whats-new-july-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Нововъведения от юли 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
 
@@ -21,7 +21,7 @@ ms.locfileid: "7008033"
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
    - Project Operations в Microsoft Dataverse, версия на среда 4.12.0.148 или 4.12.0.152.
-   - Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.20.
+   - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.20.
 
 ## <a name="features-included-in-this-release"></a>Функции, включени в тази версия
 
@@ -80,7 +80,7 @@ ms.locfileid: "7008033"
 | Обща информация                       | 2253682              | Решението за двойно писане на Project Operations не трябва да се инсталира, когато ядрото с двойно писане е инсталирано в среда без решението за оркестрация с двойно писане.                                                |
 | Обща информация                       | 2316420              | Предоставянето на ядрото на Project Service е неуспешно, ако се промени бизнес единицата на потребителя на приложението.                                                                                                                     |
 | Обща информация                       | 2376405              | Отстранен е проблем с актуализацията, управлявана от издателя (актуализацията на качеството е налична във версия 4.12.0.152)                                                                                                                     |
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство в Dynamics 365 Finance
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство по Dynamics 365 Finance
 
 | Област с функции                      | Номер за справка | Актуализация на качеството                                                                                                                                                                                                                                                                                                                |
 |-----------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

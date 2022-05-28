@@ -1,32 +1,31 @@
 ---
-title: Синхронизирайте действителните проекти директно от Project Service Automation с дневника за интегриране на проекти за публикуване в Finance and Operations
-description: Тази тема описва шаблонi и основните задачи, които се използват за синхронизиране на прогнозни часове на действителни данни за проект директно от Microsoft Dynamics 365 Project Service Automation в Finance and Operations.
+title: Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във "Финанси и операции"
+description: Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на проект действителни директно от Microsoft Dynamics 365 Project Service Automation към Финанси и операции.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: kfend
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 87983
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 85b6c07464e919e363f28d8bc62115e8fb4c72ea6631269b98fd00f324a01cba
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 12929c324bb3a7c344edc9be2e3a8f4941ff9ea4
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988098"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683525"
 ---
-# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизирайте действителните проекти директно от Project Service Automation с дневника за интегриране на проекти за публикуване в Finance and Operations
+# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във "Финанси и операции"
 
 [!include[banner](../includes/banner.md)]
 
-Тази тема описва шаблонi и основните задачи, които се използват за синхронизиране на прогнозни часове на действителни данни за проект директно от Dynamics 365 Project Service Automation в Dynamics 365 Finance.
+Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на проект действителни директно от Dynamics 365 Project Service Automation до Dynamics 365 Finance.
 
 Шаблонът синхронизира транзакции от Project Service Automation в подреждаща таблица във Finance. След завършване на синхронизирането вие **трябва да** импортирайте данните от подготвителната таблица в дневника за интеграция.
 
@@ -42,7 +41,7 @@ ms.locfileid: "6988098"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интеграция на Project Service Automation с Finance and Operations.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Поток от данни за интегриране на Project Service Automation с финанси и операции.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Действителни данни на проекта от Project Service Automation
 
@@ -75,7 +74,7 @@ ms.locfileid: "6988098"
 
 ### <a name="power-query"></a>Power Query
 
-В шаблона за действителни данни на проекта трябва да използвате Microsoft Power Query за Excel, за да изпълните тези задачи:
+В шаблона за действителните проекти трябва да използвате Microsoft Power Query за Excel, за да изпълните тези задачи:
 
 - Трансформирайте типа транзакция в Project Service Automation в правилния тип транзакция във Finance. Тази трансформация вече е дефинирана в шаблона за актуални проекти (PSA към Fin и Ops).
 - Трансформирайте типа фактуриране в Project Service Automation в правилния тип фактуриране във Finance. Тази трансформация вече е дефинирана в шаблона за актуални проекти (PSA към Fin и Ops). След това типът на фактурирането се съпоставя със свойството на реда, въз основа на конфигурацията на страницата **Параметри за интеграция на Project Service Automation**.
@@ -84,9 +83,9 @@ ms.locfileid: "6988098"
 - Ако междуфирменото време или действителните вътрешнофирмени разходи няма да бъдат синхронизирани с Finance, трябва да изтриете последната вмъкната условна колона от вашия шаблон. В противен случай може да възникне или грешка при интеграцията, или неправилни действителни транзакции да бъдат импортирани във Finance.
 
 #### <a name="contract-organizational-unit"></a>Договор на организационна единица
-За да актуализирате вмъкната условна колона в шаблона, щракнете върху стрелката **Карта**, за да отворите картографирането. Изберете връзката **Разширени заявки и филтриране**, за да отворите Power Query.
+За да актуализирате вмъкната условна колона в шаблона, щракнете върху стрелката **Карта**, за да отворите картографирането. Изберете връзката Разширена **заявка и филтриране,** за да отворите Power Query.
 
-- Ако използвате шаблона за действителни данни на проекта (PSA до Fin и Ops) по подразбиране, в Power Query изберете последно формуляра **Вмъкнато състояние** в секцията **Приложени стъпки**. В записа **Функция**, заменете **USSI** с името на идентификатора на юридическото лиже, което трябва да се използва с интеграцията. Добавете допълнителни условия към записа **Функция**, както ви е необходимо, и актуализирайте състоянието **иначе** от **USMF** на правилното юридическо лице.
+- Ако използвате шаблона по подразбиране Project actuals (PSA to Fin and Ops), в изберете последното Power Query Вмъкнато условие **от секцията** Приложени стъпки **.** В записа **Функция**, заменете **USSI** с името на идентификатора на юридическото лиже, което трябва да се използва с интеграцията. Добавете допълнителни условия към записа **Функция**, както ви е необходимо, и актуализирайте състоянието **иначе** от **USMF** на правилното юридическо лице.
 - Ако създавате нов шаблон, трябва да добавите колоната, за да поддържате вътрешнофирменото време и разходи. Изберете **Добавете условна колона** и въведете име за новата колона, като например **LegalEntity**. Въведете условието за колоната, където, ако **msdyn\_contractorganizationalunitid.msdyn\_name** е \<organizational unit\>, тогава \<enter the legal entity\>; иначе нула.
 
 ### <a name="template-mapping-in-data-integration"></a>Съпоставяне на шаблони при интеграция на данни
@@ -126,7 +125,7 @@ ms.locfileid: "6988098"
 
 ### <a name="power-query"></a>Power Query
 
-В шаблона за актуализиране на действителни данни на проекта трябва да използвате Power Query, за да изпълните тези задачи:
+В шаблона за актуализация на действителните проекти трябва да използвате Power Query, за да изпълните тези задачи:
 
 - Трансформирайте типа транзакция във Finance в правилния тип транзакция в Project Service Automation. Тази трансформация вече е дефинирана в шаблона за актуализиране на действителни данни в проекта (Fin Ops към PSA).
 - Трансформирайте типа фактуриране във Finance в правилния тип фактуриране в Project Service Automation. Тази трансформация вече е дефинирана в шаблона за актуализиране на действителни данни в проекта (Fin Ops към PSA).

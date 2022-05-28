@@ -3,25 +3,23 @@ title: Общ преглед на управление на разход
 description: Тази тема предоставя обща информация за управлението на разходите и връзки към допълнителни ресурси. Можете да използвате управление на разходите, за да създадете интегриран работен поток, където можете да съхранявате информация за метода на плащане, да импортирате транзакции с кредитни карти и да проследявате парите, които служителите харчат, когато правят разходи за вашия бизнес.
 author: ShylaThompson
 ms.date: 07/25/2019
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.reviewer: johnmichalak
 ms.assetid: 2d97d69b-9c08-4f0d-9637-68759fd34d34
 ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: b069b5101c0b093bea5ddb7c02d4e0f5fedd09b7ae051dca96f620b164c17fd3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 93a8581db26dfecb9f847740c979e096dc3e227d
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001418"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684813"
 ---
 # <a name="expense-management-overview"></a>Общ преглед на управление на разход
 
@@ -45,7 +43,7 @@ ms.locfileid: "7001418"
 
 ### <a name="blogs"></a>Блогове
 
-Можете да намерите мнения, новини и друга информация за [блог на Microsoft Dynamics 365](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) и [блог Microsoft Dynamics 365 Finance and Operations - Финанси](https://community.dynamics.com/365/financeandoperations/b/financials).
+Можете да намерите мнения, новини и друга информация в блога [Microsoft Dynamics](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) 365 и блога [Microsoft Dynamics 365 Финанси и операции - Financials](https://community.dynamics.com/365/financeandoperations/b/financials).
 
 [Блог на партньорска общност за операции на Microsoft Dynamics](https://community.dynamics.com/partner/b/operationspartnercommunityblog) дава на партньорите на Microsoft Dynamics ресурс, където могат да научат какво е ново и тенденция в MBS Operations.
 

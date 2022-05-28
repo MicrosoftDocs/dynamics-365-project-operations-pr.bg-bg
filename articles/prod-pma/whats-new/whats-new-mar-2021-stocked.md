@@ -5,14 +5,14 @@ author: andchoi
 ms.date: 03/22/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 2569133200b531197a46da095547fcc3f444cc98bfcc139b77a7db58e1439ca9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 0f8d57db75f426d87bcdcdde8fb9dfbe1ccc479f
+ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991158"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "8723709"
 ---
 # <a name="whats-new-or-changed-in-project-operations-march-2021-for-stockedproduction-based-scenarios"></a>Какво е ново и променено в Project Operations от март 2021 г. за сценарии, базирани на наличност/производство
 
@@ -20,7 +20,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
-- Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.17
+- Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.17
 
 ## <a name="features-included-in-this-release"></a>Функции, включени в тази версия
 Следните функции са включени в това издание:
@@ -121,7 +121,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Управление на проекти и счетоводство | [533530](https://fix.lcs.dynamics.com/Issue/Details/?bugId=533530) | Методът на наследената съставна структура на работата (WBS) **ProjWBSUpdateController::updateOutlineNumbersAndPublishInPreOrder** е оттеглен.                                                                                                   |
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](/dynamics365/finance/localizations/regulatory-updates.md). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно регулаторни актуализации за приложения "Финанси и операции" вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
