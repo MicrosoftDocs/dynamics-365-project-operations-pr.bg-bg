@@ -5,14 +5,14 @@ author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: dadcf3e9fa8432fb66f76b7c2f0fdb98bc00511d93984ea98fa30b4fc03fa426
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db5bb27650d65bb68f45f95cb2562f4b773ddcea
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992688"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8597049"
 ---
 # <a name="whats-new-or-changed-in-project-operations-july-2021-for-stockedproduction-based-scenarios"></a>Какво е ново или променено в Project Operations от юли 2021 за сценарии, базирани на наличност/производство
 
@@ -20,7 +20,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
-- Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.20
+- Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.20
  
 ### <a name="quality-updates"></a>Актуализации на качеството
                                                                                                                                                                                   
@@ -64,7 +64,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Пътуване и разход                  | [523557](https://fix.lcs.dynamics.com/Issue/Details/?bugId=523557) | Инструментът **Нулиране на състоянието на документа за разходи** трябва да възстанови състоянието на отчета за разходите на **Чернова**, ако работният процес не е намерен. 
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно нормативните актуализации за приложенията на Finance and Operations вижте [Нормативни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също така да влезете в Lifecycle Services (LCS) и да видите планираните регулаторни актуализации с помощта на инструмента за търсене на проблеми. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно регулаторни актуализации за приложения "Финанси и операции" вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също така да влезете в Lifecycle Services (LCS) и да видите планираните регулаторни актуализации с помощта на инструмента за търсене на проблеми. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

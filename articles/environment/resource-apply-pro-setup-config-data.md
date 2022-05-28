@@ -4,27 +4,27 @@ description: Тази тема предоставя информация за н
 author: sigitac
 ms.date: 05/10/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 26f49ad3b9fb08824071699128f8b907ec98bb54505c6fea3c97288cbaf31633
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 6fb91de30a2414fa7dd8dba47b28cf4824948565
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986613"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594703"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Настройване и прилагане на конфигурационни данни в Common Data Service 
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 ## <a name="prerequisites"></a>Предварителни изисквания
 
 Преди да започнете да конфигурирате данни в Common Data Service (CDS), трябва да са изпълнени следните предварителни изисквания:
 
-1.  Осигурете среда на CDS среда и среда на Dynamics 365 Finance за Project Operations.
-2.  Информацията за юридически лица от Dynamics 365 Finance се споделя в средата на CDS. Това означава, че обектът **Фирма** в CDS има следните фирмени записи:
+1.  Осигуряване на СРЕДА ЗА CDS и Dynamics 365 Finance среда за операции по проекта.
+2.  Информацията за юридическите лица от Dynamics 365 Finance се споделя в средата на CDS. Това означава, че обектът **Фирма** в CDS има следните фирмени записи:
   - THPM
   - USPM
   - GBPM

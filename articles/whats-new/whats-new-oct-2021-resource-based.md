@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 10/06/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 078869ad01a23bac1108629c5f532ba57a2967e9
-ms.sourcegitcommit: f37502a50cabdaf736aeba149feb5f8288e23df7
+ms.openlocfilehash: c64ef1e2ba9e33b2ca7575a40cc51e0ae987a9f8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "7753279"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8598475"
 ---
 # <a name="whats-new-october-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото през октомври 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
 
@@ -21,7 +21,7 @@ ms.locfileid: "7753279"
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
    - Project Operations в Microsoft Dataverse, версия на среда 4.25.0.91
-   - Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.21
+   - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.21
 
 ## <a name="features-included-in-this-release"></a>Функции, включени в тази версия
 
@@ -49,7 +49,7 @@ ms.locfileid: "7753279"
 | Фактуриране и ценообразуване | 2338357 | Валутата в дневника за използване на материала трябва да е по подразбиране от валутата на проекта, когато проектът е избран. |
 | Време и разход | 2414777 | Отмяната на одобрение, когато даден разход или време има повече от едно свързано одобрение на проект, трябва да е възможна. |
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство в Dynamics 365 Finance
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство по Dynamics 365 Finance
 
 | Област с функции | Номер за справка | Актуализация на качеството |
 | --- | --- | --- |

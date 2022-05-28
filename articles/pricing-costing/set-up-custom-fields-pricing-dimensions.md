@@ -6,7 +6,7 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.custom: ''
 ms.assetid: ''
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e40f0336d98cd8452642eb582c4d9daf2304ceb2532ef75ce9d03a0fa4bd8e8b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 41c65d6bf64d8a81759239f2a31f3a68953181c8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003578"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8599395"
 ---
 # <a name="set-up-custom-fields-as-pricing-dimensions"></a>Настройване на персонализирани полета като измерения на ценообразуване
 
@@ -73,9 +73,9 @@ _**Отнася се за:** Проектни операции за сценар
   
 | Роля        | Организационна единица    |Месторабота      |Стандартна длъжност      |Работни часове на ресурс      |  Надценка|
 | ------------|-------------|-------------------|--------------------|-------------------------|--------:|
-|             | Contoso Индия|Локално            |                    |Извънреден труд                 |15     |
+|             | Contoso Индия|На място            |                    |Извънреден труд                 |15     |
 |             | Contoso Индия|Локално             |                    |Извънреден труд                 |10     |
-|             | Contoso US   |Локално             |                    |Извънреден труд                 |20     |
+|             | Contoso САЩ   |Локално             |                    |Извънреден труд                 |20     |
 
 
 Ако ресурс от Contoso Индия, чиято базова ставка е 100 USD, работи на място и регистрира 8 часа редовно време и 2 часа извънреден труд в записа за време, програмата за ценообразуване ще използва базовата ставка 100 за 8 часа, за да запише 800 USD. За 2-та часа извънреден труд ще се приложи надценка от 15% към базовата ставка от 100, за да се получи единична цена 115 USD, и ще бъде записана общ разход от 230 USD.

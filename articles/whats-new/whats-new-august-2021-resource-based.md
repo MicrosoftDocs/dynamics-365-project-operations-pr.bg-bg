@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 08/11/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 26861472d3af20c58b3d01142b834d535cf99715
-ms.sourcegitcommit: 083e3d219cd5126eecb74debb1b70b361680b1f6
+ms.openlocfilehash: 144a8c0d5ac47ad6fee54850c149a349f1698049
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "7501358"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594151"
 ---
 # <a name="whats-new-august-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Нововъведения от август 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
 
@@ -21,7 +21,7 @@ ms.locfileid: "7501358"
 Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
 
    - Project Operations в Microsoft Dataverse, версия на среда 4.13.0.152.
-   - Управление на проекти и счетоводство в среда на Dynamics 365 Finance, версия 10.0.20.
+   - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.20.
 
 ## <a name="features-included-in-this-release"></a>Функции, включени в тази версия
 
@@ -54,7 +54,7 @@ ms.locfileid: "7501358"
 | Време и разход | 2336884 | Бутонът за времеви запис **Копиране на седмица** трябва да работи не само за текущия потребител. |
 
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство в Dynamics 365 Finance
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управление на проекти и счетоводство по Dynamics 365 Finance
 
 | Област с функции | Номер за справка | Актуализация на качеството |
 | --- | --- | --- |

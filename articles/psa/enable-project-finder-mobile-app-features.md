@@ -17,12 +17,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8651ba591853faf648587dcbd4c50625ba94360958d7b418e89aa0bf09464a89
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 3f8f23c1f32d94a514de9ae40bd07b3d8063824c
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004793"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593672"
 ---
 # <a name="enable-project-finder-mobile-app-features-project-service"></a>Разрешаване на функциите на приложението Project Finder Mobile (Project Service)
 
@@ -47,11 +48,11 @@ ms.locfileid: "7004793"
   
 4. Задайте **Разрешаване на актуализация на уменията от ресурса** на **Да**.  
   
-   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![ProjectService&#95; ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    Това е глобална настройка. Ръководителите на проекти могат да зададат дали даден проект ще се вижда на тази страница на **Екип на проекта** на проекта.  
   
-   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![ProjectService&#95; ПроектTeamВиделие.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>Известявания по имейл  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] изпраща имейли по отношение на искания ресурс към следните получатели в следните часове:  
