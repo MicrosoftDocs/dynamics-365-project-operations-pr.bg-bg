@@ -1,18 +1,18 @@
 ---
 title: Конфигурирайте не складирани материали и чакащи фактури на доставчици
-description: Тази тема обяснява как да активирате не складирани материали и чакащи фактури на доставчици.
+description: Тази статия обяснява как да разрешите нескладирани материали и чакащи доставчика фактури.
 author: sigitac
 ms.date: 06/22/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 1b14ab17a317e7082bc9c24709590745a5c48ea8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6473ef3510f0d3641a2d61b6a1b1f28980993277
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592955"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913745"
 ---
 # <a name="configure-non-stocked-materials-and-pending-vendor-invoices"></a>Конфигурирайте не складирани материали и чакащи фактури на доставчици
 
@@ -32,7 +32,7 @@ Dynamics 365 Finance:
 
 ## <a name="run-dual-write-maps-for-non-stocked-materials-and-vendor-invoice-integration"></a>Изпълнете карти с двойно писане за не складирани материали и интеграция на фактури на доставчик
 
-Този раздел предоставя информация за конкретни карти, необходими за не складирани материали и фактури на доставчици. Уверете се, че необходимите карти, изброени в темата [Осигуряване на нова среда](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) се изпълняват във вашата среда.
+Този раздел предоставя информация за конкретни карти, необходими за не складирани материали и фактури на доставчици. Проверете дали предварителните карти, изброени в разпоредбата [нова статия от средата](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) се изпълняват на вашата среда.
 
 1. Отидете на Lifecycle Services (LCS), отидете до вашия LCS проект и отидете на страницата **Подробности за среда**.
 2. В секцията **Информация за среда на Common Data Service** изберете **Връзка към CDS за приложения**. След като изберете връзката, ще бъдете пренасочени към списъка с обекти в съпоставянията.

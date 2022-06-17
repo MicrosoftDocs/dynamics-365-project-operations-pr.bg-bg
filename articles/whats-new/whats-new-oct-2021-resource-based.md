@@ -1,24 +1,24 @@
 ---
 title: Какво е новото през октомври 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations за октомври 2021 г. за сценарии, базирани на ресурси/без складови наличности.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в октомври 2021 издание на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 10/06/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: c64ef1e2ba9e33b2ca7575a40cc51e0ae987a9f8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 4dc5cc9a5842a02338b99c7c8d707bc0b81c74a1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598475"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914624"
 ---
 # <a name="whats-new-october-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото през октомври 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
 
 *Прилага се за: Project Operations за сценарии, базирани на ресурси/неналичност*
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
    - Project Operations в Microsoft Dataverse, версия на среда 4.25.0.91
    - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.21

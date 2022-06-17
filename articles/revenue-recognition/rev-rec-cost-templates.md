@@ -1,24 +1,24 @@
 ---
 title: Настройки на шаблони за разходи
-description: Тази тема предоставя информация за това как да създавате и използвате шаблони за разходи в Project Operations.
+description: Тази статия предоставя информация за това как да създавате и използвате шаблони за разходи в Project Operations.
 author: sigitac
 ms.date: 11/18/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9e163dc3180d2b35ddf9b15aa0577bf51e3b72ce
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ffb45d46cf1305fffd5933f4c10b169bf802046d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594197"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918391"
 ---
 # <a name="set-up-cost-templates"></a>Настройки на шаблони за разходи
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
 
-Тази тема предоставя информация за това как да създавате и използвате шаблони за разходи в Project Operations. Шаблонът за разход определя:
+Тази статия предоставя информация за това как да създавате и използвате шаблони за разходи в Project Operations. Шаблонът за разход определя:
 
 - Категориите проекти за прогнозни и действителни трансакции, които трябва да се включат в изчислението на процента на завършеност на проекта. След това стойността на процента на завършеност се използва, за да се изчисли колко приходи се признават.
 - Дали процентът на завършеност може да се променя, ако се изчислява автоматично.

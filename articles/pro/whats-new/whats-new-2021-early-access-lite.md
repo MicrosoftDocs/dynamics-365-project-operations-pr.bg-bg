@@ -1,24 +1,24 @@
 ---
 title: Нововъведения в ранен достъп 2021, вълна 2 – олекотено внедряване на Project Operations
-description: Тази тема предоставя информация за функциите, налични в изданието за ранен достъп от 2021, вълна 2, на олекотено внедряване на Project Operations.
+description: Тази статия предоставя информация за функциите, налични в 2021 вълна 2 ранно освобождаване на достъп на Project Operations lite разполагане.
 author: sigitac
 ms.date: 08/10/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 7b5f3528e4b4e615b8e7f24bfd3702746fd584c9
-ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.openlocfilehash: d245868c8bd9ff332707a81c074d6c7ae3649378
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "8723663"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924095"
 ---
 # <a name="whats-new-2021-wave-2-early-access---project-operations-lite-deployment"></a>Нововъведения в ранен достъп 2021, вълна 2 – олекотено внедряване на Project Operations
 
 _Прилага се за: Олекотено внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
   - Project Operations в среда на Dataverse, версия 4.23.0.4
 

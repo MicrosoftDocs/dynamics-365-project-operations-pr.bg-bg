@@ -1,24 +1,24 @@
 ---
 title: Нововъведения от август 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от август 2021 г. за сценарии, базирани на ресурс/неналичност.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в изданието от август 2021 г. на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 08/11/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 144a8c0d5ac47ad6fee54850c149a349f1698049
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bd91f7f6b3a6f78161f8900aa06c810a58609b53
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594151"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912273"
 ---
 # <a name="whats-new-august-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Нововъведения от август 2021 г. – Project Operations за сценарии, базирани на ресурс/неналичност
 
 *Прилага се за: Project Operations за сценарии, базирани на ресурси/неналичност*
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
    - Project Operations в Microsoft Dataverse, версия на среда 4.13.0.152.
    - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.20.

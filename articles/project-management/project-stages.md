@@ -1,6 +1,6 @@
 ---
 title: Етапи на проект
-description: Тази тема предоставя информация за етапи на проект, които са налични в Microsoft Dynamics Project Operations.
+description: Тази статия предоставя информация за етапите на проекта, които са налични в Microsoft Dynamics Project Operations.
 author: ruhercul
 ms.date: 09/18/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: a25f32badd8776c89ad6eb56ad77ff61ad0cccae
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b146174583fdea45481b87375158ebe83ed63418
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586193"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911123"
 ---
 # <a name="project-stages"></a>Етапи на проект
 

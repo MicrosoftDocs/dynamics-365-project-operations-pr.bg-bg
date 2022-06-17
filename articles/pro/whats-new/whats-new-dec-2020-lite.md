@@ -1,24 +1,24 @@
 ---
 title: Какво е новото през декември 2020 г. – леко внедряване на Project Operations – фактуриране на сделка към проформа
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на леко внедряване на Project Operations от декември 2020 г. – фактуриране на сделка към проформа.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в декември 2020 издание на project Operations Lite разполагане - сделка с proforma фактуриране.
 author: sigitac
 ms.date: 12/07/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: aaaa8827eaee4df86616ab1399d8ed4a869aba77
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3c23e13919540913755223634a24802ff3064f10
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585411"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924049"
 ---
 # <a name="whats-new-december-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Какво е новото през декември 2020 г. – леко внедряване на Project Operations – фактуриране на сделка към проформа
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
   - Project Operations в среда на Dataverse, версия 4.5.0.134 
 

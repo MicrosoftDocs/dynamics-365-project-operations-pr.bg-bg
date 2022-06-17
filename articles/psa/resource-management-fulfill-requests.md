@@ -1,6 +1,6 @@
 ---
 title: Изпълнение на изисквания за ресурси
-description: Тази тема предоставя информация за това как да изпълнявате изисквания за ресурси.
+description: Тази статия предоставя информация за това как да изпълнявате изискванията за ресурси.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: a4bd3bb9cca9a2859af22913942520528c064955
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 9f9e44cca2b5443649022d3c0143bb08f28fef5d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594427"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913285"
 ---
 # <a name="fulfilling-resource-requests"></a>Изпълнение на заявки за ресурси
 

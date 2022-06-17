@@ -1,6 +1,6 @@
 ---
 title: Синхронизиране на прогнозите за проекти директно от автоматизация на услугата за проекти до финанси и операции
-description: Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на прогнозите за часа на проекта и прогнозите за разходите по проекта директно от Microsoft Dynamics 365 Project Service Automation до Dynamics 365 Finance.
+description: В тази статия се описват шаблоните и основните задачи, които се използват за синхронизиране на прогнозите за час на проекта и прогнозите за разходите по проекта директно от Microsoft Dynamics 365 Project Service Automation до Dynamics 365 Finance.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 47de3556034227e072d14dc93908edec42cec93c
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: fb39a377a51b09f04564b4fe8527e34f0ea12682
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8684583"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920829"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизиране на прогнозите за проекти директно от автоматизация на услугата за проекти до финанси и операции
 
 [!include[banner](../includes/banner.md)]
 
-Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на прогнозите за часа на проекта и прогнозите за разходите по проекта директно от Dynamics 365 Project Service Automation до Dynamics 365 Finance.
+В тази статия се описват шаблоните и основните задачи, които се използват за синхронизиране на прогнозите за час на проекта и прогнозите за разходите по проекта директно от Dynamics 365 Project Service Automation до Dynamics 365 Finance.
 
 > [!NOTE]
 > - Интеграция на проектни задачи, категории транзакции, прогнози за часове, оценки на разходите и заключване на функционалността е налична във версия 8.0.

@@ -1,23 +1,23 @@
 ---
 title: Какво е новото през ноември 2020 г. – Project Operations за сценарии, базирани на ресурси/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от ноември 2020 г. за сценарии, базирани на ресурси/неналичност.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в ноември 2020 издание на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 10/30/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b76ebbff1cc2720e699334601d425879f2d20770
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b98c968a040c14f4d11c350885e2cbb984596c48
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600361"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923405"
 ---
 # <a name="whats-new-november-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото през ноември 2020 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
 - Project Operations в среда на CDS, версия 4.4.0.70
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.14

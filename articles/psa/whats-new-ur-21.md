@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 21, V3
-description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 21, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в Project Service автоматизация актуализация издание 21, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 06/19/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 34d1540639352f635068b849500a104de2509a7f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7d7c098a4572aa4f5730ffdbdab77b2897cdfeff
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577822"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918805"
 ---
 # <a name="project-service-automation-update-release-21-v3"></a>Project Service Automation, издание на актуализация 21, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8577822"
 
 С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 21. Тази версия има номер на компилацията V 3.10.32.50 и е общодостъпна чрез самоактуализация от юни 2020 г.
+В тази статия са изброени функциите и корекциите, които са нови или променени за Project Service Automation V3, Update Release 21. Тази версия има номер на компилацията V 3.10.32.50 и е общодостъпна чрез самоактуализация от юни 2020 г.
 
 ## <a name="update-release-21"></a>Издание на актуализация 21
 

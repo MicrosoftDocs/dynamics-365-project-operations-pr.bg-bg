@@ -1,24 +1,24 @@
 ---
 title: Нововъведения от март 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, които са налични в изданието от март 2022 г. на Project Operations за ресурси/не-заредени базирани сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, които са налични в изданието март 2022 г. на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 03/31/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: afd5149cda909b5367e7f12382423179d7e19267
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 986d0652ed502873085259fef5ad40aba99c278d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600729"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910893"
 ---
 # <a name="whats-new-march-2022---project-operations-for-resourcenon-stocked-based-scenarios"></a>Нововъведения от март 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
 *Прилага се за: Project Operations за сценарии, базирани на ресурси/неналичност*
 
-Тази тема се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
+Тази статия се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
 
 - Операции на проекта в Dataverse среда версия 4.30.0.99
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.25
@@ -91,11 +91,11 @@ ms.locfileid: "8600729"
 
 ## <a name="removed-and-deprecated-features"></a>Премахнати и амортизирани функции
 
-Премахнатите [или амортизираните функции в project Operations](removed-depreciated-features-project.md) тема описва функции, които са премахнати или амортизира за Dynamics 365 Project Operations.
+Премахнатите [или амортизираните функции в статия на Project Operations](removed-depreciated-features-project.md) описва функции, които са премахнати или амортизирани за Dynamics 365 Project Operations.
 
 - Отстранена функция вече не е налична в продукта.
 - Амортизираната функция не е в активно развитие и може да бъде премахната в бъдеща актуализация.
 
-Амортизационни съобщение ще се появи в [Премахнати или амортизира функции в Project Operations](removed-depreciated-features-project.md) тема 12 месеца преди всяка функция е премахната от продукта.
+Амортизационни съобщение ще се появи в [Премахнати или амортизира функции в project Operations](removed-depreciated-features-project.md) статия 12 месеца преди всяка функция е премахната от продукта.
 
 За разбиване на промени, които влияят само на времето за компилация, но са двоични съвместими с пясъчник и производствени среди, времето за амортизация ще бъде по-малко от 12 месеца. Обикновено тези промени са функционални актуализации, които трябва да бъдат направени на компилатора.

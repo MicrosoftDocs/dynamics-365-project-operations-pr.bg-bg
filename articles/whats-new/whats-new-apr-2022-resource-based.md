@@ -1,24 +1,24 @@
 ---
 title: Какво е новото от април 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, които са налични в изданието на Microsoft Dynamics 365 Project Operations от април 2022 г. за ресурси/не-заредени базирани сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, които са налични в изданието на Microsoft Dynamics 365 Project Operations от април 2022 г. за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 04/08/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: dc713e7a0dd6993e38ce3e3b2ba19f796a6f4773
-ms.sourcegitcommit: 9916f536a71b6a0078297402564ac79308ec6890
+ms.openlocfilehash: 5ea1c96d64309990962f431b1c72ae47bf445bfa
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "8613318"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912365"
 ---
 # <a name="whats-new-april-2022---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото от април 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
+Тази статия се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
 
 - Операции на проекта в Dataverse среда версия 4.41.0.45
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.26

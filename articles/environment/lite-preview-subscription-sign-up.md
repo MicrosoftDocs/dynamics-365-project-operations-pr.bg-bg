@@ -1,21 +1,21 @@
 ---
 title: Регистриране за абонамент за преглед – олекотено
-description: Тази тема предоставя информация за това как да се абонирате и разгърнете внедряване на Project Operations lite - сделка за проформа фактуриране.
+description: Тази статия предоставя информация за това как да се абонирате за и разполагане project Operations lite разполагане - сделка с проформа фактуриране.
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6953956c0b3401a6c64ee597f966ba4a4c0d07b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587987"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921243"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Регистриране за абонамент за преглед – олекотено 
 
-Тази тема обяснява как да се абонирате за пробната оферта и да внедрите олекотено внедряване на Dynamics 365 Project Operations – сделката с проформа фактуриране.
+Тази статия обяснява как да се абонирате за пробната оферта и да разположите Dynamics 365 Project Operations разполагане на LITE - сделка с проформа фактуриране.
 
 > [!NOTE]
 > Този процес ще се промени в предстоящите версии на Project Operations.
@@ -50,7 +50,7 @@ ms.locfileid: "8587987"
 
 ## <a name="create-a-new-dataverse-environment"></a>Създаване на нова среда на Dataverse
 
-1. Осигурете нова среда за внедряване на Project Operations Dataverse, като следвате инструкциите в темата, [Модел за внедряване на Dataverse](lite-deployment.md). Когато изберете типа среда, не забравяйте да използвате **Пробен период (базиран на абонамент)**.
+1. Осигуряване на нова среда за разполагане на Project Operations Dataverse, като следвате инструкции в статията, [Dataverse модел за разполагане](lite-deployment.md). Когато изберете типа среда, не забравяйте да използвате **Пробен период (базиран на абонамент)**.
 
   ![Нова среда.](./media/19CreateEnvironment.png)
 
@@ -65,7 +65,7 @@ ms.locfileid: "8587987"
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>Инсталирайте конфигурация на CDS и настройте демонстрационни данни
 
-Инсталирайте конфигурацията на CDS и настройте демонстрационни данни, като следвате инструкциите в темата, [Приложете демо настройка и данни за конфигурация](lite-apply-demo-setup-config-data.md).
+Инсталирайте конфигурацията на CDS и настройте демо данни, като следвате инструкции в статията, [Приложете демо настройка и конфигурационни данни](lite-apply-demo-setup-config-data.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

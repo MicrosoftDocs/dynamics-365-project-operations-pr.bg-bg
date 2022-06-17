@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 18, V3
-description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 18, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в Проект услуга автоматизация актуализация издание 18, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8c76672e63fc4b01d5c6f8cce2831782b9c22326
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e8d423c550d9aa09c9cbb7d4f7c277c43bbe10ae
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598751"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918851"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation, издание на актуализация 18, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8598751"
 
 С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 18. Тази версия има номер на създаване V3.10.8.12 и е общо достъпна чрез самостоятелно актуализиране от април 2020 г.
+Тази статия изброява функциите и корекциите, които са нови или променени за Project Service Автоматизация V3, Актуализация издание 18. Тази версия има номер на създаване V3.10.8.12 и е общо достъпна чрез самостоятелно актуализиране от април 2020 г.
 
 ## <a name="update-release-18"></a>Издание на актуализация 18
 

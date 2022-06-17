@@ -1,17 +1,17 @@
 ---
 title: Преходи на състояние на подизпълнение
-description: Тази тема обяснява държавните преходи на подизпълнение в Microsoft Dynamics 365 Project Operations, тъй като подизпълнението се създава, изпълнява и затваря.
+description: В тази статия се обясняват държавните преходи на подизпълнение в Microsoft Dynamics 365 Project Operations, тъй като подизпълнението се създава, изпълнява и затваря.
 author: rumant
 ms.date: 12/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c9533d046398c708c55467e6b1a25acf6abade3e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b41e3d44a17c51778dd850c7d4a48351a5d44554
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579155"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919725"
 ---
 # <a name="state-transitions-on-a-subcontract"></a>Преходи на състояние на подизпълнение 
 
@@ -19,7 +19,7 @@ ms.locfileid: "8579155"
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Тази тема обяснява държавните преходи на подизпълнение в Microsoft Dynamics 365 Project Operations. Всяка държава е представена или като чернова, потвърдена, затворена или отменена. Изображението по-долу представлява държавните преходи.
+Тази статия обяснява държавните преходи на подизпълнение в Microsoft Dynamics 365 Project Operations. Всяка държава е представена или като чернова, потвърдена, затворена или отменена. Изображението по-долу представлява държавните преходи.
 
 ![Модел на състояние на подизпълнение](../media/SubconStates.png)  
 

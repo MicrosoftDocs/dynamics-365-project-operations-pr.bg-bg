@@ -1,17 +1,17 @@
 ---
 title: Импортиране на прогнози за проект в ред на оферта по проект
-description: Тази тема предоставя информация за това как да импортирате прогнози от проект за ред на оферта по проект.
+description: Тази статия предоставя информация за импортиране на оценки от проект в ред от оферта за проект.
 author: rumant
 ms.date: 10/09/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 24869ccc0c08470805a01dafc25f44ee12359d93
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: dc5b6279a2123604291da35c9da2bf63dbe475b7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600453"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915033"
 ---
 # <a name="import-estimates-for-a-project-to-a-project-quote-line"></a>Импортиране на прогнози за проект в ред на оферта по проект
 

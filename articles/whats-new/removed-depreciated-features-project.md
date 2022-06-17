@@ -1,24 +1,24 @@
 ---
 title: Премахнати или амортизирани функции в Dynamics 365 Project Operations
-description: Тази тема описва функции, които са премахнати, или които са планирани за премахване от Dynamics 365 Project Operations.
+description: Тази статия описва функции, които са премахнати, или които са планирани за премахване от Dynamics 365 Project Operations.
 author: sigitac
 ms.date: 03/16/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 61bb84b94274762636eb8532f09634db1109e969
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: df9d8a40fa853e72416e64846bf59748815048be
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601557"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921473"
 ---
 # <a name="removed-or-deprecated-features-in-dynamics-365-project-operations"></a>Премахнати или амортизирани функции в Dynamics 365 Project Operations
 
 _**Приложимо за:** Project Operations за сценарии, базирани на ресурси/неналичност, леко внедряване – фактуриране на сделка към проформа и Project Operations за сценарии, базирани на наличност/производство_
 
-Тази тема описва функции, които са премахнати, или които са планирани за премахване от Dynamics 365 Project Operations.
+Тази статия описва функции, които са премахнати, или които са планирани за премахване от Dynamics 365 Project Operations.
 
 - *Отстранена* функция вече не е налична в продукта.
 - *Отхвърлена* функция не е в активна разработка и може да бъде премахната при бъдеща актуализация.

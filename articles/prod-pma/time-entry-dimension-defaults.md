@@ -1,19 +1,19 @@
 ---
-title: Финансови величини по подразбиране за записи за време на проекта
-description: Тази тема предоставя информация за начина, по който финансовите нива на аналитичност по подразбиране се прилагат към записите за време.
+title: Финансови измерения по подразбиране за времеви записи по проект
+description: Тази статия предоставя информация за начина, по който финансовите нива на аналитичност по подразбиране се прилагат към записите за време.
 author: stsporen
 ms.date: 01/24/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: cc51fcdcbbfec23591471c0f7522d571be813a84
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 9863738a2d6d0e001961554043939f62f65d9ce5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597923"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916551"
 ---
-# <a name="defaulting-financial-dimensions-for-project-time-entries"></a>Финансови величини по подразбиране за записи за време на проекта
+# <a name="defaulting-financial-dimensions-for-project-time-entries"></a>Финансови измерения по подразбиране за времеви записи по проект
 
 [!include [banner](../includes/banner.md)]
 

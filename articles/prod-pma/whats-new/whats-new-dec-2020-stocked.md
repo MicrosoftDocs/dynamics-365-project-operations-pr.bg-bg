@@ -1,24 +1,24 @@
 ---
 title: Какво е новото през декември 2020 г. – Project Operations за сценарии, базирани на наличност/производство
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от декември 2020 г. за сценарии, базирани на наличност/производство.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в декември 2020 издание на Project Operations за заредени/производство базирани сценарии.
 author: Yowelle
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 9550cf8fd594585b70d373ecf9eea1b32285e47f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e570bf3e7a808afa5d41db0c073045c91e4931d7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594933"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911353"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>Какво е новото или промененото през декември 2020 г. в Project Operations за сценарии, базирани на наличност/производство
 
 _Приложимо за: Project Operations за сценарии, базирани на наличност/производство_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
   - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.15
 

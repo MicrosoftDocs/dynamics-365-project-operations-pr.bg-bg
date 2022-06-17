@@ -1,17 +1,17 @@
 ---
 title: Какво е новото през ноември 2020 г. – леко внедряване на Project Operations – фактуриране на сделка към проформа
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на леко внедряване на Project Operations от ноември 2020 г. – фактуриране на сделка към проформа.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в изданието ноември 2020 на project Operations Lite разполагане - сделка с proforma фактуриране.
 author: sigitac
 ms.date: 11/02/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3a7d63e746edf73873840aee2f095192364cb286
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: dfa39c702446fb47359fac442bde52f0e2ab9cf1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584629"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913837"
 ---
 # <a name="whats-new-november-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Какво е новото през ноември 2020 г. – леко внедряване на Project Operations – фактуриране на сделка към проформа
 

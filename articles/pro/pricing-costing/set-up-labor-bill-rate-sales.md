@@ -1,17 +1,17 @@
 ---
 title: Настройване на размер на фактура за труд – олекотено
-description: Тази тема предоставя информация за това как да настроите ставки за фактуриране на труд в Project Operations.
+description: Тази статия предоставя информация за настройката на процентите на таксуване на труда в Project Operations.
 author: rumant
 ms.date: 10/16/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 3bce867df2e01178876a891e267676036ac8bd7c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 443132797f20c961b42ed20340e74f420965526f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599349"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917425"
 ---
 # <a name="set-up-labor-bill-rates---lite"></a>Настройване на размер на фактура за труд – олекотено
 

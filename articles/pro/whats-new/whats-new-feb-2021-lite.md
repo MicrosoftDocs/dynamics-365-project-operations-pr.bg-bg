@@ -1,22 +1,22 @@
 ---
 title: Нововъведения от февруари 2021 г. – олекотено внедряване на Project Operations
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на леко внедряване на Project Operations от февруари 2021 г.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в февруари 2021 издание на Project Operations lite разполагане.
 author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 139494962562aaaf005e116f02bcd41db58eea27
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 329bc31ad4c0958fe60e73b257e6b4c262bb60f9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8574601"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914021"
 ---
 # <a name="whats-new-february-2021---project-operations-lite-deployment"></a>Нововъведения от февруари 2021 г. – олекотено внедряване на Project Operations
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
   - Project Operations в среда на Dataverse, версия 4.7.0.95
 

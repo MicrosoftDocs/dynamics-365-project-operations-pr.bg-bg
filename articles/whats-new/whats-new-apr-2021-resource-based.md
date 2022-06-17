@@ -1,24 +1,24 @@
 ---
 title: Какво е новото от април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от април 2021 г. за ресурс/неналичност сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в април 2021 издание на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 04/22/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 07622ed798fd8d70e0ce5cc42297bd5056402474
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a060bdc4e4c9f37ec666b1cf4d078986ad1571db
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589091"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912411"
 ---
 # <a name="whats-new-april-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото от април 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
 - Project Operations в среда на Dataverse, версия 4.9.0.221
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.17

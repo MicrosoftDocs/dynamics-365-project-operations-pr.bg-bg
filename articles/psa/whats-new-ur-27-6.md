@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 27.6, актуална корекция, V3
-description: Тази тема изброява функциите и корекциите, които са налични за актуализацията на Project Service Automation, издание 27.6, актуална корекция, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в проект услуга автоматизация актуализация издание 27.6 актуална корекция, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/17/2021
@@ -16,18 +16,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 3d1f955d2c76784157b869fd28d3ae9ccad09d9d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b4cb9871673315e97c40ffc57b6c0139d2cbe952
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587251"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918713"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-276-v3"></a>Какво е новото или промененото в Project Service Automation, издание на актуализация 27.6, V3
 
 С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 27.6. Тази версия е с номер на компилация V3.10.45.120 и е общодостъпна за самостоятелно актуализиране от януари 2021 г.
+Тази статия изброява функциите и корекциите, които са нови или променени за Project Service Автоматизация V3, Актуализация издание 27.6. Тази версия е с номер на компилация V3.10.45.120 и е общодостъпна за самостоятелно актуализиране от януари 2021 г.
 
 ## <a name="update-release-276"></a>Издание на актуализация 27.6
 

@@ -1,17 +1,17 @@
 ---
 title: Конфигуриране на счетоводство за вътрешни проекти
-description: Тази тема предоставя информация за това как да настроите практики за счетоводство за вътрешни проекти в Project Operations.
+description: Тази статия предоставя информация как да настроите счетоводни практики за вътрешни проекти в Project Operations.
 author: sigitac
 ms.date: 10/09/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9da72d8dbf720e380a49a1010caca472ee024783
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7fc2b7247da699a194688b18aa0a695b06cc44c6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597831"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919449"
 ---
 # <a name="configure-accounting-for-internal-projects"></a>Конфигуриране на счетоводство за вътрешни проекти
 

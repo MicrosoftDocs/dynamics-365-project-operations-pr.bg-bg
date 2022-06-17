@@ -1,17 +1,17 @@
 ---
 title: Базирани на проект аспекти на договор
-description: Тази тема предоставя информация за работа с базирани на проект редове на възможност.
+description: Тази статия предоставя информация за работата с редове за възможности, базирани на проекти.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: cceb175210f7b597d682e9e4e910c79280211293
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f4b8d80a7e3ec06c4089d7c5c32fdb41ac86fb76
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600913"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918253"
 ---
 # <a name="project-based-opportunity-lines"></a>Базирани на проект аспекти на договор
 

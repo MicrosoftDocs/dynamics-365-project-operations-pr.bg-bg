@@ -1,6 +1,6 @@
 ---
 title: Съображения за надстройване за съставната структура на работата
-description: Тази тема предоставя информация за надстройване на съставната структура на работата от Project Service Automation 2.x до 3.x.
+description: Тази статия предоставя информация за надстройване на структурата на разбивка на работата от Project Service Automation 2.x до 3.x.
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/18/2019
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 13ad93d5be3c0ab07c81db28d3e13561e9d40017
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 42bf03b5e3be4b7bdce87148254ce69e381ffdf1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599717"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913101"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Съображения за надстройване за съставната структура на работата
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Тази тема предоставя информация за надстройване на съставната структура на работата от Project Service Automation 2.x до 3.x. Тази тема определя изправното състояние на проект в Project Service Automation (PSA), което е необходимо за успешно надстройване. Има и информация за често срещаните условия за блокиране, които ще доведат до неуспешно надстройване. За повече информация относно определянето на задачи по проекти и техните функции в график на проекти вижте [Графици на проекти](project-creating.md).
+Тази статия предоставя информация за надстройване на структурата на разбивка на работата от Project Service Automation 2.x до 3.x. Тази статия определя здравословното състояние на проект в Project Service Automation (PSA), който е необходим за успешно надграждане. Има и информация за често срещаните условия за блокиране, които ще доведат до неуспешно надстройване. За повече информация относно определянето на задачи по проекти и техните функции в график на проекти вижте [Графици на проекти](project-creating.md).
 
 ## <a name="key-entities"></a>Основни обекти
 За точна съставна структура на работата, която вече е натоварена с ресурси, се изискват следните обекти:

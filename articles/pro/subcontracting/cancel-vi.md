@@ -1,19 +1,19 @@
 ---
-title: Отказ на фактура за доставчик на проект
-description: Тази тема обяснява как да отмените фактура за доставчик на проект в Microsoft Dynamics 365 Project Operations и финансовото въздействие на отмяната на фактура за доставчик на проект.
+title: Отмяна на фактура на доставчик по проект
+description: В тази статия се обяснява как да отмените фактура на доставчик на проект в Microsoft Dynamics 365 Project Operations и финансовото въздействие на отмяната на фактура на доставчик на проект.
 author: rumant
 ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 87f6bdca30c5779e3d70922e75609ff4cdfca167
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7ddaadc0f6e336a8ba67bb4ad8000f7e894f3eb0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580627"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911537"
 ---
-# <a name="cancel-a-project-vendor-invoice"></a>Отказ на фактура за доставчик на проект
+# <a name="cancel-a-project-vendor-invoice"></a>Отмяна на фактура на доставчик по проект
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

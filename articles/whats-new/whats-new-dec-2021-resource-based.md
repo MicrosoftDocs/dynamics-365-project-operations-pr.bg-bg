@@ -1,24 +1,24 @@
 ---
 title: Какво е новото през декември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност
-description: Тази тема предоставя информация за актуализациите на качеството, които са налични в изданието от декември 2021 г. на Project Operations за ресурси/не-заредени базирани сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, които са налични в декември 2021 издание на Project Operations за ресурси/не-заредени базирани сценарии.
 author: sigitac
 ms.date: 12/09/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 0fc3f524b7b240170822f0b246559e15985f4b0f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 79ae9f49a4291d162a8a9bb6eb9a22d615773f6e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579799"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910847"
 ---
 # <a name="whats-new-december-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Какво е новото през декември 2021 г. – Project Operations за сценарии, базирани на ресурси/неналичност
 
 *Прилага се за: Project Operations за сценарии, базирани на ресурси/неналичност*
 
-Тази тема се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
+Тази статия се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
 
 - Операции на проекта в Dataverse среда версия 4.27.0.195, 4.27.0.242, 4.27.0.244
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.23

@@ -1,6 +1,6 @@
 ---
 title: Разширено офериране, ценообразуване и фактуриране
-description: Тази тема предоставя информация относно оферирането, фактурирането и ценообразуването в Project Service Automation.
+description: Тази статия предоставя информация за цитиране, фактуриране и ценообразуване в Project Service Automation.
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 54047f34d950fc79e510bfe0d6601e271c02a92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8106a18fefc34141fdc5d350c60e87ec4b2a4c1d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579339"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921795"
 ---
 # <a name="advanced-quoting-pricing-and-billing-guide"></a>Разширено ръководство за офериране, ценообразуване и фактуриране
 
@@ -32,7 +32,7 @@ ms.locfileid: "8579339"
 
 Способността да се намерят правилните ресурси в точното време, да се резервират тези ресурси по проекти и да се поддържат ресурсите заети помага на организациите да отговорят на целите на приходи и удовлетвореност на клиентите. 
 
-Връзката към PDF файла, която преди беше в тази тема, е премахната и съдържанието е преместено в следните теми:
+PDF връзката, която преди това е била в тази статия, е премахната и съдържанието е преместено в следните статии:
 
 - [Офериране, ценообразуване и фактуриране](../quote-bill-price.md)
 - [Процеси на продажба](../basic-sales-process.md)
@@ -50,7 +50,7 @@ ms.locfileid: "8579339"
 - [Записване на действителни данни](../advanced-actuals.md)
 
 > [!NOTE]
-> Тази тема ще бъде премахната в бъдеща актуализация на документацията. 
+> Тази статия ще бъде премахната в бъдеща актуализация на документацията. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

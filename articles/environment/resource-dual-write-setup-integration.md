@@ -1,24 +1,24 @@
 ---
 title: Интегриране на данни за настройка и конфигурация на Project Operations
-description: Тази тема предоставя информация за настройване и конфигуриране на карти с двойно писане на Project Operations.
+description: Тази статия предоставя информация за настройване и конфигуриране на Project Operations карти с двойно записване.
 author: sigitac
 ms.date: 4/23/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 1ffa25ff36c39010d6aee31d928c3eaa0086c3d8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 173ff01e938af48d2d6488d5e59cf4e74b3af8e4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586883"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914527"
 ---
 # <a name="project-operations-setup-and-configuration-data-integration"></a>Интегриране на данни за настройка и конфигурация на Project Operations
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема предоставя информация за интеграция на двойни записи за Project Operations за обекти на настройка и конфигурация.
+Тази статия предоставя информация за Project Operations двойно записване интеграция за настройка и конфигурация обекти.
 
 ## <a name="project-contracts-contract-lines-and-projects"></a>Договори по проект, аспекти на договор и проекти
 

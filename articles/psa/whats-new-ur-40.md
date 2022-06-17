@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 40, V3
-description: Тази тема изброява функциите и корекциите, които са налични в Microsoft Dynamics 365 Project Service Automation Актуализирано издание 40, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в Microsoft Dynamics 365 Project Service Automation актуализация издание 40, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/31/2022
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 25f375ce648eb7d233f6433739832caee351830d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: dca7f340b8d544b183aa0390ac3c11a38f536ed0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588631"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912779"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-40-v3"></a>Какво е новото или промененото в Project Service Automation, издание на актуализация 40, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588631"
 
 С удоволствие обявяваме най-новата актуализация за приложението Microsoft Dynamics 365 Project Service Automation. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Съвместим е с Dynamics 365 9.x. За да актуализирате до тази версия, посетете страницата на центъра за администриране за решенията на Dynamics 365 Online и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за актуализацията на Project Service Automation, издание 40, V3. Тази версия има номер на компилация V3.10.61.61 и е общодостъпно чрез самостоятелна актуализация от февруари 2022 г.
+Тази статия изброява функциите и корекциите, които са нови или променени за Project Service автоматизация актуализация издание 40, V3. Тази версия има номер на компилация V3.10.61.61 и е общодостъпно чрез самостоятелна актуализация от февруари 2022 г.
 
 ## <a name="update-release-40"></a>Издание на актуализация 40
 

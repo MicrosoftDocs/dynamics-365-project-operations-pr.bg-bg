@@ -1,24 +1,24 @@
 ---
 title: Какво е новото ноември 2021 г. - Проект операции lite разполагане
-description: Тази тема предоставя информация за актуализациите на качеството, които са налични в ноември 2021 издание на Project Operations lite разполагане.
+description: Тази статия предоставя информация за актуализациите на качеството, които са налични в ноември 2021 издание на Project Operations lite разполагане.
 author: sigitac
 ms.date: 11/09/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3f3a19cddd1b91fc76c852153526fb7197a9f92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 947e7f6183ddeef3ab9a88d140331956bbcf23bd
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587757"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913791"
 ---
 # <a name="whats-new-november-2021---project-operations-lite-deployment"></a>Какво е новото ноември 2021 г. - Проект операции lite разполагане
 
 _Прилага се за: Олекотено внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
+Тази статия се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
 
 - Операции на проекта в Dataverse среда версия 4.26.0.145, 4.26.0.148, 4.26.0.150, 4.26.0.155
   

@@ -1,17 +1,17 @@
 ---
 title: Общ преглед на внедряване на Project Operations за сценарии, базирани на наличност/производство
-description: Тази тема предоставя информация за типа внедряване на Project Operations за сценарии, базирани на наличност/производство.
+description: Тази статия предоставя информация за типа разполагане, Project Operations за запасени/производствени базирани сценарии.
 author: rumant
 ms.date: 11/02/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: de9a83949a838f8ca90771022339c6da17f6dde1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fb5bf99b6a46e285d03bdbaa9a3acd9d4bbe70f0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582467"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922761"
 ---
 # <a name="project-operations-for-stockedproduction-based-scenarios-deployment-overview"></a>Общ преглед на внедряване на Project Operations за сценарии, базирани на наличност/производство
 

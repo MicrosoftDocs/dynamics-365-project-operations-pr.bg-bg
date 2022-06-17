@@ -1,6 +1,6 @@
 ---
 title: Ръководство за управление на ресурси
-description: Тази тема предоставя връзки към информация относно управлението на ресурси в Project Service Automation
+description: Тази статия предоставя връзки към информация за управлението на ресурси в Project Service Automation
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 630f77060caa84d9941c0552c54412d7a235a4f2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6b4506bbc0a7cbdd78b3f9b37f1a7f1b258f6500
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595439"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910759"
 ---
 # <a name="resource-management-guide"></a>Ръководство за управление на ресурси
 
@@ -30,7 +30,7 @@ ms.locfileid: "8595439"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-Връзката към PDF файла, която преди беше в тази тема, е премахната и съдържанието е преместено в следните теми:
+PDF връзката, която преди това е била в тази статия, е премахната и съдържанието е преместено в следните статии:
 
 - [Начална страница на управлението на ресурси](../resource-management-home-page.md)
 - [Основни концепции](../reports-key-concepts.md)
@@ -42,7 +42,7 @@ ms.locfileid: "8595439"
 - [ЧЗВ за управление на ресурси](../resource-management-faq.md)
 
 > [!NOTE]
-> Тази тема ще бъде премахната в бъдеща актуализация на документацията. 
+> Тази статия ще бъде премахната в бъдеща актуализация на документацията. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

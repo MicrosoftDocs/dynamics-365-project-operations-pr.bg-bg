@@ -1,24 +1,24 @@
 ---
 title: Проектни оценки и интеграция на действителни данни
-description: Тази тема предоставя информация за интеграция на двойни записи за Project Operations за проектни оценки и факти.
+description: Тази статия предоставя информация за Project Operations двойно записване интеграция за прогнози и действителни данни на проекта.
 author: sigitac
 ms.date: 4/26/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 5aaa59020427438fa6ebab3789fbb70c5b86e272
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 43c868b051bf141cfc3211669c0a44333b4b2c65
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577177"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914573"
 ---
 # <a name="project-estimates-and-actuals-integration"></a>Проектни оценки и интеграция на действителни данни
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема предоставя информация за интеграция на двойни записи за Project Operations за проектни оценки и факти.
+Тази статия предоставя информация за Project Operations двойно записване интеграция за прогнози и действителни данни на проекта.
 
 ## <a name="project-estimates"></a>Оценки на проекта
 

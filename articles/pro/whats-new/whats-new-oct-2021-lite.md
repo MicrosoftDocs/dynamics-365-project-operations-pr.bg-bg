@@ -1,24 +1,24 @@
 ---
 title: Какво е новото през октомври 2021 г. - Олекотено внедряване на Project Operations
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на олекотено внедряване на Project Operations за октомври 2021 г.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в октомври 2021 издание на Project Operations lite разполагане.
 author: sigitac
 ms.date: 10/05/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: d818ac832a9ccb7632f655e9d279b1d308f53827
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7199853bea7e8e99a2a1ce19d6ce88736edb38f8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590934"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921933"
 ---
 # <a name="whats-new-october-2021---project-operations-lite-deployment"></a>Какво е новото през октомври 2021 г. - Олекотено внедряване на Project Operations
 
 _Прилага се за: Олекотено внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
   - Project Operations в среда на Microsoft Dataverse, версия 4.25.0.91
 

@@ -1,6 +1,6 @@
 ---
-title: Създаване и потвърждаване на дневници за записи
-description: Тази тема предоставя информация как да създавате и потвърждавате дневници за записи в Microsoft Dynamics 365 Project Operations.
+title: Създаване и потвърждаване на журнали за записи
+description: Тази статия предоставя информация как да създавате и потвърждавате дневници за записи в Microsoft Dynamics 365 Project Operations.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article
@@ -13,14 +13,14 @@ ms.assetid: ''
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8cb768337bc197895a837670f93b99b132c97437
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 138dccd72607d6515eeeffb066fa485f83eabbec
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584215"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912319"
 ---
-# <a name="create-and-confirm-entry-journals"></a>Създаване и потвърждаване на дневници за записи
+# <a name="create-and-confirm-entry-journals"></a>Създаване и потвърждаване на журнали за записи
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 

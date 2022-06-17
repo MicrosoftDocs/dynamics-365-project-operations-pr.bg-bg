@@ -1,24 +1,24 @@
 ---
 title: Какво е ново и променено в Project Operations от март 2021 г. за сценарии, базирани на наличност/производство
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от март 2021 г. за складови/производствени сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от март 2021 г. за запасени/базирани на производството сценарии.
 author: andchoi
 ms.date: 03/22/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 0f8d57db75f426d87bcdcdde8fb9dfbe1ccc479f
-ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.openlocfilehash: fffa9d70574c8c91b63ceb5055af64a49c9d398b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "8723709"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911307"
 ---
 # <a name="whats-new-or-changed-in-project-operations-march-2021-for-stockedproduction-based-scenarios"></a>Какво е ново и променено в Project Operations от март 2021 г. за сценарии, базирани на наличност/производство
 
 _**Приложимо за:** Project Operations за сценарии, базирани на наличност/производство_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.17
 

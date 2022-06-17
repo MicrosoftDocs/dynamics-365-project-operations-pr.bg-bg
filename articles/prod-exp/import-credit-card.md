@@ -1,6 +1,6 @@
 ---
 title: Импортиране и поддържане на трансакции с кредитна карта
-description: Тази тема обяснява как да импортирате и поддържате транзакции с кредитни карти, свързани с разходи. Тези транзакции могат да бъдат настроени така, че да бъдат автоматично импортирани по повтарящ се график, или могат да бъдат импортирани ръчно, както се изисква.
+description: Тази статия обяснява как да импортирате и поддържате свързани с разходите транзакции с кредитни карти. Тези транзакции могат да бъдат настроени така, че да бъдат автоматично импортирани по повтарящ се график, или могат да бъдат импортирани ръчно, както се изисква.
 author: KimANelson
 ms.date: 01/12/2018
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: bd7ca997e18bf3c11fa188b603c899cc470df035
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 44aac1db60ef8f0e3f25612d03b46520dd09ee9e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683755"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916781"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Импортиране и поддържане на трансакции с кредитна карта
 

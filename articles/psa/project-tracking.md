@@ -1,6 +1,6 @@
 ---
 title: Напредък и консумация на разход на проекти
-description: Тази тема предоставя информация за проследяване напредъка на проекта и консумацията на разходите.
+description: Тази статия предоставя информация за проследяване на напредъка на проекта и разхода на разходите.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 56b78aa70f23a9a723f008973678bb29c4bbce1d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: afcac5e6fbb7ed8a5a5f7f5876c6035b59eebcc2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575245"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921749"
 ---
 # <a name="project-progress-and-cost-consumption"></a>Напредък и консумация на разход на проекти
 
@@ -30,7 +30,7 @@ ms.locfileid: "8575245"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Необходимостта от проследяване на напредъка спрямо графика варира в зависимост от отрасъла. Някои отрасли проследяват на детайлно ниво, докато други отрасли проследяват на по-високо ниво. Тази тема показва как да планирате графика, за да отговорите на изискванията на вашата организация.
+Необходимостта от проследяване на напредъка спрямо графика варира в зависимост от отрасъла. Някои отрасли проследяват на детайлно ниво, докато други отрасли проследяват на по-високо ниво. Тази статия показва как да планирате, за да отговаряте на изискванията на вашата организация.
 
 ## <a name="effort-tracking-view"></a>Изглед за проследяване на усилие
 
