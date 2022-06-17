@@ -1,6 +1,6 @@
 ---
 title: Получавайте артикули по поръчка за покупка от изискването за артикул
-description: Тази тема обяснява как да получавате артикули в поръчка за покупка от изискване за артикул.
+description: Тази статия обяснява как да получавате артикули в поръчка за покупка от изискване за артикул.
 author: Yowelle
 ms.date: 08/06/2019
 ms.topic: business-process
@@ -13,18 +13,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: ab08dda6e81609595f54f3dd71c0154c12807270
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 9bbe15fac325ad00bdd2f2fc6ddf3ae15df45271
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8682514"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929523"
 ---
 # <a name="receive-items-on-purchase-order-from-item-requirement"></a>Получавайте артикули по поръчка за покупка от изискването за артикул
 
 [!include [banner](../../includes/banner.md)]
 
-Тази тема обяснява как да получавате артикули в поръчка за покупка от изискване за артикул.
+Тази статия обяснява как да получавате артикули в поръчка за покупка от изискване за артикул.
 
 Използвайки изискване за артикул вместо транзакция на артикул, можете да планирате доставка точно преди артикулът да бъде реално използван, да създадете поръчка за покупка, да включите артикула в рамката на търговското споразумение и да включите изискването за артикул в производственото планиране. 
 

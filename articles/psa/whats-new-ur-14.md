@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 14, V3
-description: Тази тема предоставя информация за новостите в актуализацията на Project Service Automation, издание 14, V3.
+description: Тази статия предоставя информация за това какво е новото в проект услуга автоматизация актуализация издание 14 V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8504ac5a0ce7254baee9139e4407e712c758540d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e8e5132f970e3ec5742842175c118faf98a7b079
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594290"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926533"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation, издание на актуализация 14, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8594290"
 
 С удоволствие съобщаваме за най-новата актуализация за приложението Dynamics 365 Project Service Automation (PSA). Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online и отидете на страницата с решения, за да инсталирате актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за PSA V3, издание на актуализация 14. Тази версия е с номер на компилация V3.10.4.21 и е достъпна по следния график:
+Тази статия изброява функциите и корекциите, които са нови или променени за PSA V3, Актуализация издание 14. Тази версия е с номер на компилация V3.10.4.21 и е достъпна по следния график:
 
 - **Общодостъпна (самостоятелно актуализиране):** януари 2020 г.
 - **Автоматична актуализация:** февруари 2020 г.

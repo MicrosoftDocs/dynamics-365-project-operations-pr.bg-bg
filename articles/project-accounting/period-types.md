@@ -1,23 +1,23 @@
 ---
 title: Типове периоди
-description: Тази тема предоставя информация за начина на задаване на типове периоди за оценка на приход.
+description: Тази статия предоставя информация как да настроите видове периоди за оценка на приходите.
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 83cf88bafbc7fc97fba664e278b232c24db53391
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5bbf2dcb4758611aa9d0591ddfec42869f4438c0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580443"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930949"
 ---
 # <a name="period-types"></a>Типове периоди
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Типът на периода определя колко често се изчисляват приходите от даден проект. Тази тема предоставя информация за начина на задаване на типове периоди за оценка на приход. 
+Типът на периода определя колко често се изчисляват приходите от даден проект. Тази статия предоставя информация как да настроите видове периоди за оценка на приходите. 
 
 ## <a name="create-and-work-with-period-types"></a>Създаване и работа с типове периоди
 За да създавате и работите с типове периоди, изпълнете следните стъпки:

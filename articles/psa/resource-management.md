@@ -1,6 +1,6 @@
 ---
 title: Начална страница за ресурсно обезпечаване на проекти
-description: Тази тема предоставя информация относно възможностите за управление на ресурси в Project Service Automation (PSA) за Dynamics 365.
+description: Тази статия предоставя информация за възможностите за управление на ресурси в Project Service Automation (PSA) за Dynamics 365.
 author: JohnPBurrows
 ms.custom:
 - dyn365-projectservice
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 4ec114f6dc04b493e30fcaae0d50616108c695f2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 14328ba1af46eca3a8996d330180d888987b7966
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599809"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925245"
 ---
 # <a name="resourcing-projects-home-page"></a>Начална страница за ресурсно обезпечаване на проекти
 
@@ -46,7 +46,7 @@ ms.locfileid: "8599809"
 - Поддържане на хранилище за умения и опитност.
 
 
-Можете да осигурите персонал за вашия проект с екип от общи или наименувани ресурси в PSA. Можете да използвате различни методи за добавяне и присвояване на членове на екипа и за управление на техните резервации и присвоявания. За допълнителна информация вижте следните теми:
+Можете да осигурите персонал за вашия проект с екип от общи или наименувани ресурси в PSA. Можете да използвате различни методи за добавяне и присвояване на членове на екипа и за управление на техните резервации и присвоявания. За допълнителна информация вижте следните статии:
 
 - [Резервиране на наименувани налични ресурси в екип на проект и присвояването им на задачи](assign-named-bookable-resource.md)
 - [Присвояване на общи налични ресурси на задача и генериране на изисквания за ресурси](assign-generic-bookable-resource.md)

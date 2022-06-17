@@ -1,24 +1,24 @@
 ---
 title: Създаване на присвоявания на ресурс
-description: Тази тема предоставя информация за създаването на общи и именувани ресурсни назначения.
+description: Тази статия предоставя информация за създаване на генерични и наименувани задания на ресурси.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 2b918392fbcde1071aa52ffa7834938be1acd383
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 31404fc35d72acb9ad791ef8a755f23108f528ad
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576533"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933479"
 ---
 # <a name="create-resource-assignments"></a>Създаване на присвоявания на ресурс
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 
-Присвояването на ресурс е прякото свързване на член на екипа на проекта със задача на листен възел. Тази тема предоставя информация за различните начини за присвояване на ресурси.
+Присвояването на ресурс е прякото свързване на член на екипа на проекта със задача на листен възел. Тази статия предоставя информация за различните начини за присвояване на ресурси.
 
 ## <a name="create-a-generic-team-member-through-task-assignment"></a>Създаване на общ член на екипа чрез присвояване на задачи
 

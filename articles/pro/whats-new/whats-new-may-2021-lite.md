@@ -1,24 +1,24 @@
 ---
 title: Нововъведения от май 2021 г. – олекотено внедряване на Project Operations
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието за олекотено внедряване на Project Operations от май 2021 г.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в изданието май 2021 на Project Operations lite разполагане.
 author: sigitac
 ms.date: 05/17/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 854a8c2290281b4d11a045321a334d8866806041
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a5d67159b732e0309e03c64fb6dadcc7b8cbff51
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583663"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934169"
 ---
 # <a name="whats-new-may-2021---project-operations-lite-deployment"></a>Нововъведения от май 2021 г. – олекотено внедряване на Project Operations
 
 _Прилага се за: Олекотено внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
    - Project Operations в среда на Dataverse, версия 4.10.0.186.
 

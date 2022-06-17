@@ -1,6 +1,6 @@
 ---
 title: Непотвърдена резервация на ресурс
-description: Тази тема предоставя информация за това как да планирате временно или да направите непотвърдена резервация на членове на екип по проект.
+description: Тази статия предоставя информация за това как да се планира тленно или мека книга проект членове на екипа.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -11,12 +11,12 @@ audience: Admin
 search.app:
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7940409db69259785268778b6f6b0b67f4b2812d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6c666e5c0a83a3d1b440144a62cbd58a58c5db81
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577959"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929109"
 ---
 # <a name="soft-book-a-resource"></a>Непотвърдена резервация на ресурс
 

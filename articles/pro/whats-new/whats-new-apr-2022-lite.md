@@ -1,24 +1,24 @@
 ---
 title: Нововъведения от април 2022 г. – олекотено внедряване на Project Operations
-description: Тази тема предоставя информация за актуализациите на качеството, които са налични в април 2022 издание на Microsoft Dynamics 365 Project Operations lite разполагане.
+description: Тази статия предоставя информация за актуализациите на качеството, които са налични в април 2022 издание на Microsoft Dynamics 365 Project Operations lite разполагане.
 author: sigitac
 ms.date: 04/08/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 6f75d75e57d6a6396b0148f0449899735089b06a
-ms.sourcegitcommit: 9916f536a71b6a0078297402564ac79308ec6890
+ms.openlocfilehash: 6d6fc52d535244b339e43f88e85797a957d98b89
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "8613313"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927453"
 ---
 # <a name="whats-new-april-2022---project-operations-lite-deployment"></a>Нововъведения от април 2022 г. – олекотено внедряване на Project Operations
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Тази тема се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
+Тази статия се отнася за следните компоненти и версии на Microsoft Dynamics 365 Project Operations:
 
 - Операции на проекта в Dataverse среда версия 4.41.0.45
 

@@ -1,17 +1,17 @@
 ---
 title: Регистрация за пробни версии на Project Operations
-description: Тази тема предоставя информация за това как да внедрите пробна версия на Dynamics 365 Project Operations.
+description: Тази статия предоставя информация как да разположите пробна версия на Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: a0c2532370c99cfe75b54da42c329f5b244a47e7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
+ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584261"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "8959614"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Регистрация за пробни версии на Project Operations 
 
@@ -19,9 +19,9 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 
 
-Тази тема обяснява как да се абонирате за офертата за партньор за визуализация и да внедрите среда на Dynamics 365 Project Operations.
+Тази статия обяснява как да се абонирате за офертата за партньор за визуализация и да разположите Dynamics 365 Project Operations среда.
 
-С новата пробна версия на Project Operations можете автоматично да разгърнете всеки от трите поддържани сценария за разгръщане, като попълните въпросник, който препоръчва най -добрия подход за внедряване. Тази тема предоставя информация за това как да:
+С новата пробна версия на Project Operations можете автоматично да разгърнете всеки от трите поддържани сценария за разгръщане, като попълните въпросник, който препоръчва най -добрия подход за внедряване. Тази статия предоставя информация как да:
 
 - Осребрете пробната си оферта.
 - Инициирайте осигуряването.
@@ -89,8 +89,9 @@ _**Приложимо за:** Project Operations за сценарии, бази
 4.  Изберете съответния Microsoft Dataverse URL адрес и URL адресите на приложенията "Финанси и операции", за да валидирате разполагането.
 
 ## <a name="configuring-dual-write"></a>Конфигуриране на двукратно записване
-- За да конфигурирате права за достъп за двойно записване, вижте [Актуализиране на настройките за защита на Project Operations в Dataverse](resource-provision-new-environment.md).
-- За да конфигурирате карти с двойно записване, вижте [Изпълнение на проектни операции карти с двойно записване](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
+- За да конфигурирате права за достъп за двойно записване, вижте [Актуализиране на настройките за защита на Project Operations в Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
+- За достъп до конфигурация с двойно записване навигирайте до екземпляр "Финанси и операции", след което навигирайте до **"Двойно записване" за управление на** > **данни**.
+- За да конфигурирате карти с двойно записване, вижте [Изпълнение на проектни операции карти с](resource-provision-new-environment.md#run-project-operations-dual-write-maps) двойно записване.
 
 ## <a name="assign-licenses"></a>Присвояване на лицензи
 

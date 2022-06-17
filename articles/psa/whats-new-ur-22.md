@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 22, V3
-description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 22, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в Project Service автоматизация актуализация издание 22, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 07/28/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2718509a21c76c12427ec1d78e287df2274f4d72
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 733ee6e0d3583f21d0f58f9651920be3e3fd8cb0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588769"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930627"
 ---
 # <a name="project-service-automation-update-release-22-v3"></a>Project Service Automation, издание на актуализация 22, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588769"
 
 С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 22. Тази версия има номер на компилацията V 3.10.33.48 и е общодостъпна чрез самоактуализация от юни 2020 г.
+Тази статия изброява функциите и корекциите, които са нови или променени за Project Service Автоматизация V3, Актуализация издание 22. Тази версия има номер на компилацията V 3.10.33.48 и е общодостъпна чрез самоактуализация от юни 2020 г.
 
 ## <a name="update-release-22"></a>Издание на актуализация 22
 

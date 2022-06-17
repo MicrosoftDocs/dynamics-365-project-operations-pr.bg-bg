@@ -1,23 +1,23 @@
 ---
 title: Конфигуриране на параметрите за управление на разходите
-description: Тази тема описва параметрите, които контролират общото поведение в управлението на разходите.
+description: Тази статия описва параметрите, които контролират общото поведение в управлението на разходите.
 author: suvaidya
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: suvaidya
-ms.openlocfilehash: bbaabd34d8f4af5dbcaff507fbb9f8de79355aa4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6432e119f38071b028c013561bab99820778a11d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577131"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931455"
 ---
 # <a name="configure-expense-management-parameters"></a>Конфигуриране на параметрите за управление на разходите
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Тази тема описва параметрите, които контролират общото поведение в управлението на разходите.
+Тази статия описва параметрите контрола общото поведение в управлението на разходите.
 
 ## <a name="general"></a>Обща информация
 

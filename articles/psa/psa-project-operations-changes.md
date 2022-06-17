@@ -1,6 +1,6 @@
 ---
-title: Промени в функциите от автоматизация на услугата за проекти към операции по проекта
-description: Тази тема предоставя общ преглед на промените на функциите от Project Service Automation на Dynamics 365 Project Operations.
+title: Промени на функции от Project Service Automation до Project Operations
+description: Тази статия предоставя общ преглед на промените на функциите от Project Service Automation в Dynamics 365 Project Operations.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2022
@@ -16,16 +16,16 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7e41b381d6da267f58174305f33fc229c66cd7b7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595393"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925337"
 ---
-# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Промени в функциите от автоматизация на услугата за проекти към операции по проекта
+# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Промени на функции от Project Service Automation до Project Operations
 
-Надстройката от Dynamics 365 Project Service Automation до Dynamics 365 Project Operations Lite ще бъде доставена в три фази. Тази тема предоставя информация за основните промени, които можете да очаквате да видите, когато надстройката приключи.
+Надстройката от Dynamics 365 Project Service Automation до Dynamics 365 Project Operations Lite ще бъде доставена в три фази. Тази статия предоставя информация за основните промени, които можете да очаквате да видите, когато надстройката завърши.
 
 | Ъпгрейд доставка | Фаза 1 <br>(януари 2022 г.) | Фаза 2 <br>(Април вълна 2022) | Фаза 3  |
 |------------------|------------------------|---------------------------|---------------------------|

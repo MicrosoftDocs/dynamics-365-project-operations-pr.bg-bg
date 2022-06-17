@@ -1,17 +1,17 @@
 ---
 title: Управление на натрупване на фактуриране по проект
-description: Тази тема предоставя информация за различните изгледи, достъпни за използване при управление на натрупването на фактури по проекти.
+description: Тази статия предоставя информация за различните изгледи, налични за използване при управление на изоставането при фактуриране на проекти.
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b3a90d50fcca8824db10594352cbd1e204665c53
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f2e68449a8f1a0da62850454fb8ae56daffbab0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578128"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930075"
 ---
 # <a name="manage-project-billing-backlog"></a>Управление на натрупване на фактуриране по проект 
 

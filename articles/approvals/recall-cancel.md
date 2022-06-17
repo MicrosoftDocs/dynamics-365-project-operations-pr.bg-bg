@@ -1,19 +1,19 @@
 ---
-title: Припомняне на предварително одобрени записи
-description: Тази тема обяснява как член на екипа на проекта може да поиска иззеване на предварително подадени и одобрени записи за време, разходи и използване на материали, както и как ръководител на проекта може да одобри или отхвърли заявките за иззетие.
+title: Оттегляне на предишно одобрени записи
+description: В тази статия се обяснява как член на екипа на проекта може да поиска иззеване на предварително подадени и одобрени записи за време, разходи и използване на материали, както и как ръководител на проект може да одобри или отхвърли заявките за отзове.
 author: rumant
 ms.date: 01/31/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 18796e803ff73806aaa60b453048ee3160406b40
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 54fc7ac2301a4423ebf70b0b67ad489580c347b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586561"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930351"
 ---
-# <a name="recall-previously-approved-entries"></a>Припомняне на предварително одобрени записи
+# <a name="recall-previously-approved-entries"></a>Оттегляне на предишно одобрени записи
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 

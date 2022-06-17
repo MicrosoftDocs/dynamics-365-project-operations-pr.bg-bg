@@ -1,24 +1,24 @@
 ---
 title: Какво е ново или променено в Project Operations от май 2021 за сценарии, базирани на наличност/производство
-description: Тази тема предоставя информация за актуализациите на качеството, налични в изданието на Project Operations от май 2021 г. за складови/производствени сценарии.
+description: Тази статия предоставя информация за актуализациите на качеството, налични в изданието от май 2021 г. на Project Operations за заредени/производствени базирани сценарии.
 author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 701ed791dce2dd0f7d196810de7538c65cb99d93
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ec1f256e77bad581bb415611260809e377dc38e8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586285"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927131"
 ---
 # <a name="whats-new-or-changed-in-project-operations-may-2021-for-stockedproduction-based-scenarios"></a>Какво е ново или променено в Project Operations от май 2021 за сценарии, базирани на наличност/производство
 
 **Приложимо за:** Project Operations за сценарии, базирани на наличност/производство
 
-Тази тема се отнася за следните компоненти и версии на Dynamics 365 Project Operations:
+Тази статия се отнася за следните Dynamics 365 Project Operations компоненти и версии:
 
 - Управление на проекти и счетоводство в Dynamics 365 Finance среда версия 10.0.19
  

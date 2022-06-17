@@ -1,17 +1,17 @@
 ---
 title: Работа с базирани на проект аспекти на договор
-description: Тази тема предоставя информация за базирани на проект аспекти на договор.
+description: Тази статия предоставя информация за редове от договори, базирани на проекти.
 author: rumant
 ms.date: 10/28/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f67c0447c0b2a23d6f7d03dfc5ac7800943bbf36
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 055c34c96eec0f4eee1b8e17d989d22c4752787d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595163"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931961"
 ---
 # <a name="work-with-projectbased-contract-lines"></a>Работа с базирани на проект аспекти на договор
 

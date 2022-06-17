@@ -1,6 +1,6 @@
 ---
 title: Промени в обектите, контролите и потребителския интерфейс (Project Service Automation 3.x)
-description: Тази тема описва промените в решението за Microsoft Dynamics Project Service Automation 3.x.
+description: Тази статия се описва решение промени за Microsoft Dynamics Project Service автоматизация 3.x.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,19 +15,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: da43e0d15e655977c0c1be7348192a0189a56a6c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f54d263666c4fb999464f98c0138fc008dbbbd2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597555"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926855"
 ---
 # <a name="entity-control-and-user-interface-changes-project-service-automation-3x"></a>Промени в обектите, контролите и потребителския интерфейс (Project Service Automation 3.x)
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 
-В изданието на Microsoft Dynamics Project Service Automation (PSA) 3.x са направени много промени в обектите, контролите, изгледите и потребителския интерфейс. Тази тема предоставя информация относно тези важни промени.
+В изданието на Microsoft Dynamics Project Service Automation (PSA) 3.x са направени много промени в обектите, контролите, изгледите и потребителския интерфейс. Тази статия предоставя информация за тези важни промени.
 
 ## <a name="parent-child-relationships-for-sales-document-sales-document-line-sales-document-line-detail-entities"></a>Родителски-дъщерни релации за обектите документ за продажба, ред на документ за продажба, подробности за ред на документ за продажба
 Във версиите на Dynamics 365 Project Service Automation (PSA), публикувани преди версия 3.0, някои от релациите между обектите документи за продажби, редове на документи за продажби и подробности за ред на документ за продажби се изпълняваха чрез полета от низов тип, които съхраняваха представяне на низ на GUID на свързания обект. Това се дължи на ограничения на платформата, които изискваха значителен персонализиран код от страната на сървъра и на клиента на решението, за да могат тези релации да работят, подобно на типичните релации между обекти в Dynamics CRM, и полетата от низов тип да функционират като справочни полета.

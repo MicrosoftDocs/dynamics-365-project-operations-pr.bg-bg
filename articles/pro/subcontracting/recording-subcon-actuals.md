@@ -1,17 +1,17 @@
 ---
 title: Записване на използване на време, разходи и материали за компоненти на подизпълнение
-description: Тази тема обяснява как времето, разходите и използването на материали, записани на проекти от компоненти на подизпълнители, се проследяват от Microsoft Dynamics 365 Project Operations.
+description: Тази статия обяснява как времето, разходите и използването на материали, записани на проекти от компоненти на подизпълнители, се проследяват от Microsoft Dynamics 365 Project Operations.
 author: rumant
 ms.date: 12/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 5a31b4a1092cc4829cbfc789e8b8e30030b2826b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 1c05b941fb51c8b56422e3b5d3868c9b69197187
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599211"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927637"
 ---
 # <a name="recording-time-expenses-and-material-usage-on-projects-for-subcontracted-components"></a>Време за запис, разходи и използване на материали по проекти за компоненти на подизпълнители
 
@@ -19,7 +19,7 @@ ms.locfileid: "8599211"
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Тази тема обяснява как времето, разходите и използването на материали, записани на проекти от компоненти на подизпълнители, се проследяват от Microsoft Dynamics 365 Project Operations.
+Тази статия обяснява как времето, разходите и използването на материали, записани на проекти от компоненти на подизпълнители, се проследяват от Microsoft Dynamics 365 Project Operations.
 
 ## <a name="costing-for-subcontractor-time-on-projects"></a>Разходи за времето на подизпълнител по проекти
 В Project Operations работниците по договори могат да записват време по проекти по подобен начин като служителите. При въвеждане на време по проекти и/или проектни задачи, работник на договор може да избере конкретен ред за подизпълнение и подизпълнение.

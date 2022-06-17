@@ -1,6 +1,6 @@
 ---
 title: Планиране и проследяване на проекти
-description: Тази тема предоставя връзка към информация относно планирането и проследяването в Project Service Automation.
+description: Тази статия предоставя връзка към информация за планиране и проследяване в Project Service Automation.
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 781e5afb30f5f3e7d81084c5f9bdb0c8ab200d9b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b10a9b2f636b05955783c320597673fa7d24e131
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589873"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933249"
 ---
 # <a name="project-planning-and-tracking"></a>Планиране и проследяване на проекти
 
@@ -32,7 +32,7 @@ ms.locfileid: "8589873"
 
 Приложението Project Service помага на организациите за услуги да идентифицират възможности, да подават оферти, да постигат договорни споразумения, да управляват ресурси, да проследяват време и разходи, да фактурират клиенти и да доставят проекти навреме и в рамките на бюджета. 
 
-Връзката към PDF файла, която преди беше в тази тема, е премахната и съдържанието е преместено в следните теми:
+PDF връзката, която преди това е била в тази статия, е премахната и съдържанието е преместено в следните статии:
 
 - [Графици на проекти](../project-creating.md)
 - [Разходи и приходи на проекти](../project-estimating.md)
@@ -43,7 +43,7 @@ ms.locfileid: "8589873"
 - [Настройки на проекти](../project-settings.md)
 
 > [!NOTE]
-> Тази тема ще бъде премахната в бъдеща актуализация на документацията. 
+> Тази статия ще бъде премахната в бъдеща актуализация на документацията. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

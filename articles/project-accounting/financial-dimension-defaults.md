@@ -1,17 +1,17 @@
 ---
 title: Стойности по подразбиране за финансово измерение
-description: Тази тема предоставя информация за това как да настроите финансовите измерения по подразбиране.
+description: Тази статия предоставя информация как да настроите по подразбиране за финансови нива на аналитичност.
 author: sigitac
 ms.date: 12/14/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9f43fed57a1411a55dcd7929f34e87aed136a6b5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 10d9e0d739ac1b7681e2e77ec651daf3da8316ff
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579477"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931041"
 ---
 # <a name="financial-dimension-defaults"></a>Стойности по подразбиране за финансово измерение
 

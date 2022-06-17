@@ -1,19 +1,19 @@
 ---
-title: Потвърждаване на фактура за доставчик на проект
-description: Тази тема обяснява как да потвърдите фактура за доставчик на проект в Microsoft Dynamics 365 Project Operations и финансовото въздействие на потвърждаването на фактура на доставчик на проект.
+title: Потвърждение на фактура на доставчик по проект
+description: Тази статия обяснява как да потвърдите фактура за доставчик на проект в Microsoft Dynamics 365 Project Operations и финансовото въздействие на потвърждаване на фактура за доставчик на проект.
 author: rumant
 ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c248b3baec6d3f14a020e4fa93f3dad50c65b263
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 092b3cd5981f7d9bb8767c7a2acb2f4952801d06
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595715"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932421"
 ---
-# <a name="confirm-a-project-vendor-invoice"></a>Потвърждаване на фактура за доставчик на проект
+# <a name="confirm-a-project-vendor-invoice"></a>Потвърждение на фактура на доставчик по проект
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

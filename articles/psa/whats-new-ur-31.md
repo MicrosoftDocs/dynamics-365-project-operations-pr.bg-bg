@@ -1,6 +1,6 @@
 ---
 title: Какво е новото или промененото в Project Service Automation, издание на актуализация 31, V3
-description: Тази тема изброява функциите и корекциите, които са налични в Project Service Automation V3, издание на актуализация 31, V3.
+description: Тази статия изброява функциите и корекциите, които са налични в project Service автоматизация актуализация издание 31, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/26/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 70a8bd381c27c9a3dd3b33c582e5616fad280e95
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8d62b12a5363637e46b29c2e9edf4e1f17da729f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586745"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925015"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-31-v3"></a>Какво е новото или промененото в Project Service Automation, издание на актуализация 31, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8586745"
 
 С удоволствие съобщаваме за най-новата актуализация на приложението Project Service Automation за Dynamics 365. Тази версия включва някои важни подобрения в качеството, производителността и използваемостта. Това издание е съвместимо с Dynamics 365 9.x. За да актуализирате до това издание, посетете центъра за администрация на Dynamics 365 Online на страницата с решения и инсталирайте актуализацията. За повече информация вижте: [Инсталиране, актуализиране или премахване на предпочитано решение](/power-platform/admin/install-remove-preferred-solution).
 
-Тази тема изброява функциите и корекциите, които са нови или променени за Project Service Automation V3, издание на актуализация 31. Тази версия има номер на компилацията V3.10.52.77 и е общодостъпна чрез самоактуализация от май 2021 г.
+Тази статия изброява функциите и корекциите, които са нови или променени за Project Service Автоматизация V3, Актуализация издание 31. Тази версия има номер на компилацията V3.10.52.77 и е общодостъпна чрез самоактуализация от май 2021 г.
 
 ## <a name="update-release-31"></a>Издание на актуализация 31
 

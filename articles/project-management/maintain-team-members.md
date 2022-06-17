@@ -1,17 +1,17 @@
 ---
 title: Поддръжка на членовете на екипа
-description: Тази тема предоставя информация за резервиране на наименувани ресурси за екипи на проекти и присвояването им към задачи.
+description: Тази статия предоставя информация за резервиране на име ресурси на екипи проекти и възлагането им на задачи.
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 7c7b2f45c56289c46cfa8f79c0704a7085f6db3a
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6ab1541cc79870fcab9dbce45073e6b5a7bb0133
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575387"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933433"
 ---
 # <a name="maintain-team-members"></a>Поддръжка на членовете на екипа
 

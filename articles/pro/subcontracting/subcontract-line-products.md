@@ -1,17 +1,17 @@
 ---
 title: Редове за подизпълнение за продукти
-description: Тази тема обяснява как да записвате линии на подизпълнители за продукти и да използвате различните полета, за да записвате покупки на продукти от доставчици.
+description: Тази статия обяснява как да записвате редове от подизпълнители за продукти и да използвате различните полета, за да записвате покупки на продукти от доставчици.
 author: rumant
 ms.date: 08/06/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 71e4a48c3d29d7ea5b015f6c6797da60001fccff
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ff9636f86102fa671a443d7646614070b3e2ee79
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579060"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934353"
 ---
 # <a name="subcontract-lines-for-products"></a>Редове за подизпълнение за продукти
 

@@ -1,19 +1,19 @@
 ---
-title: Редове от фактура за доставчик за етапни цели
-description: Тази тема обяснява как да създадете редове от фактура за доставчик за етапни цели на подизпълнение.
+title: Редове на фактури на доставчик за контролни точки
+description: Тази статия обяснява как да създадете редове от фактура на доставчик за етапни цели на договор за подизпълнение.
 author: rumant
 ms.date: 03/25/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 4fa11e2a4f459016b3ce141b03fe97e55c9a2759
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 212d68c32e712ac2349d1670f9e799bcc5144148
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590609"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931317"
 ---
-# <a name="vendor-invoice-lines-for-milestones"></a>Редове от фактура за доставчик за етапни цели
+# <a name="vendor-invoice-lines-for-milestones"></a>Редове на фактури на доставчик за контролни точки
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

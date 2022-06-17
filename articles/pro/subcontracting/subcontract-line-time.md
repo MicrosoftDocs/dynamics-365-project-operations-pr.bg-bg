@@ -1,17 +1,17 @@
 ---
 title: Редове за подизпълнение за време
-description: Тази тема обяснява как да записвате линии на подизпълнители за време и да записвате закупуването на време от доставчици.
+description: Тази статия обяснява как да записвате редове от подизпълнители за време и да записвате покупката на време от доставчици.
 author: rumant
 ms.date: 08/05/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c1adc1e88369e9f60548ed69b5950070d5f10c57
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0295ddd1b36eef9289110c4fe7b51397d81320d6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595669"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925935"
 ---
 # <a name="subcontract-lines-for-time"></a>Редове за подизпълнение за време
 

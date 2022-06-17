@@ -1,19 +1,19 @@
 ---
-title: Редове от фактура за доставчик за категории разходи
-description: Тази тема обяснява как да записвате редовете от фактури на доставчика за категории разходи.
+title: Редове на фактура на доставчик за категории на разход
+description: Тази статия обяснява как да записвате редове от фактури на доставчик за категории разходи.
 author: rumant
 ms.date: 03/25/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 209460680c9e5c2e39f98ba5c48aa18992775db1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3ffad20b53344221ead9b6850ecdc1efd48d5b13
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579523"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925848"
 ---
-# <a name="vendor-invoice-lines-for-expense-categories"></a>Редове от фактура за доставчик за категории разходи
+# <a name="vendor-invoice-lines-for-expense-categories"></a>Редове на фактура на доставчик за категории на разход
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

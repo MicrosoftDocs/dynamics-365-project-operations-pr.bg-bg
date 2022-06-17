@@ -1,6 +1,6 @@
 ---
 title: Начална страница за офериране, ценообразуване и фактуриране
-description: Тази тема предоставя информация за офериране, ценообразуване и фактуриране.
+description: Тази статия предоставя информация за цитиране, ценообразуване и фактуриране.
 author: rumant
 ms.author: rumant
 ms.custom:
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 09be2e3ed2bb17374f5d5151abf4ce7e5e2530a1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ef63d48703059bac8cadf3b12ecb025ae103d44d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581087"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926717"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>Начална страница за офериране, ценообразуване и фактуриране
 
@@ -33,7 +33,7 @@ ms.locfileid: "8581087"
 
 Офериране, ценообразуване и фактуриране са функции, които се използват от малки и големи организации. Чрез разбирането как тези функции работят в приложението организациите могат по-лесно да персонализират конфигурации.
 
-Следните теми предоставят повече информация относно функционалността за офериране, ценообразуване и фактуриране в PSA:
+Следните статии предоставят повече информация за функционалността за цитиране, ценообразуване и фактуриране в PSA:
 
 - [Продажбен процес](basic-sales-process.md)
 - [Редове на оферти](basic-quote-lines.md)

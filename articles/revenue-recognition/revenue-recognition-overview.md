@@ -1,23 +1,23 @@
 ---
 title: Общ преглед на признаването на приходите
-description: Тази тема предоставя информация за признаването на приходите в Project Operations.
+description: Тази статия предоставя информация за признаване на приходи в Project Operations.
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 51c553ecf45452615cbcadce6386f32be427acaa
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 22486693226256f765589b272e6df36aceaf9c1c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601419"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926257"
 ---
 # <a name="revenue-recognition-overview"></a>Общ преглед на признаването на приходите
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-В Dynamics 365 Project Operations принципите за признаване на приходите варират в зависимост от избрания метод за фактуриране за проект или част от проекта. Тази тема предоставя информация за признаването на приходите в Project Operations.
+В Dynamics 365 Project Operations принципите за признаване на приходите варират в зависимост от избрания метод за фактуриране за проект или част от проекта. Тази статия предоставя информация за признаване на приходи в Project Operations.
 
 ## <a name="transactions-accounted-using-time-and-material-billing-method"></a>Трансакции, отчетени с метода за фактуриране на време и материали
 

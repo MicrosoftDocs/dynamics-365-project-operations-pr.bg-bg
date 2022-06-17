@@ -1,6 +1,6 @@
 ---
 title: Преглед на натрупаните фактури за проекти и договори по проекти
-description: Тази тема предоставя информация за това как да преглеждате натрупванията на време, разходи и продукти и как да ги маркирате като готови за фактуриране.
+description: Тази статия предоставя информация как да прегледате времето, разходите и продуктовите изоставания и как да ги маркирате като готови за фактуриране.
 author: rumant
 ms.custom: ''
 ms.author: rumant
@@ -15,12 +15,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 51a7ecfefcc20544f5be378a347e3568285cafb3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 833ace7fd6285191f4b023a029286cd36b5de8f4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600545"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928879"
 ---
 # <a name="review-the-invoicing-backlog-on-projects-and-project-contracts"></a>Преглед на натрупаните фактури за проекти и договори по проекти
 
@@ -28,7 +28,7 @@ ms.locfileid: "8600545"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Когато дадена транзакция е готова за създаване и обработка на фактура, транзакцията трябва да бъде маркирана като **Готово за фактуриране**. Тази тема описва типовете транзакции, които могат да бъдат създадени.
+Когато дадена транзакция е готова за създаване и обработка на фактура, транзакцията трябва да бъде маркирана като **Готово за фактуриране**. Тази статия описва видовете транзакции, които могат да бъдат създадени.
 
 ## <a name="review-the-time-and-material-billing-backlog"></a>Преглед на натрупването на време и материали за фактуриране
 

@@ -1,25 +1,25 @@
 ---
-title: Подробни данни за заглавния блок за фактурите на доставчика
-description: Тази тема обяснява функционалността, която е предоставена в заглавния блок на фактурата на доставчика в Microsoft Dynamics 365 Project Operations.
+title: Подробности за заглавка на фактури на доставчик
+description: Тази статия обяснява функционалността, която е предоставена в заглавния блок на фактурата на доставчика в Microsoft Dynamics 365 Project Operations.
 author: rumant
 ms.date: 03/25/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 17be106d5486358ff0bbf011af3da26a4c85a274
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 95f84f2d2a357abbd8d507705412a0434b44f658
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575567"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929845"
 ---
-# <a name="header-details-for-vendor-invoices"></a>Подробни данни за заглавния блок за фактурите на доставчика
+# <a name="header-details-for-vendor-invoices"></a>Подробности за заглавка на фактури на доставчик
 
 [!include [banner](../../includes/dataverse-preview.md)]
 
 _**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
-Тази тема обяснява функционалността, която е предоставена в заглавния блок на фактурата на доставчика в Microsoft Dynamics 365 Project Operations.
+Тази статия обяснява функционалността, която е предоставена в заглавния блок на фактурата на доставчика в Microsoft Dynamics 365 Project Operations.
 
 Тъй като ръководителите на проекти планират и изпълняват проекти, те може да наемат подизпълнители и да закупят продукти и услуги от доставчици. По време на изпълнението на проект разходите се извършват от категории услуги, материали и разходи, които се набавят на подизпълнители с доставчици. Доставчиците фактурира тези разходи на проекти чрез създаване на доставчика фактури.
 

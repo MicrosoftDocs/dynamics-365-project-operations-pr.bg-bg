@@ -1,6 +1,6 @@
 ---
 title: Синхронизиране на категории разходи за проекти между финанси и операции и автоматизация на услугата на проекта
-description: Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на категории разходи за проекти между Microsoft Dynamics 365 Финанси и Dynamics 365 Project Service Automation.
+description: Тази статия описва шаблоните и основните задачи, които се използват за синхронизиране на категории разходи за проекти между Microsoft Dynamics 365 Финанси и Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: c5513285c8beb96e2aa8b9c67ebde38b3c938edd
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 630c4fa7a159aa46b46984736080cd007d519a6c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685457"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927223"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Синхронизиране на категории разходи за проекти между финанси и операции и автоматизация на услугата на проекта
 
 [!include[banner](../includes/banner.md)]
 
-Тази тема описва шаблоните и основните задачи, които се използват за синхронизиране на категориите разходи за проекти между Dynamics 365 Finance и Dynamics 365 Project Service Automation.
+Тази статия описва шаблоните и основните задачи, които се използват за синхронизиране на категории разходи за проекти между Dynamics 365 Finance и Dynamics 365 Project Service Automation.
 
 > [!NOTE]
 > - Интеграция на проектни задачи, категории транзакции, прогнози за часове, оценки на разходите и заключване на функционалността е налична във версия 8.0.

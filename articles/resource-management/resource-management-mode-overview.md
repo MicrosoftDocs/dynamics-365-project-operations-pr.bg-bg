@@ -1,17 +1,17 @@
 ---
 title: Общ преглед на режими на управление на ресурси
-description: Тази тема предоставя информация за функционалността за управление на ресурс в Dynamics 365 Project Operations.
+description: Тази статия предоставя информация за функционалността за управление на ресурси в Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: f30bac95b2beb92345cbe25332963c58d2bde4bb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: dd50d12686a6ad17f6a95ccf0c2f1447cc470bf7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585043"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928419"
 ---
 # <a name="resource-management-modes-overview"></a>Общ преглед на режими на управление на ресурси
 
@@ -38,7 +38,7 @@ Dynamics 365 Project Operations поддържа два режима, за да 
 
 ![Хибриден режим.](./media/resource-management-hybrid.png)
 
-В допълнение към процеса на поддържан централен режим, вижте следните теми за управление на всички други поддържани потоци на резервации в хибриден режим:
+В допълнение към поддържания процес на централен режим вижте следните статии, за да управлявате всички други поддържани потоци от резервации в режим Хибрид:
 
 Резервиране на ресурс директно към проект:
 - [Резервиране на наименувани налични ресурси в екип по проект и присвояване на задачи](/dynamics365/project-service/assign-named-bookable-resource)

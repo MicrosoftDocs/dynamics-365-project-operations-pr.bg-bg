@@ -1,6 +1,6 @@
 ---
 title: Използване на добавката за Project Service за планиране на работата в Microsoft Project | MicrosoftDocs
-description: Тази тема предоставя информация за това как да добавите, конфигурирате и използвате добавката Microsoft Project за Microsoft Project Service.
+description: Тази статия предоставя информация за това как да добавяте, конфигурирате и използвате добавката на Microsoft Project за услугата за проекти на Microsoft.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
-ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
+ms.openlocfilehash: d286adfdffa6a0b5f0c96eb14be588c6cedb80c2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/07/2022
-ms.locfileid: "8727945"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925521"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Използвайте добавката Project Service Automation за планиране на работата в Microsoft Project
 
