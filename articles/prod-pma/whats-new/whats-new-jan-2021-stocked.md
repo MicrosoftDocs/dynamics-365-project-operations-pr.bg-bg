@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 84a49994267d0c070769090f9fce9c6a969c98be
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 210ef2bf0316c5e88c287052f739e438f3796c5b
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8923911"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029425"
 ---
 # <a name="whats-new-or-changed-in-project-operations-january-2021-for-stockedproduction-based-scenarios"></a>Какво е новото или промененото през януари 2021 г. в Project Operations за сценарии, базирани на наличност/производство
 
@@ -142,7 +142,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Пътуване и разход                  | [525106](https://fix.lcs.dynamics.com/Issue/Details/?bugId=525106) | В Project Operations времето с вътрешнофирмени задачи през Dataverse не може да бъде създаден или одобрен.                                                                                                                                                                                             |
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно регулаторни актуализации за приложения "Финанси и операции" вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно регулаторни актуализации за приложения за финанси и операции вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също да влезете в LCS и да прегледате планираните нормативни актуализации с помощта на инструмента за търсене на издания. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

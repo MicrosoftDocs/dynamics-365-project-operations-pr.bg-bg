@@ -1,6 +1,6 @@
 ---
-title: Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във "Финанси и операции"
-description: Тази статия описва шаблоните и основните задачи, които се използват за синхронизиране на проект действителни директно от Microsoft Dynamics 365 Project Service Automation към Финанси и операции.
+title: Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във финанси и операции
+description: Тази статия описва шаблоните и основните задачи, които се използват за синхронизиране на проект действителни директно от Microsoft Dynamics 365 Project Service Automation за финансиране и операции.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,14 +14,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 7d912a11d9c7bc66ed43911ee32f25092d551cd6
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 34a0a0f7277777895077d221cd95e8d962d2a902
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8929477"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028965"
 ---
-# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във "Финанси и операции"
+# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизиране на действителните данни за проекта директно от Project Service Automation към дневника за интегриране на проекти за осчетоводяване във финанси и операции
 
 [!include[banner](../includes/banner.md)]
 
@@ -41,7 +41,7 @@ ms.locfileid: "8929477"
 
 Следващата илюстрация показва как данните се синхронизират между Project Service Automation и Finance.
 
-[![Поток от данни за интегриране на Project Service Automation с финанси и операции.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Поток от данни за интеграция на Project Service Automation с финанси и операции.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Действителни данни на проекта от Project Service Automation
 

@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: df9a68c5a12e6aec140867eb1db3d88279c05795
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: c04d0465f5f7dd43ba50d4c0d2937b45fed6df86
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8933617"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028827"
 ---
 # <a name="whats-new-or-changed-in-project-operations-july-2021-for-stockedproduction-based-scenarios"></a>Какво е ново или променено в Project Operations от юли 2021 за сценарии, базирани на наличност/производство
 
@@ -64,7 +64,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 | Пътуване и разход                  | [523557](https://fix.lcs.dynamics.com/Issue/Details/?bugId=523557) | Инструментът **Нулиране на състоянието на документа за разходи** трябва да възстанови състоянието на отчета за разходите на **Чернова**, ако работният процес не е намерен. 
 
 ### <a name="regulatory-updates"></a>Нормативни актуализации
-За информация относно регулаторни актуализации за приложения "Финанси и операции" вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също така да влезете в Lifecycle Services (LCS) и да видите планираните регулаторни актуализации с помощта на инструмента за търсене на проблеми. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
+За информация относно регулаторни актуализации за приложения за финанси и операции вижте [Регулаторни актуализации](/dynamics365/finance/localizations/regulatory-updates). Можете също така да влезете в Lifecycle Services (LCS) и да видите планираните регулаторни актуализации с помощта на инструмента за търсене на проблеми. Търсенето на издания ви позволява да търсите по държава, тип функция и издание.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -6,16 +6,16 @@ ms.date: 03/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6902d22c7bd4b422466c924ee6473146b036caa5
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: af89996fcaca9823d32e84e10ce6d29ead4f3d6d
+ms.sourcegitcommit: 95dacb0e74fa8970f56fdb1cbaa915d3fbec6e0f
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8929937"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "9023600"
 ---
 # <a name="manage-project-price-lists-on-project-quotes"></a>Управление на ценови листи на проект в оферти по проект 
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Олекотено внедряване – сделка към проформа фактуриране, Project Operations за сценарии, базирани на ресурси / без складови наличности_
 
 Проектните оферти са предназначени да поддържат ефективни ценови списъци с множество дати. С помощта на Dynamics 365 Project Operations се добавя нов асоцииран обект, наречен **Проектни ценови листи**. Този обект има отношение 1 към много към офертата за проект.
 

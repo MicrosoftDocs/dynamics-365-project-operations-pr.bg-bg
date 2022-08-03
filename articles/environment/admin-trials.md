@@ -6,12 +6,12 @@ ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.openlocfilehash: 6a6986cfd6c01d1c22d37a10c8d824730fad2e9e
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959614"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029287"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Регистрация за пробни версии на Project Operations 
 
@@ -86,11 +86,11 @@ _**Приложимо за:** Project Operations за сценарии, бази
  
   Когато предоставянето приключи, състоянието на вашата среда е **Готов**. Осигуряването на средата включва разполагане на демо данни.
  
-4.  Изберете съответния Microsoft Dataverse URL адрес и URL адресите на приложенията "Финанси и операции", за да валидирате разполагането.
+4.  Изберете съответния Microsoft Dataverse URL адрес и URL адресите на приложенията за финанси и операции, за да валидирате разполагането.
 
 ## <a name="configuring-dual-write"></a>Конфигуриране на двукратно записване
 - За да конфигурирате права за достъп за двойно записване, вижте [Актуализиране на настройките за защита на Project Operations в Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
-- За достъп до конфигурация с двойно записване навигирайте до екземпляр "Финанси и операции", след което навигирайте до **"Двойно записване" за управление на** > **данни**.
+- За да получите достъп до конфигурация с двойно записване, Навигирайте до екземпляр на финансиране и операции, след което навигирайте до **"Двойно записване" за управление на** > **данни**.
 - За да конфигурирате карти с двойно записване, вижте [Изпълнение на проектни операции карти с](resource-provision-new-environment.md#run-project-operations-dual-write-maps) двойно записване.
 
 ## <a name="assign-licenses"></a>Присвояване на лицензи
@@ -117,7 +117,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 
 ## <a name="frequently-asked-questions"></a>Често задавани въпроси
 
-### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Какво ще стане, ако изисквам ALM или ELM за моята среда за приложения "Финанси и операции"?
+### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Ами ако изисквам ALM или ELM за моите финанси и операции приложения среда?
 
 - За партньори, които се нуждаят от пълни възможности за управление на жизнения цикъл на околната среда, вижте [Искане за лиценз за партньорска пясъчна кутия](https://experience.dynamics.com/requestlicense) за преглед на новото партньорско предложение. 
 - За партньори, които търсят повече информация за правата за вътрешно ползване, вижте [Облачни и софтуерни ползи за вътрешни права на ползване (microsoft.com)](https://partner.microsoft.com/membership/internal-use-software).

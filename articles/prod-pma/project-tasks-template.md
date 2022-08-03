@@ -1,5 +1,5 @@
 ---
-title: Синхронизиране на проектни задачи директно от автоматизация на project Service до финанси и операции
+title: Синхронизиране на проектни задачи директно от Project Service Automation до финансиране и операции
 description: Тази статия описва шаблона и основната задача, които се използват за синхронизиране на проект задачи директно от Microsoft Dynamics 365 Project Service Automation към Dynamics 365 Finance.
 author: Yowelle
 ms.date: 07/20/2018
@@ -14,14 +14,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 7b8ba77bbb08052952a8a557bb71300652dca3b2
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: ed559fcd9e0e666f68e7d9f4f1fca91417fe4970
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931133"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028296"
 ---
-# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизиране на проектни задачи директно от автоматизация на project Service до финанси и операции
+# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизиране на проектни задачи директно от Project Service Automation до финансиране и операции
 
 [!include[banner](../includes/banner.md)]
 

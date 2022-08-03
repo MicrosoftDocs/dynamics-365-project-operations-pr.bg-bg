@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: df9d8a40fa853e72416e64846bf59748815048be
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: f0fbaed028db11d8fb1551d304a40543faf35b0d
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8921473"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028316"
 ---
 # <a name="removed-or-deprecated-features-in-dynamics-365-project-operations"></a>Премахнати или амортизирани функции в Dynamics 365 Project Operations
 
@@ -26,7 +26,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 Този списък има за цел да ви помогне да разгледате тези премахвания и амортизации за ваше собствено планиране.
 
 > [!NOTE]
-> Подробна информация за обектите в приложенията "Финанси и операции" можете да намерите в [**отчетите за технически справки**](/dynamics/s-e/global/axtechrefrep_61). Можете да сравните различните версии на тези отчети, за да научите за обекти, които са променени или премахнати във всяка версия на приложения "Финанси и операции".
+> Подробна информация за обектите в приложенията за финанси и операции можете да намерите в [**отчетите за технически справки**](/dynamics/s-e/global/axtechrefrep_61). Можете да сравните различните версии на тези отчети, за да научите за обекти, които са променени или са премахнати във всяка версия на приложенията за финанси и операции.
 
 ## <a name="features-removed-or-deprecated-in-the-project-operations-march-2022-release"></a>Функции, премахнати или амортизирани в изданието "Операции по проекта март 2022 г."
 

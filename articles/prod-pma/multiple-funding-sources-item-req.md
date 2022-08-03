@@ -6,12 +6,12 @@ ms.date: 05/04/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a54ca1ec5e78d9d0af7b67914f6a63154c7347d3
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 079856e7cf2ffa9b80ab31ebad1c1b5dbe36a4ad
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931179"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028460"
 ---
 # <a name="item-requirements-for-project-contracts-with-multiple-funding-sources"></a>Изисквания за елементи за договори за проекти с множество източници на финансиране
 
@@ -33,7 +33,7 @@ Contoso е спечелил договор за подновяване на об
 
 ### <a name="prerequisites"></a>Предварителни изисквания
 
-- Microsoft Dynamics 365 Финанси и операции **версия 10.0.27 или по-нова версия** е необходимо да използвате елемент изисквания, които имат няколко сметки фактура.
+- Microsoft Dynamics 365 Финанси **версия 10.0.27 или по-нова версия** е необходимо да използвате елемент изисквания, които имат няколко сметки фактура.
 - Вашият системен администратор трябва да разреши изискванията за **разрешаване на елемент с няколко източника на финансиране за project Operations заредени/ производство базирани сценарии** функция в **работната област за управление на** функции.
 
 ### <a name="set-up-the-invoice-account-defaulting-rules"></a>Настройване на правилата за неизпълнение на акаунта за фактура
