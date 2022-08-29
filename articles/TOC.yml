@@ -62,10 +62,12 @@
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
-        - name: 'Юли 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
-          href: whats-new/whats-new-july-2022-resource-based.md
+        - name: 'Август 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-aug-2022-resource-based.md
         - name: Архив
           items:
+            - name: 'Юли 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+              href: whats-new/whats-new-july-2022-resource-based.md
             - name: 'Юни 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
               href: whats-new/whats-new-june-2022-resource-based.md
             - name: 'Май 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -384,6 +386,42 @@
           items:
             - name: Общ преглед на използването на ресурси
               href: resource-management/resource-utilization-overview.md
+    - name: Управление на подизпълнения
+      items:
+        - name: Управление на подизпълнение в Project Operations
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Ключови концепции при възлагането на подизпълнение
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: Управление на доставчици и ценови листи на проекти
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: Подизпълнители като налични ресурси
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Подробности за заглавието за подизпълнения
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Редове за подизпълнение за време
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Редове за подизпълнение за категории на разход
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Редове за подизпълнение за продукти
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Ресурси на ред за подизпълнение
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Контролни точки на ред за подизпълнение
+          href: pro/subcontracting/subcontract-line-milestones.md
+        - name: Членове на екип по проект за подизпълнение
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: Опция за подизпълнение за членове на екип по проект
+          href: pro/subcontracting/subcon-options.md
+        - name: Оценка на разходите за присвоявания на назначен за подизпълнение ресурс
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: 'Конфигурирайте табло на графика, за да покажете работници по договор и назначен за подизпълнение капацитет'
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: Осигуряване на персонал за проект с помощта на работници по договор и назначен за подизпълнение капацитет
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'Записване на използване на време, разходи и материали за компоненти на подизпълнение'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: Преходи на състояние на подизпълнение
+          href: pro/subcontracting/subcon-states.md
     - name: Време
       items:
         - name: Общ преглед на време
@@ -580,6 +618,8 @@
       items:
         - name: Мигриране на напълно фактурирани контролни точки на фактуриране по време на прекъсване
           href: advanced-configuration/migrating-invoiced-milestones.md
+        - name: 'Синхронизирайте състоянието на проекта, за да предотвратите вписване срещу затворени проекти'
+          href: advanced-configuration/sync-project-status.md
     - name: Надстройка
       items:
         - name: Съображения за надстройка за съвременни одобрения
@@ -610,10 +650,12 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
-        - name: Нововъведения от юли 2022 г. – олекотено внедряване
-          href: pro/whats-new/whats-new-july-2022-lite.md
+        - name: Нововъведения от август 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-aug-2022-lite.md
         - name: Архив
           items:
+            - name: Нововъведения от юли 2022 г. – олекотено внедряване
+              href: pro/whats-new/whats-new-july-2022-lite.md
             - name: Нововъведения от юни 2022 г. – олекотено внедряване
               href: pro/whats-new/whats-new-june-2022-lite.md
             - name: Нововъведения за ранен достъп до вълна 2 за 2021 г. – олекотено внедряване
