@@ -14,12 +14,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-02-28
-ms.openlocfilehash: b4ed85123c92a60c6b6308fda3d9ef2f6693a0dd
-ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.openlocfilehash: 74d3f5377559763e035155bd3f10818076f97ea3
+ms.sourcegitcommit: fcfcedacfea4d6feabacb6b83bb9c14e5a25fcaf
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/18/2022
-ms.locfileid: "9028873"
+ms.lasthandoff: 08/19/2022
+ms.locfileid: "9316974"
 ---
 # <a name="project-mobile-applications-overview"></a>Общ преглед на мобилни приложения по проект
 
@@ -42,9 +42,8 @@ ms.locfileid: "9028873"
 ## <a name="for-more-information"></a>За повече информация
 
 - [Мобилно приложение за времеви лист за проекти](project-timesheet.md)
-- [Времеви запис по проект]( project-time-entry-mobile-workspace.md)
+- [Времеви запис по проект](project-time-entry-mobile-workspace.md)
 - [Разписания на проект на мобилно устройство](Mobile-timesheets.md)
 - [Внедрете персонализирани полета за мобилно приложение Microsoft Dynamics 365 Project Timesheet на iOS и Android](custom-fields-mobile.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
