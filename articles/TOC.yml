@@ -168,9 +168,11 @@
                   href: sales/invoice-schedule-quote-line.md
             - name: Копиране на оферти по проект
               href: sales/lose-quote.md
+            - name: Активиране и преразглеждане на оферта по проект
+              href: sales/activation-and-revision.md
             - name: Затваряне на оферти по проект
               href: sales/win-quote.md
-        - name: Управление на договори по проекти
+        - name: Управление на договори по проект
           items:
             - name: Общ преглед на управлението на договори по проект
               href: pro/sales/manage-contracts-sales.md
@@ -196,8 +198,10 @@
                   href: sales/create-estimate-contract-line.md
                 - name: Импортиране на прогнози от проект в базирани на проект аспекти на договор
                   href: sales/import-estimate-project-contract-line.md
-                - name: Създаване на графици на фактура в базирани на проект аспекти на договор
+                - name: Създаване на графици за фактуриране в базирани на проект аспекти на договор
                   href: sales/invoice-schedules-contract-line.md
+            - name: Управление на базирани на проект договори
+              href: sales/copy-project-based-contracts-sales.md
             - name: Потвърждение на договор по проект
               href: pro/sales/confirm-contract-sales.md
             - name: Суми за аванси и капаро
@@ -228,9 +232,9 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Заместване на ценовите листи за продажби по проект
               href: pricing-costing/override-project-sales-price-list-default.md
-            - name: Разрешаване на себестойности за прогнози и действителни данни
+            - name: Определяне на себестойности за прогнози и действителни данни
               href: pricing-costing/cost-price-resolution.md
-            - name: Разрешаване на продажни цени за прогнози и действителни данни
+            - name: Определяне на продажни цени за прогнози и действителни данни
               href: pricing-costing/sales-price-resolution.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
@@ -760,12 +764,14 @@
                   href: pro/sales/configure-chargeable-components-quote-line-sales.md
                 - name: Прогнозиране на базиран на проект ред на оферта
                   href: pro/sales/create-estimate-quote-line-sales.md
-                - name: Импортиране от оценка от проект
+                - name: Импортиране на оценка от проект
                   href: pro/sales/import-estimate-project-quote-sales.md
-                - name: Управление на графици на фактура
+                - name: Управление на графици на фактуриране
                   href: sales/invoice-schedule-quote-line.md
             - name: Копиране на базирани на проект оферти
               href: sales/lose-quote.md
+            - name: Активиране и преразглеждане на оферта по проект
+              href: sales/activation-and-revision.md
             - name: Затваряне на базирани на проект оферти
               href: pro/sales/win-quote-sales.md
         - name: Управление на базирани на проект договори
@@ -838,9 +844,9 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Заместване на ценовите листи за продажби по проект
               href: pricing-costing/override-project-sales-price-list-default.md
-            - name: Разрешаване на себестойности за прогнозни и действителни данни по проект
+            - name: Определяне на себестойности за прогнозни и действителни данни по проект
               href: pro/pricing-costing/cost-price-resolution-sales.md
-            - name: Разрешаване на продажни цени за прогнозни и действителни данни по проект
+            - name: Определяне на продажни цени за прогнозни и действителни данни по проект
               href: pro/pricing-costing/sales-price-resolution-sales.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
