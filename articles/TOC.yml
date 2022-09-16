@@ -232,9 +232,11 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Заместване на ценовите листи за продажби по проект
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Настройте замествания с дата на влизане в сила за конкретни цени в ценова листа
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Определяне на себестойности за прогнози и действителни данни
               href: pricing-costing/cost-price-resolution.md
-            - name: Определяне на продажни цени за прогнози и действителни данни
+            - name: Определяне на цени за продажби за прогнози и действителни данни
               href: pricing-costing/sales-price-resolution.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
@@ -544,6 +546,14 @@
           href: procurement/pending-vendor-invoices.md
         - name: Поръчване на стоки и услуги за проекти чрез използване на поръчки за покупка по проект
           href: procurement/non-stocked-materials-project-purchase-orders.md
+        - name: Фактури на доставчици за подизпълнения в Dataverse
+          items:
+            - name: Създаване на фактури на доставчик
+              href: procurement/Vendor-invoicing-concept-and-creation.md
+            - name: Проверка на фактури на доставчици с одобрени действителни данни
+              href: pro/subcontracting/VI-Verification.md
+            - name: Потвърждение на фактури на доставчик по проект
+              href: procurement/Confirm-a-project-vendor-invoice.md
         - name: Задържане на доставчици
           items:
             - name: Общ преглед на задържането на доставчици
@@ -844,9 +854,11 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Заместване на ценовите листи за продажби по проект
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Настройте замествания с дата на влизане в сила за конкретни цени в ценова листа
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Определяне на себестойности за прогнозни и действителни данни по проект
               href: pro/pricing-costing/cost-price-resolution-sales.md
-            - name: Определяне на продажни цени за прогнозни и действителни данни по проект
+            - name: Определяне на цени за продажби за прогнозни и действителни данни по проект
               href: pro/pricing-costing/sales-price-resolution-sales.md
             - name: Копиране на ценови листи
               href: pricing-costing/copy-price-lists.md
