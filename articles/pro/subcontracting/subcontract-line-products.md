@@ -1,21 +1,21 @@
 ---
 title: Редове за подизпълнение за продукти
-description: Тази статия обяснява как да записвате редове от подизпълнители за продукти и да използвате различните полета, за да записвате покупки на продукти от доставчици.
+description: Тази статия обяснява как да записвате линии на подизпълнители за продукти и да използвате различните полета за записване на покупки на продукти от доставчици.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b5852df1876eff591ae6a131b229d979eacf5aad
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 1ca042eaf95a5e252f00248e83efb959ab3ce801
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9262092"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522829"
 ---
 # <a name="subcontract-lines-for-products"></a>Редове за подизпълнение за продукти
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Подизпълнител в Dynamics 365 Project Operations може да има линия за подизпълнение за продукти. Тези редове позволяват на мениджъра на проекти да купува продукти от доставчици, които след това могат да използват за задачи по проекта.
 

@@ -1,21 +1,21 @@
 ---
 title: Задаване на подизпълнители като налични ресурси
-description: Тази статия обяснява как да настроите и поддържате подизпълнител ресурси, които са създадени от потребители и контакти в системата, така че те могат да бъдат свързани с подизпълнители в Microsoft Dynamics 365 Project Operations.
+description: Тази статия обяснява как да се създадат и поддържат ресурси на подизпълнители, които са създадени от потребители и контакти в системата, така че те да могат да бъдат свързани с договори за подизпълнение в Microsoft Dynamics 365 Project Operations.
 author: rumant
-ms.date: 07/28/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 67df514cd1a0bd07d4ff2582e1a7738d913e0ac5
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 727508c41c190c3703e9cd1420066fa0e551f147
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261310"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522688"
 ---
 # <a name="set-up-subcontractors-as-bookable-resources"></a>Задаване на подизпълнители като налични ресурси
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 Следвайте тези стъпки, за да зададете подизпълнители като налични ресурси в Microsoft Dynamics 365 Project Operations.
 

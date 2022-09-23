@@ -2,23 +2,23 @@
 title: Ключови концепции при подизпълнението
 description: Тази статия обяснява някои ключови понятия, които се прилагат за подизпълнители в Microsoft Dynamics 365 Project Operations.
 author: rumant
-ms.date: 08/03/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: e75f2cf9c1092604e43e5cb60dda0e2a1b7dcd64
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 9577169f12198222e647ed07ae8a1b6c55da4323
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9262156"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522735"
 ---
 # <a name="key-concepts-in-subcontracting"></a>Ключови концепции при подизпълнението
 
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Статията обяснява някои ключови понятия, за които трябва да сте наясно, преди да започнете да използвате функционалността за подизпълнение в Microsoft Dynamics 365 Project Operations.
+Статията обяснява някои ключови концепции, за които трябва да сте наясно, преди да започнете да използвате функционалността на подизпълнителите в Microsoft Dynamics 365 Project Operations.
 
 ## <a name="contracting-unit-on-the-subcontract"></a>Единица, сключваща договора при подизпълнение
 

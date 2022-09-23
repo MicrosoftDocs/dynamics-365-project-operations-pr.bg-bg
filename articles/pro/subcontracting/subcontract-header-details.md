@@ -1,23 +1,23 @@
 ---
 title: Подробности за заглавието за подизпълнения
-description: Тази статия обяснява функционалността, предоставена в заглавката на подизпълнението в Project Operations.
+description: Тази статия обяснява функционалността, предоставена на заглавката на поддоговора в Project Operations.
 author: rumant
-ms.date: 09/14/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce16b7a968bc7e6904411ae9e021a5ca1839d02e
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 00b7c08235654d4bed0bcb4053d2044a3d092b54
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261404"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522547"
 ---
 # <a name="header-details-for-subcontracts"></a>Подробности за заглавието за подизпълнения
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Тази статия обяснява функционалността, предоставена в заглавката на подизпълнението в Dynamics 365 Project Operations.
+Тази статия обяснява функционалността, предоставена на заглавката на договора за подизпълнение в Dynamics 365 Project Operations.
 
 Тъй като мениджърът на проекти планира и изпълнява проекти, те могат да наемат подизпълнители и да купуват продукти и услуги от доставчици. Когато ръководителят на проекта трябва да закупи продукти или услуги, той може да създаде подизпълнител в Project Operations.
 

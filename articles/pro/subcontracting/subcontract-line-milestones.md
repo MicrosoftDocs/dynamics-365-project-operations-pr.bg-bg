@@ -1,21 +1,21 @@
 ---
 title: Контролни точки на ред за подизпълнение
-description: В тази статия се обяснява как да създадете и поддържате график на фактурата, базирана на milestone, за договор за подизпълнение с доставчик.
+description: Тази статия обяснява как да създадете и поддържате график за фактури, базиран на крайъгълен камък, за договор за подизпълнение с продавач.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 2fe26f5ba3c7bbc689c83a2ba67d444a09a264d5
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 431a57adf82c79f72d44886636183d48e0931f53
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261780"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522406"
 ---
 # <a name="subcontract-line-milestones"></a>Контролни точки на ред за подизпълнение
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
 В Dynamics 365 Project Operations, ред на подизпълнители с метод на таксуване с фиксирана цена може да посочи график на фактури въз основа на етапи с доставчика.
 
