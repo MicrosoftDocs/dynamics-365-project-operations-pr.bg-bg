@@ -508,6 +508,8 @@
           href: approvals/cancelapproval.md
         - name: Оттегляне на предишно одобрени записи
           href: approvals/recall-cancel.md
+        - name: Защита и одобрения
+          href: approvals/approvals-security.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
@@ -560,6 +562,8 @@
               href: procurement/vendor-retention-overview.md
             - name: Настройка на задържане на доставчици
               href: procurement/set-up-vendor-retention.md
+            - name: 'Плащане, когато получите заплащане'
+              href: procurement/Pay-when-paid.md
     - name: Фактуриране
       items:
         - name: Общ преглед на процеса на фактуриране
@@ -1102,6 +1106,8 @@
           href: approvals/cancelapproval.md
         - name: Оттегляне на предишно одобрени записи
           href: approvals/recall-cancel.md
+        - name: Защита и одобрения
+          href: approvals/approvals-security.md
         - name: Бележки на разработчик
           items:
             - name: Бележки на разработчик за одобрения
