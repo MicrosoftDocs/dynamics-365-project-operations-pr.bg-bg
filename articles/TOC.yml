@@ -62,10 +62,12 @@
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
-        - name: 'Август 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
-          href: whats-new/whats-new-aug-2022-resource-based.md
+        - name: 'Септември 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-sept-2022-resource-based.md
         - name: Архив
           items:
+            - name: 'Август 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+              href: whats-new/whats-new-aug-2022-resource-based.md
             - name: 'Юли 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
               href: whats-new/whats-new-july-2022-resource-based.md
             - name: 'Юни 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -668,10 +670,12 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
-        - name: Нововъведения от август 2022 г. – олекотено внедряване
-          href: pro/whats-new/whats-new-aug-2022-lite.md
+        - name: Нововъведения от септември 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-sept-2022-lite.md
         - name: Архив
           items:
+            - name: Нововъведения от август 2022 г. – олекотено внедряване
+              href: pro/whats-new/whats-new-aug-2022-lite.md
             - name: Нововъведения от юли 2022 г. – олекотено внедряване
               href: pro/whats-new/whats-new-july-2022-lite.md
             - name: Нововъведения от юни 2022 г. – олекотено внедряване
@@ -1180,10 +1184,12 @@
               href: whats-new/ur5-nonstocked-installation.md
     - name: Какво е новото
       items:
-        - name: 'Нововъведения от юли 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
-          href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
+        - name: 'Нововъведения от септември 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
         - name: Архив
           items:
+            - name: 'Нововъведения от юли 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
+              href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
             - name: 'Нововъведения от юни 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
               href: prod-pma/whats-new/whats-new-jun-2022-stocked.md
             - name: 'Нововъведения от октомври 2021 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -1436,6 +1442,10 @@
       items:
         - name: График за издаване на актуализации за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 47, V3'
+          href: psa/whats-new-ur-47.md
+        - name: 'Какво е новото или промененото в изданието на актуализация 45, V3'
+          href: psa/whats-new-ur-45.md
         - name: 'Какво е новото или промененото в изданието на актуализация 44, V3'
           href: psa/whats-new-ur-44.md
         - name: 'Какво е новото или промененото в изданието на актуализация 43, V3'
