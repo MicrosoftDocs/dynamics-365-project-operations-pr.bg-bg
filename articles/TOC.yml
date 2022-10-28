@@ -1752,9 +1752,7 @@
               href: psa/FAQ-soft-book-in-web-app.md
             - name: Как да персонализирам потока на бизнес процес „Етапи на проект”?
               href: psa/FAQ-customize-bpf.md
-            - name: Съображения за надстройка за съставната структура на работата
-              href: psa/upgrade-considerations-tasks.md
-        - name: Документи
+        - name: Технически документи
           href: psa/white-papers.md
         - name: Ръководство на администратора
           items:
