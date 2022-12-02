@@ -1,6 +1,6 @@
 ---
 title: Създаване на актуализиране на проект
-description: Тази статия предоставя информация за актуализиране на проекти Project Operations.
+description: Тази статия предоставя информация за актуализирането на проекти в Project Operations.
 author: ruhercul
 ms.date: 10/20/2021
 ms.topic: article

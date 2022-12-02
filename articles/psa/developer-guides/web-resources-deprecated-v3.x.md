@@ -1,6 +1,6 @@
 ---
 title: Отхвърлени уеб ресурси в Project Service Automation 3.x
-description: Тази статия описва уеб ресурсите, които вече не се използват в Dynamics 365 Project Service Automation 3.0.
+description: Тази статия описва уеб ресурси, които вече не се използват в Dynamics 365 Project Service Automation 3.0.
 author: makk
 ms.custom:
 - dyn365-projectservice

@@ -1,6 +1,6 @@
 ---
 title: Прогнози за проекти и бюджети
-description: Microsoft Dynamics 365 Финанси предоставя прогнози за проекти и проектни бюджети за управление и контрол на вашите проекти.
+description: Microsoft Dynamics 365 Finance предоставя прогнози за проекти и бюджети на проекти за управление и контрол на вашите проекти.
 author: Yowelle
 ms.date: 10/25/2017
 ms.topic: article

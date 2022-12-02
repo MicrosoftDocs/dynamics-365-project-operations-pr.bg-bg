@@ -1,6 +1,6 @@
 ---
 title: Фактуриране на капаро или авансово плащане
-description: Тази статия предоставя информация за това как да фактурирате контейнер или аванс в Project Operations.
+description: Тази статия предоставя информация за това как да фактурирате капаро или аванс в Project Operations.
 author: rumant
 ms.date: 10/20/2020
 ms.topic: article

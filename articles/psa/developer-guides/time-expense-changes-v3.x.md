@@ -1,6 +1,6 @@
 ---
 title: Промени във времето и разходите (Project Service Automation 3.x)
-description: Тази статия предоставя информация за промените на решението за Час и разход.
+description: Тази статия предоставя информация за промените в решението за времето и разходите.
 author: makk
 ms.custom:
 - dyn365-projectservice

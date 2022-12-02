@@ -1,6 +1,6 @@
 ---
 title: Съображения за надстройка – Microsoft Dynamics 365 Project Service Automation версия 2.x или 1.x до версия 3
-description: Тази статия предоставя информация за съображенията, които трябва да направите, когато надстройвате от Project Service Automation версия 2.x или 1.x до версия 3.
+description: Тази статия предоставя информация за съображенията, които трябва да вземете предвид, когато надстройвате от Project Service Automation, версия 2.x или 1.x до версия 3.
 ms.prod: ''
 ms.custom:
 - dyn365-projectservice

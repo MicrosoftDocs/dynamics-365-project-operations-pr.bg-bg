@@ -1,6 +1,6 @@
 ---
 title: Общ преглед на управление на проект
-description: Тази статия предоставя информация за управление на проекти в Dynamics 365 Project Operations.
+description: Тази статия предоставя информация за настройките за управление на проекти в Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 10/06/2020
 ms.topic: overview

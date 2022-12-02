@@ -1,6 +1,6 @@
 ---
-title: Приложение член на екипа за операции по проекта
-description: Тази статия предоставя информация за приложението член на екипа за операции по проекта в Microsoft Dynamics 365 Project Operations.
+title: Приложение „Член на екипа на Project Operations“
+description: Тази статия предоставя информация за приложението Project Operations Team Member в Microsoft Dynamics 365 Project Operations.
 author: stsporen
 ms.date: 04/20/2022
 ms.topic: article
@@ -22,20 +22,20 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8918207"
 ---
-# <a name="project-operations-team-member-app"></a>Приложение член на екипа за операции по проекта
+# <a name="project-operations-team-member-app"></a>Приложение „Член на екипа на Project Operations“
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 
-Приложението член на екипа за операции по проекта (преди известно като Център за ресурси на проекта) включва всички възможности, които Microsoft Dynamics 365 Project Operations предлага на потребителския лиценз за членове на екипа.
+Приложението Project Operations Team Member (преди известно като Project Resource Hub) включва всички възможности, които Microsoft Dynamics 365 Project Operations предлага на членовете на екипа потребителски лиценз.
 
-Ето някои от възможностите на приложението Член на екипа за операции по проекта:
+Ето някои от възможностите на приложението Project Operations Team Member:
 
 - Запис за време
-- Запис за разходи (разполагане на Lite)
+- Запис на разход (олекотен документ)
 - Използване на материал
 - Approvals
-- Разширяемост (до 15 субекта)
+- Разширяемост (до 15 обекта)
 
-За да използвате приложението Член на екипа за операции по проекта, трябва да имате или пълен лиценз за Операции по проекта, или потребителски лиценз за членове на Dynamics Team. За повече информация относно лицензи вижте Ръководството за лицензиране на [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). Приложението Член на екипа за операции по проекта изисква разполагане на Операции по проекта.
+За да използвате приложението Project Operations Team Member, трябва да имате или пълен лиценз за Project Operations, или потребителски лиценз за Dynamics Team Members. За повече информация относно тези лицензи вижте [Ръководство за лицензиране на Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409). Приложението Project Operations Team Member изисква внедряване на Project Operations.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

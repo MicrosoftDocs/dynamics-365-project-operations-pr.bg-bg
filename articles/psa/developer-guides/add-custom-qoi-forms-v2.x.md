@@ -1,6 +1,6 @@
 ---
 title: Добавяне на нови персонализирани формуляри на обекти (Project Service Automation 2.x)
-description: Тази статия предоставя информация как да добавите персонализирани формуляри на обект за възможности, оферти, поръчки или фактури в Dynamics 365 Project Service Automation 2.x.
+description: Тази статия предоставя информация за това как да добавите персонализирани формуляри на обекти за възможности, оферти, поръчки или фактури в Dynamics 365 Project Service Automation 2.x.
 author: makk
 ms.custom:
 - dyn365-projectservice

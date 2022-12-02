@@ -1,6 +1,6 @@
 ---
 title: Ценообразуване на продуктов каталог
-description: Тази статия предоставя информация за това как работи ценообразуването на продуктовия каталог в Dynamics 365 Project Service Automation (PSA).
+description: Тази статия предоставя информация за това как работи продуктовият каталог в Dynamics 365 Project Service Automation (PSA).
 author: rumant
 ms.custom:
 - dyn365-projectservice

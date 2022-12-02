@@ -1,6 +1,6 @@
 ---
 title: Оценки
-description: Тази статия предоставя информация за прогнозите в Dynamics 365 Project Service Automation.
+description: Тази статия предоставя информация за прогнозните оценки в Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice

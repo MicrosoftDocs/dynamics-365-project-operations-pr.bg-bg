@@ -1,6 +1,6 @@
 ---
 title: Начална страница за ресурсно обезпечаване на проекти
-description: Тази статия предоставя информация за възможностите за управление на ресурси в Project Service Automation (PSA) за Dynamics 365.
+description: Тази статия предоставя информация относно възможностите за управление на ресурси в Project Service Automation (PSA) за Dynamics 365.
 author: JohnPBurrows
 ms.custom:
 - dyn365-projectservice

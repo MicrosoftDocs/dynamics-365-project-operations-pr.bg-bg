@@ -1,6 +1,6 @@
 ---
 title: Общ преглед на използването на ресурси
-description: Тази статия предоставя информация за утилизация на ресурси в Project Operations.
+description: Тази статия предоставя информация за използването на ресурси в Project Operations.
 author: ruhercul
 ms.date: 11/05/2020
 ms.topic: overview

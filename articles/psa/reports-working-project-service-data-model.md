@@ -1,6 +1,6 @@
 ---
 title: Работа с модела на данни на Project Service Automation
-description: Тази статия предоставя информация как да работите с модела на данните.
+description: Тази статия предоставя информация за това как да работите с модела на данни.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -31,7 +31,7 @@ ms.locfileid: "8926671"
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
 
-Dynamics 365 Project Service Automation разширява други обекти на приложения и въвежда свои собствени обекти в модела на данни на Common Data Service. Тази статия описва някои от обектите, които ще срещнете в типични сценарии pSA отчитане.
+Dynamics 365 Project Service Automation разширява други обекти на приложения и въвежда свои собствени обекти в модела на данни на Common Data Service. Тази статия описва някои от обектите, които ще срещнете в типичните сценарии за отчитане на PSA.
 
 ## <a name="reporting-on-opportunities"></a>Отчитане на възможности
 

@@ -1,6 +1,6 @@
 ---
 title: Графици на проекти
-description: Тази статия предоставя информация как да създадете график.
+description: Тази статия предоставя информация за това как да създадете график.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

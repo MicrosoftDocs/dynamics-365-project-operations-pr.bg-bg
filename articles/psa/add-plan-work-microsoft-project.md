@@ -1,6 +1,6 @@
 ---
 title: Използване на добавката за Project Service за планиране на работата в Microsoft Project | MicrosoftDocs
-description: Тази статия предоставя информация за това как да добавяте, конфигурирате и използвате добавката на Microsoft Project за услугата за проекти на Microsoft.
+description: Тази статия предоставя информация за това как да добавите, конфигурирате и използвате добавката Microsoft Project за Microsoft Project Service.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

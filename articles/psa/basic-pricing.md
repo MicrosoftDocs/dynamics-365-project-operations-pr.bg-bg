@@ -1,6 +1,6 @@
 ---
 title: Ценообразуване на проект
-description: Тази статия предоставя информация за начина на работа на ценообразуването в Dynamics 365 Project Service Automation.
+description: Тази статия предоставя информация за това как работи ценообразуването в Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice

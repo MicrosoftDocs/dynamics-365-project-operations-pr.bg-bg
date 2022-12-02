@@ -1,6 +1,6 @@
 ---
 title: Типове етапи на проект
-description: Тази статия предоставя информация за етапите на проекта.
+description: Тази статия предоставя информация за етапите на проекти.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

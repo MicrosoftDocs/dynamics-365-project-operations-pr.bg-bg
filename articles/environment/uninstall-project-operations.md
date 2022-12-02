@@ -35,8 +35,8 @@ _**Прилага се за:** Project Operations за сценарии, баз�
     | 6 | ProjectServiceCore_Patch                           | Няма допълнителни бележки.                                                                         |
     | 7 | ProjectServiceCore                                 | Няма допълнителни бележки.                                                                         |
     | 8 | ProjectServiceDeprecatedComponents                 | Ако не бъде намерено, пропуснете това решение.                                                            |
-    | 9 | FieldServiceCommon                                 | Изисква се за двунаписване с Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
-    | 10 | msdyn_AssetCommon                                  | Изисква се за двунаписване с Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
+    | 9 | FieldServiceCommon                                 | Изисква се за двойно записване с Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
+    | 10 | msdyn_AssetCommon                                  | Изисква се за двойно записване с Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
     | 11 | msdyn_TESA_Anchor                                  | Задължително за Dynamics 365 Field Service.                                                     |
     | 12 | msdyn_TESA_Patch                                   | Задължително за Dynamics 365 Field Service.                                                     |
     | 13 | msdyn_TESA                                         | Задължително за Dynamics 365 Field Service.                                                     |

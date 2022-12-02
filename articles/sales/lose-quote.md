@@ -1,6 +1,6 @@
 ---
 title: Копиране на базирани на проект оферти
-description: Тази статия предоставя информация за това как да копирате базирани на проекти оферти в Project Operations.
+description: Тази статия предоставя информация за това как да копирате базирани на проект оферти в Project Operations.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article

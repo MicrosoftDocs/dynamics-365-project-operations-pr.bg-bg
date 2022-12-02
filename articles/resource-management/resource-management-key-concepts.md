@@ -1,6 +1,6 @@
 ---
 title: Ключови понятия за управление на ресурсите
-description: Тази статия предоставя информация за възможностите за управление на ресурси в Microsoft Dynamics Project Operations.
+description: Тази статия предоставя информация за възможностите за управление на ресурс в Microsoft Dynamics Project Operations.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

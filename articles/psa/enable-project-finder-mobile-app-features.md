@@ -48,11 +48,11 @@ ms.locfileid: "8593672"
   
 4. Задайте **Разрешаване на актуализация на уменията от ресурса** на **Да**.  
   
-   ![ProjectService&#95; ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    Това е глобална настройка. Ръководителите на проекти могат да зададат дали даден проект ще се вижда на тази страница на **Екип на проекта** на проекта.  
   
-   ![ProjectService&#95; ПроектTeamВиделие.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>Известявания по имейл  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] изпраща имейли по отношение на искания ресурс към следните получатели в следните часове:  

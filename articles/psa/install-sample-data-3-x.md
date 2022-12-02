@@ -1,6 +1,6 @@
 ---
 title: Инсталация на примерни данни
-description: Тази статия предоставя информация за инсталирането на примерни данни в Project Service Automation.
+description: Тази статия предоставя информация за инсталиране на примерни данни в Project Service Automation.
 ms.custom: dyn365-projectservice
 ms.date: 11/08/2018
 ms.reviewer: johnmichalak

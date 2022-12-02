@@ -1,6 +1,6 @@
 ---
 title: Ръководство за управление на ресурси
-description: Тази статия предоставя връзки към информация за управлението на ресурси в Project Service Automation
+description: Тази статия предоставя връзки към информация относно управлението на ресурси в Project Service Automation
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -30,7 +30,7 @@ ms.locfileid: "8910759"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-PDF връзката, която преди това е била в тази статия, е премахната и съдържанието е преместено в следните статии:
+Връзката към PDF файла, която преди беше в тази статия, е премахната и съдържанието е преместено в следните статии:
 
 - [Начална страница на управлението на ресурси](../resource-management-home-page.md)
 - [Основни концепции](../reports-key-concepts.md)

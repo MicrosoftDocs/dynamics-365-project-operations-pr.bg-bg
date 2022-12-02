@@ -1,6 +1,6 @@
 ---
 title: Изключване на ценово измерение
-description: Тази статия показва как да настроите нивата на аналитичност за ценообразуване в решението Project Service.
+description: Тази статия показва как да зададете ценови измерения в решението Project Service.
 author: Rumant
 ms.custom:
 - dyn365-projectservice

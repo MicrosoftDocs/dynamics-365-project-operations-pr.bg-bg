@@ -1,6 +1,6 @@
 ---
 title: Разширени организационни единици
-description: Тази статия предоставя информация за организационни единици в Dynamics 365 Project Service Automation.
+description: Тази статия предоставя информация за организационните единици в Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -24,7 +24,7 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8927085"
 ---
-# <a name="about-organizational-units"></a>Всичко за организационните единици 
+# <a name="about-organizational-units"></a>Относно организационни единици 
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 

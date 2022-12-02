@@ -1,6 +1,6 @@
 ---
 title: Навигиране в потребителския интерфейс
-description: Тази статия предоставя информация за управление на проекти в Операции на Dynamics 365 Project.
+description: Тази статия предоставя информация за управление на проекти в Dynamics 365 Project operations.
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article

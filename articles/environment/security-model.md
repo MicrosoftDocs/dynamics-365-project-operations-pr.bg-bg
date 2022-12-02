@@ -70,7 +70,7 @@ Project Operations не създава група чрез имплицитно 
 
 За повече информация вижте [Защита в Common Data Service](/power-platform/admin/wp-security).
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Операции по проекта и Microsoft Dynamics 365 Сигурност на финансите
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Защита в Project Operations и Microsoft Dynamics 365 Finance
 Project Operations включва следните роли:
 
 - Мениджър на проект

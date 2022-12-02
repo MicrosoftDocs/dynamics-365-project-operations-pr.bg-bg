@@ -1,6 +1,6 @@
 ---
 title: Начална страница на отчитането
-description: Тази статия предоставя информация за отчитане в Dynamics 365 Project Service Automation.
+description: Тази статия предоставя информация за отчитането в Dynamics 365 Project Service Automation.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

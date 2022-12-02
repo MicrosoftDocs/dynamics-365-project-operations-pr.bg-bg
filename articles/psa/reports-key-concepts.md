@@ -1,6 +1,6 @@
 ---
 title: Ключови концепции
-description: Тази статия предоставя информация за ключовите концепции за управление на ресурси в Project Service Automation.
+description: Тази статия предоставя информация относно основните концепции за управлението на ресурси в Project Service Automation.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
