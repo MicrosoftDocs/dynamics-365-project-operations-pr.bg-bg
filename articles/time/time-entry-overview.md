@@ -1,6 +1,6 @@
 ---
 title: Общ преглед на време
-description: Тази статия предоставя информация за функционалността "Време" в Dynamics 365 Project Operations.
+description: Тази статия предоставя информация за функционалността за време в Dynamics 365 Project Operations.
 author: stsporen
 ms.date: 10/02/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
-title: Синхронизиране на проектни задачи директно от Project Service Automation до финансиране и операции
-description: Тази статия описва шаблона и основната задача, които се използват за синхронизиране на проект задачи директно от Microsoft Dynamics 365 Project Service Automation към Dynamics 365 Finance.
+title: Синхронизиране на задачите по проекта директно от Project Service Automation към финанси и операции
+description: Тази статия описва шаблона и основната задача, които се използват за синхронизиране на прогнозни часове на задачи за проект директно от Microsoft Microsoft Dynamics 365 Project Service Automation в Dynamics 365 Finance.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -21,11 +21,11 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 06/18/2022
 ms.locfileid: "9028296"
 ---
-# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизиране на проектни задачи директно от Project Service Automation до финансиране и операции
+# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизиране на задачите по проекта директно от Project Service Automation към финанси и операции
 
 [!include[banner](../includes/banner.md)]
 
-Тази статия описва шаблона и основната задача, които се използват за синхронизиране на проект задачи директно от Dynamics 365 Project Service Automation към Dynamics 365 Finance.
+Тази статия описва шаблона и основната задача, които се използват за синхронизиране на прогнозни часове на задачи за проект директно от Microsoft Dynamics 365 Project Service Automation в Dynamics 365 Finance.
 
 > [!NOTE]
 > - Интеграция на проектни задачи, категории транзакции, прогнози за часове, оценки на разходите и заключване на функционалността е налична във версия 8.0.
@@ -67,7 +67,7 @@ ms.locfileid: "9028296"
 
 ## <a name="power-query"></a>Power Query
 
-Трябва да използвате Microsoft Power Query за Excel, за да филтрирате данните, ако това условие е изпълнено:
+Трябва да използвате Microsoft Power Query за Excel, за да филтрирате данни, ако това условие е изпълнено:
 
 - Имате специфични за ресурсите записи в проектна задача.
 

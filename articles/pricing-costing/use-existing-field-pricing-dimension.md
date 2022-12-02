@@ -1,6 +1,6 @@
 ---
 title: Полета на Project Operations като измерения на ценообразуване
-description: Тази статия предоставя информация с помощта на полета като величини за ценообразуване в Dynamics 365 Project Operations.
+description: Тази статия предоставя информация с помощта на полета като измерения на ценообразуването в Dynamics 365 Project Operations.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article

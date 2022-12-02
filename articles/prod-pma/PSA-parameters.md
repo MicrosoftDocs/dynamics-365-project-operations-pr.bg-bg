@@ -1,6 +1,6 @@
 ---
 title: Параметри на интеграция на Project Service Automation
-description: Тази статия обяснява как да конфигурирате начина на въвеждане на данни по подразбиране, когато се интегрирате Microsoft Dynamics 365 for Project Service Automation с Microsoft Dynamics 365 Финанси.
+description: Тази статия обяснява как да конфигурирате как се въвеждат данни по подразбиране, когато се интегрирате Microsoft Dynamics 365 for Project Service Automation с Microsoft Dynamics 365 Finance.
 author: ruhercul
 ms.date: 03/03/2020
 ms.topic: article
@@ -25,7 +25,7 @@ ms.locfileid: "8932283"
 
 [!include[banner](../includes/banner.md)]
 
-На страницата с параметри **за интегриране на project Service Automation можете да конфигурирате** начина на въвеждане на данни по подразбиране, когато се интегрирате Dynamics 365 Project Service Automation с Dynamics 365 Finance. За да бъдат проектите успешно синхронизирани от Project Service Automation към Finance, трябва да настроите следните полета.
+На страницата **Параметри за интеграция на Project Service Automation** можете да конфигурирате как се въвеждат данни по подразбиране, когато се интегрирате Dynamics 365 Project Service Automation с Dynamics 365 Finance. За да бъдат проектите успешно синхронизирани от Project Service Automation към Finance, трябва да настроите следните полета.
 
 За да отворите **Параметри за интеграция на Project Service Automation** страница, отидете на **Управление на проекти и счетоводство** \> **Настройка** \> **Параметри на интеграция на Dynamics 365 for Project Service Automation**. 
 

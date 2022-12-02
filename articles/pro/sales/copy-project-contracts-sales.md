@@ -1,6 +1,6 @@
 ---
 title: Копиране на договори по проект
-description: Тази статия предоставя информация за копиране на договори за проекти в Project Operations.
+description: Тази статия предоставя информация за копиране на договори по проекти в Project Operations.
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article

@@ -1,6 +1,6 @@
 ---
 title: Актуализации на Project Operations
-description: Тази статия предоставя информация за освободените версии на Dynamics 365 Project Operations.
+description: Тази статия предоставя информация за издадените версии на Dynamics 365 Project Operations.
 author: sigitac
 ms.date: 03/28/2022
 ms.topic: article
@@ -25,7 +25,7 @@ _**Приложимо за:** Project Operations за сценарии, бази
 Dynamics 365 Project Operations се състои от два компонента:
 
 - Project Operations в среда на Dataverse обхваща възможности от възможност до проформа фактуриране. Dataverse се използва при леко внедряване и внедряване сценарии, базирани на ресурси/неналичност на Project Operations.
-- Управлението и счетоводството на проекти в Dynamics 365 Finance среда обхваща възможностите за управление на разходите, счетоводството на проектите и признаването на приходите. Средата за приложения за финансиране и операции се използва в проектни операции за ресурсни/незаредени сценарии и проектни операции за сценарии, базирани на складиране/производство.
+- Управлението на проекти и счетоводство в среда на Dynamics 365 Finance обхваща възможности за управление на разходи, счетоводство на проект и признаването на приходи. Средата на приложение за финанси и операции се използва в Project Operations за сценарии, базирани на ресурси/неналичност и Project Operations за сценарии, базирани на наличност/производство.
 
 ## <a name="project-operations-release-notes"></a>Бележки за изданието на Project Operations
 - Най-нови бележки по изданието от на Project Operations за сценарии с [ресурси/неналичност](whats-new-july-2022-resource-based.md).
@@ -34,11 +34,11 @@ Dynamics 365 Project Operations се състои от два компонент
 
 ## <a name="project-operations-latest-version"></a>Най-нова версия на Project Operations
 
-| Project Operations в среди на Dataverse | Управление на проекти и счетоводство в средите на приложенията за финанси и операции | 
+| Project Operations в среди на Dataverse | Управление на проекти и счетоводство в средите на приложения за финанси и операции | 
 | --- | --- |
 | 4.45.0.53 | 10.0.29 |
 
-За ресурс / незареден сценарий за проектни операции препоръчваме да използвате версия на оркестрация с двойно писане 2.3.1.15 или по-висока.
+За сценарий на Project Operations за ресурс/без складова наличност препоръчваме да използвате Dual Write Orchestration, версия 2.3.1.15 или по-нова.
 
 ## <a name="release-schedule-for-project-operations-on-dataverse-environment"></a>График за издаване на Project Operations в среда на Dataverse
 
@@ -66,7 +66,7 @@ Dynamics 365 Project Operations се състои от два компонент
 | Станция 5 |     &nbsp;            |     &nbsp;      |     &nbsp;         |      &nbsp;         |      &nbsp;         |      &nbsp;         |
 |   &nbsp;  | Северна Америка         |  4.46.0.60      | Завършени           | Завършени            | TBD           | 04 ноември 2022       |
 
-## <a name="release-schedule-for-project-management-and-accounting-in-the-finance-and-operations-apps-environment"></a>График за освобождаване за управление и счетоводство на проекти в средата на приложенията за финанси и операции
+## <a name="release-schedule-for-project-management-and-accounting-in-the-finance-and-operations-apps-environment"></a>График на издаване за управление на проекти и счетоводство в средата на приложения за финанси и операции
 
 Актуализациите за управление на проекти и счетоводство се издават осем пъти годишно.
 

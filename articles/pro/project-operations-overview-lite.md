@@ -1,6 +1,6 @@
 ---
 title: Общ преглед на лекото внедряване
-description: Тази статия предоставя информация за разполагането на Lite на Dynamics 365 Project Operations.
+description: Тази статия предоставя информация за лекото внедряване на Dynamics 365 Project Operations.
 author: rumant
 ms.date: 11/02/2020
 ms.topic: overview

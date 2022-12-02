@@ -1,6 +1,6 @@
 ---
 title: Концепции за финансова оценка
-description: Тази статия предоставя информация за финансови оценки на проекти в Project Operations.
+description: Тази статия предоставя информация за финансови прогнози на проекти в Project Operations.
 author: rumant
 ms.date: 03/22/2021
 ms.topic: overview

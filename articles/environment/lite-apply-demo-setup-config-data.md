@@ -1,6 +1,6 @@
 ---
 title: Прилагане на демонстрационни данни за настройка и конфигурация – олекотено
-description: Тази статия предоставя информация как да приложите демо настройка и конфигурационни данни за Project Operations.
+description: Тази статия предоставя информация за това как да приложите демонстрационни данни за настройка конфигурационни в Project Operations.
 author: sigitac
 ms.date: 01/27/2021
 ms.topic: article
@@ -8,7 +8,7 @@ ms.reviewer: johnmichalak
 ms.author: sigitac
 ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
 ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: bg-BG
 ms.lasthandoff: 09/07/2022
 ms.locfileid: "9409964"
@@ -21,7 +21,7 @@ _**Леко внедряване – фактуриране на сделка к
 
 ## <a name="prerequisites"></a>Предварителни изисквания
 
-Преди да започнете конфигурацията, трябва да имате Dataverse среда, предвидена за Dynamics 365 Project Operations.
+Преди да започнете конфигурацията, трябва да имате среда на Dataverse, осигурена за Dynamics 365 Project Operations.
 
 
 ## <a name="instructions"></a>Инструкции

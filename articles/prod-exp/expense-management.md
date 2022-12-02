@@ -1,6 +1,6 @@
 ---
 title: Общ преглед на управление на разход
-description: Тази статия предоставя обща информация за управление на разходите и връзки към допълнителни ресурси. Можете да използвате управление на разходите, за да създадете интегриран работен поток, където можете да съхранявате информация за метода на плащане, да импортирате транзакции с кредитни карти и да проследявате парите, които служителите харчат, когато правят разходи за вашия бизнес.
+description: Тази статия предоставя обща информация за управлението на разходите и връзки към допълнителни ресурси. Можете да използвате управление на разходите, за да създадете интегриран работен поток, където можете да съхранявате информация за метода на плащане, да импортирате транзакции с кредитни карти и да проследявате парите, които служителите харчат, когато правят разходи за вашия бизнес.
 author: ShylaThompson
 ms.date: 07/25/2019
 ms.topic: overview
@@ -43,7 +43,7 @@ ms.locfileid: "9029333"
 
 ### <a name="blogs"></a>Блогове
 
-Можете да намерите мнения, новини и друга информация в блога [Microsoft Dynamics](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) 365 и блога [Microsoft Dynamics 365 Finance - Financials](https://community.dynamics.com/365/financeandoperations/b/financials).
+Можете да намерите мнения, новини и друга информация за [блог на Microsoft Dynamics 365](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) и [блог Microsoft Dynamics 365 Finance - Финанси](https://community.dynamics.com/365/financeandoperations/b/financials).
 
 [Блог на партньорска общност за операции на Microsoft Dynamics](https://community.dynamics.com/partner/b/operationspartnercommunityblog) дава на партньорите на Microsoft Dynamics ресурс, където могат да научат какво е ново и тенденция в MBS Operations.
 

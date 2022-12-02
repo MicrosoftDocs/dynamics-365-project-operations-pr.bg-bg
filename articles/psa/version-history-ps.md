@@ -1,6 +1,6 @@
 ---
 title: График за издаване на актуализациите за Project Service 3.x
-description: Тази статия предоставя информация за наличните и предстоящи издания на Dynamics 365 Project Service Automation.
+description: Тази статия предоставя информация за наличните и предстоящите издания на Dynamics 365 Project Service Automation.
 ms.custom: dyn365-projectservice
 ms.date: 03/28/2022
 ms.reviewer: johnmichalak
@@ -65,7 +65,7 @@ ms.locfileid: "9621928"
 |<strong>Станция 4</strong> | |  |  | |
 | | <i>Европа</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 21 Октомври 2022
 |<strong>Станция 5</strong> | |  |  | |
-| | <i>Северна Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | ноември 04 2022
+| | <i>Северна Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 04 ноември 2022
 |<strong>Станция 6</strong> | |  |  | |
 | | <i>Облак на общността за държавни организации</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 02 ноември 2022
 | | <i>Специализирани групи за мащаб</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 11 ноември 2022

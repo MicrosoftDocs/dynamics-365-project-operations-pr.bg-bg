@@ -1,6 +1,6 @@
 ---
 title: Проформа фактури по проект
-description: Тази статия предоставя информация за проформа проект фактури в Project Operations.
+description: Тази статия предоставя информация за проформа фактури за проекти в Project Operations.
 author: rumant
 ms.date: 04/06/2021
 ms.topic: article
