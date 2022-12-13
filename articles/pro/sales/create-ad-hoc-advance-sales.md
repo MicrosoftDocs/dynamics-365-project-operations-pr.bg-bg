@@ -1,19 +1,19 @@
 ---
-title: Създаване на специално авансово плащане по договор
+title: Създаване на ad hoc аванс по договор за проект
 description: Тази статия предоставя информация за създаване на авансово плащане по договор, ако е необходимо.
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 3e450a17990c6fc783ddffdb05e1ab5b9429a3c1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 62e41e5faeb5e40143e26e2cdf48c1279941a6b4
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922163"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824809"
 ---
-# <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Създаване на специално авансово плащане по договор
+# <a name="create-an-ad-hoc-advance-on-a-project-contract"></a>Създаване на ad hoc аванс по договор за проект
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 

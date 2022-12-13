@@ -1,23 +1,23 @@
 ---
-title: Затваряне на оферта
+title: Затваряне на базирани на проект оферти
 description: Тази статия предоставя информация за приключването на оферти в Project Operations.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 45bdfe5fb9eddb8f96ed1bc017596c8fe436245e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 7b35417d4258a1e837fdf7a61bbcc303ec04a900
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931869"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824203"
 ---
-# <a name="close-a-quote"></a>Затваряне на оферта
+# <a name="close-project-based-quotes"></a>Затваряне на базирани на проект оферти
 
 _**Прилага се за:** Project Operations за сценарии, базирани на ресурси/неналичност_
 
-Офертата на проекта може да бъде затворена като Спечелена или Изгубена. Тъй като функциите Активиране и Ревизия не се поддържат за оферти в Microsoft Dynamics 365 Project Operations, можете да изберете оферта в чернова.
+Офертата на проекта може да бъде затворена като **спечелена или** загубена **·**. 
 
 ## <a name="close-a-quote-as-won"></a>Затваряне на оферта като спечелена
 

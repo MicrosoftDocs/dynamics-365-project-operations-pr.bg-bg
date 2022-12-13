@@ -1,19 +1,19 @@
 ---
-title: Управление на възможности, базирани на проект
+title: Управление на възможности на проект
 description: Тази статия предоставя информация за това как да работите с възможности, свързани с проекти.
 author: rumant
 ms.date: 10/21/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 29e5a2c91186021eee9bb23aba3d42228fcd9381
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 56eba38476dd5b49f0043eee5d411d51f9bf56b8
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8933203"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825263"
 ---
-# <a name="manage-project-based-opportunities"></a>Управление на възможности, базирани на проект
+# <a name="manage-project-opportunities"></a>Управление на възможности на проект
 
 _**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
 

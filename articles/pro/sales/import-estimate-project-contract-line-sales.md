@@ -1,21 +1,21 @@
 ---
-title: Импортиране на прогноза в базирани на проект аспекти на договор – олекотено
+title: Импортиране на прогнозни данни от проект в аспекти на договор по проект
 description: Тази статия предоставя информация за импортирането на финансови прогнози от проект в аспекти на договор.
 author: rumant
 ms.date: 10/19/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d6e3bdfeb1ea9de32d6712ac5671be39c243702a
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 73ae0ccbb5372c9dfbc28ac154094c89add0913d
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8924187"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824661"
 ---
-# <a name="import-an-estimate-to-a-project-based-contract-line---lite"></a>Импортиране на прогноза в базирани на проект аспекти на договор – олекотено
+# <a name="import-estimates-from-a-project-to-a-project-contract-line"></a>Импортиране на прогнозни данни от проект в аспекти на договор по проект
 
-_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
+_**Отнася се за:**  Lite разгръщане - сделка за проформа фактуриране, Проектни операции за ресурсни / незаредени сценарии_ _
 
 В Dynamics 365 Project Operations можете да импортирате прогнози от проект в базирани на проект аспекти на договор.
 

@@ -1,19 +1,19 @@
 ---
-title: Конфигуриране на платимите компоненти на ред на оферта
+title: Конфигуриране на облагаеми компоненти в редове от оферти за проект
 description: Тази статия предоставя информация за настройване на таксувани и неначисляеми компоненти на базирана на проект линия за оферти.
 author: rumant
 ms.date: 03/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d4829055f429546c7911a05a765bc28ae085afa1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 1e454278a1c5c24ac346c537c778b25448d9ea03
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8930029"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825504"
 ---
-# <a name="configure-the-chargeable-components-of-a-quote-line"></a>Конфигуриране на платимите компоненти на ред на оферта 
+# <a name="configure-chargeable-components-on-project-quote-lines"></a>Конфигуриране на облагаеми компоненти в редове от оферти за проект
 
 _**Отнася се за:** Олекотено внедряване – сделка към проформа фактуриране, Project Operations за сценарии, базирани на ресурси / без складови наличности_
 

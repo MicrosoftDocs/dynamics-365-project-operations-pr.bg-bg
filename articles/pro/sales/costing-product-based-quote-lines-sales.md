@@ -1,21 +1,21 @@
 ---
 title: Определяне на разходи за базирани на продукти редове на оферта
 description: Тази статия предоставя информация за прилагането на себестойност към базиран на проект ред на оферта.
-author: ruhercul
+author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
-ms.author: ruhercul
-ms.openlocfilehash: 23eb3d29081769347d62098534a9863fd28fa90c
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.author: rumant
+ms.openlocfilehash: a8b3569ff217f6fc62606dae4292be14f9d3358c
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8932559"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825598"
 ---
 # <a name="costing-product-based-quote-lines"></a>Определяне на разходи за базирани на продукти редове на оферта
 
-_**Отнася се за:** Project Operations за сценарии, базирани на ресурси / без складови наличности, внедряване на Lite - сделка с проформа фактуриране_
+_**Прилага се за:** Леко внедряване – фактуриране на сделката към проформа_
 
 
 Продуктови котировъчни редове в Dynamics 365 Project Operations също имат поле **Разходна цена**. Това поле се използва за проследяване на себестойността на продукта на реда на оферта и за изчисления на рентабилността надолу по веригата.
