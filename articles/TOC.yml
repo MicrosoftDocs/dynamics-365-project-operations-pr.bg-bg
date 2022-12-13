@@ -56,16 +56,20 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интегриране на управление на разходите
               href: environment/resource-dual-write-expense.md
-            - name: Интегриране на фактури на доставчици
+            - name: Интегриране на фактури на доставчик
               href: environment/resource-dual-write-vendor-invoice.md
         - name: Деинсталиране на Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: Какво е новото
       items:
-        - name: 'Септември 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
-          href: whats-new/whats-new-sept-2022-resource-based.md
+        - name: 'Ноември 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+          href: whats-new/whats-new-nov-2022-resource-based.md
         - name: Архив
           items:
+            - name: 'Октомври 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+              href: whats-new/whats-new-oct-2022-resource-based.md
+            - name: 'Септември 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
+              href: whats-new/whats-new-sept-2022-resource-based.md
             - name: 'Август 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
               href: whats-new/whats-new-aug-2022-resource-based.md
             - name: 'Юли 2022 г. – Project Operations за сценарии, базирани на ресурси/неналичност'
@@ -122,23 +126,23 @@
               href: sales/sales-currency.md
             - name: Организационни единици
               href: sales/OrgUnits.md
-        - name: Управление на потенциални клиенти по проект
+        - name: Управление на базирани на проект потенциални клиенти
           href: sales/manage-leads.md
-        - name: Управление на възможности на проект
+        - name: 'Управление на възможности, базирани на проект'
           items:
             - name: Общ преглед на управлението на възможности на проект
               href: sales/manage-project-based-opportunities.md
             - name: Подробности за заглавието за базирани на проекти възможности
               href: sales/opportunity-header.md
-            - name: Базирани на проект редове на възможност
+            - name: Базирани на проект редове за възможност
               href: sales/project-based-lines.md
-            - name: Създаване на оферти по проект от възможности
+            - name: Създаване на оферти от възможности по проект
               href: sales/link-quotes-opportunities.md
-            - name: 'Копиране на възможности, базирани на проект'
+            - name: Копиране на възможности по проект
               href: sales/copy-project-based-opportunity.md
-            - name: Затваряне на възможност на проект
+            - name: Затваряне на възможност по проект
               href: sales/close-opportunity.md
-        - name: Управление на оферти по проект
+        - name: Управление на базирани на проект оферти
           items:
             - name: Общ преглед на управлението на оферти по проект
               href: pro/sales/manage-quotes-sales.md
@@ -146,61 +150,59 @@
               href: sales/quotes-key-concepts.md
             - name: Подробности за заглавието за базирани на проекти оферти
               href: sales/quote-values-budget-limits-contract.md
-            - name: Управление на множество клиенти в оферта по проект
+            - name: Управление на множество клиенти в базирана на проект оферта
               href: sales/manage-multiple-customers-quote.md
-            - name: Управление на ценови листи на оферта
+            - name: Ценови листи на проект в оферти по проект
               href: pro/sales/manage-project-price-lists-sales.md
             - name: Базирани на проект редове на оферта
               items:
-                - name: Общ преглед на базирани на проект редове на оферта
+                - name: Общ преглед на редове на оферта по проект
                   href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
                 - name: Управление на множество клиенти в базирани на проект редове на оферта
                   href: sales/manage-multiple-customers-quote-line.md
-                - name: Нанасяне на проекти и задачи към базиран на проект редове на оферта
+                - name: Нанасяне на проекти и задачи към редове на оферта по проект
                   href: pro/sales/mapping-projects-tasks-quote-line-sales.md
-                - name: Конфигуриране на платими компоненти за базирани на проект редове на оферта
+                - name: Конфигуриране на платимите компоненти в редове на оферта по проект
                   href: pro/sales/configure-chargeable-components-quote-line-sales.md
-                - name: Конфигуриране на платимите компоненти на ред на оферта по проект
-                  href: sales/configure-chargeable-quoteline.md
                 - name: Прогнозиране на ред на оферта по проект
-                  href: sales/create-estimate-quote-line.md
-                - name: Импортиране на прогнози от проект в базиран на проект ред на оферта
-                  href: sales/import-estimate-quote-line.md
-                - name: Графици за фактуриране на базирани на проект редове на оферта
+                  href: pro/sales/create-estimate-quote-line-sales.md
+                - name: Импортиране на прогнозни данни от проект в ред на оферта по проект
+                  href: pro/sales/import-estimate-project-quote-sales.md
+                - name: Графици за фактуриране на редове на оферта по проект
                   href: sales/invoice-schedule-quote-line.md
             - name: Копиране на оферти по проект
               href: sales/lose-quote.md
             - name: Активиране и преразглеждане на оферта по проект
               href: sales/activation-and-revision.md
-            - name: Затваряне на оферти по проект
+            - name: Затваряне на базирани на проект оферти
               href: sales/win-quote.md
-        - name: Управление на договори по проект
+        - name: Управление на базирани на проект договори
           items:
-            - name: Общ преглед на управлението на договори по проект
+            - name: Управление на договори по проект
               href: pro/sales/manage-contracts-sales.md
             - name: 'Концепции, уникални за базирани на проект договори'
               href: sales/contracts-key-concepts.md
             - name: Подробности за заглавието за базирани на проекти договори
               href: sales/project-contract-settings.md
-            - name: Управление на ценови листи на проект в договори по проекти
+            - name: Управление на ценови листи в базирани на проект договори
               href: sales/contracts-manage-project-price-lists.md
-            - name: Управление на множество клиенти в договори по проект
+            - name: Управление на множество клиенти в базирани на проект договори
               href: sales/manage-multiple-customers-contract.md
             - name: Базирани на проект аспекти на договор
               items:
-                - name: Общ преглед на базирани на проект аспекти на договор
+                - name: Общ преглед на аспекти на договор за проект
                   href: pro/sales/manage-contract-values-project-based-sales.md
                 - name: Управление на множество клиенти в базирани на проект аспекти на договор
                   href: sales/manage-multiple-customers-contract-line.md
-                - name: Нанасяне на проекти и задачи върху аспекти на договор по проект
+                - name: Нанасяне на проекти и задачи в аспект на договор за проект
                   href: pro/sales/mapping-projects-tasks-contract-line-sales.md
-                - name: Конфигуриране на платими компоненти за аспекти на договор по проект
+                - name: Конфигуриране на платими компоненти на аспект на договор за проект
                   href: pro/sales/configure-chargeable-components-contract-line.md
-                - name: Оценяване на аспекти на договор по проект
+                - name: Прогнозиране на базирани на проект аспекти на договор
                   href: sales/create-estimate-contract-line.md
-                - name: Импортиране на прогнози от проект в базирани на проект аспекти на договор
-                  href: sales/import-estimate-project-contract-line.md
-                - name: Създаване на графици за фактуриране в базирани на проект аспекти на договор
+                - name: Импортиране на прогнозни данни от проект в аспекти на договор за проект
+                  href: pro/sales/import-estimate-project-contract-line-sales.md
+                - name: Създаване на графици за фактуриране в базиран на проект аспект на договор
                   href: sales/invoice-schedules-contract-line.md
             - name: Управление на базирани на проект договори
               href: sales/copy-project-based-contracts-sales.md
@@ -212,7 +214,7 @@
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
                 - name: Настройка на график за капаро
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: Създаване на специално авансово плащане по договор
+                - name: Създаване на специално авансово плащане по договор по проект
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Ценообразуване и разходи
       items:
@@ -642,6 +644,8 @@
           href: advanced-configuration/migrating-invoiced-milestones.md
         - name: 'Синхронизирайте състоянието на проекта, за да предотвратите вписване срещу затворени проекти'
           href: advanced-configuration/sync-project-status.md
+        - name: Настройка за преобразуване на валута за изчисляване на продажните цени от разходните ставки
+          href: advanced-configuration/currencyconversion.md
     - name: Надстройка
       items:
         - name: Съображения за надстройка за съвременни одобрения
@@ -664,7 +668,7 @@
           href: pro/project-operations-overview-lite.md
         - name: Регистриране за абонамент за преглед – олекотено
           href: environment/lite-preview-subscription-sign-up.md
-        - name: Внедряване на Project Operations – олекотено
+        - name: Олекотено внедряване на Project Operations
           href: environment/lite-deployment.md
         - name: Прилагане на демонстрационни данни за настройка и конфигурация – олекотено
           href: environment/lite-apply-demo-setup-config-data.md
@@ -672,10 +676,14 @@
           href: environment/security-model.md
     - name: Какво е новото
       items:
-        - name: Нововъведения от септември 2022 г. – олекотено внедряване
-          href: pro/whats-new/whats-new-sept-2022-lite.md
+        - name: Нововъведения от ноември 2022 г. – олекотено внедряване
+          href: pro/whats-new/whats-new-nov-2022-lite.md
         - name: Архив
           items:
+            - name: Нововъведения от октомври 2022 г. – олекотено внедряване
+              href: pro/whats-new/whats-new-oct-2022-lite.md
+            - name: Нововъведения от септември 2022 г. – олекотено внедряване
+              href: pro/whats-new/whats-new-sept-2022-lite.md
             - name: Нововъведения от август 2022 г. – олекотено внедряване
               href: pro/whats-new/whats-new-aug-2022-lite.md
             - name: Нововъведения от юли 2022 г. – олекотено внедряване
@@ -746,21 +754,21 @@
               href: pro/sales/product-based-lines-sales.md
             - name: Управление на базирани на проект редове за възможност
               href: pro/sales/project-based-lines-sales.md
-            - name: Създаване на оферти от възможности на проект
+            - name: Създаване на оферти от възможности по проект
               href: sales/link-quotes-opportunities.md
-            - name: 'Копиране на възможности, базирани на проект'
+            - name: Копиране на възможности по проект
               href: sales/copy-project-based-opportunity.md
-            - name: Затваряне на възможност на проект
+            - name: Затваряне на възможност по проект
               href: sales/close-opportunity.md
-        - name: Управление на базирани на проект оферти
+        - name: Управление на оферти по проект
           items:
-            - name: Общ преглед на базирани на проект оферти
+            - name: Общ преглед на оферти по проект
               href: pro/sales/manage-quotes-sales.md
             - name: 'Концепции, уникални за оферти по проект'
               href: pro/sales/quotes-key-concepts-sales.md
             - name: Подробности за заглавието за оферти по проект
               href: pro/sales/quote-values-budget-limits-contract-sales.md
-            - name: Множество клиенти за оферти по проект
+            - name: Управление на множество клиенти в оферти по проект
               href: pro/sales/manage-multiple-customers-quote-sales.md
             - name: Ценови листи на проект в оферти по проект
               href: pro/sales/manage-project-price-lists-sales.md
@@ -772,37 +780,37 @@
                   href: pro/sales/costing-product-based-quote-lines-sales.md
                 - name: Управление на сложни единици за базирани на продукт редове на оферта
                   href: pro/sales/managing-complex-units-product-based-quote-lines-sales.md
-            - name: Базирани на проект редове на оферта
+            - name: Редове на оферта по проект
               items:
-                - name: Общ преглед на базирани на проект редове на оферта
+                - name: Общ преглед на редове на оферта по проект
                   href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
-                - name: Управление на множество клиенти
+                - name: Управление на множество клиенти в редове на оферта по проект
                   href: pro/sales/manage-multiple-customers-quote-line-sales.md
-                - name: Нанасяне на проекти и задачи
+                - name: Нанасяне на проекти и задачи към редове на оферта по проект
                   href: pro/sales/mapping-projects-tasks-quote-line-sales.md
-                - name: Конфигуриране на платими компоненти
+                - name: Конфигуриране на платимите компоненти в редове на оферта по проект
                   href: pro/sales/configure-chargeable-components-quote-line-sales.md
-                - name: Прогнозиране на базиран на проект ред на оферта
+                - name: Прогнозиране на ред на оферта по проект
                   href: pro/sales/create-estimate-quote-line-sales.md
-                - name: Импортиране на оценка от проект
+                - name: Импортиране на прогнозни данни от проект в ред на оферта по проект
                   href: pro/sales/import-estimate-project-quote-sales.md
-                - name: Управление на графици на фактуриране
+                - name: Графици за фактуриране на редове на оферта по проект
                   href: sales/invoice-schedule-quote-line.md
-            - name: Копиране на базирани на проект оферти
+            - name: Копиране на оферти по проект
               href: sales/lose-quote.md
             - name: Активиране и преразглеждане на оферта по проект
               href: sales/activation-and-revision.md
-            - name: Затваряне на базирани на проект оферти
+            - name: Затваряне на оферти по проект
               href: pro/sales/win-quote-sales.md
-        - name: Управление на базирани на проект договори
+        - name: Управление на договори по проект
           items:
-            - name: Общ преглед на базирани на проект договори
+            - name: Общ преглед на договори по проект
               href: pro/sales/manage-contracts-sales.md
             - name: 'Концепции, уникални за договори по проект'
               href: pro/sales/contracts-key-concepts-sales.md
             - name: Подробности за заглавието за договори по проект
               href: pro/sales/project-contract-settings-sales.md
-            - name: Множество клиенти в договори по проект
+            - name: Управление на множество клиенти в договори по проект
               href: pro/sales/manage-multiple-customers-contract-sales.md
             - name: Ценови листи по проект в договори по проект
               href: sales/contracts-manage-project-price-lists.md
@@ -814,21 +822,21 @@
                   href: pro/sales/cost-product-based-contract-lines-sales.md
                 - name: Управление на сложни единици за базирани на продукт аспекти на договор
                   href: pro/sales/manage-complex-units-product-based-contract-lines-sales.md
-            - name: Базирани на проект аспекти на договор
+            - name: Аспекти на договори за проект
               items:
-                - name: Общ преглед на базирани на проект аспекти на договор
+                - name: Общ преглед на аспекти на договор за проект
                   href: pro/sales/manage-contract-values-project-based-sales.md
-                - name: Управление на множество клиенти за договор
+                - name: Управление на множество клиенти в договори по проект
                   href: pro/sales/manage-multiple-customers-contract-line-sales.md
-                - name: Нанасяне на проекти и задачи в аспекти на договор по проект
+                - name: Нанасяне на проекти и задачи в аспект на договор за проект
                   href: pro/sales/mapping-projects-tasks-contract-line-sales.md
-                - name: Конфигуриране на платими компоненти в аспекти на договор по проект
+                - name: Конфигуриране на платими компоненти в аспекти на договор за проект
                   href: pro/sales/configure-chargeable-components-contract-line.md
-                - name: Прогнозиране на базирани на проект аспекти на договор
+                - name: Оценяване на аспекти на договор за проект
                   href: pro/sales/create-estimate-project-contract-line-sales.md
-                - name: Импортиране на прогнозни данни от проект в аспекти на договор по проект
+                - name: Импортиране на прогнозни данни от проект в аспекти на договор за проект
                   href: pro/sales/import-estimate-project-contract-line-sales.md
-                - name: Управление на графици на фактури по аспекти на договор по проект
+                - name: Създаване на графици на фактури по аспекти на договор за проект
                   href: pro/sales/invoice-schedules-contract-line-sales.md
             - name: Копиране на договори по проект
               href: pro/sales/copy-project-contracts-sales.md
@@ -836,11 +844,11 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Суми за аванси и капаро
               items:
-                - name: Базирани на авансови плащания и капаро договори – олекотени
+                - name: Базирани на авансови плащания и капаро договори
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Настройване на график на сума за капаро – олекотено
+                - name: Настройка на график за капароНастройка на график за капаро
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: Създаване на специално авансово плащане по договор – олекотено
+                - name: Създаване на специално авансово плащане по договор по проект
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: Ценообразуване и разходи
       items:
@@ -1184,14 +1192,16 @@
               href: prod-pma/project-tasks-template.md
         - name: Внедряване на среди
           items:
-            - name: Актуализирайте Project Operations във вашата финансова среда
+            - name: Актуализирайте Project Operations във вашата среда на Finance
               href: whats-new/ur5-nonstocked-installation.md
     - name: Какво е новото
       items:
-        - name: 'Нововъведения от септември 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
-          href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
+        - name: 'Нововъведения от октомври 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
+          href: prod-pma/whats-new/whats-new-oct-2022-stocked.md
         - name: Архив
           items:
+            - name: 'Нововъведения от септември 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
+              href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
             - name: 'Нововъведения от юли 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
               href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
             - name: 'Нововъведения от юни 2022 г. – Project Operations за сценарии, базирани на наличност/производство'
@@ -1216,8 +1226,12 @@
               href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
     - name: 'Общ преглед на внедряване на Project Operations за сценарии, базирани на наличност/производство'
       href: prod-pma/project-operations-prod-order-deployment-overview.md
-    - name: Общ преглед на управление и счетоводство на проекти
-      href: prod-pma/overview-project-management-accounting.md
+    - name: Счетоводство на проект
+      items:
+        - name: Общ преглед на управление и счетоводство на проекти
+          href: prod-pma/overview-project-management-accounting.md
+        - name: Корекции на проекти
+          href: project-accounting/project-adjustments.md
     - name: Процес на продажби по проект
       items:
         - name: Оферти за проект
