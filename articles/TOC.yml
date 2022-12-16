@@ -844,9 +844,9 @@
               href: pro/sales/confirm-contract-sales.md
             - name: Суми за аванси и капаро
               items:
-                - name: Базирани на авансови плащания и капаро договори
+                - name: 'Договори, включващи аванси и капаро'
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Настройка на график за капароНастройка на график за капаро
+                - name: Настройка на график за капаро
                   href: pro/sales/set-up-schedule-retainers-sales.md
                 - name: Създаване на специално авансово плащане по договор по проект
                   href: pro/sales/create-ad-hoc-advance-sales.md
